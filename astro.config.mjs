@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://judaicadh.github.io',
+	base: 'legacyexhibits',
 	integrations: [
 		starlight({
 			title: 'Exhibits',
