@@ -1,11 +1,11 @@
 ---
 title: "Tradition and Its Discontents"
 description: "This exhibition considers Eastern Europe as home to the greatest living reservoir of Jewish civilization in the world for over three centuries and how it served as the location for key religious, intellectual, artistic, and political currents that shaped Jewish life across the modern period."
-date: 2002 – 2003
+date: "2002–2003"
 hero:
-  title: 'Tradition and Its Discontents'
-  tagline: "Jewish History and Culture in Eastern Europe"
- 
+  title: "Tradition and Its Discontents: Jewish History and Culture in Eastern Europe"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
+Judaic Studies 2002-2003 Fellows at the University of Pennsylvania"
 slug: "tradition-and-its-discontents"
 tableOfContents:
   minHeadingLevel: 2
