@@ -4,7 +4,7 @@ descriptions:
 date: "2003"
 hero:
   title: "The Meaning of Words: Marcus Jastrow and the Making of Rabbinic Dictionaries"
-  tagline:
+  tagline: "test"
 slug: "the-meaning-of-words"
 tableOfContents:
   minHeadingLevel: 2
