@@ -6,7 +6,7 @@ hero:
   title: "Hebraica Veritas?"
   tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 1999-2001 Fellows at the University of Pennsylvania"
   image:
-    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/veritas-index.jpg"
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/veritas-index.jpg"
 slug: "hebraica-vertias"
 tableOfContents:
   minHeadingLevel: 2

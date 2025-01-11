@@ -7,7 +7,7 @@ hero:
   tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2002-2003 Fellows at the University of Pennsylvania"
   image:
     alt: "Tradition and Its Discontents"
-    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/tradition-discontents.png"
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/tradition-discontents.png"
 slug: "tradition-and-its-discontents"
 tableOfContents:
   minHeadingLevel: 2

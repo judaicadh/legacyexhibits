@@ -6,7 +6,7 @@ hero:
   title: "Tablet, Scroll, & Book"
   tagline: "Judaic Treasures"
   image:
-    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/oldest-haggadah.jpg"
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/oldest-haggadah.jpg"
     alt: "Tablet, Scroll, & Book"
 slug: "tablet-scroll"
 tableOfContents:

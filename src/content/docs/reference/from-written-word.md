@@ -9,9 +9,15 @@ hero:
   title: From Written to Printed Text
   tagline: Transmission of Jewish Tradition
   image:
+<<<<<<< Updated upstream
     file: /assets/Penn Libraries Online Exhibits _ Penn Libraries/oldest-haggadah.jpg
     alt: From Written to Printed Text
 slug: from-written-word
+=======
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/van-bashuysen.png"
+    alt: "From Written to Printed Text"
+slug: "from-written-word"
+>>>>>>> Stashed changes
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 4

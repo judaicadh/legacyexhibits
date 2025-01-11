@@ -7,7 +7,7 @@ hero:
   tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2007-2006 Fellows at the University of Pennsylvania"
   image:
     alt: "Jewish & Other Imperial Cultures in Late Antiquity"
-    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/jewish-other-imperial.jpg"
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/jewish-other-imperial.jpg"
 slug: "jewish-other-imperial-cultures-in-late-antiquity"
 tableOfContents:
   minHeadingLevel: 2

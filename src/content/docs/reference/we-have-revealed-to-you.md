@@ -11,9 +11,15 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2001-2002 Fellows at the University of Pennsylvania
   image:
+<<<<<<< Updated upstream
     file: /assets/Penn Libraries Online Exhibits _ Penn Libraries/scriptorium.png
     alt: We have Revealed to You
 slug: we-have-revealed-to-you
+=======
+    alt: "We have Revealed to You"
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/scriptorium.png"
+slug: "we-have-revealed-to-you"
+>>>>>>> Stashed changes
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 3
