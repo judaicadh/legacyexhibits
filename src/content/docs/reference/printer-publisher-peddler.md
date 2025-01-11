@@ -5,7 +5,7 @@ date: "2008"
 hero:
   title: "Printer, Publisher, Peddler"
   tagline: "The Business of the Jewish Book"
-  image: /assets/ppp-asc.png
+  image: "/assets/ppp-asc.png"
 slug: "printer-publisher-peddler"
 tableOfContents:
   minHeadingLevel: 2
