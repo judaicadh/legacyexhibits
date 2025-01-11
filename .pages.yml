@@ -1,7 +1,7 @@
 media:
   input: src/assets
-  output: /assets
-  path: src/assets/images
+  output: src/public
+  path: src/assets
   extensions:
     - jpg
     - png
@@ -49,6 +49,7 @@ content:
               - name: "file"
                 label: "Image Source"
                 type: "image"
+                list: true
                 options:
                   upload_dir: src/assets"  # Your image directory
                   extensions: [jpg, jpeg, png]
