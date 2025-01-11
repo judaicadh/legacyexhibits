@@ -8,8 +8,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2000-2001 Fellows at the University of Pennsylvania
   image:
-    file: /assets/Penn Libraries Online Exhibits _ Penn
-      Libraries/modern-jewry-arts.png
+    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/modern-jewry-arts.png"
     alt: Modern Jewry and the Arts
 slug: modern-jewry-and-the-arts
 tableOfContents:
