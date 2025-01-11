@@ -82,6 +82,6 @@ content:
             type: "string"
             description: "A URL to an embedded video (YouTube, Vimeo, etc.)."
       - name: "body"
-        label: "Body"
-        type: "rich-text"
-        description: "The main content of the exhibit, written in Markdown."
+        label: "Page Body"
+        type: "rich-text"  # or use "rich-text" for WYSIWYG editor
+        description: "The main content of the exhibit."
