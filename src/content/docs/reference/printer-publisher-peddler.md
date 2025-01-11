@@ -5,7 +5,8 @@ date: "2008"
 hero:
   title: "Printer, Publisher, Peddler"
   tagline: "The Business of the Jewish Book"
-  image: "/assets/ppp-asc.png"
+  image:
+    file: "assets/ppp-asc.png"
 slug: "printer-publisher-peddler"
 tableOfContents:
   minHeadingLevel: 2
@@ -14,7 +15,7 @@ template: doc
 ---
 ## Introduction
 
-![](/assets/cajs_eph_04_body0001.jpg)
+![]("/assets/cajs_eph_04_body0001.jpg")
 
 Book production is a business as well as a craft, a trade and an art form. Since the invention of moveable type in the fifteenth century, Jews as well as non-Jews have been engaged in the printing and sale of a surprisingly diverse array of editions of Judaica. This exhibition offers a small sampling of that vast panoply of creativity, based on the University of Pennsylvania’s distinguished library collections at the Center for Advanced Judaic Studies and at the Walter and Lenore Annenberg Rare Book and Manuscript Library. The materials selected highlight not only the production but also the consumption side of the business of the Jewish book: who bought and sold printed Judaica. In this exhibit, you will see in particular how these precious books came to be part of Penn’s library collections. Each item label explains from whom books were purchased or who donated specific treasures, and otherwise documents how Penn continues to develop one of world’s largest and most important Judaica collections.
 
