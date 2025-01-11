@@ -42,7 +42,7 @@ content:
           - name: "image"
             type: "image"
             options:
-              path: src/assets
+              path: ../../../assets
               extensions: [ jpg, jpeg, png ]
           - name: "tagline"
             label: "Tagline"
