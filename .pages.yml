@@ -46,7 +46,7 @@ content:
             label: "Hero Image"
             type: "object"
             fields:
-              - name: "src"
+              - name: "file"
                 label: "Image Source"
                 type: "image"
                 options:
