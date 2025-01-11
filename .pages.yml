@@ -2,7 +2,7 @@ content:
   - name: references
     label: "Exhibits"
     type: collection
-    path: "src/content/docs/reference"
+    path: "src/content/reference"
     icon: "book"
     filename: "{slug}.md"
     format: "yaml-frontmatter"
@@ -21,7 +21,7 @@ content:
         type: "date"
       - name: "hero"
         label: "Hero Section"
-        type: "group"
+        type: "object"
         fields:
           - name: "title"
             label: "Hero Title"
@@ -36,7 +36,7 @@ content:
         description: "The URL path for this exhibit page."
       - name: "tableOfContents"
         label: "Table of Contents"
-        type: "group"
+        type: "object"
         fields:
           - name: "minHeadingLevel"
             label: "Minimum Heading Level"
@@ -53,11 +53,6 @@ content:
         description: "Defines the template type for rendering this page."
       - name: "content"
         label: "Page Content"
-        type: "markdown"
+        type: "string"
         description: "The main content of the exhibit, written in Markdown."
-    view:
-      primary: "title"
-      sortable: ["title", "date"]
-      searchable: ["title", "description"]
-      default_sort: { key: "title", order: "asc" }
-    subfolders: false
+ 
