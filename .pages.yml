@@ -40,9 +40,11 @@ content:
             label: "Hero Title"
             type: "string"
           - name: "image"
-            type: "image"
+            label: "Hero Image"
+            type: "image"  # Change this to "image"
             options:
-              path: ../../../assets
+            options:
+              upload_dir: "src/assets"  # Path to where images are uploaded
               extensions: [ jpg, jpeg, png ]
           - name: "tagline"
             label: "Tagline"
