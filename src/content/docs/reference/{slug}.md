@@ -1,6 +1,7 @@
 ---
 title: "Printer, Publisher, Peddler: The Business of the Jewish Book"
 hero:
+  title: "Printer, Publisher, Peddler: The Business of the Jewish Book"
   image: /assets/ppp-asc.png
 slug: printer-publisher-peddler
 tableOfContents:
