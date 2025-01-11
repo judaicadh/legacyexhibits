@@ -1,3 +1,15 @@
+media:
+  input: src/assets
+  output: /assets
+  path: src/assets/images
+  extensions:
+    - jpg
+    - png
+    - gif
+    - svg
+    - md
+    - pdf
+    - docx
 content:
   - name: references
     label: "Exhibits"
