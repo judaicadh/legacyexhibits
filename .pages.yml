@@ -1,6 +1,6 @@
-# CMS Configuration for Starlight Astro
+# CMS Configuration for Starlight Astro Exhibits
 collections:
-  # References collection for exhibits
+  # Collection for exhibits under references
   references:
     label: "Exhibits"
     path: "src/content/reference/{slug}.md"
@@ -13,21 +13,45 @@ collections:
         label: "Description"
         type: "text"
         description: "A short summary of the exhibit for SEO and previews."
+      - name: "date"
+        label: "Publication Date"
+        type: "date"
+        required: false
       - name: "slug"
         label: "Slug"
         type: "string"
-        description: "The URL path for this exhibit page."
         required: true
-      - name: "draft"
-        label: "Draft"
-        type: "boolean"
-        default: false
-        description: "Mark as draft to hide in production."
-      - name: "order"
-        label: "Order"
-        type: "number"
-        description: "The order in the sidebar (optional)."
+        description: "The URL path for this exhibit page."
+      - name: "hero"
+        label: "Hero Section"
+        type: "group"
+        fields:
+          - name: "title"
+            label: "Hero Title"
+            type: "string"
+          - name: "tagline"
+            label: "Tagline"
+            type: "string"
+            required: false
+      - name: "tableOfContents"
+        label: "Table of Contents"
+        type: "group"
+        description: "Configure TOC heading levels."
+        fields:
+          - name: "minHeadingLevel"
+            label: "Minimum Heading Level"
+            type: "number"
+            default: 2
+          - name: "maxHeadingLevel"
+            label: "Maximum Heading Level"
+            type: "number"
+            default: 5
+      - name: "template"
+        label: "Template"
+        type: "string"
+        default: "doc"
+        description: "Defines the template type for rendering this page."
       - name: "content"
         label: "Page Content"
         type: "markdown"
-        description: "The main content of the exhibit."
+        description: "The main content of the exhibit page, written in markdown."
