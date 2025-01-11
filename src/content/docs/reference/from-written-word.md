@@ -6,8 +6,8 @@ hero:
   title: "From Written to Printed Text"
   tagline: "Transmission of Jewish Tradition"
   image:
+    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/van-bashuysen.jpg"
     alt: "From Written to Printed Text"
-    file: 
 slug: "from-written-word"
 tableOfContents:
   minHeadingLevel: 2
