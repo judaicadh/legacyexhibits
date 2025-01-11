@@ -10,6 +10,7 @@ hero:
   image:
     file: /assets/Penn Libraries Online Exhibits _ Penn
       Libraries/modern-jewry-arts.png
+    alt: Modern Jewry and the Arts
 slug: modern-jewry-and-the-arts
 tableOfContents:
   minHeadingLevel: 2
