@@ -1,6 +1,6 @@
 ---
 title: "The Meaning of Words: Marcus Jastrow and the Making of Rabbinic Dictionaries"
-descriptions: 
+description: "THE FALL OF 2003 marked the 100th anniversary of the publication of the first major English-language dictionary of rabbinic literature: A Dictionary of the Targumim, the Talmud Babli, and Yerushalmi, and the Midrashic Literature … With an Index of Scriptural Quotations, compiled by Marcus Jastrow, a Philadelphia rabbi and a University of Pennsylvania honorary Doctor of Literature. Jastrow dedicated his dictionary to his wife Bertha Wolfsohn, with whom he had seven children, including their son Morris Jastrow, one of the founders of Religious Studies in the United States, professor of ancient Semitic languages and Penn’s University Librarian from 1898 until his death in 1921. Marcus Jastrow died in Germantown, Pennsylvania on October 13, 1903. This exhibit at Penn fittingly celebrates the anniversary of Jastrow’s dictionary and honors the centenary of its creator for his contributions to the distinguished tradition of rabbinic learning and lexicography."
 date: "2003"
 hero:
   title: "The Meaning of Words: Marcus Jastrow and the Making of Rabbinic Dictionaries"
@@ -9,7 +9,7 @@ slug: "the-meaning-of-words"
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 3
-template: doc
+template: "doc"
 ---
 
 ## Home

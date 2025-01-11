@@ -11,7 +11,6 @@ tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 3
 template: doc
-
 ---
 ## Introduction
 
