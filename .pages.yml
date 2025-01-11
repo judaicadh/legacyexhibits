@@ -44,7 +44,7 @@ content:
             type: "image"  # Change this to "image"
             options:
             options:
-              upload_dir: "src/assets"  # Path to where images are uploaded
+              file: "src/assets"  # Path to where images are uploaded
               extensions: [ jpg, jpeg, png ]
           - name: "tagline"
             label: "Tagline"
