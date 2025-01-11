@@ -1,0 +1,66 @@
+# CMS Configuration for Starlight Astro Documentation Site
+collections:
+  # Documentation pages collection
+  docs:
+    label: "Documentation Pages"
+    path: "src/content/docs/{slug}.md"
+    fields:
+      - name: "title"
+        label: "Page Title"
+        type: "string"
+        required: true
+      - name: "description"
+        label: "Short Description"
+        type: "string"
+        description: "A brief summary of the page content."
+      - name: "slug"
+        label: "Slug"
+        type: "string"
+        description: "The URL path for this page."
+        required: true
+      - name: "draft"
+        label: "Draft"
+        type: "boolean"
+        default: false
+        description: "Mark as draft to exclude from production builds."
+      - name: "sidebar"
+        label: "Sidebar Group"
+        type: "string"
+        description: "Which sidebar category this page belongs to."
+      - name: "order"
+        label: "Order"
+        type: "number"
+        description: "The position of this page within the sidebar group."
+      - name: "content"
+        label: "Page Content"
+        type: "markdown"
+        description: "The main content of the documentation page."
+
+  # References collection
+  references:
+    label: "References"
+    path: "src/content/references/{slug}.md"
+    fields:
+      - name: "title"
+        label: "Reference Title"
+        type: "string"
+        required: true
+      - name: "description"
+        label: "Description"
+        type: "text"
+      - name: "url"
+        label: "URL"
+        type: "string"
+        description: "External or internal reference link."
+      - name: "author"
+        label: "Author"
+        type: "string"
+      - name: "published_date"
+        label: "Published Date"
+        type: "date"
+      - name: "tags"
+        label: "Tags"
+        type: "list"
+        of:
+          type: "string"
+        description: "Keywords for filtering or categorizing references."
