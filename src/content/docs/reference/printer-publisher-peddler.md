@@ -6,6 +6,7 @@ hero:
   title: "Printer, Publisher, Peddler"
   tagline: "The Business of the Jewish Book"
   image:
+    alt:  "Printer, Publisher, Peddler"
     file: "../../../assets/printerpub/ppp-asc.png"
 slug: "printer-publisher-peddler"
 tableOfContents:
