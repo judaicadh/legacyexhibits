@@ -17,7 +17,7 @@ content:
     type: collection
     path: "src/content/docs"
     icon: "book"
-    filename: "{slug}.md"
+    filename: "{fields.slug}.md"
     format: "yaml-frontmatter"
     exclude: [README.md]
     fields:
