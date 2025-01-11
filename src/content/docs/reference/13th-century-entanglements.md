@@ -6,7 +6,7 @@ date: 2012-2013
 hero:
   title: "13th Century Entanglements: Judaism, Christianity & Islam"
   image: 
-    file: /assets/13th Century/entanglements-ascender2.png
+    file: ../../../assets/13th Century/entanglements-ascender2.png
     alt: "13th Century Entanglements"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2012-2013 Fellows at the University of Pennsylvania
