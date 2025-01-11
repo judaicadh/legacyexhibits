@@ -1,9 +1,12 @@
-# CMS Configuration for Starlight Astro Exhibits
-collections:
-  # Collection for exhibits under references
-  references:
+content:
+  - name: references
     label: "Exhibits"
-    path: "src/content/reference/{slug}.md"
+    type: collection
+    path: "src/content/reference"
+    icon: "book"
+    filename: "{slug}.md"
+    format: "yaml-frontmatter"
+    exclude: [README.md]
     fields:
       - name: "title"
         label: "Exhibit Title"
@@ -16,12 +19,6 @@ collections:
       - name: "date"
         label: "Publication Date"
         type: "date"
-        required: false
-      - name: "slug"
-        label: "Slug"
-        type: "string"
-        required: true
-        description: "The URL path for this exhibit page."
       - name: "hero"
         label: "Hero Section"
         type: "group"
@@ -32,11 +29,14 @@ collections:
           - name: "tagline"
             label: "Tagline"
             type: "string"
-            required: false
+      - name: "slug"
+        label: "Slug"
+        type: "string"
+        required: true
+        description: "The URL path for this exhibit page."
       - name: "tableOfContents"
         label: "Table of Contents"
         type: "group"
-        description: "Configure TOC heading levels."
         fields:
           - name: "minHeadingLevel"
             label: "Minimum Heading Level"
@@ -45,7 +45,7 @@ collections:
           - name: "maxHeadingLevel"
             label: "Maximum Heading Level"
             type: "number"
-            default: 5
+            default: 3
       - name: "template"
         label: "Template"
         type: "string"
@@ -54,4 +54,10 @@ collections:
       - name: "content"
         label: "Page Content"
         type: "markdown"
-        description: "The main content of the exhibit page, written in markdown."
+        description: "The main content of the exhibit, written in Markdown."
+    view:
+      primary: "title"
+      sortable: ["title", "date"]
+      searchable: ["title", "description"]
+      default_sort: { key: "title", order: "asc" }
+    subfolders: false
