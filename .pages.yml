@@ -46,7 +46,7 @@ content:
               extensions: [ jpg, jpeg, png ]
           - name: "tagline"
             label: "Tagline"
-            type: "string"
+            type: "text"
       - name: "slug"
         label: "Slug"
         type: "string"
