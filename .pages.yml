@@ -63,8 +63,8 @@ content:
         type: "string"
         default: "doc"
         description: "Defines the template type for rendering this page."
-      - name: "content"
-        label: "Page Content"
-        type: "string"
+      - name: body
+        label: Body
+        type: rich-text
         description: "The main content of the exhibit, written in Markdown."
  
