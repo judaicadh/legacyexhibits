@@ -2,7 +2,7 @@ content:
   - name: references
     label: "Exhibits"
     type: collection
-    path: "src/content/reference"
+    path: "src/content/docs/reference"
     icon: "book"
     filename: "{slug}.md"
     format: "yaml-frontmatter"
