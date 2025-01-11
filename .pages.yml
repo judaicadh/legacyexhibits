@@ -69,10 +69,10 @@ content:
         type: "string"
         default: "doc"
         description: "Defines the template type for rendering this page."
- 
       - name: "body"
         label: "Page Body"
         type: "rich-text"  # or use "rich-text" for WYSIWYG editor
         options: 
           format: markdown
+ 
         
