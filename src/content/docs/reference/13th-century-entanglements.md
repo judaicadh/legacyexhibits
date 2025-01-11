@@ -8,7 +8,9 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2012-2013 Fellows at the University of Pennsylvania
   image:
-    file: /assets/Penn Libraries Online Exhibits _ Penn Libraries/13th-century.png
+    file:
+      - src/public/Penn Libraries Online Exhibits _ Penn
+        Libraries/13th-century.png
     alt: 13th Century Entanglements
 slug: 13th-century-entanglements
 tableOfContents:
