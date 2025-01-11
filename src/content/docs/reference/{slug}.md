@@ -1,5 +1,7 @@
 ---
 title: "Printer, Publisher, Peddler: The Business of the Jewish Book"
+hero:
+  image: /assets/ppp-asc.png
 slug: printer-publisher-peddler
 tableOfContents:
   minHeadingLevel: 2
@@ -8,11 +10,33 @@ template: doc
 ---
 ## Introduction
 
+![](/assets/cajs_eph_04_body0001.jpg)
+
+Book production is a business as well as a craft, a trade and an art form. Since the invention of moveable type in the fifteenth century, Jews as well as non-Jews have been engaged in the printing and sale of a surprisingly diverse array of editions of Judaica. This exhibition offers a small sampling of that vast panoply of creativity, based on the University of Pennsylvania’s distinguished library collections at the Center for Advanced Judaic Studies and at the Walter and Lenore Annenberg Rare Book and Manuscript Library. The materials selected highlight not only the production but also the consumption side of the business of the Jewish book: who bought and sold printed Judaica. In this exhibit, you will see in particular how these precious books came to be part of Penn’s library collections. Each item label explains from whom books were purchased or who donated specific treasures, and otherwise documents how Penn continues to develop one of world’s largest and most important Judaica collections.
+
+Arthur Kiron
+
 ## Exhibit
 
 ### Printer
 
+The earliest printed books in the west, such as the Gutenberg Bible, were printed in Latin letters during the mid-15th century. By 1469, the first books printed in the Hebrew alphabet were issuing from Jewish-owned presses in Rome. Craftsmen and women -- among the first generation of Hebrew printers notably was a woman named Estellina Conat -- took pride and pleasure in what they called in Hebrew “a holy craft.” By the end of the era of incunabula (the years before 1501 known as the “cradle of printing”), approximately 140 books printed in Hebrew had appeared. Notably, when Jewish printers adopted this new technology of communication they did not limit their efforts to printing works of a strictly religious character. In addition to traditional Biblical, liturgical and talmudic texts and commentaries were philosophical and ethical treatises, legal codes, lexicographical tools, calendars and astronomical tables, illustrated fables, as well as works of grammar, rhetoric, history, and poetry. This taste for the humanities did not always meet with approval. A poetic narrative by Imanuel ben Solomon of Rome, for example, printed in the Italian city of Brescia by Solomon Soncino in 1490, subsequently was put under a ban by some rabbinic authorities for its erotic content. Twice printed by 1535, a new edition would not appear for another two hundred sixty years.
+
+The first printing presses in any alphabet were established in North Africa and the Ottoman Empire by Jewish refugees from the Spanish Expulsion Decree of 1492. During the sixteenth century, as Jews fled across the Mediterranean in search of safe haven, some also took their Hebrew type with them. Though temporarily disrupted, the production and purchase of Hebrew books did not diminish. By the end of the 16th century, the number of Hebrew editions in circulation grew to nearly 2,700. At the same time, the first families of Jewish printers began to face stiff competition from large printing firms, some of the most famous of which, such as Bomberg, Bragadini, Giustiniani, and De Gara, were owned and controlled by Christians. Indeed, the market for Hebrew books was not restricted to Jewish readers but also attracted Christian scholars of Hebrew literature, or Christian Hebraists as they are called.
+
+#### [A. In the Cradle of Printing: Incunabula](https://web.archive.org/web/20200901160440mp_/https://www.library.upenn.edu/collections/online-exhibits/printer-publisher-peddler/cradle-printing-incunabula?item=0)
+
+The business of early Hebrew printing was a family affair. Estellina Conat, Abraham’s wife, is the first woman known to have worked as a Hebrew printer. The beautiful, rounded Hebrew typography cut by Abraham Conat to print this work of Jewish philosophy was modeled on the letter shapes characteristic of Italian Jewish scribes.
+
+<figure> The Soncino family was the most famous and prolific of all early Jewish printing families. This particular edition, a medieval ethical treatise, visually conveys the technological transition from manuscript to printed communication and the dispersion of Jewish printers during this era. The main text is printed by Joshua Soncino in unvocalized square Hebrew letters, while the commentary to the text is printed in semi-cursive letter shapes, based on a Sephardic scribal hand. The handwritten commentary, meanwhile, reflects a semi-cursive Italianate Hebrew (unidentified) scribal hand. Joshua Soncino was the first to print a Hebrew Bible with Masoretic vocalization and the first to print a tractate of the Talmud (_Berakhot_ or “Blessings”). </figure>
+
+fig. 2: Though woodblock, rather than moveable type, found here are the earliest specimens of Hebrew type to appear in a Christian book printed in the era of incunabula.
+
+fig. 3: Though woodblock, rather than moveable type, found here are the earliest specimens of Hebrew type to appear in a Christian book printed in the era of incunabula.
+
 ### Publisher
+
+#### Section A.
 
 ### Peddler
 
