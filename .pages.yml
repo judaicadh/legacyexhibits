@@ -39,15 +39,22 @@ content:
           - name: "title"
             label: "Hero Title"
             type: "string"
-          - name: "image"
-            label: "Hero Image"
-            type: "image"  # Change this to "image"
-            options:
-              file: "src/assets"  # Path to where images are uploaded
-              extensions: [ jpg, jpeg, png ]
           - name: "tagline"
             label: "Tagline"
-            type: "text"
+            type: "string"
+          - name: "image"
+            label: "Hero Image"
+            type: "object"
+            fields:
+              - name: "src"
+                label: "Image Source"
+                type: "image"
+                options:
+                  upload_dir: "src/assets"  # Your image directory
+                  extensions: [jpg, jpeg, png]
+              - name: "alt"
+                label: "Alternative Text"
+                type: "string"
       - name: "slug"
         label: "Slug"
         type: "string"
