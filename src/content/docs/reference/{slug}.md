@@ -17,6 +17,8 @@ Book production is a business as well as a craft, a trade and an art form. Since
 
 Arthur Kiron
 
+Arthur Kiron, exhibition curator; Andrea Gottschalk, exhibition designer.
+
 ## Exhibit
 
 ### Printer
@@ -29,11 +31,59 @@ The first printing presses in any alphabet were established in North Africa and 
 
 The business of early Hebrew printing was a family affair. Estellina Conat, Abraham’s wife, is the first woman known to have worked as a Hebrew printer. The beautiful, rounded Hebrew typography cut by Abraham Conat to print this work of Jewish philosophy was modeled on the letter shapes characteristic of Italian Jewish scribes.
 
-<figure> The Soncino family was the most famous and prolific of all early Jewish printing families. This particular edition, a medieval ethical treatise, visually conveys the technological transition from manuscript to printed communication and the dispersion of Jewish printers during this era. The main text is printed by Joshua Soncino in unvocalized square Hebrew letters, while the commentary to the text is printed in semi-cursive letter shapes, based on a Sephardic scribal hand. The handwritten commentary, meanwhile, reflects a semi-cursive Italianate Hebrew (unidentified) scribal hand. Joshua Soncino was the first to print a Hebrew Bible with Masoretic vocalization and the first to print a tractate of the Talmud (_Berakhot_ or “Blessings”). </figure>
+<figure>
+
+![](/assets/soncino-comp.jpg)
+
+The Soncino family was the most famous and prolific of all early Jewish printing families. This particular edition, a medieval ethical treatise, visually conveys the technological transition from manuscript to printed communication and the dispersion of Jewish printers during this era. The main text is printed by Joshua Soncino in unvocalized square Hebrew letters, while the commentary to the text is printed in semi-cursive letter shapes, based on a Sephardic scribal hand. The handwritten commentary, meanwhile, reflects a semi-cursive Italianate Hebrew (unidentified) scribal hand. Joshua Soncino was the first to print a Hebrew Bible with Masoretic vocalization and the first to print a tractate of the Talmud (_Berakhot_ or “Blessings”). </figure>
 
 fig. 2: Though woodblock, rather than moveable type, found here are the earliest specimens of Hebrew type to appear in a Christian book printed in the era of incunabula.
 
+![](/assets/bt230_s393_1475.jpg)
+
 fig. 3: Though woodblock, rather than moveable type, found here are the earliest specimens of Hebrew type to appear in a Christian book printed in the era of incunabula.
+
+### [B. The Dispersion of Hebrew Printers during the 16th and 17th Centuries](https://web.archive.org/web/20200901160440mp_/https://www.library.upenn.edu/collections/online-exhibits/printer-publisher-peddler/dispersion-hebrew-printers-during-16th-and?item=0)
+
+![](/assets/Bibliopola21.jpg)
+
+Image of Bookseller packing books to transport in a barrel. See Taubler, Bibliopola vol. 2, p. 21.
+
+![](/assets/Immanuel-ben-Solomon-comp.jpg)
+
+fig. 1: Imanuel of Rome’s poetic narrative, which contains sections deemed unacceptably erotic by rabbinic authorities, is the first printed Hebrew book to be banned by Jews themselves. This second edition, printed in 1535 by Eliezer Soncino, whose family had re-established their business in Istanbul ( Constantinople or “Kushtantina” as it states in Hebrew on the title page), is the last edition of this work to appear until 1796, when it was re-published under the sway of the Jewish Enlightenment movement (haskalah).
+
+![](/assets/Shem-Tob-Ibn-Shem-Tob-comp.jpg)
+
+fig. 2: This printer was named Duarte Pinhel by the New Christian family of Portuguese Conversos into which he was born. When he arrived to Ferrara , he returned to Judaism and changed his name to Abraham Usque. His printer’s mark, an astrolabe with a streamer, inscribed with a Hebrew quotation from Psalm 130, verse 5: **קִוִּיתִי יְהוָה קִוְּתָה נַפְשִׁי וְלִדְבָרוֹ הוֹחָלְתִּי׃**  \["I wait for the LORD, my soul doth wait, and in His word do I hope.”\] has been adopted as the logo for Penn’s Judaica collection as a symbol that combines particularism and universalism.
+
+![](/assets/bm499_1520.jpg)
+
+fig. 3: The most important Christian printer of Hebrew books during the sixteenth-century was Daniel Bomberg. His editions of the Hebrew Bible with commentaries, liturgical works, and the Talmud, such as this rare printing of "Talmud Bavli 'Avodah Zarah" (the Babylonian Talmud tractate on idol worship), are prized for their high quality of paper, fine typography and distinctive glossed formatting which has been adopted and preserved by Jewish printers down to this day. Bomberg's edition of the Babylonian Talmud, forty-four tractates bound in twelve volumes and issued in Venice between 1520 and 1523, was the first complete set ever to appear in print. During the same period, his printing house also produced the first complete edition of the extant remains of the Talmud Yerushalmi ("Jerusalem Talmud").
+
+### [C. Printing New Perspectives](https://web.archive.org/web/20200901160440mp_/https://www.library.upenn.edu/collections/online-exhibits/printer-publisher-peddler/menasheh-ben-yisrael?item=0)
+
+![](/assets/Menasseh_ben_Israel_1.jpg)
+
+Rembrandt. Portrait of Menasseh ben Israel.
+
+![](/assets/title%20page%20sefer%20elim.jpg)
+
+fig. 1: If the Soncino family and the Bomberg printing firm dominated 15th and 16th century Hebrew printing, the outstanding entrepreneur of 17th century printing was undoubtedly Menasseh ben Israel, born to a Converso family, which returned to Judaism in Amsterdam where he established the first Hebrew printing press in the Dutch Protestant Netherlands in 1626. This first edition of Joseph Delmedigo’s account of the Copernican, heliocentric view of the cosmos, the first ever presented in Hebrew, is accompanied by intricate engravings of scientific experiments and astronomical calculations. (See figs. A-F)
+
+![](/assets/title%20evronot.jpg)
+
+fig. 2: Calendrical guides like this, printed by Israel ben Moses in the German city of Offenbach, at the printing house of Bonafentura de la noi, provided a means to determine the first day of each month of the Jewish lunar calendar (a prerequisite for observing Jewish ceremonial commandments). This rare edition contains an uncut “volvelle” or cylindrical chart and other wood-cut illustrations for computing the proper days. 
+
+### [D. Humanistic and Enlightened Jewish Printing](https://web.archive.org/web/20200901160440mp_/https://www.library.upenn.edu/collections/online-exhibits/printer-publisher-peddler/humanistic-and-enlightened-jewish-printing?item=0)
+
+![](/assets/socrate.jpg)
+
+fig. 1: In the middle of the seventeenth century and approximately one hundred years later, two works appeared, printed by non-Jews in Italian and German respectively, composed by two of the leading rabbinic leaders of their times, Simone Luzzatto and Moses Mendelssohn. Each took up the philosopher Plato’s account of the death of Socrates and his arguments about the existence of an afterlife. This first edition of the Venetian rabbi Luzzatto, though less well-known than Mendelssohn’s work, is no less beautifully produced. It features woodcut initial letters and an engraved head-piece depicting an insect emerging from its shell.
+
+![](/assets/P.jpg)
+
+fig. 2: Mendelssohn’s _Phaedon,_ for which he became known as the “Jewish Socrates,” was sold out within four months of its first printing. It was originally published in German and printed in Gothic letters by a non-Jewish bookseller named Nicolai, with the imprimatur of the ruling authorities. It was frequently reprinted and also translated into several languages, including Danish, Dutch, French, Italian and Russian.
 
 ### Publisher
 
