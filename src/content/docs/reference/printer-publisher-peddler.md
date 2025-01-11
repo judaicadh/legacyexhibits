@@ -3,9 +3,10 @@ title: "Printer, Publisher, Peddler: The Business of the Jewish Book"
 description: "This exhibition considers Eastern Europe as home to the greatest living reservoir of Jewish civilization in the world for over three centuries and how it served as the location for key religious, intellectual, artistic, and political currents that shaped Jewish life across the modern period."
 date: "2008"
 hero:
-  title: "Printer, Publisher, Peddler: The Business of the Jewish Book"
+  title: "Printer, Publisher, Peddler"
+  tagline: "The Business of the Jewish Book"
   image: /assets/ppp-asc.png
-slug: printer-publisher-peddler
+slug: "printer-publisher-peddler"
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 3
