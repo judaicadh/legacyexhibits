@@ -4,8 +4,7 @@ description: "This exhibition reexamines the formative period in Islamic history
 date: "2006-2007"
 hero:
   title: "Religious Communities in Islamic Empires"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2006-2007 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2006-2007 Fellows at the University of Pennsylvania"
 slug: "religious-communities-in-islamic-empires"
 tableOfContents:
   minHeadingLevel: 2

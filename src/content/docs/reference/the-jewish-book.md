@@ -4,8 +4,7 @@ description: "This exhibition investigates how the materiality and formatting of
 date: "2005-2006"
 hero:
   title: "The Jewish Book Material Texts and Comparative Contexts"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2005-2006 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2005-2006 Fellows at the University of Pennsylvania"
 slug: "the-jewish-book"
 tableOfContents:
   minHeadingLevel: 2

@@ -4,8 +4,7 @@ description: "The study of Jewish life in modern Islamic contexts during the 201
 date: "2018-2019"
 hero:
   title: "Jews in Modern Islamic Contexts"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2018-2019 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2018-2019 Fellows at the University of Pennsylvania"
 slug: "jews-in-modern-islamic-contexts"
 tableOfContents:
   minHeadingLevel: 2

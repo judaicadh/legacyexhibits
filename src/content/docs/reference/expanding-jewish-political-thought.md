@@ -4,8 +4,7 @@ description: "The 2016-17 Katz-Penn Libraries Web Exhibition brought together sc
 date: "2016-2017"
 hero:
   title: "Expanding Jewish Political Thought: Beneath, between, before, & beyond the state"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2016-2017 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2016-2017 Fellows at the University of Pennsylvania"
 slug: "expanding-jewish-political-thought"
 tableOfContents:
   minHeadingLevel: 2

@@ -4,8 +4,7 @@ description: "This exhibition considers Eastern Europe as home to the greatest l
 date: "2002–2003"
 hero:
   title: "Tradition and Its Discontents: Jewish History and Culture in Eastern Europe"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2002-2003 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2002-2003 Fellows at the University of Pennsylvania"
 slug: "tradition-and-its-discontents"
 tableOfContents:
   minHeadingLevel: 2

@@ -4,8 +4,7 @@ description: "This exhibition on Jewish Literatures in the Modern Age explores h
 date: "2004-2005"
 hero:
   title: "Modern Jewish Literatures: Language, Identity, Writing"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2004-2005 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2004-2005 Fellows at the University of Pennsylvania"
 slug: "modern-jewish-literatures"
 tableOfContents:
   minHeadingLevel: 2

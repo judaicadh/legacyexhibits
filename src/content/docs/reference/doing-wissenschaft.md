@@ -4,8 +4,7 @@ description: "This past year's Fellows explored critical questions about the way
 date: "2014-2015"
 hero:
   title: "Doing Wissenschaft: The Active Study of Judaism as Practice, 1818 - 2018"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2014-2015 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2014-2015 Fellows at the University of Pennsylvania"
 slug: "doing-wissenschaft"
 tableOfContents:
   minHeadingLevel: 2

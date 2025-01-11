@@ -4,8 +4,7 @@ description: "Focusing on the experiential, the sensual, as well as philosophica
 date: "2015-2016"
 hero:
   title: "Jews beyond Reason"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2015–2016 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2015–2016 Fellows at the University of Pennsylvania"
 slug: "jews-beyond-reason"
 tableOfContents:
   minHeadingLevel: 2

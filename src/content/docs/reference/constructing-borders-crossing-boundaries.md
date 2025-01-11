@@ -4,8 +4,7 @@ description: "Scholars came together in 2013-14 to bridge often disconnected are
 date: "2013-2014"
 hero:
   title: "Constructing Borders & Crossing Boundaries: Social, Cultural, & Religious Change in Early Modern Jewish History"
-  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced
-Judaic Studies 2013-2014 Fellows at the University of Pennsylvania"
+  tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2013-2014 Fellows at the University of Pennsylvania"
 slug: "constructing-borders-crossing-boundaries"
 tableOfContents:
   minHeadingLevel: 2
