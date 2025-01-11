@@ -10,6 +10,7 @@ media:
     - md
     - pdf
     - docx
+
 content:
   - name: references
     label: "Exhibits"
@@ -63,8 +64,24 @@ content:
         type: "string"
         default: "doc"
         description: "Defines the template type for rendering this page."
+      - name: "media"
+        label: "Media"
+        type: "object"
+        description: "Add media such as images, documents, or videos."
+        fields:
+          - name: "image"
+            label: "Main Image URL"
+            type: "string"
+            description: "The URL to the main exhibit image."
+          - name: "file"
+            label: "Downloadable File"
+            type: "string"
+            description: "The URL to a downloadable file (PDF, DOCX, etc.)."
+          - name: "video"
+            label: "Video Embed URL"
+            type: "string"
+            description: "A URL to an embedded video (YouTube, Vimeo, etc.)."
       - name: "body"
         label: "Body"
         type: "rich-text"
         description: "The main content of the exhibit, written in Markdown."
- 
