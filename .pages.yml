@@ -1,66 +1,33 @@
-# CMS Configuration for Starlight Astro Documentation Site
+# CMS Configuration for Starlight Astro
 collections:
-  # Documentation pages collection
-  docs:
-    label: "Documentation Pages"
-    path: "src/content/docs/{slug}.md"
-    fields:
-      - name: "title"
-        label: "Page Title"
-        type: "string"
-        required: true
-      - name: "description"
-        label: "Short Description"
-        type: "string"
-        description: "A brief summary of the page content."
-      - name: "slug"
-        label: "Slug"
-        type: "string"
-        description: "The URL path for this page."
-        required: true
-      - name: "draft"
-        label: "Draft"
-        type: "boolean"
-        default: false
-        description: "Mark as draft to exclude from production builds."
-      - name: "sidebar"
-        label: "Sidebar Group"
-        type: "string"
-        description: "Which sidebar category this page belongs to."
-      - name: "order"
-        label: "Order"
-        type: "number"
-        description: "The position of this page within the sidebar group."
-      - name: "content"
-        label: "Page Content"
-        type: "markdown"
-        description: "The main content of the documentation page."
-
-  # References collection
+  # References collection for exhibits
   references:
-    label: "References"
-    path: "src/content/references/{slug}.md"
+    label: "Exhibits"
+    path: "src/content/reference/{slug}.md"
     fields:
       - name: "title"
-        label: "Reference Title"
+        label: "Exhibit Title"
         type: "string"
         required: true
       - name: "description"
         label: "Description"
         type: "text"
-      - name: "url"
-        label: "URL"
+        description: "A short summary of the exhibit for SEO and previews."
+      - name: "slug"
+        label: "Slug"
         type: "string"
-        description: "External or internal reference link."
-      - name: "author"
-        label: "Author"
-        type: "string"
-      - name: "published_date"
-        label: "Published Date"
-        type: "date"
-      - name: "tags"
-        label: "Tags"
-        type: "list"
-        of:
-          type: "string"
-        description: "Keywords for filtering or categorizing references."
+        description: "The URL path for this exhibit page."
+        required: true
+      - name: "draft"
+        label: "Draft"
+        type: "boolean"
+        default: false
+        description: "Mark as draft to hide in production."
+      - name: "order"
+        label: "Order"
+        type: "number"
+        description: "The order in the sidebar (optional)."
+      - name: "content"
+        label: "Page Content"
+        type: "markdown"
+        description: "The main content of the exhibit."
