@@ -7,7 +7,7 @@ hero:
   tagline: "The Business of the Jewish Book"
   image:
     alt: "Printer, Publisher, Peddler"
-    file: "../../../assets/printerpub/ppp-asc.png"
+    file: "../../../assets/Penn Libraries Online Exhibits _ Penn Libraries/printer-peddler.png"
 slug: "printer-publisher-peddler"
 tableOfContents:
   minHeadingLevel: 2
