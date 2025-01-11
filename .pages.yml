@@ -43,7 +43,6 @@ content:
             label: "Hero Image"
             type: "image"  # Change this to "image"
             options:
-            options:
               file: "src/assets"  # Path to where images are uploaded
               extensions: [ jpg, jpeg, png ]
           - name: "tagline"
