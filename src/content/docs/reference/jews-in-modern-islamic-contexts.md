@@ -21,6 +21,8 @@ template: doc
 ---
 ## Introduction
 
+![](src/assets/Jews%20in%20Modern%20Islamic%20Contexts%20_%20Penn%20Libraries/nizri-collage.jpg)
+
 ## Exhibit
 
 ## Selected Bibliography
