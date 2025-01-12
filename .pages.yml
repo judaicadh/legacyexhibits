@@ -52,7 +52,7 @@ content:
                 list: true
                 options:
                   upload_dir: "src/assets"  # Your image directory
-                  extensions: [jpg, jpeg, png]
+                  extensions: [jpg, jpeg, png, svg]
               - name: "alt"
                 label: "Alternative Text"
                 type: "string"
