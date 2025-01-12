@@ -147,6 +147,8 @@ During the first half of the twentieth century, Jews living in Egypt flourished,
 
 Aviad Moreno
 
+![](../../../../src/assets/JewsinModernIslamicContexts/or-luz2.png)
+
 Throughout the first half of the 20th century the demographic gap between Jews and non-Jews in the Moroccan city of Tetuan dramatically increased. In 1913 about 4,000 Jews lived among approximately 11,000 Muslims and 3,000 Christian Europeans. By the year 1950, a similar number of Jews lived among 30,000 European and about 47,000 Muslims. The momentous demographic shift transformed moral codes of behaviours, among many other forms of change in Jewish local lifestyle.
 
 An unexpected indication is the demand for non-kosher foods, as appeared inside the communal periodical _Or-Luz_. It was an advertisement for “Bar Sevilla,” local to Tetuan, clearly stated that it specializes in prawns. The fact that the editors had agreed to publicize the restaurant, or that Bar Sevilla’s owners thought to appeal to Jewish audience through _Or-Luz_, implies that among local Jews in Tetuan, the custom of eating non-Kosher food outside of their homes was probably not a rare occurrence. The advertisement seems to have been met with ambiguity among Luz’s editors, as evidenced by their repeated decision to publish it upside-down. Apparently it is not a misprint, since the practice repeated itself in other issues. 1
@@ -154,6 +156,10 @@ An unexpected indication is the demand for non-kosher foods, as appeared inside 
 ### Exploring Moroccan Jewish Sociolinguistic Identities
 
 Yigal S. Nizri
+
+![](../../../../src/assets/JewsinModernIslamicContexts/Nizri-cover.jpg)
+
+![](../../../../src/assets/JewsinModernIslamicContexts/Nizri-page.jpg)
 
 A blend of historiography, hagiography, chronicle, and ethnography, the Hebrew book Ner Ha-ma'arav: Toledot Yisra’el be-Maroko ("Light of the West: A History of Jews in Morocco"), issued by Abraham Moses Luntz at his printing press in Jerusalem in 1911, helped to illuminate new ways of thinking historically about Maghribi (North African) Jewish history. The author, Ya’akov Moshe Toledano (1880-1960) was an Ottoman Palestinian-born Moroccan rabbinic scholar, historian, legislator and public figure.  In the introduction to his book he refers to himself as a "Man of Tiberius”; he also served as Chief Rabbi in cities like Tangier, Cairo, and Tel Aviv, and was actively engaged with European and North American Jewish intellectual movements of his time. 
 
@@ -164,6 +170,8 @@ The uniqueness of this description, in which Toledano uses language as a primary
 ### An Ottoman Hebrew Musical Testimony from Hebron (Ms. CAJS 436)
 
 Edwin Seroussi
+
+![](../../../../src/assets/JewsinModernIslamicContexts/Seroussi2.jpg)
 
 Payytanim, whether authors of religious poems (piyyutim; sing. piyyut) or their performers, maintained throughout the Islamic lands manuscript notebooks with the poetical repertoire they sang at synagogues as well as at community and family celebrations. At times, these manuscripts also included written musical terminology that functioned as an aide-mémoire for the singer. This terminology comprised names of Turkish or Arabic musical modes and occasionally rhythmic cycles as well as first lines of foreign songs whose melody applied to the piyyut following such indication. The word lahan (“tune”) usually preceded these melodic codes, meaning, “sing the following piyyut to the tune of this song.”
 
@@ -185,6 +193,8 @@ In fol. 46a we read “pizmonim she-ba’u mi-haleb” namely “songs that came
 
 Alon Tam
 
+![](../../../../src/assets/JewsinModernIslamicContexts/tam@2x.jpg)
+
 These are images of the cover and first page, handwritten in French, of the “Minutes of Cairo Lodge No. 687, B’nei B’rit, Cairo 1911-1912.” The _B’nei B’rit_ is one of the world’s oldest Jewish service organizations, which was established in 1843 in a Jewish coffeehouse in New York City, and its lodges in Egypt were among the first outside the United States. It was modelled after fraternities such as the _Free Masons_, which were popular in the 19<sup>th</sup> century; women’s lodges of the _B’nei B’rit_ were established in Cairo and Alexandria already in 1939. In Cairo, Lodge 687 was a Sephardi one, established in 1911 after an older lodge, called Magen David, was closed down. An Ashkenazi lodge, called Maimonides, was established in Cairo in 1887. The membership of these Jewish fraternities was made up of the rising commercial and professional middle class in Egypt. They were preoccupied with extensive charity work and community building, as well as with reforming and modernizing the existing Jewish communal organizations, often in opposition to what they saw as a traditional, conservative, and elitist leadership. The _B’nei B’rit_ lodges were also concerned with Jewish cultural revival, advocating for Jewish causes in Egypt and around the world, and contending with the rise of Zionism. The minutes from the meetings of the _B’nei B’rit_ lodges are, therefore, crucial for understanding the social, organizational, and political history of the Jewish community in Egypt in the 20<sup>th</sup> century.
 
 The minutes of meetings from both lodge 687, and from the Maimonides lodge (for the years 1924-1928), are both part of Penn’s newly acquired microfilm copy of _The Jamie Lehmann Memorial Collection: Records of the Jewish Community of Cairo, 1886-1961_ at Yeshiva University Libraries. This extensive, albeit fragmented and incomplete, collection consists of account books, by-laws, case files, certificates, correspondence, legal documents, minutes, photographs and reports from various institutions of the Sephardic Jewish community in Cairo, and to a lesser extent, of the Ashkenazi community there as well. The most important institutions featured in this collection are the Jewish Community Council, the Chief Rabbinate, the various charity organizations, and the _B'nai B'rith_ lodges. This makes the Lehmann Collection the most extensive and important archival source that is freely accessible to researchers today about the post-Geniza social and political history of the Jewish community in Egypt.
@@ -193,6 +203,8 @@ The minutes of meetings from both lodge 687, and from the Maimonides lodge (for 
 
 Alan Verskin
 
+![](../../../../src/assets/JewsinModernIslamicContexts/HayyimHabshush_0.jpg)
+
 Hayyim Habshush was a prominent nineteenth-century Jewish scholar from Sanaa, Yemen. He is best known for authoring _A Vision of Yemen_, a book which both chronicles his travels across his country with the French orientalist Joseph Halevy in 1870 and describes the social and political life of the people they encounter, who are mostly Jews but also Muslims. Habshush was a pillar of the Sanaa Jewish community, with an abiding interest in those outside of it. He also maintained an interest in 19th-century European Jewish intellectual debates, and advocated strongly against mysticism and messianic movements among Yemeni Jews. A voracious reader, Habshush would reportedly station himself near the synagogue bookshelf, the better to sneak books to stave off boredom during services. Occasionally, he would even bring Islamic books with him to synagogue to the consternation of the congregation. In this photograph Habshush, dressed in his traveling clothes, poses with a copy of _Ha-Magid_, a European Jewish newspaper.
 
 At left, author’s photograph of original photograph in Habshush family collection.
@@ -200,6 +212,8 @@ At left, author’s photograph of original photograph in Habshush family collect
 ### Love in Yemen: Arabic Love Songs of Yemenite Jewish Women
 
 Mark Wagner
+
+![](../../../../src/assets/JewsinModernIslamicContexts/Wagner_0.jpg)
 
 Nissim Gamlieli was a Jew from a remote area of Yemen’s hinterlands where a lot of Jews lived in small isolated villages.  He became the librarian for Camp Hashid, a refugee camp jointly run by the British government in Aden and the Jewish Agency for the thousands of Jewish refugees who streamed into British Aden from the Yemeni interior in hopes of emigrating to Palestine.  In Israel he worked as a schoolteacher and published rich studies based on documents and interviews of Jews from his region, many of whom live in Ramla.
 
