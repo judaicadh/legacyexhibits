@@ -47,6 +47,8 @@ Salzmann, a native Philadelphian, donated his life's work to the Penn Libraries 
 
 Nancy E. Berg
 
+![](../../../../src/assets/JewsinModernIslamicContexts/Berg_%20JudaeoBaghdadi001.jpg)
+
 The only copies—one typescript, one microfilm—of this work are both here in the library at the Katz Center. The study is the first of its kind, predating Haim Blanc’s Communal Dialects in Baghdad (1964), and Ha-Aravit Ha-Yehudit shel Baghdad by Yaakov Mansour (1975-1983; a condensed version was published in English translation in 1991 as The Jewish Baghdadi Dialect). The latest - and quite possibly last  - in this list is Assaf Bar-Moshe's _The Arabic Dialect of the Jews of Baghdad :Phonology, Morphology, and Texts_ (2019).
 
 While this year marked the first time the Katz Center took up the study of Sephardi and Mizrachi Jewry, Schramm’s dissertation written under the aegis of Dropsie College, the Katz Center’s first incarnation, suggests a wonderful continuity. So too the very subject touches on the core of some of the liveliest discussions this year, about the nature and distinctiveness of the language. Is Judeo-Arabic a distinct language, thus reflecting the degree to which Jews of Arab lands held themselves apart from their neighbors, or is it a dialect, separated mostly by pronunciation and selected vocabulary?
