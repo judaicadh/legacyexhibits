@@ -21,9 +21,9 @@ template: doc
 ---
 ## Introduction
 
-![](../../../../src/assets/JewsinModernIslamicContexts/nizri-collage.jpg)
+The study of Jewish life in modern Islamic contexts during the 2018-19 Fellowship year at the Katz Center delved into the meaning of modernity in North Africa, the Levant, the Arabian Peninsula, as well as Central and South Asia. In so doing, the Fellows broke new ground by looking beyond the more familiar paradigms of modern and contemporary Jewish history in European, American, and Israeli contexts.   
 
-## ![](/public/assets/images/JewsinModernIslamicContexts/nizri-collage.jpg)
+The goals for the year were to bridge linguistic, geographic, social, and methodological boundaries, to connect the study of the intellectual with the study of the everyday, and to encourage attention to new sources and approaches.  In this year’s web exhibition, we feature a selection of contributions from the Fellowship program’s international cohort who brought a range of disciplinary backgrounds and regional expertise to the topic. Each explores complex relationships between Jews and their Muslim neighbors, or with members of other non-Muslim or minority communities in the Islamic world. Research projects include ones focused on journalism and film, literature, gender relations, economic behavior, cultural expression, and religious life as these developed across diverse Islamic contexts.
 
 ## Exhibit
 
