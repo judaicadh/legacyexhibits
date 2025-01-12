@@ -1,5 +1,5 @@
 media:
-  input: src/assets/images
+  input: src/assets
   output: public/assets/images
 content:
   - name: references
