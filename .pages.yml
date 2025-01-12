@@ -1,6 +1,6 @@
 media:
-  input: src/assets
-  output: assets
+  input: src/public/assets/images
+  output: public/assets/images
   extensions:
     - jpg
     - png
