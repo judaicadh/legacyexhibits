@@ -21,8 +21,6 @@ template: doc
 ---
 ## Introduction
 
-![](public/assets/images/JewsinModernIslamicContexts/nizri-collage.jpg)
-
 ## ![](/public/assets/images/JewsinModernIslamicContexts/nizri-collage.jpg)
 
 ## Exhibit
