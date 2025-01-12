@@ -1,14 +1,5 @@
-media:
-  input: src/public/assets/images
-  output: public/assets/images
-  extensions:
-    - jpg
-    - png
-    - gif
-    - svg
-    - md
-    - pdf
-    - docx
+media: src/public/assets/images
+
 
 content:
   - name: references
