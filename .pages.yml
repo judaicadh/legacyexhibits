@@ -1,6 +1,6 @@
-media: public/assets/images
-
-
+media:
+  input: src/assets/images
+  output: public/assets/images
 content:
   - name: references
     label: "Exhibits"
