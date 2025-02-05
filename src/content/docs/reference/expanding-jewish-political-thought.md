@@ -297,7 +297,7 @@ In fact, far from functioning outside politics, from the middle of the nineteent
     
 *   **Lebovic, Nitzan.** _The Philosophy of Life and Death: Ludwig Klages and the Rise of a Nazi Biopolitics._ New York: Palgrave Macmillan, 2013.
     
-*   **Levy-Eichel, Mordechai. "**Into the Mathematical Ocean: Navigation, Education, and the Expansion of Numeracy in Early Modern England and the Atlantic World,", \[dissertation\] (New Haven: Yale University, 2015).
+*   **Levy-Eichel, Mordechai.** "Into the Mathematical Ocean: Navigation, Education, and the Expansion of Numeracy in Early Modern England and the Atlantic World,", \[dissertation\] (New Haven: Yale University, 2015).
     
 *   **Lorberbaum, Mordechai.** _Politics and the Limits of Law: Secularizing the Political in Medieval Jewish Thought._ Stanford: Stanford University Press, 2002.
     
@@ -305,7 +305,7 @@ In fact, far from functioning outside politics, from the middle of the nineteent
     
 *   **Scharf, Orr.** _Thinking in Translation: Scripture and Redemption in the Thought of Franz Rosenzweig._ New York: W. De Gruyter, 2018.
     
-*   **Stuczynski, Claude B.** "Harmonizing Identities: the Problem of the Integration of the Portuguese Conversos in Early Modern Iberian Corporate Polities," in J_ewish History_ (25, 2 (May 2011): 229-257).
+*   **Stuczynski, Claude B.** "Harmonizing Identities: the Problem of the Integration of the Portuguese Conversos in Early Modern Iberian Corporate Polities," in J\_ewish History\_ (25, 2 (May 2011): 229-257).
     
 *   **Syros, Vasileios.** _Marsilius of Padua at the Intersection of Ancient and Medieval Traditions of Political Thought._ Toronto: University of Toronto Press, 2012.
     
