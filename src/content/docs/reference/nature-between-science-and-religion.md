@@ -21,7 +21,7 @@ During its 2017-2018 fellowship year, scholars at the Herbert D. Katz Center for
 
 ## Exhibit
 
-### [The Deluge: Imagining the Generation of the Flood](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/deluge-imagining-generation-flood?item=0)
+### The Deluge: Imagining the Generation of the Flood
 
 Julia Watts Belser
 
@@ -35,7 +35,7 @@ While the biblical text imagines Noah as a “righteous man” who “found favo
 
 While generations of writers and artists have been captivated by the ark and the survivors, my heart is with the lost and left behind, the ones who drowned. I find in Doré’s image a haunting reminder of the violence that reigns outside that tiny floating sanctuary—as well as a call to strive not simply for personal sanctuary, but for a world where _all of us_ survive.
 
-### [Mapping the World and its Avoidance in Rabbinic Literature](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/mapping-world-and-its-avoidance?item=0)
+### Mapping the World and its Avoidance in Rabbinic Literature
 
 Eyal Ben-Eliyahu
 
@@ -57,7 +57,7 @@ A survey of rabbinic literature reveals no mention of the division of the world 
 
 I would like to suggest that this absence reflects the inward turn in the Jewish world that is characteristic of rabbinic literature. This inward-looking orientation was a political result of the Bar Kokhba revolt.
 
-### [American Spiritualism under Scrutiny: the Seybert Commission Archive](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/american-spiritualism-under?item=0)
+### American Spiritualism under Scrutiny: the Seybert Commission Archive
 
 Julie Chajes
 
@@ -73,7 +73,7 @@ In the photographs, you can see a question written by one of the members of the 
 
 The members of the commission signed a preliminary report in 1887 in which they concluded that fraud had been used in nearly every case they had tested. In addition to the materials I have noted here, the Seybert Commission archive includes a very large number of letters and documents. It provides a fascinating snapshot of American Spiritualism in the late-nineteenth century.
 
-### [Tuvia Goes to Holywood to Show that the Earth is Round](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/tuvia-goes-holywood-show-earth?item=0)
+### Tuvia Goes to Holywood to Show that the Earth is Round
 
 Yossi Chajes
 
@@ -94,7 +94,7 @@ Tuvia's image (as well as its accompanying text) is based on one found in the in
 *   [Image from Positiones suas physioastronomicas de sphaera coelesti](https://web.archive.org/web/20200901105826/https://books.google.co.il/books/content?id=9pVIAAAAMAAJ&pg=RA1-PA1&img=1&zoom=3&hl=en&sig=ACfU3U11HFl3yG5AdlC0cTCzLmdSDGyvLQ&ci=49%2C49%2C823%2C1280&edge=0)
     
 
-### [Genetics and Jewish Identity](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/genetics-and-jewish-identity?item=0)
+### Genetics and Jewish Identity
 
 Yulia Egorova
 
@@ -106,7 +106,7 @@ Anthropological research on the concept of genomic sovereignty shows how the fie
 
 While at first glance DNA testing used in the search for social and political recognition of different Jewish groups appears to be the 'weapon of the weak,' which could allow disenfranchised groups to subvert political and epistemological regimes privileging naturalist accounts of group membership, it should instead be theorized as a tool of subordination and control that is imposed upon these groups by those in positon of political and economic power in the fields of contestation in question.
 
-### [Between Disease and Symbol: Conceptualizations of Impurity](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/between-disease-and-symbol?item=0)
+### Between Disease and Symbol: Conceptualizations of Impurity
 
 Yitzhaq Feder
 
@@ -118,7 +118,7 @@ In modern research, hundreds of articles have been devoted to the question of wh
 
 How was the infectiousness of disease conceptualized before the emergence of germ theory? Here it seems that notions of pollution played a key role. Accordingly, the idea of impurity was closer to everyday experience, hence more ‘natural,’ than supernatural.
 
-### [The Metamorphoses of a Medieval Book of (Ps.-) Science for the Dummies](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/metamorphoses-medieval-book-ps?item=0)
+### The Metamorphoses of a Medieval Book of (Ps.-) Science for the Dummies
 
 Gad Freudenthal
 
@@ -142,7 +142,7 @@ fig 3: Title page of the 1733 _editio princeps_ of the Hebrew version.
 In the eighteenth and nineteenth centuries the book was reprinted (with interpolations) at least 11 more times. Mendele Mocher Sforim (1836-1917) makes the hero of his Travels and Adventures of Benjamin the Thirdread it with amazement: readers then had a predilection for the marvelous and wondrous and this drew them to the 600-year-old book. (Possibly the much more serious Sefer ha-Berit by Rabbi Pinchas Elijah Hurwitz \[1797\] satisfied a similar need.)   
 fig. 4: Title page of the Munkacz printing of Tsel ha-‘olam (1897).
 
-### [Medical Polemics: Isaac Cardoso's Las Excelencias de los Hebreos](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/medical-polemics-isaac-cardosos-las?item=0)
+### Medical Polemics: Isaac Cardoso's Las Excelencias de los Hebreos
 
 Robert Juette
 
@@ -155,7 +155,7 @@ p. 346, including a passage on haemorrhoids
 
 Isaac Cardoso (b. 1603 or 1604-d. 1683), whose parents were _marranos,_ studied medicine, philosophy, and natural sciences at Salamanca and became chief physician (_physico mor_) in Madrid. In 1635 he left Spain and went to Venice where he changed his Christian name to “Isaac”. In his work Las Excelencias de los Hebreos he refutes many “calunias” (calumnies) brought against Jews; viz., the claim that Jewish males menstruated by means of haemorrhoids. Cardoso does this by telling an autobiographical anecdote. The Spanish physician Juan de Quiñones de Benavente who had claimed that Jewish men are subject to menstrual periods, had been his patient while he was chief physician in Madrid. Cardoso reports, “Within a very short time he developed haemorrhoids in certain parts, so great and huge, and accompanied by blood and pain, that they actually seem tail-like. In the company of a surgeon I then said to him: ‘Your honour must also be liable in the sin of that death \[i. e. of Christ\], for we see in you the same affliction, and just as you have written that the Jews have a tail and blood, you too have the same’.”
 
-### [Darwin and his Jewish Readers: Naphtali Levy's Toldot Adam \[The Origins of Man\]](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/darwin-and-his-jewish-readers?item=0)
+### Darwin and his Jewish Readers: Naphtali Levy's Toldot Adam \[The Origins of Man\]
 
 Daniel Langton
 
@@ -173,7 +173,7 @@ It would be mistaken to see the young Levy as a traditionalist offering nothing 
 
 He continued to write, but never again on the subject of evolution; other publications included a miscellaneous collection entitled Hikre Kadmoniyot (Researches in Antiquity, 1862), an exposition of the laws relating to the fifth commandment, Hilkhot Kibbud Av va-Em (Laws Honouring Parents, 1883), dissertations on legal and homiletic subjects entitled Kadesh Naftali (Naphtali’s Sacred Things, 1891), and Nakhalat Naftali (Naphtali’s Inheritance, 1892), which included an historical account of rabbis in England in the pre-Expulsion period and which listed the Chief Rabbi of Berlin, Israel Hildesheimer, among those authorizing and approving the work. In his final years he moved away from London to Southport for reasons of health and helped establish an Orthodox congregation there.
 
-### [Warding Off Evil and Illness: An Oriental Hebrew Amulet](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/warding-evil-and-illness-oriental?item=0)
+### Warding Off Evil and Illness: An Oriental Hebrew Amulet
 
 Agata Paluch
 
@@ -183,7 +183,7 @@ In the premodern world, magical and practical kabbalistic material abounds in va
 
 Apart from recipes and formulas extant in the independent medieval and early modern codices, a number of amulets as finished products—that is written for a specific person or persons—have been preserved. One such artefact, an amulet written in a late Oriental script, is now held by the Library at the Katz Center. It was written for Rivkah bat Miriam, whose name is inserted in the protective formula at the top of the amulet. The amulet was intended to safeguard its owner from evil and illness. Since in the premodern world at least some of the causes of maladies were thought to originate in the supernatural realm, so were the measures taken to prevent and heal those medical conditions. The format of the amulet is quite standard, consisting of formulas which employ various constellations of divine and angelic names familiar from the Jewish magical and practical kabbalistic writings, such 72- and 42-letter divine name. The side panels which surround the main body of the amulet feature a series of angelic names. The top panel features three angelic names Senoy, Sansenoy, Semangelof enclosed within three bird-like shapes, a graphic element well-known from the printed edition of Sefer Raziel (Amsterdam, 1701).
 
-### [Charting the Heavens: Jews and Astronomy](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/charting-heavens-jews-and-astronomy?item=0)
+### Charting the Heavens: Jews and Astronomy
 
 Pavel Sladek
 
@@ -199,7 +199,7 @@ The generic features of this family of manuscripts, of which other members can b
 
 As material texts, the empty spaces in the manuscripts and otherwise unfinished drafts indicate occasional failed attempts to integrate the sophisticated diagrams into the text. The diagrams were deemed both essential and difficult to obtain. For these Ashkenazi Jewish students of astronomy, these drawings reflected an impulse to connect with their Christian counterparts. R. Moses Isserles promised the readers of his Hebrew commentary on Peurbach that “an intelligent man who already knows something of this discipline can study and understand his commentary in its entirety on his own, especially if he has at his disposal the diagrams found in the Latin/Christian Theorica,“ which he states is “widespread among them (i.e. the Christians)….” Special attachments containing astronomic diagrams and charts, sometimes with moving parts attached with thread, are then yet another common feature of our Hebrew manuscripts (present both in MS Opp. 696 and MS UPenn LJS 498), analogous to Christian book culture of the period, and attested by a Latin manuscript also found in the Schoenberg Collection, namely, MS UPenn LJS 64, which contains a beautifully designed set of illustrations to Peurbachʼs Theoricae.
 
-### [Calendar Controversies: Ms Halper 332](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/calendar-controversies-ms-halper?item=0)
+### Calendar Controversies: Ms Halper 332
 
 Sacha Stern
 
@@ -217,7 +217,7 @@ In these letters, Saadya reprimands his disciples for observing the Jewish festi
 
 Other folios of this manuscript are currently held in the Bodleian Library, Oxford, and in the Cambridge University Library.
 
-### [Walther Rathenau and the Second Industrial Revolution](https://web.archive.org/web/20200901105826mp_/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion/walther-rathenau-and-second?item=0)
+### Walther Rathenau and the Second Industrial Revolution
 
 Heidi Voskuhl
 
@@ -239,39 +239,39 @@ Rathenau was also active in cultural, artistic, and social elite circles, and he
     
 *   **Chajes, Julie and Boas Huss, eds.** _Theosophical appropriations: esotericism, Kabbalah, and the transformation of traditions._ Beer Sheva: Ben-Gurion University of the Negev Press, 2016.
     
-*   **Chajes, Jeffrey Howard Yossi. "**Kabbalah and the diagrammatic phase of the scientific revolution," in _Jewish Culture in Early Modern Europe; Essays in Honor of David B. Ruderman,_ Edited by Richard I. Cohen, Natalie B. Dohrmann, Adam Shear, and Elchanan Reiner (Pittsburgh, PA: University of Pittsburgh Press; Cincinnati, OH: Hebrew Union College Press, 2014, 109-123).
+*   **Chajes, Jeffrey Howard Yossi.** "Kabbalah and the diagrammatic phase of the scientific revolution," in _Jewish Culture in Early Modern Europe; Essays in Honor of David B. Ruderman,_ Edited by Richard I. Cohen, Natalie B. Dohrmann, Adam Shear, and Elchanan Reiner (Pittsburgh, PA: University of Pittsburgh Press; Cincinnati, OH: Hebrew Union College Press, 2014, 109-123).
     
-*   **Egorova, Yulia. "**Theorizing 'Jewish genetics': DNA, culture and historical narrative," in _The Routledge Handbook of Contemporary Jewish Cultures,_ Edited by Laurence Roth and Nadia Valman (London: Routledge, 2015, 353-364).
+*   **Egorova, Yulia.** "Theorizing 'Jewish genetics': DNA, culture and historical narrative," in _The Routledge Handbook of Contemporary Jewish Cultures,_ Edited by Laurence Roth and Nadia Valman (London: Routledge, 2015, 353-364).
     
-*   **Feder, Yitzhaq. "**Contagion and cognition: bodily experience and the conceptualization of pollution ('ṭum’ah') in the Hebrew Bible," in _Journal of Near Eastern Studies_ (72, 2 (2013): 151-167).
+*   **Feder, Yitzhaq.** "Contagion and cognition: bodily experience and the conceptualization of pollution ('ṭum’ah') in the Hebrew Bible," in _Journal of Near Eastern Studies_ (72, 2 (2013): 151-167).
     
 *   **Freudenthal, Gad.** "Introduction: the history of science in medieval Jewish cultures - toward a definition of the agenda," in _Science in Medieval Jewish Cultures,_ Edited by Gad Freudenthal (New York: Cambridge University Press, 2011, 1-10).
     
 *   **Freudenthal, Gad."** Court Jews, printers, book publishing, and the beginning of the Haskalah in the German lands: the life history of the Wulffian Printing Press as a case-study," in _European Journal of Jewish Studies_ (12,1 (2018): 1-55).
     
-*   **Juette, Robert. "**Medizin und Judentum: historische Grundzüge," in _Jüdische Ärztinnen und Ärzte im Nationalsozialismus; Entrechtung, Vertreibung, Ermordung,_ Edited by Thomas Beddies, Susanne Doetz and Christoph Kopke (Oldenbourg: De Gruyter Oldenbourg, 2014, 6-15).
+*   **Juette, Robert.** "Medizin und Judentum: historische Grundzüge," in _Jüdische Ärztinnen und Ärzte im Nationalsozialismus; Entrechtung, Vertreibung, Ermordung,_ Edited by Thomas Beddies, Susanne Doetz and Christoph Kopke (Oldenbourg: De Gruyter Oldenbourg, 2014, 6-15).
     
 *   **Langton, Daniel.** Elijah Benamozegh and evolutionary theory: a Nineteenth-century Italian kabbalist's panentheistic response to Darwin European Journal of Jewish Studies 10, 2 (2016): 223-245
     
-*   **Paluch, Agata. "**The Ashkenazi profile of Kabbalah: aspects of the Megalleh ’Amuqot ReNaV Ofanim ’al Va-’Ethanan by Nathan Neṭa Shapira of Kraków," in _Kabbalah_ (25 (2011): 109-130).
+*   **Paluch, Agata.** "The Ashkenazi profile of Kabbalah: aspects of the Megalleh ’Amuqot ReNaV Ofanim ’al Va-’Ethanan by Nathan Neṭa Shapira of Kraków," in _Kabbalah_ (25 (2011): 109-130).
     
 *   **Ruderman, David B.** _Jewish Thought and Scientific Discovery In Early Modern Europe._ New Haven: Yale University Press, 1995.
     
 *   **Rustow, Marina.** "The Jewish calendar controversy of 921-22: reconstructing the manuscripts and their transmission history," in _Time, Astronomy, and Calendars in the Jewish Tradition,_ Edited by Sacha Stern and Charles Burnett (Leiden; Boston: Brill, 2014, 79-95).
     
-*   **Sladek, Pavel. "**Admiration and fear: new perspectives on the personality of the Maharal," in _Judaica Bohemiae_ (52, 2 (2017), 5-31).
+*   **Sladek, Pavel.** "Admiration and fear: new perspectives on the personality of the Maharal," in _Judaica Bohemiae_ (52, 2 (2017), 5-31).
     
 *   **Stern, Sacha and Charles Burnett, eds..** _Time, astronomy, and calendars in the Jewish tradition._ Leiden: Brill, 2014.
     
-*   **Stern, Sacha. "**A primitive rabbinic calendar text from the Cairo Genizah," in _Journal of Jewish Studies_ (67, 1 (2016), 68-90).
+*   **Stern, Sacha.** "A primitive rabbinic calendar text from the Cairo Genizah," in _Journal of Jewish Studies_ (67, 1 (2016), 68-90).
     
 *   **Voskuhl, Adelheid.** _Androids in the Enlightenment: Mechanics, Artisans, and Cultures of the Self._ Chicago: University of Chicago Press, 2013.
     
-*   **Voskuhl, Adelheid. "**Engineering Philosophy: Theories of Technology, German Idealism, and Social Order in High-Industrial Germany," in _Technology and Culture_ (57, 4 (2016), 721-752).
+*   **Voskuhl, Adelheid.** "Engineering Philosophy: Theories of Technology, German Idealism, and Social Order in High-Industrial Germany," in _Technology and Culture_ (57, 4 (2016), 721-752).
     
-*   **Wiese, Christian. "**Revolte wider die Weltflucht : Hans Jonas's Auseinandersetzung mit Martin Heidegger und dem modernen Existentialismus," in _Trumah_ (18 (2008): 161-188).
+*   **Wiese, Christian.** "Revolte wider die Weltflucht : Hans Jonas's Auseinandersetzung mit Martin Heidegger und dem modernen Existentialismus," in _Trumah_ (18 (2008): 161-188).
     
-*   **Wiese, Christian. "**Hans Jonas: life and works," in _The Legacy of Hans Jonas; Judaism and the Phenomenon of Life,_ Edited by Hava Tirosh-Samuelson and Christian Wiese (Leiden: Brill, 2008, 523-553).
+*   **Wiese, Christian.** "Hans Jonas: life and works," in _The Legacy of Hans Jonas; Judaism and the Phenomenon of Life,_ Edited by Hava Tirosh-Samuelson and Christian Wiese (Leiden: Brill, 2008, 523-553).
     
 
 ## Contributors
