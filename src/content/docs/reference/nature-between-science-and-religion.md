@@ -276,32 +276,32 @@ Rathenau was also active in cultural, artistic, and social elite circles, and he
 
 ## Contributors
 
-[Julia Watts Belser](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1511) - Georgetown University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+Julia Watts Belser - Georgetown University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
 
-[Eyal Ben-Eliyahu](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1770) - University of Haifa / Ellie and Herbert D. Katz Distinguished Fellowship
+Eyal Ben-Eliyahu - University of Haifa / Ellie and Herbert D. Katz Distinguished Fellowship
 
-[Julie Chajes](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1680) - Tel Aviv University / Albert J. Wood Fellowship
+Julie Chajes - Tel Aviv University / Albert J. Wood Fellowship
 
-[Yossi Chajes](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1681) - University of Haifa / Maurice Amado Foundation Fellowship
+Yossi Chajes - University of Haifa / Maurice Amado Foundation Fellowship
 
-[Yulia Egorova](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1682) - Durham University / Ella Darivoff Fellowship
+Yulia Egorova - Durham University / Ella Darivoff Fellowship
 
-[Yitzhaq Feder](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1683) - University of Haifa / Ruth Meltzer Fellowship
+Yitzhaq Feder - University of Haifa / Ruth Meltzer Fellowship
 
-[Gad Freudenthal](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1512) - French National Center for Scientific Research (Emeritus) / Ellie and Herbert D. Katz Distinguished Fellowship
+Gad Freudenthal - French National Center for Scientific Research (Emeritus) / Ellie and Herbert D. Katz Distinguished Fellowship
 
-[Robert Juette](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1684) - Institute of the History of Medicine of the Robert Bosch Foundation
+Robert Juette - Institute of the History of Medicine of the Robert Bosch Foundation
 
-[Daniel Langton](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1685) - University of Manchester / Ivan & Nina Ross Family Fellowship
+Daniel Langton - University of Manchester / Ivan & Nina Ross Family Fellowship
 
-[Agata Paluch](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1686) - Free University, Berlin / Ruth Meltzer Fellowship
+Agata Paluch - Free University, Berlin / Ruth Meltzer Fellowship
 
-[Pavel Sladek](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1687) - Charles University, Prague
+Pavel Sladek - Charles University, Prague
 
-[Sacha Stern](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1688) - University College London
+Sacha Stern - University College London
 
-[Heidi Voskuhl](https://web.archive.org/web/20200901105847/https://www.library.upenn.edu/collections/online-exhibits/nature-between-science-and-religion?tab=exhibit#as-1689) - University of Pennsylvania / Jody Ellant and Howard Reiter Family Fellowship
+Heidi Voskuhl - University of Pennsylvania / Jody Ellant and Howard Reiter Family Fellowship
 
 #### **Special thanks**
 
-Special thanksto all of our contributors, and above all to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit and for meticulously reviewing every detail. This web exhibition was made possible by the help of Bruce Nielsen and Josef Gulka at the Library at the Katz Center, as well as by Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscript and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit. Special thanks as well to Dr. A. Mitchell Fraas at the Kislak Center for sending on short notice high resolution scans of the Ptolemaic map of the world featured in the 2017 exhibition he curated entitled "Expanding Earth: Travel, Encounter, and Exchange" and Dr. Rachel Heuberger, Dr. Ute Luise Simeon, and the staff at the University of Frankfurt Library for their help locating and sending us a color reproduction of the title page of a rare copy of the first Yiddish translation of _Image du Mond (Image of the World)_, held in their collection.
+Special thanks to all of our contributors, and above all to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit and for meticulously reviewing every detail. This web exhibition was made possible by the help of Bruce Nielsen and Josef Gulka at the Library at the Katz Center, as well as by Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscript and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit. Special thanks as well to Dr. A. Mitchell Fraas at the Kislak Center for sending on short notice high resolution scans of the Ptolemaic map of the world featured in the 2017 exhibition he curated entitled "Expanding Earth: Travel, Encounter, and Exchange" and Dr. Rachel Heuberger, Dr. Ute Luise Simeon, and the staff at the University of Frankfurt Library for their help locating and sending us a color reproduction of the title page of a rare copy of the first Yiddish translation of _Image du Mond (Image of the World)_, held in their collection.
