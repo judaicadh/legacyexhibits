@@ -266,3 +266,7 @@ These different NAJ phenomena share, at least to some extent, a critique of inst
 [Zohar Weiman-Kelman](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1754) - Ben-Gurion University of the Negev
 
 [Rachel Werczberger](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1755) - Tel Aviv University
+
+#### **Special thanks**
+
+Special thanks to all of our contributors, and above all to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit and for meticulously reviewing every detail. This web exhibition was made possible by the help of Bruce Nielsen and Josef Gulka at the Library at the Katz Center, as well as by Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscript and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit.This year's exhibition is especially indebted to Zhiyu Zhou who has programmed the new website interface to handle a number of customized features.
