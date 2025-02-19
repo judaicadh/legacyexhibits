@@ -8,7 +8,6 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2012-2013 Fellows at the University of Pennsylvania
   image:
-    file: "../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/13th-century.png"
     alt: 13th Century Entanglements
 slug: 13th-century-entanglements
 tableOfContents:
@@ -30,6 +29,12 @@ Exhibition cover design adapted from a decorative incipit and illuminated motifs
 
 Elisabeth Hollender
 
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/hollender50r900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fol.%20142.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=1)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fol%20227.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=2)
+
 Rare ms. 382 in the collection of the Library at the Katz Center for Advanced Judaic Studies is a _mahzor_ (festive prayerbook) for the autumn holidays according to the Western Ashkenazic rite. It was copied during the fourteenth century, probably in the Rhineland area of southern Germany and northern Italy. It contains the liturgical poetry (\_piyyutim\_) recited in the synagogue on both days of _Rosh ha-shanah_, on Yom Kippur, on the first and second day of _Sukkot_, the intermediate Sabbath during _Sukkot_ and on _Shemini Atseret_, but it lacks most of the standard prayers said on these occasions because the precentor would have known these by heart. Today, the volume is incomplete, beginning with _musaf_ (the additional prayers) recited on the first day of _Rosh ha-shanah_ and ending with _musaf_ on _Shemini Atseret._ In its complete form it would have contained more than 280 folio leaves (rather than the extant 252 folios). In addition to at least two quires missing at the beginning and one quire missing at the end, several pages have been cut out of the manuscript. The manuscript was rebound in (early) modern times and apparently after that was damaged, probably by fire.
 
 During the thirteenth and fourteenth centuries, several changes took place in the production of liturgical manuscripts in Ashkenaz that influenced both the selection of texts and the appearance of the texts on the page. Notwithstanding unifying tendencies, many communities retained their local traditions about which piyyutim to say when, as mirrored by the unusual ordering of _yotsrot_ for _Sukkot_ in the Katz Center's _mahzor_. Most textual changes that spread throughout many communities pertain to the omission of _piyyutim_, e.g. many communities decided to abbreviate the recitation of _qedushta'ot,_ the complex compositions adorning the _Amidah_ on Sabbaths and holidays, by skipping parts of the _rehitim,_ the series of highly structured poems in the penultimate position of the _qedushta,_ especially on the high holidays when many _piyyutim_ were recited. The _mahzor_ of the Katz Center displays a selection that is largely in accordance with later habits, although in one case a _piyyut_ that had been omitted by the original scribe was added on the margins by an almost contemporary hand (f. 143r). This note was preserved when the margins were cut at a later time, suggesting that the community using the _mahzor_ continued to recite this _piyyut_. Interestingly, the _mahzor_ does not share another textual change of the late thirteenth, early fourteenth century, namely the omission of the strings of verses inserted into the first three _piyyutim_ of _qedushta'ot,_ although it rarely contains more than three or four verses, even though earlier manuscripts may have up to seven or eight verses in each string.
@@ -42,6 +47,8 @@ The aesthetic changes in the visual appearance of liturgical manuscripts in Ashk
 
 Ephraim Kanarfogel
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/zaru%27a.jpg" alt="" width="1800" height="2588">
+
 Rabbi Isaac b. Moses (d. c. 1250) appears to have hailed from Bohemia. He studied in both Germany and northern France with a bevy of the leading Tosafist glossators of his day, including Simhah ben Samuel of Speyer, Eliezer b. Joel (Rabiah) _ha-Levi_ of Cologne, Judah b. Isaac Sirleon of Paris, and Samson of Coucy, and he also studied with the founder of the German Pietists, Judah b. Samuel the Pious. The geographic diversity of Isaac's teachers, which renewed a trend that dated from the mid-twelfth century in Ashkenazic lands but had become attenuated for a period of about forty years (c. 1175-1215), gave Isaac access to both the German and north French centers of Tosafist endeavors, and to a rich array of their writings in the fields of talmudic commentary and Jewish law.
 
 Not surprisingly, Isaac's _magnum opus,_ Sefer Or Zaru'a, is a large and discursive work that covers a wide range of legal topics. The sheer size of the work caused Isaac's son, Hayyim, to comprise a rather drastic abridgement, and also helps to explain the seeming unavailability of this work for a period of close to 400 years, until the first phase of its publication in Zhitomir in 1862.
@@ -51,6 +58,8 @@ Isaac was a careful recorder of his teachers' rulings and religious practices, 
 ### Bonds of Friendship: A Shared Biblical Tradition
 
 Ruth Karras
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/morgan.jpg" alt="" width="1800" height="2588">
 
 David and Jonathan were the paradigm of male friendship in both the Christian and Jewish Middle Ages. Their bond was understood in both traditions as following in the classical pattern of friendships, especially in a military context, between an older and a younger man, and by the later Middle Ages in both Christian and Jewish culture took on the trappings of chivalry. The story was retold in prose and verse, in Latin and a variety of medieval vernaculars, including Yiddish, and Christian and Jewish biblical commentators used it to make a variety of points, only some of which related to the nature of male friendship.
 
@@ -62,6 +71,10 @@ The book was made in France around the middle of the thirteenth century, with th
 
 Elisheva Baumgarten
 
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/baumgartenr900%402x1.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/hebrew-christian-calendar?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/baumgartenv900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/hebrew-christian-calendar?item=1)
+
 This late thirteenth-century Hebrew volume, known as the Northern French Hebrew Miscellany (Falter Facsimile Editions; British Library 11639), is among the most beautiful extant illuminated Hebrew manuscripts copied by a man noted in the colophon as Benjamin the Scribe. As in many medieval Hebrew liturgical compendia, this collection includes numerous Jewish calendric computations as well as a complex diagram of the signs of the zodiac.
 
 Guided by the zodiac, a Christian calendar written in Hebrew, one of the earliest such calendar known to date, was inserted towards the end of the manuscript (fol. 542v). Each of the four corners of this page provides instructions for calculating the equinox or solstice times, standard components of Jewish calendars that in most Hebrew manuscripts are not linked to the Christian calendar. The inner triangle records the annual ecclesiastic calendar, detailing its four 13-week periods, reflecting its four-part economic division of the year. The concentric circles that surround the triangle outlined the different saints' days celebrated by the Christians. These are evidence of the intimate acquaintance medieval Jews had with the Christian ritual cycle and with the importance of this knowledge that provided guidelines for business and social relations.
@@ -70,17 +83,27 @@ Guided by the zodiac, a Christian calendar written in Hebrew, one of the earlies
 
 Ehud Krinis
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/krinis900%402x.jpg" alt="" width="1800" height="2588">
+
 Pictured here is the front page of the Lemberg 1892 edition of _Sefer ha-Temunah_ (the _Book of the Image_). This anonymous work is considered a classical exposition of the Kabbalistic world cycles doctrine (Hebrew: _Torat ha-Shemitot_). Gershom Scholem, in his groundbreaking studies on the origins of the Kabbalah, considered this text to be a product of the Gerona circle, the earliest Kabbalistic circle in Spain, whose activities are traced to the first half of the thirteenth century. Late in his life Scholem acknowledged that his conclusions about the date and the historical circumstances of _Sefer ha-Temunah_ are unsustainable. Subsequent studies carried by Efraim Gottlieb and especially by Moshe Idel suggested that _Sefer ha-Temunah_ was written well into the Fourteenth century by a Kabbalist who most probably lived outside Spain. The reassessment concerning of the time and the place of _Sefer ha-Temunah_ open the door for a new understanding regarding the development of the world cycles doctrine in early Kabbalah. Rather than emerging suddenly, it seems now that the world cycles doctrine was developing gradually, from its concise formulations in writings of the Gerona circle of Kabbalists of the first half of the thirteenth century, to the elaborate expositions of works such as _Ma'arekhet ha-Elohut_ (\_The Divine System\_) and _Sefer ha-Temunah,_ about a century later.
 
 ### The reception of Raymond Martí's _Pugio fidei_ in the Thirteenth and Fourteenth Centuries
 
 Alexander Fidora
 
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/pugio.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/reception-raymond-martis-pugio-fidei?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fidora900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/reception-raymond-martis-pugio-fidei?item=1)
+
 The Catalan Dominican Ramon Martí is generally considered to be the first Christian Hebraist. In his most famous work, the _Pugio Fidei_ or _Dagger of Faith_, written around 1280, he made abundant use of Jewish post-biblical literature in order to prove his claim that the Messiah had already come. Thus, he drew heavily on the Talmud and the Midrashim, which are quoted both in the Hebrew original as well as in Latin translation. The Library of the Katz Center owns the _editio princeps_ of this seminal work, published by Joseph De Voisin in 1651 in Paris.
 
 ### The Pentateuch Commentary of Moses Nahmanides
 
 Mordechai Z. Cohen
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohennahmanide001900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/pentateuch-commentary-moses-nahmanides?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohe2nnahmanide002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/pentateuch-commentary-moses-nahmanides?item=1)
 
 Displayed here are two pages from the Pentateuch commentary of Moses Nahmanides (1194-1270), the great Catalan exegete, talmudist, and kabbalist. As reflected in this commentary, Nahmanides stood at an intellectual crossroads of multiple interpretive traditions that he inherited in partial and refracted ways. On the one hand, he was heir to the Geonic-Andalusian school, which migrated into Christian Spain as the _Reconquista_ progressed. Although Nahmanides evidently did not read Arabic, he avidly absorbed a mediated version of Geonic and Andalusian learning in the Hebrew writings of Abraham Ibn Ezra and David Kimhi, as well as the recently composed Hebrew translations - by Judah and Samuel Ibn Tibbon and Judah Alharizi - of works by Saadia, Ibn Janah and Maimonides. At the same time, Nahmanides was influenced by the momentous innovations in talmudic learning in twelfth-century northern France, which was accompanied by a deep respect for Rashi and his Bible commentaries. On the other hand, Nahmanides largely ignores - or perhaps was unaware of - the refined _peshat_ commentaries of Rashi's students, the great _pashtanim_ Joseph Qara and Rashbam.
 
@@ -92,6 +115,10 @@ Although he his one among many Jewish authors over the centuries who have interp
 
 Rami Reiner
 
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/reiner001900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/becoming-tosafot?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/rein2er002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/becoming-tosafot?item=1)
+
 The copy of _Tractate Bekhorot_ included in this exhibition is one of the volumes of the first complete edition of the Talmud, printed in the printing house of Daniel Bomberg in Venice between 1520 and 1523. Bomberg's edition had a huge impact on the use and study of the Talmud. The page layout introduced in the Venice printing has been preserved in virtually every subsequent printing of the Talmud, including the famous Vilna edition and the recent Schottenstein edition. This is no accident. The advent of printing changed the way in which citations to the Talmud are given. During the manuscript era, scholars would refer to a specific Talmudic discussion by its name and the name of the chapter in which it appeared. After the printed editions took hold, it became possible to give a much more precise reference to the page within the tractate on which the source appeared. The popularity and wide distribution of the Bomberg edition led its page numbers to become the universal standard.
 
 The significance of the Venice printing is not only in the text of the Talmud, but also in what it added to the Talmud which would with time become an integral part of the text—Rashi's commentary, printed on the inner margin of every page, and the comments of the Tosafot, French sages from the twelfth and thirteenth centuries, on the outer margin. One can hardly overstate the role played by the Venice Talmud, which combined these elements on a single page, in creating the form of study known as GaPaT—Gemara (Talmud), Rashi and Tosafot. GaPaT became the classic form of Talmud study for centuries, to this very day. The innovation of having the commentaries of Rashi and Tosafot on the same page as the Talmud meant that one need not open more than one book at a time to study the Talmud. This led to a decline in the use of manuscript versions of Tosafot commentaries, and far fewer such manuscripts have survived to the present day than medieval manuscripts in other genres. The ease of studying a printed, glossed text overpowered the conservative urge to preserve old study habits and old books, and led to the disappearance of other Tosafot collections.
@@ -102,6 +129,8 @@ Finally, the layout of the printed page of the Talmud could be considered a furt
 
 Rebecca Winer and Sol Cohen
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohenwiner-comp.jpg" alt="" width="1800" height="2588">
+
 During the thirteenth century in the Latin Mediterranean, notaries were required to register all of the documents they drafted for their clients in a protocol that they kept for future reference. Currently in France, the medieval town of Perpignan was under the political control of the rulers of the Crown of Aragon (Aragon, Catalonia, Valencia, the Balearics, Montpellier et al.). The thirteenth-century Crown of Aragon housed many prosperous and intellectually vibrant Jewish communities. The major Jewish urban center of Perpignan produced the highly original thinker Menahem ha-Meiri (who appears in Latin in the protocols of the 1270s on as Vidal Salamó Meir).
 
 This image focuses on one of a series of radically abbreviated transactions in Latin: a loan that Bonafonat "Capellanus," or "the chaplain," made on 24 August 1261 to the Jew Mosse de Soal of twenty-two diners (pennies) to be repaid on the feast of the Archangel Michael, or Michaelmas, 29 September. This was a small loan made for a short time, only a month. Perhaps it concerned payment for Capellanus's services as a Latin scribe; it is not possible to be certain. The 1261 protocol is one of only two registers with Hebrew notations; brief annotations appear after eight Latin transactions in 1261 and an additional two in a 1266 register.
@@ -111,6 +140,10 @@ The bottom right of this loan displays Mosse de Soal's name in Hebrew: משה �
 ### The Revival of Ciceronian Rhetoric
 
 Rita Copeland
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/copeland1629-1r900r%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/revival-ciceronian-rhetoric?item=0)
+
+[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/copel2and1630-80v900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/revival-ciceronian-rhetoric?item=1)
 
 During 2012-13, the University of Pennsylvania Rare Book Collection acquired two important medieval manuscripts that show the revival of Ciceronian rhetorical study in the later Middle Ages.
 
@@ -132,6 +165,8 @@ This Ad Herennium manuscript also offers a nice complement to the Plena et pe
 
 S.J. Pearce
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/pearce-ljs453-15r900%402x.jpg" alt="" width="1800" height="2588">
+
 This substantial codex, copied in Germany in 1446 and consisting of 269 folios written in several Ashkenazi scribal hands, was recently acquired by the University of Pennsylvania through a gift made by the noted collector Lawrence J. Schoenberg and Barbra Brizdle Schoenberg. LJS 453 contains Hebrew translations of Arabic commentaries on the scientific works of Aristotle. Although it represents a fifteenth-century copy of the commentaries on works on various aspects of natural history, as well as on cosmology and meteorology, the texts themselves are the product of developments in intellectual history and tastes that flourished in earnest in the thirteenth century and continued into the fourteenth. As early as the second half of the twelfth century, Jewish readers living in regions of what are modern-day Spain and France began to translate Arabic-language scientific, philosophical and religious texts into Hebrew, with the consequence that these texts became available to a wider readership. The beginnings of this translation movement, which was consciously modeled on the ninth-century movement in the eastern Mediterranean to translate Greek-language texts into Syriac and Arabic, also led to the creation of a brand new technical vocabulary in Hebrew, since translators were often required to coin new terms for concepts in these fields that had not previously ever been discussed or written about in Hebrew.
 
 The texts in this volume include: Solomon ibn Ayyub's translation of Averroes' commentary on De Caelo; translations by the noted Hebrew poet Kalonymos ben Kalonymos of the commentary on De generatione et corruptione and the Meteorologia; and Jacob ben Makhir's translation of De Animalibus. The volume also contains Hebrew translations of Abraham ibn Ezra's commentary on Psalms and fragments of Moses Maimonides' Epistle to the Yemen. Taken together, these texts offer a coherent and complete, if not comprehensive, overview of the major intellectual and religious trends and debates that were current in thirteenth-century Spain and France. Beginning in the second half of the twelfth century, the father-and-son pair of translators, Judah and Samuel ibn Tibbon, began to adapt Arabic texts into Hebrew, often times at the request of particular communities with low levels of Arabic literacy but interest in reading texts of classical antiquity and the medieval Arabic commentaries upon them; this trend continued in northern Spain and southern France and allowed for the wide dissemination in the Jewish world of texts that were of scientific and dialectical-rationalist character.
@@ -139,6 +174,8 @@ The texts in this volume include: Solomon ibn Ayyub's translation of Averroes' c
 ### If You Find an Engraved Stone: The Transmission of Science and Magic
 
 Katelyn Mesler
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/mesler149%402x.jpg" alt="See facsimile of LJS 449, folio 32v" width="1800" height="2588">
 
 Among the scientific writings of Late Antiquity and the Middle Ages are treatises known as Lapidaries, short encyclopedic works on the properties of stones and minerals. One type of lapidary, exemplified by Marbode of Rennes's famous Latin work _On Stones_, listed the name of each stone (often alphabetically), followed by details such as their color, where they are found, and any special "virtues" or powers that the stone possesses (such as the loadstone's power of attraction or the bezoar's reputation as an antidote for poison). Another type of lapidary was concerned with the symbolic meaning of the twelve biblical stones of the high priest's breastplate and the heavenly Jerusalem.
 
@@ -150,6 +187,10 @@ The origins of the _Techel/Azareus Complex_ remain a mystery, but the text has
 
 Judah Galinsky
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskySeMaK900%402x.jpg" alt="" width="1800" height="2588">
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskycolophon900%402x4.jpg" alt="" width="1800" height="2588">
+
 The 'Amude Golah \\\[Pillars of Exile\\\] of R. Isaac of Corbeil was completed circa 1278 just a few years prior to the author's death in the spring of 1280. This accessible halakhic work, written with the intent of reaching a broad reading audience, was extremely popular during the later Middle Ages as the numerous extant manuscripts can attest (close to 200 mss.). With time the work became known as the Sefer Mitsvot Katan \\\[The Short Book of Commandments\\\] or Semak. Shortly following its distribution the author's younger contemporary and even more famous townsman, R. Peretz of Corbeil, appended his scholarly glosses to the Semak. Almost all surviving manuscripts of the work include these learned glosses.
 
 One of the most difficult textual problems that one encounters in studying Isaac of Corbeil's work relates to Peretz's glosses. Copyists of the work from the 13th century onwards had great difficulty in differentiating between Isaac's original work and the later material added by Peretz. This led to situations where Peretz comments were frequently integrated into the body of the work while at times Isaacs' thoughts were relegated to the glosses. The task of reconstructing Isaac's original work became feasible only with the discovery of the version found in British Library Add. 11639 (1056 in Margoliouth Catalogue) known as the Northern French Hebrew Miscellany (reproduced here from the Falter Facsimile Editions).
@@ -160,6 +201,8 @@ This late thirteenth-century manuscript was copied by a certain Benjamin the Scr
 
 Piero Capelli
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/capelli1200%402x.jpg" alt="" width="1800" height="2588">
+
 Johann Christoph Wagenseil (b. Nuremberg, 1633; d. Altdorf, 1705) earned his Dr.Phil. in 1665 from Altdorf Academy, the forerunner of the University of Altdorf, and taught history, law and Near Eastern languages from 1668 until the end of his life. His book Tela Ignea Satanae (The Flaming Arrows of Satan, Altdorf, 1681), from which the portrait is taken, is an anthology of Jewish anti-Christian polemics containing many of the most important medieval and early modern Jewish anti-Christian polemics: the Toledot Yeshu, the Hebrew accounts of the 13th century Paris Talmud trial and the Barcelona disputation, the Sefer Nizzahon Yashan, and Isaac Troki's Hizzuq Emunah. These appeared here in their first printed editions, with Latin translations and scholarly commentary Wagenseil's historical and philological awareness in the book are acute and prescient; but it was openly inspired by pointed anti-Jewish intent, as is evident from its title, in which the "flaming arrows of Satan" (cf. Ephesians 6:16) are Jewish ones aimed against Christendom.
 
 After publishing Tela Ignea Satanae, Wagenseil came into contact with Jewish scholars. This made him aware of the hardships of the status of the Jews in Europe and of the absurdity of the accusations of ritual murder. Toward the end of his life, according to the historian Peter Blastenbrei, Wagenseil "began to sketch a design for peaceful coexistence of Jews and Christians through legal demarcation, humane treatment of the minority, and closer mutual acquaintance." He took a stand against the ritual murder libel in an essay called "Judæos non Uti Sanguine Christiano" ("The Jews Do Not Make Use of Christian Blood") published in his book Benachrichtigung wegen einiger die gemeine Jüdischheit betreffenden wichtigen Sachen (Information against Some Important Things Concerning the Jewish Community, Leipzig, 1705). At the same time, he remained convinced that the Jews blasphemed against Jesus, Mary and Christian dogmas and symbols (Denunciatio Christiana de Blasphemiis Judæorum in Jesum Christum, A Christian Condemnation of Jewish Blasphemies against Jesus Christ, Altdorf, 1703), and promoted Christian missionizing to the Jews (Hoffnung der Erlösung Israels, Hope in Israel's Redemption, Leipzig, 1705).
@@ -168,13 +211,21 @@ After publishing Tela Ignea Satanae, Wagenseil came into contact with Jewish s
 
 Uri Shachar
 
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah001-900%402x.jpg" alt="" width="1800" height="2588">
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah002-900%402x5.jpg" alt="" width="1800" height="2588">
+
 In 1346 or thereabout Meir Aldabi, a Toledan polymath, immigrated to Jerusalem where he resided until his death fourteen years later. During this final period of his eventful life, Aldabi completed his _magnum opus,_ The Paths of Faith \\\[Shevile Emunah\\\]—a comprehensive 'encyclopedia' which covers many of the major trajectories in late medieval Jewish natural philosophy, theology, and mysticism. Aldabi's work, which is both far reaching and concise, enjoyed immediate and long lasting success. Both individual chapters (especially paths four and five) and the unified work were disseminated widely. The Library at the Katz Center holds a facsimile of the earliest printed edition of this pre-modern best seller, produced at Riva di Trento in 1558.
 
 Despite its popularity among a variety of circles and over the course of several centuries, The Paths of Faith has received scant attention in modern scholarship. Previous generations of intellectual historians saw in this work a clumsy, unoriginal concoction of earlier theoretical or pre-existing encyclopedic material. Closer attention, however, to the ways in which Aldabi put to use the material he reproduced reveals that, in fact, he undertook a unique, herculean effort to harmonize diverse and often contradictory intellectual tendencies that shaped the Jewish contemplative landscape of his times, into one spiritual program. As such, The Paths of Faith does not only list, but in fact, reconciles and hence redefines rationalist, conservative, and mystical energies that had been pulling in different directions.
 
 One such intellectual impulse that Aldabi accommodates stems from a tradition that he must have encountered while in Jerusalem. The tenth and ultimate chapter of the book, about the Redemption, features a processed version of a homily that was penned by an anonymous scholar who immigrated to Acre in the beginning of the thirteenth century. By invoking a messianic framework, this homily reflects on questions of conquest and possession of the Holy Land, in a way that places it in dialogue with contemporaneous Christian and Muslim holy war literature. What is more, this text became the rhetorical and ideological backbone for a number of such homilies subsequently composed by Jews in the Near East under Frankish and Mamluk rule. The Paths of Faith, therefore, encompasses many important trajectories that became manifest through cultural, intellectual, and linguistic contacts between Jews and their neighbors in the late medieval Mediterranean.
 
-\### Las _Cantigas de Santa Maria_: Miraculous Stories of Horror and Conversion
+### Las _Cantigas de Santa Maria_: Miraculous Stories of Horror and Conversion
+
+Kati Ihnat
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/ihnat4-900%402x.jpg" alt="" width="1800" height="2588">
 
 The Cantigas de Santa Maria is a collection of over four-hundred short accounts of miracles performed by the Virgin Mary interspersed with songs of praise, produced in the court of Alfonso X of Castile (r. 1252-1284). This image is from one of four extant codices of the collection produced in the 1270s and 80s, Escorial MS T.I.1, the 'códice rico,' as it is known by scholars due to its luxurious nature; one of a small number of facsimiles of this stunning manuscript is held by the University of Pennsylvania library. Almost all the poems in medieval Galician are illustrated with a full-page illustration and are also set to music. Intended to establish Alfonso as Mary's royal champion, the volumes constitute an important testament of the cultural vibrancy of the Castilian court, its development of music, literature and art, as well as its engagement with Jewish and Muslim cultures.
 
@@ -182,7 +233,11 @@ The miracle story shown here nevertheless provides a complicated picture of inte
 
 The curious story reflects the integration of contemporary literary and devotional trends, as popular secular literature was incorporated into a long-standing legendary tradition of depicting Jewish animosity towards the Virgin. Additionally, it suggests knowledge of the public debate organised by James I, King of neighbouring Aragon, between prominent figures from the Jewish and Christian communities in 1263. But rather than encourage such disputations, the story here, like many others in the volume, seems rather to promote the intercessory role of the Virgin in converting Jews to Christianity. The story and the collection in which it is found therefore illustrate how the tremendous growth of the cult of the Virgin Mary helped shape ideas about Jews and Judaism, as well as relations between Jews and Christians, in thirteenth-century Iberia.
 
-\### Commentary on Averroes' Middle Commentaries on the _Isagoge_ of Porphyry, the _Categories_ and _De Interpretatione_ of Aristotle
+### Commentary on Averroes' Middle Commentaries on the _Isagoge_ of Porphyry, the _Categories_ and _De Interpretatione_ of Aristotle
+
+Charles Manekin
+
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/manekinljs229-001r1200%402x.jpg" alt="" width="1800" height="2588">
 
 It is hard to overestimate the importance of the first three books of the logical canon known as the Organon—the Isagoge (Introduction) of Porphyry of Tyre, and the Categories and the De Interpretatione of Aristotle—for medieval intellectual life. Already in late antiquity these books were an essential part of the medical curriculum, and all medieval physicians, Muslim, Jewish, and Christian, were expected to have mastered their comments. Students of scientific subjects commenced their studies with either these particular books, or at least their subject-matter, e.g., how we categorize the world we experience, what sorts of properties distinguish natural kinds from each other, and how we combine our concepts to form judgments about the world.
 
