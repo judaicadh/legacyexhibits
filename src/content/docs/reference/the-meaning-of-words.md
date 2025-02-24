@@ -138,3 +138,9 @@ fig. 2: Both of these works, again seen in their first printed editions, took Du
     
 
 ## Contributors
+
+to **Heidi Lerner** of Stanford University in compiling these resources. Notably, the best overviews of the history of rabbinic lexicography can be found in the prefaces and introductions to many of the dictionaries displayed in this exhibit.  
+  
+An online edition of the 1903 edition of the Jastrow Dictionary, [A Dictionary of the Targumim, the Talmud Babli and Yerushalmi, and the Midrashic Literature](https://web.archive.org/web/20200901163810/http://library.case.edu/ksl/ecoll/books/jasdic00/jasdic00.html) (London : Luzac ; New York : G.P. Putnam, 1903) is online in PDF format at [ETANA Books](https://web.archive.org/web/20200901163810/http://www.etana.org/):   
+[Volume I,  א-כ](https://web.archive.org/web/20200901163810/http://library.case.edu/ksl/ecoll/books/jasdic00/jasdic00.html)   
+[Volume II, ל-ת](https://web.archive.org/web/20200901163810/http://library.case.edu/ksl/ecoll/books/jasdic01/jasdic01.html)
