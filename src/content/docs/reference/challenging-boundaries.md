@@ -245,7 +245,7 @@ Chava Weissler
     
 *   **Ben-Amos, Dan & Mintz, Jerome R.** Shivhe ha-Besht. In praise of the Baal Shem Tov: the earliest collection of legends about the founder of HasidismBen-Amos, Dan & Mintz, Jerome R., editors and translators Northvale, N.J.: Jason Aronson, 1993
     
-*   **Ben-Sasson, Menahem.** Tsemihat ha-kehilah ha-Yehudit be-artsot ha-Islam: Kairavan, 800-1057Yerushalayim: Hotsa'at sefarim `a.sh. Y.L. Magnes, ha-Universitah ha-`Ivrit, 1996
+*   **Ben-Sasson, Menahem.** Tsemihat ha-kehilah ha-Yehudit be-artsot ha-Islam: Kairavan, 800-1057Yerushalayim: Hotsa'at sefarim a.sh. Y.L. Magnes, ha-Universitah ha-Ivrit, 1996
     
 *   **Bilu, Yoram.** Without bounds: the life and death of Rabbi Ya'aqov WazanaDetroit, Mich.: Wayne State University Press, 2000
     
