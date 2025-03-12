@@ -7,6 +7,9 @@ hero:
   title: "Jews & Journeys: Travel & the Performance of Jewish Identity"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2011-2012 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/JewsJourneys/jaffa-gate.jpg
 slug: jews-journeys
 tableOfContents:
   minHeadingLevel: 2
@@ -35,13 +38,13 @@ Galit Hasan-Rokem
 
 <img src="https://web.archive.org/web/20200901103450im_/https://www.library.upenn.edu/sites/default/files/2019-06/hasan-rokem900.jpg" alt="" width="1800" height="2588">
 
-The Wandering Jew is said to have been cursed to live forever, punished for not having let Jesus rest on the wall of his house when he was carrying the cross. The roots of this legend lie buried in the early Middle Ages and start to be visible to us from the 13th century on in the monastic chronicle of St Albans in England, Flores Historiarum composed by Roger de Wendover (d. 1236), followed by the Chronica Majora of Matthew Paris (ca. 1200-1259) at the same monastery. As can be learned from George K. Anderson's monumental The Legend of the Wandering Jew (1965) the tale wandered to the continent and was adapted to almost all languages and cultures of Europe.
+The Wandering Jew is said to have been cursed to live forever, punished for not having let Jesus rest on the wall of his house when he was carrying the cross. The roots of this legend lie buried in the early Middle Ages and start to be visible to us from the 13th century on in the monastic chronicle of St Albans in England, _Flores Historiarum_ composed by Roger de Wendover (d. 1236), followed by the _Chronica Majora_ of Matthew Paris (ca. 1200-1259) at the same monastery. As can be learned from George K. Anderson's monumental _The Legend of the Wandering Jew_ (1965) the tale wandered to the continent and was adapted to almost all languages and cultures of Europe.
 
-A particularly well distributed version of the legend emerged in German in the milieu of the Lutheran Reformation. In this version the Wandering Jew's name was Ahasver and he had been a shoemaker in Jerusalem before the curse. This version in numerous variations became the second most popular German chapbook in the 17th century, surpassed only by the chapbook about Dr. Faust. The chapbooks framed the legend from the time of Jesus with contemporary descriptions of Ahasver's appearance in various European cities and included apocalyptic hints about the approaching return of Jesus to this world. In German his most frequent sobriquet was the Eternal Jew, der ewige Jude.
+A particularly well distributed version of the legend emerged in German in the milieu of the Lutheran Reformation. In this version the Wandering Jew's name was Ahasver and he had been a shoemaker in Jerusalem before the curse. This version in numerous variations became the second most popular German chapbook in the 17th century, surpassed only by the chapbook about Dr. Faust. The chapbooks framed the legend from the time of Jesus with contemporary descriptions of Ahasver's appearance in various European cities and included apocalyptic hints about the approaching return of Jesus to this world. In German his most frequent sobriquet was the Eternal _Jew, der ewige Jude_.
 
-In the French-speaking regions, songs of the complainte genre about le Juif Errant circulated, emphasizing the tragedy of his fate according to the conventions of the genre. Romantic poetry especially in English and in German embraced the somber, lonely figure as an exemplar of unconventionality. A rich array of visual representations were distributed in conjunction with the narratives and songs, or even separately, varying from anti-Semitic stereotypes to sympathetic and respectful representations. In France the Wandering Jew became the title of a serialized novel (1844-1845) by Eugène Sue (1804-1857) in which the figure himself has a minor but rather scurrilous role as the distributor of cholera.
+In the French-speaking regions, songs of the _complainte_ genre about _le Juif Errant_ circulated, emphasizing the tragedy of his fate according to the conventions of the genre. Romantic poetry especially in English and in German embraced the somber, lonely figure as an exemplar of unconventionality. A rich array of visual representations were distributed in conjunction with the narratives and songs, or even separately, varying from anti-Semitic stereotypes to sympathetic and respectful representations. In France the Wandering Jew became the title of a serialized novel (1844-1845) by Eugène Sue (1804-1857) in which the figure himself has a minor but rather scurrilous role as the distributor of cholera.
 
-The picture at left is part of a richly illustrated 4th edition of the novel Légendes du juif errant et des seize reines de Munster (Legends of the wandering Jew and the sixteen queens of Munster) by Jacques Albin Simon Collin de Plancy (1794-1881), which includes a mixture of the elements known from German and French traditions. The illustration is signed by the rather famous E. Lorsay, and the book was printed in 1866 at the workshop of the Parisian typographer Henri Plon; this workshop has survived since 1852 until the present day under various ownerships as a publishing house. In the picture the tailor Jean de Leyde, John (Jan) of Leiden, aka John Bockold or John Bockelson, and a leading figure of the short lived Münster Rebellion, reads a letter brought to him by the Wandering Jew Isaac. This name reminds us of the name Isaac Laquedem \[here spelled Lakhedem = Isaac from the Orient or Ancient Isaac\] that appears in many Wandering Jew traditions from the Netherlands and is confirmed later in the novel in the chapter titled "Le juif errant") summoning him to join the rebels in Münster. Portraying the Wandering Jew as the messenger might have signaled the utopian apocalyptic vision that characterized this Anabaptist enterprise; however, the rebellion was harshly vanquished and Jean-Jan-John cruelly tortured and executed with the other leaders of the Rebellion. The Wandering Jew apparently continued wandering.
+The picture at left is part of a richly illustrated 4th edition of the novel _Légendes du juif errant et des seize reines de Munster_ (Legends of the wandering Jew and the sixteen queens of Munster) by Jacques Albin Simon Collin de Plancy (1794-1881), which includes a mixture of the elements known from German and French traditions. The illustration is signed by the rather famous E. Lorsay, and the book was printed in 1866 at the workshop of the Parisian typographer Henri Plon; this workshop has survived since 1852 until the present day under various ownerships as a publishing house. In the picture the tailor Jean de Leyde, John (Jan) of Leiden, aka John Bockold or John Bockelson, and a leading figure of the short lived Münster Rebellion, reads a letter brought to him by the Wandering Jew Isaac. This name reminds us of the name Isaac Laquedem \[here spelled Lakhedem = Isaac from the Orient or Ancient Isaac\] that appears in many Wandering Jew traditions from the Netherlands and is confirmed later in the novel in the chapter titled "Le juif errant") summoning him to join the rebels in Münster. Portraying the Wandering Jew as the messenger might have signaled the utopian apocalyptic vision that characterized this Anabaptist enterprise; however, the rebellion was harshly vanquished and Jean-Jan-John cruelly tortured and executed with the other leaders of the Rebellion. The Wandering Jew apparently continued wandering.
 
 ### The Travels of Benjamin of Tudela
 
@@ -51,13 +54,13 @@ Martin Jacobs
 
 [<img src="https://web.archive.org/web/20200901103450im_/https://www.library.upenn.edu/sites/default/files/2019-06/jacobs-leaf900.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103450mp_/https://www.library.upenn.edu/collections/online-exhibits/jews-journeys/travels-benjamin-tudela?item=1)
 
-The Katz Center's Rare Book Room holds a copy of one of the earliest print editions of Benjamin of Tudela's late-twelfth-century itinerary, Massaʻot shel Rabbi Binyamin (מסעות של רבי בנימין), which was published in Freiburg (in the German Breisgau region) by ha-Zifroni in 1583.
+The Katz Center's Rare Book Room holds a copy of one of the earliest print editions of Benjamin of Tudela's late-twelfth-century itinerary, _Massaʻot shel Rabbi Binyamin_ (מסעות של רבי בנימין), which was published in Freiburg (in the German Breisgau region) by ha-Zifroni in 1583.
 
-Although his journey purportedly extended from Iberia to the Middle and Far East we have very few reliable details regarding the life of Benjamin of Tudela. According to the anonymous introduction to his book, he originated from the city of Tudela in Navarre (northern Spain) and returned from his far-flung peregrinations in 1173, which is the only firm date that we have for him. His Book of Travelsconstitutes one of the earliest Hebrew travel accounts, a genre whose emergence seems to be tied to the Crusades, when the increase in maritime traffic between western Europe and the eastern Mediterranean also included Jewish pilgrims and merchants traveling to the Levant. However, it is far from clear whether Benjamin visited all the places listed in the itinerary. For only the opening lines (according to the Freiburg print depicted here) quote the traveler's own words: "Rabbi Benjamin ben Jonah ... said: First, I set out from the city of Saragossa and then I went down the River Ebro to Tortosa. From there it took me two days to the ancient city of Tarragona \[the place names are corrupted\]." But then the first-person narrative comes to an abrupt end. Henceforth the Tudelan neither emerges as the protagonist of his travels nor as the book's narrator, which raises a host of questions concerning authorship, editing, and transmission of the work. That said, Massa‘ot offers its readers a description of much of the then-known world, as viewed through a medieval Jewish lens.
+Although his journey purportedly extended from Iberia to the Middle and Far East we have very few reliable details regarding the life of Benjamin of Tudela. According to the anonymous introduction to his book, he originated from the city of Tudela in Navarre (northern Spain) and returned from his far-flung peregrinations in 1173, which is the only firm date that we have for him. His _Book of Travels_ constitutes one of the earliest Hebrew travel accounts, a genre whose emergence seems to be tied to the Crusades, when the increase in maritime traffic between western Europe and the eastern Mediterranean also included Jewish pilgrims and merchants traveling to the Levant. However, it is far from clear whether Benjamin visited all the places listed in the itinerary. For only the opening lines (according to the Freiburg print depicted here) quote the traveler's own words: "Rabbi Benjamin ben Jonah ... said: First, I set out from the city of Saragossa and then I went down the River Ebro to Tortosa. From there it took me two days to the ancient city of Tarragona \[the place names are corrupted\]." But then the first-person narrative comes to an abrupt end. Henceforth the Tudelan neither emerges as the protagonist of his travels nor as the book's narrator, which raises a host of questions concerning authorship, editing, and transmission of the work. That said, _Massa‘ot_ offers its readers a description of much of the then-known world, as viewed through a medieval Jewish lens.
 
-Far from falling out of fashion, Benjamin's Travels gained a new lease on life with the advent of Hebrew print and was first brought to press in Constantinople (Istanbul) by Eli‘ezer ben Gershon Soncino in 1543. In fact, the Freiburg edition featured here is based on this editio princeps (and thus repeats some of its errors). Around the same time, Benjamin's itinerary was first translated into Latin and hence became accessible to an early modern Christian audience during the period of New World exploration. This translation titled Itinerarium Beniamini Tudelensis ... ex Hebraico Latinum factum was rendered by Benito Arias Montano, a Spanish humanist and biblical scholar, and published in Antwerp at Christopher Plantin's world-renowned printing house in 1575. The University of Pennsylvania's Rare Book and Manuscript Library Lea Collection indeed holds a copy of this first Latin print of Benjamin's itinerary.
+Far from falling out of fashion, Benjamin's _Travels_ gained a new lease on life with the advent of Hebrew print and was first brought to press in Constantinople (Istanbul) by Eli‘ezer ben Gershon Soncino in 1543. In fact, the Freiburg edition featured here is based on this _editio princeps_ (and thus repeats some of its errors). Around the same time, Benjamin's itinerary was first translated into Latin and hence became accessible to an early modern Christian audience during the period of New World exploration. This translation titled _Itinerarium Beniamini Tudelensis ... ex Hebraico Latinum factum_ was rendered by Benito Arias Montano, a Spanish humanist and biblical scholar, and published in Antwerp at Christopher Plantin's world-renowned printing house in 1575. The University of Pennsylvania's Rare Book and Manuscript Library Lea Collection indeed holds a copy of this first Latin print of Benjamin's itinerary.
 
-At the turn of the twentieth century, Marcus Nathan Adler, took the unprecedented step of basing a critical edition of the Hebrew text (that together with a rather antiquated English translation is still standard today) on several medieval manuscripts: The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary (London: Oxford University Press, 1907).
+At the turn of the twentieth century, Marcus Nathan Adler, took the unprecedented step of basing a critical edition of the Hebrew text (that together with a rather antiquated English translation is still standard today) on several medieval manuscripts: _The Itinerary of Benjamin of Tudela: Critical Text, Translation and Commentary_ (London: Oxford University Press, 1907).
 
 ### The Jewish Discovery of America
 
@@ -75,11 +78,11 @@ Thanks to the exceptional generosity of Lawrence J. Schoenberg and Barbara Brizd
 
 Almosnino was born probably in 1518 in Salonika to an Aragonese Jewish family which fled Spain after the expulsion decree of 1492 and settled in that Ottoman port city. Almosnino was a Rabbi and a _Posek_ (adjudicator) and one of the prominent leaders of the Jewish communities in Greece, as well as a prolific author who wrote exegetical, historiographical, philosophic and scientific works.
 
-This sixteenth century manuscript contains two astronomical works together with their commentaries. The first, Bet elohim (House of God), dated no later than 1551, is Almosnino's commentary upon a Medieval Latin astronomical work De Sphaera by Johannes De Sacrobosco, which had been translated into Hebrew during the fourteenth century. Almosnino used Shelomo ben Avram Avigdor's translation entitled Mar'e ha-'ofanim. The second work in Almosnino's manuscript is Sha'ar ha-shamayim (Gate of Heaven), which is the author's translation and commentary upon the important fifteenth century astronomical work by Georg Peurbach, Theoricae Novae Planetarum.
+This sixteenth century manuscript contains two astronomical works together with their commentaries. The first, _Bet elohim_ (House of God), dated no later than 1551, is Almosnino's commentary upon a Medieval Latin astronomical work _De Sphaera_ by Johannes De Sacrobosco, which had been translated into Hebrew during the fourteenth century. Almosnino used Shelomo ben Avram Avigdor's translation entitled _Mar'e ha-'ofanim_. The second work in Almosnino's manuscript is _Sha'ar ha-shamayim_ (Gate of Heaven), which is the author's translation and commentary upon the important fifteenth century astronomical work by Georg Peurbach, _Theoricae Novae Planetarum_.
 
-The geographical part of the unpublished manuscript copy of Bet Elohim by Almosnino contains two firsts in the history of Hebrew letters concerning the knowledge about the discovery of America. On the verso of folio 23 we find the first mention in Jewish literature of the name Amerigo Vespucci אמריקו וישפוסיאו, whom Almosnino credits as the "discoverer" המוצא of America and after whom the newly discovered land is named. This is also the first time that the the name of the continent אמיריקה is mentioned in Hebrew (the name America was first coined by a German cartographer in 1507). Ironically, this discussion of the discovery of the Americas occurs in a commentary on a Medieval Latin astronomical work in which the very existence of the continent was not yet known in Europe.
+The geographical part of the unpublished manuscript copy of _Bet Elohim_ by Almosnino contains two firsts in the history of Hebrew letters concerning the knowledge about the discovery of America. On the verso of folio 23 we find the first mention in Jewish literature of the name Amerigo Vespucci אמריקו וישפוסיאו, whom Almosnino credits as the "discoverer" המוצא of America and after whom the newly discovered land is named. This is also the first time that the the name of the continent אמיריקה is mentioned in Hebrew (the name America was first coined by a German cartographer in 1507). Ironically, this discussion of the discovery of the Americas occurs in a commentary on a Medieval Latin astronomical work in which the very existence of the continent was not yet known in Europe.
 
-The first explicit mention of the new geographical discoveries in the west by a Jewish author is found in the well-known cosmographical work Iggeret orhot ‘olam (A letter concerning the manners of the world) written by Abraham Farissol in 1524. Again, thanks to the philanthropic vision of Lawrence J. Schoenberg and Barbara Brizdle, Penn received a unique contemporary manuscript copy of this work (LJS 499). Farissol's treatise, which was printed for the first time in 1586 in Venice, mentions Columbus' discoveries of some islands in the west and dedicates a whole chapter to the discovery of the New World עולם חדש without mentioning Vespucci's name. Farissol's work is an adaptation of a contemporary Italian book, which in turn relied, for its New World chapters, on a text that came to be known as Vespucci's second letter. Interestingly, there is a previous indication of Columbus' first voyage in Hebrew, which can be found in a personal letter sent from Florence by an Italian Jew as early as 1494!
+The first explicit mention of the new geographical discoveries in the west by a Jewish author is found in the well-known cosmographical work _Iggeret orhot ‘olam_ (A letter concerning the manners of the world) written by Abraham Farissol in 1524. Again, thanks to the philanthropic vision of Lawrence J. Schoenberg and Barbara Brizdle, Penn received a unique contemporary manuscript copy of this work (LJS 499). Farissol's treatise, which was printed for the first time in 1586 in Venice, mentions Columbus' discoveries of some islands in the west and dedicates a whole chapter to the discovery of the New World עולם חדש without mentioning Vespucci's name. Farissol's work is an adaptation of a contemporary Italian book, which in turn relied, for its New World chapters, on a text that came to be known as Vespucci's second letter. Interestingly, there is a previous indication of Columbus' first voyage in Hebrew, which can be found in a personal letter sent from Florence by an Italian Jew as early as 1494!
 
 ### Voyages of Enlightenment
 
@@ -139,7 +142,7 @@ During the last decades of the nineteenth century, individual Ottoman Jews began
 
 These and various other factors, including the continued search for economic betterment as well as political freedoms—a consideration which was particularly relevant for the active Jewish socialists of Salonica—brought as many as 60,000 Jews from Ottoman and formerly Ottoman territories to the United States by 1924, when the American government all but closed its doors to immigrants from southern and eastern Europe.
 
-By this time, Jews of Ottoman origin had formed communities in various cities across the United States, including Seattle, Los Angeles, Cincinnati, Atlanta, Chicago, and Philadelphia, although the greater New York area remained the epicenter of the new Ottoman Jewish émigré populations. These communities settled in particular districts and established various religious institutions and places of leisure of their own, often organizing themselves according to their cities of origin in the Old World. At the same time, a Ladino newspaper, La Amerika, offered the new Judeo- Spanish-speaking immigrants among them a shared, virtual community by 1910.
+By this time, Jews of Ottoman origin had formed communities in various cities across the United States, including Seattle, Los Angeles, Cincinnati, Atlanta, Chicago, and Philadelphia, although the greater New York area remained the epicenter of the new Ottoman Jewish émigré populations. These communities settled in particular districts and established various religious institutions and places of leisure of their own, often organizing themselves according to their cities of origin in the Old World. At the same time, a Ladino newspaper, _La Amerika_, offered the new Judeo- Spanish-speaking immigrants among them a shared, virtual community by 1910.
 
 Within a year, a number of self-appointed leaders of these new Jewish immigrant groups joined forces with communal elites from the established Jewish communities of New York to create an organization they hoped would attend to the particular needs of the Greek-, Arabic-, and Ladino-speaking Jews who had recently arrived in the United States from the Ottoman Empire and its successor states in southeastern Europe. Although the organization was founded as "The Federation of the Oriental Jews of America" in 1912, the founders had drafted a proposed constitution for their fledgling organization already in 1911: an original typescript copy of this document forms part of the Arnold and Deanne Kaplan Collection of Early American Judaica at the Library at the Katz Center in Philadelphia. In this text, we get a glimpse of the concerns of the organization's founders, who sought to accelerate the assimilation of the recent Levantine Jewish immigrants to the United States by offering night classes in English, while also discouraging any political debates that might alienate the new immigrants from one another, or from their new government.
 
@@ -149,7 +152,7 @@ Nils Roemer
 
 <img src="https://web.archive.org/web/20200901103450im_/https://www.library.upenn.edu/sites/default/files/2019-06/roemer900.jpg" alt="" width="1800" height="2588">
 
-One of the most unusual places for publication of Jewish art, Skizzen aus Litauen, Weissrussland und Kurland (1916), is dedicated to the infantry of General Erich Ludendorf. The experience of war and destruction paradoxically also served German Jewish soldiers to "discover" Eastern European Jews.
+One of the most unusual places for publication of Jewish art, _Skizzen aus Litauen, Weissrussland und Kurland_ (1916), is dedicated to the infantry of General Erich Ludendorf. The experience of war and destruction paradoxically also served German Jewish soldiers to "discover" Eastern European Jews.
 
 Working for the press office of the German Army Supreme Command for the East, the German writer Herbert Eulenberg and German Jewish artist Hermann Struck created a wide canvas of Lithuanian farmers as well as Latvian and Polish women and men. They detailed in broad strokes the Jews of Eastern Europe.
 
@@ -161,7 +164,7 @@ Jack Kugelmass
 
 <img src="https://web.archive.org/web/20200901103450im_/https://www.library.upenn.edu/sites/default/files/2019-06/kugelmass-900.jpg" alt="" width="1800" height="2588">
 
-In the introduction to his 1954 book Durkh umbakante lender Hayyim Shoshkes relates a childhood memory of the family gathered over dinner and listening to his father read aloud from a newspaper report about the latest skirmishes in the Spanish-American War. The six-year-old future travel writer was particularly taken by the account of Cuba's beauty and the illuminated entryway to Havana—descriptions that carried his imagination away to far-off places:
+In the introduction to his 1954 book _Durkh umbakante lender_ Hayyim Shoshkes relates a childhood memory of the family gathered over dinner and listening to his father read aloud from a newspaper report about the latest skirmishes in the Spanish-American War. The six-year-old future travel writer was particularly taken by the account of Cuba's beauty and the illuminated entryway to Havana—descriptions that carried his imagination away to far-off places:
 
 > At night I dreamed that my wooden horse that stood right next to my bed, took on another form, became large and began to move. . . . Wings sprouted from the horse's back and it became like a creature called Pegasus found in my picture book. I sit on him and he carried me to unfamiliar Cuba, I am lifted higher and higher and fly over the ruins of the Land of Israel and the temples of Baghdad, the city of my storybooks. . . . I fly ever farther, cut through a forest filled with wild animals and jump up with a frightful scream. . . . Next to me stands my father, holds and comforts me. I tell him my dream and he says: "That means, my child, that you will sprout wings, you'll travel a lot, you'll see a great deal! This was a good dream, you have nothing to be afraid of."
 
@@ -169,7 +172,7 @@ Avraham Shoshkes's prophecy did come to pass and for a good forty years his son 
 
 Shoshkes's literary talent was undiluted, his writerly ambitions entirely devoted to journalism. But what most distinguishes Shoshkes's oeuvre from Hirshbein's is how closely tied his journeys were to Jewish relief work, and how preoccupied the writing to the social, political, and economic situation of Jews far removed from the center of their people's lives— whose welfare, until his dying day, remained the core of his project.
 
-Lender in shtet is Shoshkes's first compilation, based on travel accounts he wrote between 1924 and 1927. The book is divided into nine sections each devoted to a different region and begins with a five short pieces on the World Exposition in Wembley. Included in the book are reportages that appear over and again in his writings—Egypt, Israel, North Africa and Syria. Less common are his pieces on Spain, Italy and the Balkans since in his later writing Shoshkes preferred more exotic locales. Probably the most interesting section in the book is the final one titled Poyln. These nineteen pieces, which were written in connection with his travels to Poland's periphery on behalf of the cooperative banking movement, contain some of Shoshkes's most interesting work. They demonstrate how the consummate travel writer hardly needs a foreign locale to work his craft but they also suggest how exotic the periphery must have seemed to many of Shoshkes's readers in Warsaw's Jewish daily newspaper Haynt.
+_Lender in shtet_ is Shoshkes's first compilation, based on travel accounts he wrote between 1924 and 1927. The book is divided into nine sections each devoted to a different region and begins with a five short pieces on the World Exposition in Wembley. Included in the book are reportages that appear over and again in his writings—Egypt, Israel, North Africa and Syria. Less common are his pieces on Spain, Italy and the Balkans since in his later writing Shoshkes preferred more exotic locales. Probably the most interesting section in the book is the final one titled Poyln. These nineteen pieces, which were written in connection with his travels to Poland's periphery on behalf of the cooperative banking movement, contain some of Shoshkes's most interesting work. They demonstrate how the consummate travel writer hardly needs a foreign locale to work his craft but they also suggest how exotic the periphery must have seemed to many of Shoshkes's readers in Warsaw's Jewish daily newspaper _Haynt_.
 
 ### In Search of a Gaze
 
@@ -189,7 +192,7 @@ The Paola and Bertrand Lazard Holy Land collection abounds in images of sites ho
 
 Notice that the only figure actually looking at us \[the observers\], in an amalgamation of sadness and rebuke, is the male. The gazes of the three women represented in these postcards as Yemenite are not turning their eyes to look at us. It is as if they were exotic curiosities staged for display. The absence of their direct look can be understood as a result of their shyness, modesty, and religious or cultural restrictions. It can also be understood instrumentally, assuming that the focus of these photographs is the Yemenite garments or handcrafts and not the women as subjects. This juxtaposition exposes the additional problematic layer of women's representation compared to that of men. Women more than men served, and still do, as objects to observe; it is not just the quantity but also the quality of the representation. Devoting my work to extracting women's voices has made me listen frequently to what seems at first like silence, but then echoes multiple voices. Engaging with these Yemenite women's "non-gazes" can make us, the observers, see them as objects, but it can also force us to look inside ourselves. Indirect-gaze observation results here in an "about face" that may make us feel uncomfortable and can force us into self-reflection. This self-reflection offers a way to "ask" these women to turn their faces and direct their gaze toward the camera so we can look into their eyes and see not just ourselves but also them.
 
-### The Land of Israel (1936): A Journey in Black and White
+### _The Land of Israel_ (1936): A Journey in Black and White
 
 Anat Zanger
 
@@ -197,9 +200,9 @@ Anat Zanger
 
 The short film (11 minutes) "The Land of Israel" (AKA "The Wedding") was made during the 1930s. Following the tradition of the travelogue, the film focuses on events and places that took place in pre-state Israel during a visit that lasted a few months. The footage has no voice-over to accompany the visual, but the traveler's authoritative official tone and his emphases are present through the captions, that divide the photographed pilgrimage into a few chapters, each one dealing with a different place or event. Among them are: We Enter Haifa Port; Jerusalem: A Panorama of the Old City; A Wedding in the Holy City; and Wilderness of the Desert. The black and white images with their hallucinatory quality produce an interesting mélange of reality and dream, while the images themselves are occasionally in a dialogue with the existing imagery of the Holy Land as a primordial landscape, especially those of Jerusalem and the desert (see for example the drawings of David Robert).
 
-Travel and cinema have a long history, dating back to the late nineteenth century, to the very inception of the cinematic medium. Travel developed as an intrinsic form of cinema, consonant with common expressions and coinings such as "travelling shot" which has to do with shooting within a movement, and the term "motion picture" itself. While film and photography were developed in tandem with industrialized modes of transportation (trains, automobiles etc.) the journey became one of cinema's most popular tropes (see Jeffrey Ruoff, 2006). From The Arrival of a Train at la Ciotat (Lumière Brothers, 1885) and The Voyage to the Moon (Georges Méliès, 1902) to Description of a Struggle (Chris Marker, 1960), La Bas (English title Down There, Chantal Akerman, 2006) and The Band's Visit (Eran Kolirin, 2007) the journey has been developed not only as a genre that was produced by the grand studios, but also as a tool for documentation and expression by independent filmmakers and individuals who made travelogues, home-movies, and filmed diaries, using non-professional equipment. In this sense, "The Land of Israel" is an early and rare example of such a documentation. But despite the individual quality of this production, it seems that the film is produced in line with the norms of the nonfiction films of its period, as well as the Zionist movement. Thus it creates an account in which the objective "voice of truth" (Roland Barthes, 1970) of his journey prevails, while dealing with "the Land of Israel" as part of the "grand narrative" of return.
+Travel and cinema have a long history, dating back to the late nineteenth century, to the very inception of the cinematic medium. Travel developed as an intrinsic form of cinema, consonant with common expressions and coinings such as "travelling shot" which has to do with shooting within a movement, and the term "motion picture" itself. While film and photography were developed in tandem with industrialized modes of transportation (trains, automobiles etc.) the journey became one of cinema's most popular tropes (see Jeffrey Ruoff, 2006). From _The Arrival of a Train at la Ciotat_ (Lumière Brothers, 1885) and _The Voyage to the Moon_ (Georges Méliès, 1902) to _Description of a Struggle_ (Chris Marker, 1960), _La Bas_ (English title Down There, Chantal Akerman, 2006) and _The Band's Visit_ (Eran Kolirin, 2007) the journey has been developed not only as a genre that was produced by the grand studios, but also as a tool for documentation and expression by independent filmmakers and individuals who made travelogues, home-movies, and filmed diaries, using non-professional equipment. In this sense, "The Land of Israel" is an early and rare example of such a documentation. But despite the individual quality of this production, it seems that the film is produced in line with the norms of the nonfiction films of its period, as well as the Zionist movement. Thus it creates an account in which the objective "voice of truth" (Roland Barthes, 1970) of his journey prevails, while dealing with "the Land of Israel" as part of the "grand narrative" of return.
 
-Following Zali Gurevitch, we may observe two types of time: the "big time" of Jewish tradition and history, and the "small time" of the everyday. The "Israeli present," says Gurevitch, "resists the present, denies the everyday. Not that there is no everyday: there is a routine, \[...\] but as a cultural articulation or experience it remains open, like a book which refuses to be finished." (2007: 84, my translation). Interestingly, the short film focuses mainly on events and occurrences that belong to the "big time" of Jewish holidays and pre-state Israel, such as the Festival of Purim in Tel Aviv; the Tu Bishvat holiday; and Succoth. In this context, human figures and faces are present in the film most of the time as part of the "big events:" that of the wedding, the Purim festivity, and the announcing of the start of the Sabbath in a Jerusalem street. However, some other moments emerge along the traditional "big time" - those depicting daily life, which also include some local faces: the women bathing in the Dead Sea, seen from a distance, and the smiling faces of two young religious boys from Mea She'arim that will reappear thirty years later both in the film made by a French director Chris Marker—Description of a Struggle (1960) and later on, in the film of an Israeli film director, David Perlov—In Jerusalem (1963). At the rear plain of some frames from Jerusalem and the desert, one can discern that the "contact zone," (Pratt) which existed between the traveler and the locals, also contained Palestinians and Bedouin, as a passing line of camels or donkeys, or just as shadows seen from a distant point.
+Following Zali Gurevitch, we may observe two types of time: the "big time" of Jewish tradition and history, and the "small time" of the everyday. The "Israeli present," says Gurevitch, "resists the present, denies the everyday. Not that there is no everyday: there is a routine, \[...\] but as a cultural articulation or experience it remains open, like a book which refuses to be finished." (2007: 84, my translation). Interestingly, the short film focuses mainly on events and occurrences that belong to the "big time" of Jewish holidays and pre-state Israel, such as the Festival of Purim in Tel Aviv; the Tu Bishvat holiday; and Succoth. In this context, human figures and faces are present in the film most of the time as part of the "big events:" that of the wedding, the Purim festivity, and the announcing of the start of the Sabbath in a Jerusalem street. However, some other moments emerge along the traditional "big time" - those depicting daily life, which also include some local faces: the women bathing in the Dead Sea, seen from a distance, and the smiling faces of two young religious boys from _Mea She'arim_ that will reappear thirty years later both in the film made by a French director Chris Marker—_Description of a Struggle_ (1960) and later on, in the film of an Israeli film director, David Perlov—_In Jerusalem_ (1963). At the rear plain of some frames from Jerusalem and the desert, one can discern that the "contact zone," (Pratt) which existed between the traveler and the locals, also contained Palestinians and Bedouin, as a passing line of camels or donkeys, or just as shadows seen from a distant point.
 
 Interestingly, the filmmaker did not sign his name in the film. All we know is that he was a Hebrew Union College rabbinical student whose family name was Green.
 
@@ -209,9 +212,9 @@ Eitan Bar-Yosef
 
 <img src="https://web.archive.org/web/20200901103450im_/https://www.library.upenn.edu/sites/default/files/2019-06/bar-yosef900.jpg" alt="" width="1800" height="2588">
 
-Shimon Tzabar (1926-2007) was an Israeli artist, poet and journalist whose travel account How I Discovered Africa was published in 1958, just as Israel—under the guidance of Foreign Minister Golda Meir—turned to postcolonial Black Africa in search of friendship and commerce. Tzabar's Introduction reminds us how the Israeli encounter with Africa was shaped by European perceptions of the "Dark Continent." This voyage, Tzabar playfully explains, was in fact his fifth journey to Africa: the first took place in a boat called "Tarzan's Adventures," when Shimon—then a toddler—reached a jungle teeming with African natives and wild animals. In later journeys he followed the African expeditions set out in Friedrich Wilhelm Mader's Ophir and in Henryk Sienkiewicz's In Desert and Wilderness (both translated into Hebrew in the 1920s), before joining the exciting treasure-hunt narrated by another Israeli writer-illustrator, Nahum Gutman, author of In the Land of Lobgengulu King of Zulu (1939).
+Shimon Tzabar (1926-2007) was an Israeli artist, poet and journalist whose travel account _How I Discovered Africa_ was published in 1958, just as Israel—under the guidance of Foreign Minister Golda Meir—turned to postcolonial Black Africa in search of friendship and commerce. Tzabar's Introduction reminds us how the Israeli encounter with Africa was shaped by European perceptions of the "Dark Continent." This voyage, Tzabar playfully explains, was in fact his fifth journey to Africa: the first took place in a boat called "Tarzan's Adventures," when Shimon—then a toddler—reached a jungle teeming with African natives and wild animals. In later journeys he followed the African expeditions set out in Friedrich Wilhelm Mader's Ophir and in Henryk Sienkiewicz's _In Desert and Wilderness_ (both translated into Hebrew in the 1920s), before joining the exciting treasure-hunt narrated by another Israeli writer-illustrator, Nahum Gutman, author of _In the Land of Lobgengulu King of Zulu_ (1939).
 
-Nevertheless, while Tzabar's sense of adventure and his beautiful ink drawings echo the colonial discursive and visual tradition which marks these "earlier" journeys, his real achievement lies in his ability to transcend the familiar stock of derogatory stereotypes. It is telling that, following the 1967 war, Tzabar was one of the first to denounce the Israeli occupation: exiled in London, he founded a satirical journal called Israel Imperial News—a new mouthpiece, he claimed, required for the new Israeli "empire." One is left to wonder whether Tzabar recognized the complex relationship between his bitter depiction of "colonial" Israel and the unabashedly nostalgic tone with which he lovingly recalled his first expeditions to Africa.
+Nevertheless, while Tzabar's sense of adventure and his beautiful ink drawings echo the colonial discursive and visual tradition which marks these "earlier" journeys, his real achievement lies in his ability to transcend the familiar stock of derogatory stereotypes. It is telling that, following the 1967 war, Tzabar was one of the first to denounce the Israeli occupation: exiled in London, he founded a satirical journal called _Israel Imperial News_—a new mouthpiece, he claimed, required for the new Israeli "empire." One is left to wonder whether Tzabar recognized the complex relationship between his bitter depiction of "colonial" Israel and the unabashedly nostalgic tone with which he lovingly recalled his first expeditions to Africa.
 
 ### Inscribed Travel: the visitor book at the Ammunition Hill National Memorial site in Jerusalem
 
@@ -235,139 +238,139 @@ Panoramic viewing of places mentioned in Scripture, accompanied by Bible reading
 
 ## Selected Bibliography
 
-*   **Adler, Elkan Nathan.** Jews in many landsPhiladelphia : Jewish Publication Society of America, 1905
+*   **Adler, Elkan Nathan.** _Jews in many lands._ Philadelphia : Jewish Publication Society of America, 1905
     
-*   **Adler, Elkan Nathan (editor).** Jewish travelersNew York : Bloch Pub. Co., 1931
+*   **Adler, Elkan Nathan (editor).** _Jewish travelers._ New York : Bloch Pub. Co., 1931
     
-*   **Bar-Yosef, Eitan.** The Holy Land in English culture 1799-1917 : Palestine and the question of OrientalismOxford : Clarendon Press ; New York: Oxford University Press, 2005
+*   **Bar-Yosef, Eitan.** _The Holy Land in English culture 1799-1917 : Palestine and the question of Orientalism._ Oxford : Clarendon Press ; New York: Oxford University Press, 2005
     
-*   **Baranowski, Shelly & Ellen Furlough (editors).** Being elsewhere: tourism, consumer culture, and identity in modern Europe and North AmericaAnn Arbor: University of Michigan, 2001
+*   **Baranowski, Shelly & Ellen Furlough (editors).** _Being elsewhere: tourism, consumer culture, and identity in modern Europe and North America._ Ann Arbor: University of Michigan, 2001
     
-*   **Bashkin, Orit.** The other Iraq: pluralism and culture in Hashemite IraqStanford, Calif.: Stanford University Press, 2009
+*   **Bashkin, Orit.** _The other Iraq: pluralism and culture in Hashemite Iraq._ Stanford, Calif.: Stanford University Press, 2009
     
-*   **Beaver, Adam.** Scholarly pilgrims: antiquarian visions of the Holy Land Sacred history: uses of the Christian past in the renaissance world ed. Kate van Liere, Simon Ditchfield, & Howard Louthan Oxford: Oxford University Press, 2012, 267-283
+*   **Beaver, Adam.** "Scholarly pilgrims: antiquarian visions of the Holy Land," in _Sacred history: uses of the Christian past in the renaissance world,_ ed. Kate van Liere, Simon Ditchfield, & Howard Louthan (Oxford: Oxford University Press, 2012, 267-283)
     
-*   **Behdad, Ali.** Belated travelers: orientalism in the age of colonial dissolutionDurham, N.C.: Duke University Press, 1994
+*   **Behdad, Ali.** _Belated travelers: orientalism in the age of colonial dissolution._ Durham, N.C.: Duke University Press, 1994
     
-*   **Ben-Arieh, Yehoshua.** The Rediscovery of the Holy Land in the Nineteenth CenturyJerusalem; Detroit: Magnes Press; The Hebrew University; Israel Exploration Society; Wayne State University Press, 1979
+*   **Ben-Arieh, Yehoshua.** _The Rediscovery of the Holy Land in the Nineteenth Century._ (Jerusalem; Detroit: Magnes Press; The Hebrew University; Israel Exploration Society; Wayne State University Press, 1979)
     
-*   **Black, Jeremy.** The British Abroad: The Ground Tour in the Eighteenth CenturyNew York: St. Martin's Press, 1992
+*   **Black, Jeremy.** _The British Abroad: The Ground Tour in the Eighteenth Century._ New York: St. Martin's Press, 1992
     
-*   **Buzard, James.** The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800-1918Oxford: Clarendon Press, 1987
+*   **Buzard, James.** _The Beaten Track: European Tourism, Literature, and the Ways to Culture, 1800-1918._ Oxford: Clarendon Press, 1987
     
-*   **Casson, Lionel.** Travel in the ancient worldLondon, Allen & Unwin, \[1974\]
+*   **Casson, Lionel.** _Travel in the ancient world._ London, Allen & Unwin, \[1974\]
     
-*   **Clifford, James.** Routes: travel and translation in the late twentieth centuryCambridge, Mass.: Harvard University Press, 1997
+*   **Clifford, James.** _Routes: travel and translation in the late twentieth century._ Cambridge, Mass.: Harvard University Press, 1997
     
-*   **Cohen, Julia Phillips.** Between Civic and Islamic Ottomanism: Jewish Imperial Citizenship in the Hamidian Era International Journal of Middle East Studies 44: 2 (May 2012)
+*   **Cohen, Julia Phillips.** "Between Civic and Islamic Ottomanism: Jewish Imperial Citizenship in the Hamidian Era," in _International Journal of Middle East Studies_ (44: 2 (May 2012)).
     
-*   **Davis, John.** The Landscape of Belief: Encountering the Holy Land in Nineteenth-Century American Art and CulturePrinceton: Princeton University Press, 1996
+*   **Davis, John.** _The Landscape of Belief: Encountering the Holy Land in Nineteenth-Century American Art and Culture._ Princeton: Princeton University Press, 1996
     
-*   **Eickelman, Dale F., & James Piscatori (editors).** Muslim Travellers: Pilgrimage, Migration, and the Religious ImaginationLondon; New York: Routledge, 1990
+*   **Eickelman, Dale F., & James Piscatori (editors).** _Muslim Travellers: Pilgrimage, Migration, and the Religious Imagination._ London; New York: Routledge, 1990
     
-*   **Eisenstein, Judah David (editor).** Otsar masa’ot. Ḳovets tiyurim shel nos’im Yehudim be-Erets Yisra’el, Surya, Mitsrayim ṿe-artsot aḥerot. Reshimot ‘ole regel le-kivre avot u-kedushim. \[Ozar Massaoth. A Collection of Itineraries by Jewish Travelers To Palestine, Syria, Egypt and other countries. Pilgrimage to Holy Tombs and Sepulchres.\]New York: J.D. Eisenstein, 1926; new edition, Tel-Aviv, 729,1969
+*   **Eisenstein, Judah David (editor).** _Otsar masa’ot. Ḳovets tiyurim shel nos’im Yehudim be-Erets Yisra’el, Surya, Mitsrayim ṿe-artsot aḥerot. Reshimot ‘ole regel le-kivre avot u-kedushim. \[Ozar Massaoth. A Collection of Itineraries by Jewish Travelers To Palestine, Syria, Egypt and other countries. Pilgrimage to Holy Tombs and Sepulchres.\]._ New York: J.D. Eisenstein, 1926; new edition, Tel-Aviv, 729,1969
     
-*   **Elsner, Jas and Joan-Pau Rubies (editors).** Voyages and visions : towards a cultural history of travelLondon : Reaktion, 1999
+*   **Elsner, Jas and Joan-Pau Rubies (editors).** _Voyages and visions : towards a cultural history of travel._ London : Reaktion, 1999
     
-*   **Euben, Roxanne Leslie.** Journeys to the other shore: Muslim and Western travelers in search of knowledgePrinceton: Princeton University Press, 2006
+*   **Euben, Roxanne Leslie.** _Journeys to the other shore: Muslim and Western travelers in search of knowledge._ Princeton: Princeton University Press, 2006
     
-*   **Feldman, Jackie.** Above the death pits, beneath the flag: youth voyages to Poland and the performance of Israeli National identityNew York: Berghahn Books, 2008
+*   **Feldman, Jackie.** _Above the death pits, beneath the flag: youth voyages to Poland and the performance of Israeli National identity._ New York: Berghahn Books, 2008
     
-*   **Frenkel, Miriam, Haggai Ben-Shammai, Moshe Sokolov (editors).** Sifriyah ha-yehudit bi-yeme ha-benayim: reshimot sefarim mi-Genizat Ḳahir \[Jewish library in the Middle Ages : book lists from the Cairo Genizah\]Jerusalem : Makhon Ben-Zvi le-ḥeḳer Ḳehilot Yiśra’el ba-mizraḥ, 2006
+*   **Frenkel, Miriam, Haggai Ben-Shammai, Moshe Sokolov (editors).** _Sifriyah ha-yehudit bi-yeme ha-benayim: reshimot sefarim mi-Genizat Ḳahir \[Jewish library in the Middle Ages : book lists from the Cairo Genizah\]._ Jerusalem : Makhon Ben-Zvi le-ḥeḳer Ḳehilot Yiśra’el ba-mizraḥ, 2006
     
-*   **Gregory, Derek & James Duncan (editors).** Writes of passage: reading travel writingLondon; New York: Routledge, 1999
+*   **Gregory, Derek & James Duncan (editors).** _Writes of passage: reading travel writing._ London; New York: Routledge, 1999
     
-*   **Grewal, Inderpal.** Home and harem: nation, gender, empire, and the cultures of travelDurham, NC: Duke University Press, 1996
+*   **Grewal, Inderpal.** _Home and harem: nation, gender, empire, and the cultures of travel._ Durham, NC: Duke University Press, 1996
     
-*   **Hezser, Catherine.** Jewish travel in antiquityTübingen: Mohr Siebeck, 2011
+*   **Hezser, Catherine.** _Jewish travel in antiquity._ Tübingen: Mohr Siebeck, 2011
     
-*   **Higgins, Iain Macleod.** Writing East: the "travels" of Sir John MandevillePhiladelphia: University of Pennsylvania Press, 1997
+*   **Higgins, Iain Macleod.** _Writing East: the "travels" of Sir John Mandeville._ Philadelphia: University of Pennsylvania Press, 1997
     
-*   **Hulme, Peter and Tim Youngs (editors).** The Cambridge companion to travel writingCambridge, U.K.; New York: Cambridge University Press, 2002
+*   **Hulme, Peter and Tim Youngs (editors).** _The Cambridge companion to travel writing._ Cambridge, U.K.; New York: Cambridge University Press, 2002
     
-*   **Horowitz, Elliott.** Remarkable rather for its eloquence than its truth': modern travelers encounter the Holy Land - and each other's accounts thereof Jewish Quarterly Review vol. 99, no. 4 (2009), 439-464
+*   **Horowitz, Elliott.** "Remarkable rather for its eloquence than its truth': modern travelers encounter the Holy Land - and each other's accounts thereof," in J_ewish Quarterly Review_ (vol. 99, no. 4 (2009), 439-464)
     
-*   **Idelson-Shein, Iris.** What have I to do with Wild Animals?': Glikl Bas Leib and the other woman Eighteenth Century Studies vol. 44, no 1 (Fall 2010)
+*   **Idelson-Shein, Iris.** "What have I to do with Wild Animals?': Glikl Bas Leib and the other woman," in _Eighteenth Century Studies_ (vol. 44, no 1 (Fall 2010)).
     
-*   **Irshai, Oded; Robert Bonfil, Guy Stroumsa, Rina Talgam (editors).** Jews in Byzantium: dialectics of minority and majority culturesLeiden ; Boston: Brill, 2012
+*   **Irshai, Oded; Robert Bonfil, Guy Stroumsa, Rina Talgam (editors).** _Jews in Byzantium: dialectics of minority and majority cultures._ Leiden ; Boston: Brill, 2012
     
-*   **Ish-Shalom, Michael.** Mas’e notsrim le-erets yisra’el: reshimot ve-‘eduyot le-toldot ha-yishuv ha-yehudi. \[Christian Travels in the Holy Land: Descriptions and Sources on the History of the Jews in Palestine\]Tel-Aviv: Am Oved and Dvir, 1965
+*   **Ish-Shalom, Michael.** _Mas’e notsrim le-erets yisra’el: reshimot ve-‘eduyot le-toldot ha-yishuv ha-yehudi. \[Christian Travels in the Holy Land: Descriptions and Sources on the History of the Jews in Palestine\]._ Tel-Aviv: Am Oved and Dvir, 1965
     
-*   **Jacobs, Martin.** Islamische Geschichte in jüdischen Chroniken : hebräische Historiographie des 16. und 17. JahrhundertsTübingen: Mohr Siebeck, 2004
+*   **Jacobs, Martin.** _Islamische Geschichte in jüdischen Chroniken : hebräische Historiographie des 16. und 17. Jahrhunderts._ Tübingen: Mohr Siebeck, 2004
     
-*   **Jacobs, Martin.** From Lofty Caliphs to Uncivilized 'Orientals': Images of the Muslim in Medieval Jewish Travel Literature Jewish Studies Quarterly vol. 18, no. 1 (2011) 64-90
+*   **Jacobs, Martin.** "From Lofty Caliphs to Uncivilized 'Orientals': Images of the Muslim in Medieval Jewish Travel Literature," in _Jewish Studies Quarterly_ (vol. 18, no. 1 (2011) 64-90).
     
-*   **Jacobs, Martin.** Travel Writing, Middle Ages and Early Modern Period The Cambridge Dictionary of Judaism and Jewish Culture Judith R. Baskin (ed.) (Cambridge: Cambridge University Press, 2011), 614-15
+*   **Jacobs, Martin.** "Travel Writing, Middle Ages and Early Modern Period," in _The Cambridge Dictionary of Judaism and Jewish Culture,_ Judith R. Baskin (ed.) ((Cambridge: Cambridge University Press, 2011), 614-15).
     
-*   **Kark, Ruth.** From Pilgrimage to Budding Tourism: The Role of Thomas Cook in the Rediscovery of the Holy Land in the Nineteenth Century Travelers in the Levant: Voyagers and Visionaries Edited by M. Wagstaff and S. Searigth London: ASTENE, 2001, 155-174
+*   **Kark, Ruth.** "From Pilgrimage to Budding Tourism: The Role of Thomas Cook in the Rediscovery of the Holy Land in the Nineteenth Century," in _Travelers in the Levant: Voyagers and Visionaries,_ Edited by M. Wagstaff and S. Searigth (London: ASTENE, 2001, 155-174).
     
-*   **Kugelmass, Jack.** "The rites of the tribe: the meaning of Poland for American Jewish tourists YIVO Annual of Jewish Social Science vol. 21 (1993), 395-453
+*   **Kugelmass, Jack.** "The rites of the tribe: the meaning of Poland for American Jewish tourists," in _YIVO Annual of Jewish Social Science_ (vol. 21 (1993), 395-453).
     
-*   **Lane Fox, Robin.** Travelling heroes: in the epic age of HomerNew York: Alfred A. Knopf, 2009
+*   **Lane Fox, Robin.** _Travelling heroes: in the epic age of Homer._ New York: Alfred A. Knopf, 2009
     
-*   **Lestringant, Frank.** Mapping the Renaissance world: the geographical imagination in the age of discoveryTranslated from French (Atelier du cosmographe) by David Fausett; with a foreword by Stephen Greenblatt Berkeley: University of California Press, 1994
+*   **Lestringant, Frank.** _Mapping the Renaissance world: the geographical imagination in the age of discovery._ Translated from French (Atelier du cosmographe) by David Fausett; with a foreword by Stephen Greenblatt (Berkeley: University of California Press, 1994)
     
-*   **Levinson, Joshua.** Enchanting rabbis : contest narratives between rabbis and magicians in late antiquity Jewish Quarterly Review vol. 100, no 1 (2010), 54-94
+*   **Levinson, Joshua.** "Enchanting rabbis : contest narratives between rabbis and magicians in late antiquity," in _Jewish Quarterly Review_ (vol. 100, no 1 (2010), 54-94)
     
 *   **Limor, Ora.** Mas’ot Erets ha-Ḳodesh : ‘ole regel Notsrim be-shilhe ha-‘et ha-‘atiḳah, te’ure masa’ Laṭiniyim \[Travels to the Holy Land: Christian Pilgrims in Late Antiquity\]Yerushalayim: Yad Yitsḥaḳ ben Tsevi, 1998
     
-*   **MacCannell, Dean.** The Tourist: a new theory of the leisure classBerkeley: University of California, 1999
+*   **MacCannell, Dean.** _The Tourist: a new theory of the leisure class._ Berkeley: University of California, 1999
     
-*   **Macrides, Ruth (editor).** Travel in the Byzantine world: papers from the thirty-fourth Spring Symposium of Byzantine Studies, Birmingham, April 2000Aldershot; Burlington, VT: Ashgate Variorum, 2002
+*   **Macrides, Ruth (editor).** _Travel in the Byzantine world: papers from the thirty-fourth Spring Symposium of Byzantine Studies, Birmingham, April 2000._ Aldershot; Burlington, VT: Ashgate Variorum, 2002
     
-*   **Madar, Vered.** 'Ma Khabar'" and 'Qussat Hannah': a gendered reading of two stories in the culture of Yemenite Jewish women Nashim 11 (2006) 84-104
+*   **Madar, Vered.** "'Ma Khabar'" and 'Qussat Hannah': a gendered reading of two stories in the culture of Yemenite Jewish women," in _Nashim_ (11 (2006) 84-104).
     
-*   **Mancall, Peter C. (editor).** Travel narratives from the age of discovery: an anthologyOxford; New York: Oxford University Press, 2006
+*   **Mancall, Peter C. (editor).** _Travel narratives from the age of discovery: an anthology._ Oxford; New York: Oxford University Press, 2006
     
-*   **McCormick, Michael.** Charlemagne's survey of the Holy Land : wealth, personnel, and buildings of a Mediterranean church between antiquity and the Middle AgesWashington, D.C.: Dumbarton Oaks Research Library and Collection, 2011
+*   **McCormick, Michael.** _Charlemagne's survey of the Holy Land : wealth, personnel, and buildings of a Mediterranean church between antiquity and the Middle Ages._ Washington, D.C.: Dumbarton Oaks Research Library and Collection, 2011
     
-*   **Melton, Jeffrey Allen.** Mark Twain, travel books, and tourism: the tide of a great popular movementTuscaloosa: University of Alabama Press, 2002
+*   **Melton, Jeffrey Allen.** _Mark Twain, travel books, and tourism: the tide of a great popular movement._ Tuscaloosa: University of Alabama Press, 2002
     
-*   **Mintz-Manor, Limor.** Ha-siah 'al 'ha-'olam he-hadash' ba-tarbut ha-yehudit be-'et ha-hadashah ha-mukdemet Ph.D. thesis: Hebrew University of Jerusalem, 2012
+*   **Mintz-Manor, Limor.** "Ha-siah 'al 'ha-'olam he-hadash' ba-tarbut ha-yehudit be-'et ha-hadashah ha-mukdemet," Ph.D. thesis: Hebrew University of Jerusalem, 2012
     
-*   **Noy, Chaim.** Mediation materialized: the semiotics of a visitor book as an Israeli commemoration site Critical Studies in Media Communication vol. 25, no. 2 (2008), 175-195
+*   **Noy, Chaim.** "Mediation materialized: the semiotics of a visitor book as an Israeli commemoration site," in _Critical Studies in Media Communication_ (vol. 25, no. 2 (2008), 175-195).
     
-*   **Pratt, Mary Louise.** Imperial eyes: travel writing and transculturation2nd ed. London ; New York : Routledge, 2008
+*   **Pratt, Mary Louise.** _Imperial eyes: travel writing and transculturation,_ 2nd ed. London ; New York : Routledge, 2008
     
-*   **Reiner, Elchanan.** Traditions of holy places in medieval Palestine - oral versus writtenOfferings from Jerusalem; Portrayals of Holy Places by Jewish Artists Edited by Rachel Sarfati Jerusalem: Israel Museum, 2002
+*   **Reiner, Elchanan.** _Traditions of holy places in medieval Palestine - oral versus writtenOfferings from Jerusalem; Portrayals of Holy Places by Jewish Artists,_ Edited by Rachel Sarfati (Jerusalem: Israel Museum, 2002)
     
-*   **Robertson, George ... \[et al.\] (editors).** Travellers' tales: narratives of home and displacementLondon; New York: Routledge, 1994
+*   **Robertson, George ... \[et al.\] (editors).** _Travellers' tales: narratives of home and displacement._ London; New York: Routledge, 1994
     
-*   **Roemer, Nils.** London and the East End as spectacles of urban tourism Jewish Quarterly Review vol. 99, no. 3 (2009), 416-434
+*   **Roemer, Nils.** "London and the East End as spectacles of urban tourism," in _Jewish Quarterly Review_ (vol. 99, no. 3 (2009), 416-434).
     
-*   **Rojek, Chris and John Urry (editors).** Touring cultures: transformations of travel and theoryLondon; New York: Routledge, 1997
+*   **Rojek, Chris and John Urry (editors).** _Touring cultures: transformations of travel and theory._ London; New York: Routledge, 1997
     
-*   **Rubies, Joan-Pau.** Travel and ethnology in the Renaissance: South India through European eyes, 1250-1625Cambridge; New York: Cambridge University Press, 2000
+*   **Rubies, Joan-Pau.** _Travel and ethnology in the Renaissance: South India through European eyes, 1250-1625._ Cambridge; New York: Cambridge University Press, 2000
     
-*   **Rubies, Joan-Pau.** Travellers and cosmographers: studies in the history of early modern travel and ethnologyAldershot \[England\]; Burlington, VT : Ashgate, 2007
+*   **Rubies, Joan-Pau.** _Travellers and cosmographers: studies in the history of early modern travel and ethnology._ Aldershot \[England\]; Burlington, VT : Ashgate, 2007
     
-*   **Salah, Asher.** The otherness of the self: on Samuel Romanelli's travelogue European Journal of Jewish Studies vol. 5, no. 2 (2011), 219-239
+*   **Salah, Asher.** "The otherness of the self: on Samuel Romanelli's travelogue," in _European Journal of Jewish Studies_ (vol. 5, no. 2 (2011), 219-239).
     
-*   **Schlesier, Renate & Ulrike Zellmann (editors).** Mobility and travel in the Mediterranean from antiquity to the Middle AgesMünster: Lit, 2004
+*   **Schlesier, Renate & Ulrike Zellmann (editors).** _Mobility and travel in the Mediterranean from antiquity to the Middle Ages._ Münster: Lit, 2004
     
-*   **Scranton, Philip & Janet F Davidson (editors).** The Business of tourism: place, faith, and historyPhiladelphia: University of Pennsylvania Press, 2007
+*   **Scranton, Philip & Janet F Davidson (editors).** _The Business of tourism: place, faith, and history._ Philadelphia: University of Pennsylvania Press, 2007
     
-*   **Shalev, Zur.** Sacred words and worlds: geography, religion, and scholarship, 1550-1700Leiden; Boston: Brill, 2012
+*   **Shalev, Zur.** _Sacred words and worlds: geography, religion, and scholarship, 1550-1700._ Leiden; Boston: Brill, 2012
     
-*   **Shalev, Zur.** Benjamin of Tudela, Spanish Explorer Mediterranean Historical Review vol. 25, no. 1 (2010), 17-33
+*   **Shalev, Zur.** "Benjamin of Tudela, Spanish Explorer," in _Mediterranean Historical Review_ (vol. 25, no. 1 (2010), 17-33).
     
-*   **Shandler, Jeffrey & Beth S. Wenger (editors).** Encounters with the 'Holy Land': place, past and future in American Jewish cultureHanover and London: National Museum of American Jewish History; The \[Herbert D. Katz\] Center for \[Advanced\] Judaic Studies; The University of Pennsylvania Libraries; in Association with Brandeis University Press. 1997
+*   **Shandler, Jeffrey & Beth S. Wenger (editors).** _Encounters with the 'Holy Land': place, past and future in American Jewish culture._ (Hanover and London: National Museum of American Jewish History; The \[Herbert D. Katz\] Center for \[Advanced\] Judaic Studies; The University of Pennsylvania Libraries; in Association with Brandeis University Press. 1997)
     
-*   **Shumsky, Dimitry.** Czechs, Germans, Arabs, Jews: Franz Kafka's 'Jackals and Arabs' between Bohemia and Palestine AJS Review vol. 33, no. 1 (2009), 71-100
+*   **Shumsky, Dimitry.** "Czechs, Germans, Arabs, Jews: Franz Kafka's 'Jackals and Arabs' between Bohemia and Palestine," in _AJS Review_ (vol. 33, no. 1 (2009), 71-100).
     
-*   **Stagl, Justin.** A history of curiosity : the theory of travel, 1550-1800Chur, Switzerland: Harwood Academic Publishers, 1995
+*   **Stagl, Justin.** _A history of curiosity : the theory of travel, 1550-1800._ Chur, Switzerland: Harwood Academic Publishers, 1995
     
-*   **Urry, John and Jonas Larsen.** The tourist gaze 3.03rd ed. Los Angeles; London: SAGE, 2011
+*   **Urry, John and Jonas Larsen.** _The tourist gaze 3.0._ 3rd ed. Los Angeles; London: SAGE, 2011
     
-*   **Vogel, Lester I.** To See a Promised Land: Americans and the Holy Land in the Nineteenth CenturyUniversity Park, PA: The Pennsylvania State University Press, 1993
+*   **Vogel, Lester I.** _To See a Promised Land: Americans and the Holy Land in the Nineteenth Century._ University Park, PA: The Pennsylvania State University Press, 1993
     
-*   **Wahrman, Dror, Gavin Carney, and Nitza Rosovsky.** Capturing the Holy Land: M.J. Diness and the Beginnings of Photography in JerusalemCambridge, MA: Harvard Semitic Museum, 1993
+*   **Wahrman, Dror, Gavin Carney, and Nitza Rosovsky.** _Capturing the Holy Land: M.J. Diness and the Beginnings of Photography in Jerusalem._ Cambridge, MA: Harvard Semitic Museum, 1993
     
-*   **Westren, Scott (editor).** Discovering new worlds: essays on medieval exploration and imaginationNew York : Garland, 1991
+*   **Westren, Scott (editor).** _Discovering new worlds: essays on medieval exploration and imagination._ New York : Garland, 1991
     
-*   **Withey, Lynne.** Grand Tours and Cook's Tours: A History of Leisure Travel, 1750-1915New York: William Morrow, 1997
+*   **Withey, Lynne.** _Grand Tours and Cook's Tours: A History of Leisure Travel, 1750-1915._ New York: William Morrow, 1997
     
-*   **Zanger, Anat.** 'Beaufort' and 'My Father, My Lord': traces of the binding myth and the mother's voice Israeli cinema; identities in motion Edited by Miri Talmon and Yaron Peleg Austin: University of Texas Press, 2011, 225-238
+*   **Zanger, Anat.** "'Beaufort' and 'My Father, My Lord': traces of the binding myth and the mother's voice," in _Israeli cinema; identities in motion,_ Edited by Miri Talmon and Yaron Peleg (Austin: University of Texas Press, 2011, 225-238).
     
 
 ## Contributors
