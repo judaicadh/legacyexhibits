@@ -11,6 +11,9 @@ hero:
     the state"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2016-2017 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/ExpandingJewishPoliticalThought/expandingsplash.jpg
 slug: expanding-jewish-political-thought
 tableOfContents:
   minHeadingLevel: 2
@@ -318,41 +321,42 @@ In fact, far from functioning outside politics, from the middle of the nineteent
 
 ## Contributors
 
-John Ackerman - University of Kent / Jody Ellant and Howard Reiter Family Fellowship
-
-Samuel Brody - University of Kansas / Albert J. Wood Fellowship
-
-Julie Cooper - Tel Aviv University / Robert Carrady Fellowship
-
-Lois Dubin - Smith College / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Golan Gur - University of Cambridge / Dalck & Rose Feith Family Fellowship
-
-Yuval Jobani - Tel Aviv University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
-
-Meirav Jones - Yale University / Charles W. & Sally Rothfeld Fellowship
-
-Rebecca Kobrin - Columbia University / Ella Darivoff Fellowship
-
-Nitzan Lebovic - Lehigh University / Ruth Meltzer Fellowship
-
-Mordechai Levy-Eichel - Princeton University / Ruth Meltzer Fellowship
-
-Menachem Lorberbaum - Tel Aviv University / Ellie and Herbert D. Katz Distinguished Fellowship, Erika A. Strauss Teaching Fellowship
-
-Vered Sakal - Tel Aviv University / Jody Ellant and Howard Reiter Family Fellowship
-
-Orr Scharf - The Open University of Israel / Ruth Meltzer Fellowship
-
-Claude B. Stuczynski - Bar-Ilan University / Nancy S. & Laurence E. Glick Teaching Fellowship, Primo Levi Fellowship, Rose & Henry Zifkin Teaching Fellowship
-
-Vasileios Syros - Academy of Finland / Maurice Amado Foundation Fellowship
-
-Joshua Teplitsky - Stony Brook University / Ruth Meltzer Fellowship
-
-Giddon Ticotsky (Writers' words | Ben Gurion) - Stanford University / Ruth Meltzer Fellowship
-
-Irene Tucker - University of California, Irvine / Maurice Amado Foundation Fellowship
+*   John Ackerman - University of Kent / Jody Ellant and Howard Reiter Family Fellowship
+    
+*   Samuel Brody - University of Kansas / Albert J. Wood Fellowship
+    
+*   Julie Cooper - Tel Aviv University / Robert Carrady Fellowship
+    
+*   Lois Dubin - Smith College / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Golan Gur - University of Cambridge / Dalck & Rose Feith Family Fellowship
+    
+*   Yuval Jobani - Tel Aviv University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Meirav Jones - Yale University / Charles W. & Sally Rothfeld Fellowship
+    
+*   Rebecca Kobrin - Columbia University / Ella Darivoff Fellowship
+    
+*   Nitzan Lebovic - Lehigh University / Ruth Meltzer Fellowship
+    
+*   Mordechai Levy-Eichel - Princeton University / Ruth Meltzer Fellowship
+    
+*   Menachem Lorberbaum - Tel Aviv University / Ellie and Herbert D. Katz Distinguished Fellowship, Erika A. Strauss Teaching Fellowship
+    
+*   Vered Sakal - Tel Aviv University / Jody Ellant and Howard Reiter Family Fellowship
+    
+*   Orr Scharf - The Open University of Israel / Ruth Meltzer Fellowship
+    
+*   Claude B. Stuczynski - Bar-Ilan University / Nancy S. & Laurence E. Glick Teaching Fellowship, Primo Levi Fellowship, Rose & Henry Zifkin Teaching Fellowship
+    
+*   Vasileios Syros - Academy of Finland / Maurice Amado Foundation Fellowship
+    
+*   Joshua Teplitsky - Stony Brook University / Ruth Meltzer Fellowship
+    
+*   Giddon Ticotsky (Writers' words | Ben Gurion) - Stanford University / Ruth Meltzer Fellowship
+    
+*   Irene Tucker - University of California, Irvine / Maurice Amado Foundation Fellowship
+    
 
 #### **Special thanks**
 
