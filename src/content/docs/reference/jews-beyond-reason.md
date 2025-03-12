@@ -8,6 +8,9 @@ hero:
   title: Jews beyond Reason
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2015–2016 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/JewsbeyondReason/beyond-reason-ascender3.png
 slug: jews-beyond-reason
 tableOfContents:
   minHeadingLevel: 2
@@ -34,9 +37,7 @@ The agony bled by the sermons delivered by the Warsaw Ghetto Rebbe, Rabbi Kalony
 
 John M. Efron
 
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/facade.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/nave.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/facade.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/nave.jpg" alt="" width="1800" height="2588">
 
 When inaugurated in 1866, the Neue Synagoge on the Oranienburgerstrasse in Berlin was the biggest, costliest, and easily the most conspicuous synagogue in Europe, if not the world. It was also the most spectacular example of neo-Moorish synagogue architecture. The exterior was a mixture of Islamic and Romanesque elements that deployed yellow masonry through which ran horizontal stripes of red brick. The height of the façade was 92 feet while the depth of the synagogue was 308 feet. The central entrance was flanked by two giant towers, the one on the right housing the Jewish community administration, and a library with 67,000 volumes while he tower on the left served as a Jewish museum. On the exterior, the synagogue's showpiece was the onion dome that soared majestically some 160 feet into the air. Wrapped in a blanket of zinc and swaddled in gold ribbing, crowned with a Star of David, the great dome was the brightest and most joyful architectural feature to be found anywhere in Berlin.
 
@@ -90,11 +91,7 @@ This complex system of philosophy and theology, composed during war time and emb
 
 Martin Kavka
 
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/kavka-cohen-liebermann900%402x.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/hermann.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/berlin.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/kavka-cohen-liebermann900%402x.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/hermann.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/berlin.jpg" alt="" width="1800" height="2588">
 
 The best known images of the neo-Kantian Jewish philosopher Hermann Cohen are from a series of etchings and drawings by the German-Jewish impressionist Max Liebermann. In most of them, he looks just like one expects a rationalist to look: eyes squinted so as better to look into his own mind, and more than a little snooty. (On the other hand, this drawing by Liebermann, might make some Americans think of fried chicken).
 
@@ -112,11 +109,7 @@ Theodor Reik (1888-1969), today largely a forgotten figure, worked closely with 
 
 Lital Levy
 
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/rach.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/eng.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/ara.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/rach.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/eng.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/ara.jpg" alt="" width="1800" height="2588">
 
 Two powerful, wrenching documentary films, To Die in Jerusalem (dir. Hilla Medalia, 2007; produced for HBO) and One Day After Peace (dirs. Miri Laufer and Erez Laufer, 2012) feature bereaved Israeli mothers on a quest to find answers and ultimately, closure. To Die in Jerusalem follows Abigail Levy, the mother of Rachel Levy, 17, who was killed in a 2002 bombing in a Jerusalem suburb. Rachel's killer, Ayat al-Akhras, was an 18-year-old resident of the Deheisheh refugee camp in Jerusalem. Their proximity in age and close physical resemblance provoked an international media response picturing them as "could-have-been" friends or sisters. In the film, Levy pursues a meeting with Ayat al-Akhras's parents, seeking an explanation as well as a public repudiation of their daughter's act. Over a period of several years, the journey takes her to an Israeli prison for Arab women, to an aborted attempt to visit the al-Akhras family in Deheisheh, and finally to a meeting held remotely over satellite television. As viewers might predict, the long-sought encounter does not provide Levy with the answers she seeks. Rather, it graphically portrays the inevitable failure of a dialogue premised on a one-sided framework of expectations and mediation. Although Levy calls the shots through much of the film, when the conversation takes unexpected turns, she finds herself floundering. Ultimately she declares the dialogue a failure and walks off the set.
 
@@ -174,9 +167,7 @@ In this letter to Fichman from February 1909, Gnessin, who stays in his parents'
 
 Zohar Weiman-Kelman
 
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/weiman-kelman-Moz1001900%402x.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/we.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/weiman-kelman-Moz1001900%402x.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901105047im_/https://www.library.upenn.edu/sites/default/files/2019-06/we.jpg" alt="" width="1800" height="2588">
 
 Speaking from one woman to another, this poem sets up the desire for an encounter that the poet forecloses in advance. The first stanza speaks of an "un-expected encounter" that has not yet happened ("ere still the light it did see"). The second stanza invokes "a certainty that dreams to be, " yet declares it "will not be able to be." These paradoxical statements thus narrate a promise and its negation. At the same time, this archival material, the poem's first appearance, reveals another story of poetic encounter and intertextual dialogue.
 
@@ -237,35 +228,36 @@ These different NAJ phenomena share, at least to some extent, a critique of inst
 
 ## Contributors
 
-[James A. Diamond](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1738) - University of Waterloo / Robert Carrady Fellowship
-
-[John M. Efron](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1739) - University of California, Berkeley / Maurice Amado Foundation Fellowship
-
-[Yael S. Feldman](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1741) - New York University / Maurice Amado Foundation Fellowship
-
-[Keren Friedmen-Peleg](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1742) - School of Behavioral Sciences, The College of Management-Academic Studies / Primo Levi Fellowship
-
-[Galit Hasan-Rokem](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1743) - The Hebrew University of Jerusalem / Ellie and Herbert D. Katz Distinguished Fellowship
-
-[Miriam Jerade](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1744) - Universidad Nacional Autónoma de México / Ivan & Nina Ross Family Fellowship
-
-[Martin Kavka](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1746) - Florida State University / Ruth Meltzer Fellowship
-
-[Paul Lerner](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1747) - University of Southern California
-
-[Lital Levy](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1748) - Princeton University / Ruth Meltzer Fellowship
-
-[Shaul Magid](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1749) - Indiana University, Bloomington / Rose & Henry Zifkin Teaching Fellowship
-
-[Amos Morris-Reich](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1751) - Haifa University
-
-[Paul Nahme](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1752) - Brown University
-
-[Shira Stav](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1753) - Ben-Gurion University of the Negev / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
-
-[Zohar Weiman-Kelman](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1754) - Ben-Gurion University of the Negev
-
-[Rachel Werczberger](https://web.archive.org/web/20200901105106/https://www.library.upenn.edu/collections/online-exhibits/jews-beyond-reason?tab=exhibit#as-1755) - Tel Aviv University
+*   James A. Diamond - University of Waterloo / Robert Carrady Fellowship
+    
+*   John M. Efron - University of California, Berkeley / Maurice Amado Foundation Fellowship
+    
+*   Yael S. Feldman - New York University / Maurice Amado Foundation Fellowship
+    
+*   Keren Friedmen-Peleg - School of Behavioral Sciences, The College of Management-Academic Studies / Primo Levi Fellowship
+    
+*   Galit Hasan-Rokem - The Hebrew University of Jerusalem / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Miriam Jerade - Universidad Nacional Autónoma de México / Ivan & Nina Ross Family Fellowship
+    
+*   Martin Kavka - Florida State University / Ruth Meltzer Fellowship
+    
+*   Paul Lerner - University of Southern California
+    
+*   Lital Levy - Princeton University / Ruth Meltzer Fellowship
+    
+*   Shaul Magid - Indiana University, Bloomington / Rose & Henry Zifkin Teaching Fellowship
+    
+*   Amos Morris-Reich - Haifa University
+    
+*   Paul Nahme - Brown University
+    
+*   Shira Stav - Ben-Gurion University of the Negev / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Zohar Weiman-Kelman - Ben-Gurion University of the Negev
+    
+*   Rachel Werczberger - Tel Aviv University
+    
 
 #### **Special thanks**
 
