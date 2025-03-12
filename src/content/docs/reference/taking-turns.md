@@ -7,6 +7,9 @@ hero:
   title: "Taking Turns: New Perspectives on Jews & Conversion"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2010-2011 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/ruth-naomi.jpg
 slug: taking-turns
 tableOfContents:
   minHeadingLevel: 2
@@ -103,7 +106,7 @@ Robert Jütte
 
 <img src="https://web.archive.org/web/20200901103114im_/https://www.library.upenn.edu/sites/default/files/2019-06/jutte900.jpg" alt="" width="1800" height="2588">
 
-The Rare Book & Manuscript Library at the University of Pennsylvania holds a rare copy of Die Rotwelsch Grammatic printed in Basel around 1540. It describes _Rotwelsch,_ a secret language prevalent amongst beggars, vagabonds, pedlars and itinerant craftsmen from the Middle Ages onwards. This cant is based on German but has a large proportion of words from Hebrew, Italian, Romani ("Gipsy") languages, Latin and other languages. The first references to _Rotwelsch_ can be found in a text in Medieval High German dating from around 1250. From the 15th century onwards this cant became identified as the language of false beggars and thieves. _Rotwelsch_vocabulary became part of the so called "literature of roguery." The most famous example of this type of popular literature is the Liber Vagatorum (Book of Vagrants) which was first printed in 1510 and went through many editions and translations. No other than Martin Luther wrote the preface to the 1528 German edition of the Liber Vagatorum.
+The Rare Book & Manuscript Library at the University of Pennsylvania holds a rare copy of Die Rotwelsch Grammatic printed in Basel around 1540. It describes _Rotwelsch,_ a secret language prevalent amongst beggars, vagabonds, pedlars and itinerant craftsmen from the Middle Ages onwards. This cant is based on German but has a large proportion of words from Hebrew, Italian, Romani ("Gipsy") languages, Latin and other languages. The first references to _Rotwelsch_ can be found in a text in Medieval High German dating from around 1250. From the 15th century onwards this cant became identified as the language of false beggars and thieves. \_Rotwelsch\_vocabulary became part of the so called "literature of roguery." The most famous example of this type of popular literature is the Liber Vagatorum (Book of Vagrants) which was first printed in 1510 and went through many editions and translations. No other than Martin Luther wrote the preface to the 1528 German edition of the Liber Vagatorum.
 
 About the same time, copycats of this book of rogues appeared under the title Die Rotwelsch Grammatic. The copy in the Van Pelt Library consists of 28 printed pages. The title page shows a woodcut of a man and a woman, clearly dressed as wayfarers. The text is in early modern German. There is a short vocabulary of _Rotwelsch_ as well as notes on grammar and language. The text then introduces different types and groups of vagrants. Each carries a _Rotwelsch_ name. A special type of fraud already mentioned in the Liber Vagatorum is fraudulent conversion. Especially Christian women were reputed to be such impostors, claiming to have been converted from Judaism. These female cozeners are called _veranerin_ in _Rotwelsch._ In French and Italian pamphlets on roguery, fraudsters of this type are known as _convertis_ and _iucchi_ respectively. The first Hebrew sources on these _rekim_(ריקים, empty people), as Rabbi Meir ben Baruch of Rothenburg (c. 1215-1293) called them, date back to the middle of the 13th century. His contemporary, Rabbi Solomon ben Abraham Adret (c. 1235-c.1310), reports that the French rabbinical authorities also had to address the problem of Jews wandering from town to town, posing as Christians to Christians and as Jews when entering the homes of Jews. Since the 15th century, just as the number of fraudulent converts from Judaism began to rise noticeably, the economic condition of converts became linked to the larger discourse on poverty and on crime committed by socially marginal groups. Jewish impostors became part of literary descriptions of the "dangerous classes" (_Gaunerbüchlein_), as in the Liber Vagatorum or the Rotwelsch Grammatic.
 
@@ -141,7 +144,7 @@ Fig. 2
 
 The mass conversion of Jews in Portugal to Catholicism in 1497, which led to the creation of a _Converso_ or New Christian social group within that society, evolved at the precise moment when Portugal became a seaborne empire. Many _Conversos_ prospered in this emerging merchant class, becoming dominant in international trade and banking. From the sixteenth century onwards, they were called: "businessmen" or "men of commerce" ("hómens de negócios"), adding a socio-economic stereotype to the religious accusation of being judaizers or "potential Jews." However, that cliché also served _Conversos_ and their sympathizers to claim that Portugal's prosperity depended on these "men of commerce. " Therefore, to avoid economical collapse _Conversos_ have to be integrated, they argued, into the "Old Christian " society, including the elites. To attain that goal, prejudices against them, the biased procedures adopted by the Portuguese Inquisition and the juridical ethnic segregation inspired by the "laws of purity of blood " would have to disappear.
 
-During the seventeenth century, several tracts imbued with Mercantilism subsumed Iberian economic restoration to _Converso_ integration. These pro-_Converso_ writings were far from being homogeneous, since beyond diversity of approach, all of them had to reconcile their calls for integration with the recognition that Christians of Jewish descents could be perceived as a separate group, since they were gifted in commerce. Thus, while the Spanish _licenciado_ Martín González de Cellorigo (1565?-1630?) \[fig. 1\] advocated a royal policy of integration of the group, the Portuguese_Converso_ merchant Duarte Gomes Solis (c. 1561- c. 1630) \[fig. 2\] called to reduce it to a small group of rich New Christian merchants. The great preacher and missionary Jesuit, Father António Vieira (1608- 1697) \[fig. 3\], was the most persistent and brilliant advocate on behalf of the Portuguese _Conversos._ For him, a real integration of the New Christians into Catholic society was needed both to ensure Portugal's economic prosperity and to enable that kingdom to fulfill the role of promoting Christian messianic salvation.
+During the seventeenth century, several tracts imbued with Mercantilism subsumed Iberian economic restoration to _Converso_ integration. These pro-_Converso_ writings were far from being homogeneous, since beyond diversity of approach, all of them had to reconcile their calls for integration with the recognition that Christians of Jewish descents could be perceived as a separate group, since they were gifted in commerce. Thus, while the Spanish _licenciado_ Martín González de Cellorigo (1565?-1630?) \[fig. 1\] advocated a royal policy of integration of the group, the Portuguese\_Converso\_ merchant Duarte Gomes Solis (c. 1561- c. 1630) \[fig. 2\] called to reduce it to a small group of rich New Christian merchants. The great preacher and missionary Jesuit, Father António Vieira (1608- 1697) \[fig. 3\], was the most persistent and brilliant advocate on behalf of the Portuguese _Conversos._ For him, a real integration of the New Christians into Catholic society was needed both to ensure Portugal's economic prosperity and to enable that kingdom to fulfill the role of promoting Christian messianic salvation.
 
 ### Richard Bernard, Ruths Recompense: Or A Commentarie upon the Book of Ruth, 1628
 
@@ -163,7 +166,7 @@ Anne Oravetz Albert
 
 <img src="https://web.archive.org/web/20200901103114im_/https://www.library.upenn.edu/sites/default/files/2019-06/albert900%402x_0.jpg" alt="" width="1800" height="2588">
 
-This Spanish Bible is an example of the many books produced especially for newcomers to Judaism in the Sephardi community of seventeenth-century Amsterdam. Most of these immigrants were former _conversos,_descendants of Jewish converts to Catholicism who were escaping from the Inquisition in Spain and Portugal. Although they were not required to convert because they identified themselves as Jewish by ancestry, the adoption of a Jewish lifestyle and participation in the Jewish community required a significant adjustment. Upon arrival, most lacked basic knowledge of Hebrew and Jewish law, and vernacular Bibles like this one were just one element of the copious literature published in Spanish and Portuguese to guide them in their new Jewish practice.
+This Spanish Bible is an example of the many books produced especially for newcomers to Judaism in the Sephardi community of seventeenth-century Amsterdam. Most of these immigrants were former \_conversos,\_descendants of Jewish converts to Catholicism who were escaping from the Inquisition in Spain and Portugal. Although they were not required to convert because they identified themselves as Jewish by ancestry, the adoption of a Jewish lifestyle and participation in the Jewish community required a significant adjustment. Upon arrival, most lacked basic knowledge of Hebrew and Jewish law, and vernacular Bibles like this one were just one element of the copious literature published in Spanish and Portuguese to guide them in their new Jewish practice.
 
 The printer of this 1661 edition of the Bible, Joseph Athias, was himself a former _converso,_ having been born in Spain and arriving in Amsterdam only as an adult. He is best known for his well-received Hebrew edition produced in the same year, but this edition, a version of the earlier Ferrara Bible newly corrected by Samuel de Cáceres, was explicitly intended for returnees to Judaism. The prologue noted that it would benefit those who were "returning from Spain to the company of the Blessed God," and the title page, shown here, includes an illustration acknowledging the edition's intended readers' status as former _conversos_ and their new lives as Jews. It depicts a phoenix, a symbol of the Amsterdam community since it had risen, like the mythical bird, from the ashes of its previous incarnation, i.e., Iberian Jewry. Inside this phoenix appear two groups of travelers embracing, as if they had completed a long journey apart from each other. Just as these estranged travelers met within the breast of the phoenix, so was the Spanish-speaking reader of this Bible presumed to find fellowship with other former _conversos_ in Amsterdam.
 
@@ -231,94 +234,95 @@ Contemporary voices calling for yet another change in the Law of Return, in ligh
 
 ## Selected Bibliography
 
-*   **Albert, Anne Oravetz.** Post-sabbatian politics : reflections on governance among the Spanish and Portuguese Jews of Amsterdam, 1665-1683(Dissertation: Thesis (Ph.D.): University of Pennsylvania, 2008
+*   **Albert, Anne Oravetz.** _Post-sabbatian politics : reflections on governance among the Spanish and Portuguese Jews of Amsterdam, 1665-1683._ ((Dissertation: Thesis (Ph.D.): University of Pennsylvania, 2008)
     
-*   **Bar-Asher, Mosheh (editor).** Shai le-Śarah Yafet : meḥḳarim ba-Miḳra, be-farshanuto uvi-leshonoYerushalayim : Mosad Byalik, c2007
+*   **Bar-Asher, Mosheh (editor).** S_hai le-Śarah Yafet : meḥḳarim ba-Miḳra, be-farshanuto uvi-leshono._ Yerushalayim : Mosad Byalik, c2007
     
-*   **Castaño, Javier.** Social networks in a Castilian Aljama and the Court Jews in the Fifteenth Century : A Preliminary Survey (Madrid 1440-1475) la Espania Medieval no. 20 (1997)
+*   **Castaño, Javier.** "Social networks in a Castilian Aljama and the Court Jews in the Fifteenth Century : A Preliminary Survey (Madrid 1440-1475)," in _la Espania Medieval_ (no. 20 (1997)).
     
-*   **Castaño, Javier.** Subordinación y parcialidades durante los 'tiempos rotos': Mosé Tamaño y el juzgado mayor de la aljama de Ávila Cristianos y judíos en contacto en la Edad Media: polémica, conversión, dinero y convivencia F. Sabaté & C. Denjean (eds.) (Lleida 2009), 821-857
+*   **Castaño, Javier.** "Subordinación y parcialidades durante los 'tiempos rotos': Mosé Tamaño y el juzgado mayor de la aljama de Ávila," in _Cristianos y judíos en contacto en la Edad Media: polémica, conversión, dinero y convivencia,_ F. Sabaté & C. Denjean (eds.) ((Lleida 2009), 821-857).
     
-*   **Eliyahu, Ayala (translator and editor).** Ibn al-Sid al-Batalyawsi and his place in Medieval Muslim and Jewish thought; including an edition and a translation of Kitab al-Dawa'ir al-Wahmiyya known as Kitab al-Hada'iqJerusalem: Hebrew University, 2010
+*   **Eliyahu, Ayala (translator and editor).** _Ibn al-Sid al-Batalyawsi and his place in Medieval Muslim and Jewish thought; including an edition and a translation of Kitab al-Dawa'ir al-Wahmiyya known as Kitab al-Hada'iq._ Jerusalem: Hebrew University, 2010
     
-*   **Gracombe, Sarah.** Cultural Englishness and the "homeopathic dose" : Jewishness in the Victorian novel(Dissertation: Thesis (Ph. D.): Columbia University, 2005
+*   **Gracombe, Sarah.** _Cultural Englishness and the "homeopathic dose" : Jewishness in the Victorian novel. (_(Dissertation: Thesis (Ph. D.): Columbia University, 2005)
     
-*   **Japhet, Sara.** From the rivers of Babylon to the highlands of Judah : collected studies on the Restoration periodWinona Lake : Eisenbrauns, 2006
+*   **Japhet, Sara.** _From the rivers of Babylon to the highlands of Judah : collected studies on the Restoration period._ Winona Lake : Eisenbrauns, 2006
     
-*   **Jütte, Robert; Uwe Israel; Reinhold C. Mueller (editors).** Interstizi : culture ebraico-cristiane a Venezia e nei suoi domini dal Medioevo all'età modernaRoma : Edizioni di storia e letteratura, 2010
+*   **Jütte, Robert; Uwe Israel; Reinhold C. Mueller (editors).** _Interstizi : culture ebraico-cristiane a Venezia e nei suoi domini dal Medioevo all'età moderna._ Roma : Edizioni di storia e letteratura, 2010
     
-*   **Kanarfogel, Ephraim; Moshe Sokolow (editors).** Interstizi : culture ebraico-cristiane a Venezia e nei suoi domini dal Medioevo all'età modernaRoma : Edizioni di storia e letteratura, 2010
+*   **Kanarfogel, Ephraim; Moshe Sokolow (editors).** _Interstizi : culture ebraico-cristiane a Venezia e nei suoi domini dal Medioevo all'età moderna._ Roma : Edizioni di storia e letteratura, 2010
     
-*   **Kanarfogel, Ephraim; Moshe Sokolow (editors).** Between Rashi and Maimonides : themes in medieval Jewish thought, literature and exegesisMichael Scharf Publication Trust of the Yeshiva University Press, c2010
+*   **Kanarfogel, Ephraim; Moshe Sokolow (editors).** _Between Rashi and Maimonides : themes in medieval Jewish thought, literature and exegesis._ Michael Scharf Publication Trust of the Yeshiva University Press, c2010
     
-*   **Kaplan, Yosef (editor).** The Dutch intersection : the Jews and the Netherlands in modern historyLeiden; Boston : Brill, 2008
+*   **Kaplan, Yosef (editor).** _The Dutch intersection : the Jews and the Netherlands in modern history._ Leiden; Boston : Brill, 2008
     
-*   **Lelli, Fabrizio (translator, editor, and introducer).** Eliyyah Ḥayyim ben Binyamin da GenazzanoHebrew original: Igeret ḥamudot Firenze : La giuntina; Nîmes : L'éclat, 2002
+*   **Lelli, Fabrizio (translator, editor, and introducer).** _Eliyyah Ḥayyim ben Binyamin da Genazzano._ Hebrew original: Igeret ḥamudot (Firenze : La giuntina; Nîmes : L'éclat, 2002)
     
-*   **Maciejko, Paweł.** The mixed multitude : Jacob Frank and the Frankist movement, 1755-1816Philadelphia : University of Pennsylvania Press, c2011
+*   **Maciejko, Paweł.** _The mixed multitude : Jacob Frank and the Frankist movement, 1755-1816._ Philadelphia : University of Pennsylvania Press, c2011
     
-*   **Nirenberg, David.** Communities of violence : persecution of minorities in the Middle AgesPrinceton : Princeton University Press, c1996
+*   **Nirenberg, David.** _Communities of violence : persecution of minorities in the Middle Ages._ Princeton : Princeton University Press, c1996
     
-*   **Nirenberg, David.** Mass Conversion and Genealogical Mentalities: Jews and Christians in Fifteenth Century Spain Past and Present 174 (2002), 3-41
+*   **Nirenberg, David.** "Mass Conversion and Genealogical Mentalities: Jews and Christians in Fifteenth Century Spain" in _Past and Present_ (174 (2002), 3-41).
     
-*   **Nirenberg, David.** Conversion, Sex and Segregation : Jews and Christians in Medieval Spain American Historical Review 107 (2002), 1065-1093
+*   **Nirenberg, David.** "Conversion, Sex and Segregation : Jews and Christians in Medieval Spain," in _American Historical Review_ (107 (2002), 1065-1093).
     
-*   **Revah, I.S.** Le plaidoyer en faveur des 'Nouveaux-Chretiens' portugais du licenci? Martin González de Cellorigo Revue des études juives vol. 122 (1963) pp. 279-398
+*   **Revah, I.S.** "Le plaidoyer en faveur des 'Nouveaux-Chretiens' portugais du licenci? Martin González de Cellorigo," in _Revue des études juives_ (vol. 122 (1963) pp. 279-398).
     
-*   **Revah, I. S.** Antonio Enríquez Gómez : un écrivain marraneédition établie, présentée & annotée par Carsten L. Wilke ; préface de Gérard Nahon ; traductions des sources espagnoles par Michèle Escamilla-Colin & Béatrice Perez v. 1600-1663 / I.S. Revah; Paris : Chandeigne, 2003
+*   **Revah, I. S.** _Antonio Enríquez Gómez : un écrivain marrane.,_ édition établie, présentée & annotée par Carsten L. Wilke ; préface de Gérard Nahon ; traductions des sources espagnoles par Michèle Escamilla-Colin & Béatrice Perez (v. 1600-1663 / I.S. Revah; Paris : Chandeigne, 2003).
     
-*   **Saraiva, António José.** The Marrano Factory : the Portuguese Inquisition and its New Christians, 1536-1765translated from the Portuguese, revised and augmented by H.P. Salomon and I.S.D. Sassoon Leiden; Boston : Brill, 2001
+*   **Saraiva, António José.** _The Marrano Factory : the Portuguese Inquisition and its New Christians, 1536-1765.,_ translated from the Portuguese, revised and augmented by H.P. Salomon and I.S.D. Sassoon (Leiden; Boston : Brill, 2001)
     
-*   **Satran, David, Ester G. Chazon and Ruth A. Clements (editors).** Things revealed : studies in early Jewish and Christian literature in honor of Michael E. StoneLeiden; Boston : Brill, 2004
+*   **Satran, David, Ester G. Chazon and Ruth A. Clements (editors).** _Things revealed : studies in early Jewish and Christian literature in honor of Michael E. Stone._ Leiden; Boston : Brill, 2004
     
-*   **Schainker, Ellie R.** Imperial hybrids : Russian-Jewish converts in the nineteenth century(Dissertation: Thesis (Ph.D.): University of Pennsylvania, 2010
+*   **Schainker, Ellie R.** _Imperial hybrids : Russian-Jewish converts in the nineteenth century._ ((Dissertation: Thesis (Ph.D.): University of Pennsylvania, 2010)
     
-*   **Schwarz, Samuel. Claude B. (Dov).** ha-Notsrim ha-ḥadashim be-Portugal ba-me’ah ha-‘eśrim. Portuguese: Cristãos-novos em Portugal no século XX. Hebrew. English title: The New-Christians in Portugal in the 20th centuryStuczynski (translator, annotator, introducer); Ruth Tuyig (editor) Yerushalayim : Merkaz Dinur le-ḥeḳer toldot Yiśra’el : Merkaz Zalman Shazar le-toldot yiśra’el, c2005
+*   **Schwarz, Samuel. Claude B. (Dov).** _ha-Notsrim ha-ḥadashim be-Portugal ba-me’ah ha-‘eśrim. Portuguese: Cristãos-novos em Portugal no século XX. Hebrew. English title: The New-Christians in Portugal in the 20th century.,_ Stuczynski (translator, annotator, introducer); Ruth Tuyig (editor) (Yerushalayim : Merkaz Dinur le-ḥeḳer toldot Yiśra’el : Merkaz Zalman Shazar le-toldot yiśra’el, c2005)
     
-*   **Segal, Alan F.** Paul the convert : the apostolate and apostasy of Saul the PhariseeNew Haven : Yale University Press, c1990
+*   **Segal, Alan F.** _Paul the convert : the apostolate and apostasy of Saul the Pharisee._ New Haven : Yale University Press, c1990
     
-*   **Shoulson, Jeffrey S.** Milton and the rabbis : Hebraism, Hellenism, & ChristianityNew York : Columbia University Press, c2001
+*   **Shoulson, Jeffrey S.** _Milton and the rabbis : Hebraism, Hellenism, & Christianity._ New York : Columbia University Press, c2001
     
-*   **Wachtel, Nathan.** La foi du souvenir : labyrinthes marranes\[Paris?\] : Éd. du Seuil, 2001
+*   **Wachtel, Nathan.** _La foi du souvenir : labyrinthes marranes._ \[Paris?\] : Éd. du Seuil, 2001
     
-*   **Wilke, Carsten.** Histoire des juifs portugaisParis : Chandeigne, 2007
+*   **Wilke, Carsten.** _Histoire des juifs portugais._ (Paris : Chandeigne, 2007)
     
-*   **Zohar, Zvi.** Giyur ve-zehut Yehudit : J;iyun bi-yesodot ha-halakhahYerushalayim : Mosad Byalik : Mekhon Shalom Hartman, 755 \[1994\]
+*   **Zohar, Zvi.** _Giyur ve-zehut Yehudit : J;iyun bi-yesodot ha-halakhah._ (Yerushalayim : Mosad Byalik : Mekhon Shalom Hartman, 755 \[1994\])
     
-*   **idem. and Sagi, Avi.** Transforming identity: the ritual transition from gentile to Jew - structure and meaningLondon: Continuum Books, 2007
+*   **idem. and Sagi, Avi.** _Transforming identity: the ritual transition from gentile to Jew - structure and meaning._ (London: Continuum Books, 2007)
     
 
 ## Contributors
 
-Anne Oravetz Albert - Brown University / Selma Ruben Fellowship
-
-Javier Castaño - Instituto de Lenguas y Culturas del Mediterraneo (Madrid) / Maurice Amado Foundation Fellowship
-
-Theodor Dunkelgrün - University of Chicago / Martin Gruss Fellowship
-
-Ayala Eliyahu - Hebrew University / Charles W. & Sally Rothfeld Fellowship
-
-Netanel Fisher - Hebrew University / Charles W. & Sally Rothfeld Fellowship
-
-Sarah Gracombe - Stonehill College / Ivan & Nina Ross Family Fellowship, Rose & Henry Zifkin Teaching Fellowship
-
-Yosi Israeli - Tel Aviv University / Samuel T. Lachs Fellowship
-
-Robert Jütte - Institut für Geschichte der Medizin (Stuttgart) / Louis & Bessie Stein Fellowship
-
-Ephraim Kanarfogel - Yeshiva University / Ruth Meltzer Fellowship
-
-Fabrizio Lelli - Università del Salento (Lecce) / Primo Levi Fellowship
-
-Pawel Maciejko - Hebrew University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship, Nancy S. & Laurence E. Glick Teaching Fellowship
-
-David Satran - Hebrew University / Ruth Meltzer Fellowship
-
-Ellie Schainker - Emory University / Golub Family Fellowship
-
-Jeffrey Shoulson - University of Miami / Ruth Meltzer Fellowship
-
-Claude Stuczynski (Alonso de Cartagena | Portuguese Conversos) - Bar-Ilan University / Primo Levi Fellowship
+*   Anne Oravetz Albert - Brown University / Selma Ruben Fellowship
+    
+*   Javier Castaño - Instituto de Lenguas y Culturas del Mediterraneo (Madrid) / Maurice Amado Foundation Fellowship
+    
+*   Theodor Dunkelgrün - University of Chicago / Martin Gruss Fellowship
+    
+*   Ayala Eliyahu - Hebrew University / Charles W. & Sally Rothfeld Fellowship
+    
+*   Netanel Fisher - Hebrew University / Charles W. & Sally Rothfeld Fellowship
+    
+*   Sarah Gracombe - Stonehill College / Ivan & Nina Ross Family Fellowship, Rose & Henry Zifkin Teaching Fellowship
+    
+*   Yosi Israeli - Tel Aviv University / Samuel T. Lachs Fellowship
+    
+*   Robert Jütte - Institut für Geschichte der Medizin (Stuttgart) / Louis & Bessie Stein Fellowship
+    
+*   Ephraim Kanarfogel - Yeshiva University / Ruth Meltzer Fellowship
+    
+*   Fabrizio Lelli - Università del Salento (Lecce) / Primo Levi Fellowship
+    
+*   Pawel Maciejko - Hebrew University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship, Nancy S. & Laurence E. Glick Teaching Fellowship
+    
+*   David Satran - Hebrew University / Ruth Meltzer Fellowship
+    
+*   Ellie Schainker - Emory University / Golub Family Fellowship
+    
+*   Jeffrey Shoulson - University of Miami / Ruth Meltzer Fellowship
+    
+*   Claude Stuczynski (Alonso de Cartagena | Portuguese Conversos) - Bar-Ilan University / Primo Levi Fellowship
+    
 
 **Special Thanks**
 
