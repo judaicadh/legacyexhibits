@@ -375,39 +375,40 @@ Panoramic viewing of places mentioned in Scripture, accompanied by Bible reading
 
 ## Contributors
 
-Eitan Bar-Yosef - Ben-Gurion University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
-
-Orit Bashkin - University of Chicago / Selma Ruben Fellowship
-
-Julia Phillips Cohen - Vanderbilt University / Maurice Amado Foundation Fellowship
-
-Jackie Feldman - Ben-Gurion University / Erika A. Strauss Teaching Fellowship, Martin Gruss Fellowship
-
-Miriam Frenkel - Hebrew University / Ella Darivoff Fellowship, Rose & Henry Zifkin Teaching Fellowship
-
-Galit Hasan-Rokem - Hebrew University of Jerusalem
-
-Elliott Horowitz - Bar-Ilan University / Louis & Bessie Stein Fellowship
-
-Iris Idelson-Shein - Tel-Aviv University / Samuel T. Lachs Fellowship
-
-Martin Jacobs - Washington University / Ruth Meltzer Fellowship
-
-Jack Kugelmass - University of Florida / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Ora Limor - Open University of Israel / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Vered Madar - Hebrew University / Maurice Amado Foundation Fellowship
-
-Limor Mintz-Manor - Hebrew University / Ivan & Nina Ross Family Fellowship
-
-Chaim Noy - Sapir College / Nancy S. & Laurence E. Glick Teaching Fellowship, Ruth Meltzer Fellowship
-
-Nils Roemer - University of Texas (Dallas) / Ruth Meltzer Fellowship
-
-Asher Salah - Bezalel Academy of Arts (Israel) / Primo Levi Fellowship
-
-Anat Zanger - Tel Aviv University / Rebell Family Term Fellowship
+*   Eitan Bar-Yosef - Ben-Gurion University / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Orit Bashkin - University of Chicago / Selma Ruben Fellowship
+    
+*   Julia Phillips Cohen - Vanderbilt University / Maurice Amado Foundation Fellowship
+    
+*   Jackie Feldman - Ben-Gurion University / Erika A. Strauss Teaching Fellowship, Martin Gruss Fellowship
+    
+*   Miriam Frenkel - Hebrew University / Ella Darivoff Fellowship, Rose & Henry Zifkin Teaching Fellowship
+    
+*   Galit Hasan-Rokem - Hebrew University of Jerusalem
+    
+*   Elliott Horowitz - Bar-Ilan University / Louis & Bessie Stein Fellowship
+    
+*   Iris Idelson-Shein - Tel-Aviv University / Samuel T. Lachs Fellowship
+    
+*   Martin Jacobs - Washington University / Ruth Meltzer Fellowship
+    
+*   Jack Kugelmass - University of Florida / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Ora Limor - Open University of Israel / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Vered Madar - Hebrew University / Maurice Amado Foundation Fellowship
+    
+*   Limor Mintz-Manor - Hebrew University / Ivan & Nina Ross Family Fellowship
+    
+*   Chaim Noy - Sapir College / Nancy S. & Laurence E. Glick Teaching Fellowship, Ruth Meltzer Fellowship
+    
+*   Nils Roemer - University of Texas (Dallas) / Ruth Meltzer Fellowship
+    
+*   Asher Salah - Bezalel Academy of Arts (Israel) / Primo Levi Fellowship
+    
+*   Anat Zanger - Tel Aviv University / Rebell Family Term Fellowship
+    
 
 **Special thanks**
 
