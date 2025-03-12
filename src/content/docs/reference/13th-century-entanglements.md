@@ -8,6 +8,8 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2012-2013 Fellows at the University of Pennsylvania
   image:
+    file:
+      - ../../../../src/assets/13thCentury/entanglements-ascender2.png
     alt: 13th Century Entanglements
 slug: 13th-century-entanglements
 tableOfContents:
@@ -16,8 +18,6 @@ tableOfContents:
 template: doc
 ---
 ## Introduction
-
-![](/assets/13th%20Century/13thCenturySplash.jpg)
 
 The 2012-13 fellowship year at the Katz Center brought together scholars of Jewish, Christian, and Islamic social and intellectual history to develop a more fully integrated account of Europe and the Mediterranean basin in the 13th century. Diverse phenomena such as the creation of new philosophic and scientific cultures, the emergence of medieval halakhah (Jewish legal praxis), the diffusion of Kabbalah, the establishment of new mendicant orders, the institutionalization of Sufi brotherhoods, the rise of universities, and the role of inquisitors were studied, not only as isolated phenomena but in their mutual interrelations. In this on-line exhibition we highlight a number of original sources that were draw upon by these scholars in the course of their research: Hebrew, Latin and Arabic manuscripts and early printed texts which illustrate a range of topics such as medieval liturgical poetry, law, rhetoric, philosophy, science, magic, social history, gender relations, inter-communal contact, conflict and other forms of entanglement both positive and negative.
 
@@ -187,9 +187,7 @@ The origins of the _Techel/Azareus Complex_ remain a mystery, but the text has
 
 Judah Galinsky
 
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskySeMaK900%402x.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskycolophon900%402x4.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskySeMaK900%402x.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/galinskycolophon900%402x4.jpg" alt="" width="1800" height="2588">
 
 The 'Amude Golah \\\[Pillars of Exile\\\] of R. Isaac of Corbeil was completed circa 1278 just a few years prior to the author's death in the spring of 1280. This accessible halakhic work, written with the intent of reaching a broad reading audience, was extremely popular during the later Middle Ages as the numerous extant manuscripts can attest (close to 200 mss.). With time the work became known as the Sefer Mitsvot Katan \\\[The Short Book of Commandments\\\] or Semak. Shortly following its distribution the author's younger contemporary and even more famous townsman, R. Peretz of Corbeil, appended his scholarly glosses to the Semak. Almost all surviving manuscripts of the work include these learned glosses.
 
@@ -211,9 +209,7 @@ After publishing Tela Ignea Satanae, Wagenseil came into contact with Jewish s
 
 Uri Shachar
 
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah001-900%402x.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah002-900%402x5.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah001-900%402x.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/Shachar-Shevile-emunah002-900%402x5.jpg" alt="" width="1800" height="2588">
 
 In 1346 or thereabout Meir Aldabi, a Toledan polymath, immigrated to Jerusalem where he resided until his death fourteen years later. During this final period of his eventful life, Aldabi completed his _magnum opus,_ The Paths of Faith \\\[Shevile Emunah\\\]—a comprehensive 'encyclopedia' which covers many of the major trajectories in late medieval Jewish natural philosophy, theology, and mysticism. Aldabi's work, which is both far reaching and concise, enjoyed immediate and long lasting success. Both individual chapters (especially paths four and five) and the unified work were disseminated widely. The Library at the Katz Center holds a facsimile of the earliest printed edition of this pre-modern best seller, produced at Riva di Trento in 1558.
 
@@ -347,6 +343,6 @@ As interesting as the anonymous commentary is in itself, the physical codex shed
 *   Rebecca Winer - Villanova University / Maurice Amado Foundation Fellowship
     
 
-#### Special thanks
+#### **Special thanks**
 
 #### to Leslie Vallhonrat, Manager of the Penn Libraries' Web Unit, for her creativity, expert web design, and hard work, to Amey Hutchins for her expert advice and help with the Lawrence J. Schoenberg Collection of medieval manuscripts, and to Dr. Bruce Nielsen, Josef Gulka, John Pollack, Elton-John Torres, and Chris Lippa for their scanning labors, their enthusiasm and their overall support.
