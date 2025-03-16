@@ -10,6 +10,8 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2002-2003 Fellows at the University of Pennsylvania
   image:
+    file:
+      - ../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
     alt: Tradition and Its Discontents
 slug: tradition-and-its-discontents
 tableOfContents:
@@ -222,13 +224,21 @@ Cecile Kuznitz
 
 In 1925, a group of Jewish intellectuals and educators founded an institution devoted to scholarship in Yiddish and on the history and culture of Yiddish-speaking Jewry. This institution, the _Yidisher visnshaftlekher institut_ \[Yiddish Scientific Institute\], known by its acronym YIVO, carries on its work today as the YIVO Institute for Jewish Research. YIVO's founders came from the ranks of Diaspora Nationalists, who advocated rights for Jews as a national minority within the countries of Eastern Europe and a national culture based in the Yiddish language. The institute's work, therefore, was intimately connected to the _folk_, the masses of ordinary Yiddish-speaking Jews. YIVO's scholars felt compelled to address contemporary issues of concern to a broad audience even as they shied away from direct involvement in the political debates of interwar Eastern Europe, which they feared would compromise the quality of their research.
 
-While the original plan for YIVO came from a group of Russian Jewish intellectuals living in Berlin and headed by Nokhem Shtif, the institute established its headquarters in Vilna (then Wilno, Poland and today Vilnius, Lithuania). There, under the leadership of Max Weinreich, Zalman Reisen, and later Zelig Kalmanovitch, YIVO developed in close contact with the Yiddish cultural scene and secular school system that flourished in the interwar years. YIVO eventually built its headquarters in Vilna, an up-to-date, freestanding structure in a newly-developed neighborhood of broad streets and grassy plots. [\[see image #1\]](/web/20200125182338/https://www.library.upenn.edu/collections/online-exhibits/tradition-and-its-discontents/yivo-oder-yidisher-visnshaftlekher?item=0) The building's appearance and location emphasized YIVO's distance, ideologically as well as physically, from the more traditional institutions of the revered but decrepit Jewish quarter.
+While the original plan for YIVO came from a group of Russian Jewish intellectuals living in Berlin and headed by Nokhem Shtif, the institute established its headquarters in Vilna (then Wilno, Poland and today Vilnius, Lithuania). There, under the leadership of Max Weinreich, Zalman Reisen, and later Zelig Kalmanovitch, YIVO developed in close contact with the Yiddish cultural scene and secular school system that flourished in the interwar years. YIVO eventually built its headquarters in Vilna, an up-to-date, freestanding structure in a newly-developed neighborhood of broad streets and grassy plots. \[see image #1\] The building's appearance and location emphasized YIVO's distance, ideologically as well as physically, from the more traditional institutions of the revered but decrepit Jewish quarter.
 
-To finance the construction of the headquarters, as well as most of its other projects, YIVO turned to thousands of dedicated supporters in Eastern Europe and throughout the world-wide Yiddish-speaking Diaspora. Contributors to YIVO's _boy-fund_ \[building fund\] received colorful receipts designed by the artist Uma Olkienicka. [\[see image #2\]](/web/20200125182338/https://www.library.upenn.edu/collections/online-exhibits/tradition-and-its-discontents/yivo-oder-yidisher-visnshaftlekher?item=1) The strikingly avant-garde design of these receipts, like the headquarters itself, speaks to YIVO's desire to help East European Jewry create a new type of secular Yiddish culture that would be both fully Jewish and thoroughly modern.
+To finance the construction of the headquarters, as well as most of its other projects, YIVO turned to thousands of dedicated supporters in Eastern Europe and throughout the world-wide Yiddish-speaking Diaspora. Contributors to YIVO's _boy-fund_ \[building fund\] received colorful receipts designed by the artist Uma Olkienicka. \[see image #2\] The strikingly avant-garde design of these receipts, like the headquarters itself, speaks to YIVO's desire to help East European Jewry create a new type of secular Yiddish culture that would be both fully Jewish and thoroughly modern.
+
+![](https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/kuznitz.jpg)
+
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/kuznitz2.jpg" alt="" width="1800" height="2588">
 
 ### Salo Baron, of Tarnow
 
-David Engel Salo Baron (1895-1989), a seminal figure in Jewish historiography, is generally identified with the United States, where he taught and wrote for more than six decades. However, he grew up in the west Galician town of Tarnow and began his historical studies at the Jagiellonian University in Krakow. At age 17 he began publishing political commentary in the Krakow Hebrew weekly Hamicpe, including a five-part series responding to Polish nationalist leader Roman Dmowski's call for Poles to boycott Jewish businesses. Baron's experiences in Poland and as Polish a refugee in Vienna during and after the First World War shaped much of his later historiographical outlook, including his famous revision of "the lachrymose theory of pre-Revolutionary woe." ![](../../../assets/tradition/engel.jpg)
+David Engel
+
+Salo Baron (1895-1989), a seminal figure in Jewish historiography, is generally identified with the United States, where he taught and wrote for more than six decades. However, he grew up in the west Galician town of Tarnow and began his historical studies at the Jagiellonian University in Krakow. At age 17 he began publishing political commentary in the Krakow Hebrew weekly Hamicpe, including a five-part series responding to Polish nationalist leader Roman Dmowski's call for Poles to boycott Jewish businesses. Baron's experiences in Poland and as Polish a refugee in Vienna during and after the First World War shaped much of his later historiographical outlook, including his famous revision of "the lachrymose theory of pre-Revolutionary woe." ![](../../../assets/tradition/engel.jpg)
+
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/engel.jpg" alt="" width="1800" height="2588">
 
 ### A Multi-Lingual Diary from Ghetto Lodz
 
@@ -243,6 +253,8 @@ Diary writing by Jewish people during the war in Ghettos, camps and hiding all o
 While most diaries were written in one language, the anonymous Lodz diary is uniqe in its multi-lingual aspect. This must be seen in the context of the use of multiple languages in Jewish Polish society in the interwar years. The writer alternate use of Polish, Yiddish and Hebrew languages in the diary is consistent with the linguistic fabric of the Jewish culture which existed in Poland between the two world wars. The use of English is idiosyncratic and is not a part of the multi-lingual system in Poland among the Jews. Such a system developed through Jewish education, tradition, speech at home, and in contact with the local population and the governments.
 
 In his diary, the writer deals with moral dilemas, his relationship with his sister, conflicts related to his Jewish identity, his hunger and anguish and his desire to survive. At the end the Russians halted their advance and the Nazis liquidated the Ghetto, transporting its residents, among them probably also the diarist and his 12 years old sister, to Auschwitz, where they perished.
+
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/ben-amos.jpg" alt="" width="1800" height="2588">
 
 ![](../../../assets/tradition/Ben-Amos.jpg)
 
@@ -260,7 +272,11 @@ The proclamation in bold type at the end of this essay reads:
 
 The first volume of the Goldene Keyt, constituting no less than 240 pages held true to its aims. Here we may find, inter alia: previously unpublished Yiddish texts of Bialik; a Yiddish translation of a poem by Tshernikhovsky by Aaron Tseitlin; a children's play by Sholem Aleichem published for the first time; an essay by Berl Shtok (later Dov Sadan) on Agnon; a poem by Melekh Ravitsch "With a Diary from the Warsaw Ghetto"; an essay "The Yiddish and the Hebrew Folksong"; a poem "The Ethical Will of Nissim Laniado, by Avrom Sutzkever; translations to Yiddish of poems of Natan Alterman.
 
-![](../../../assets/tradition/moseley1.jpg)
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley1.jpg" alt="" width="1800" height="2588">
+
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley2.jpg" alt="" width="1800" height="2588">
+
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley3.jpg" alt="" width="1800" height="2588">
 
 ![](../../../assets/tradition/moseley2.jpg)
 
