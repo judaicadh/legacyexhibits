@@ -10,6 +10,9 @@ hero:
     modern Jewish life"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2009-2010 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/SecularismItsDiscontents/shtraymelssplash.jpg
 slug: secularism-its-discontents
 tableOfContents:
   minHeadingLevel: 2
@@ -24,15 +27,15 @@ The Fellows of the Katz Center for Advanced Judaic Studies during the 2009-10 ye
 
 ## Exhibit
 
-### Joseph Ergas: Sefer Shomer Emunim, Amsterdam, 1737
+### Joseph Ergas: _Sefer Shomer Emunim_, Amsterdam, 1737
 
 Christoph Schulte
 
 <img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/schulte1200.jpg" alt="" width="1800" height="2588">
 
-In the first half of the 18th century, the Tuscan port city of Livorno was a center of Jewish urban and intellectual life in the Mediterranean and had the largest Sefardi community in Europe, with Amsterdam second. Joseph Ergas (1685-1730), a descendant of a converso family, was an erudite, well known rabbi and kabbalist in Livorno. That's where he wrote his last book, the Sefer Shomer Emunim, a comprehensive description of Lurianic Kabbalah in a popular dialogical form. The book was edited by his sons and printed posthumously in 1737 in Amsterdam. The haskamah is signed by a number of other Livorno rabbis. Ergas' book is important for understanding the place of the doctrine of tsimtsum in European intellectual history, because Ergas submits one of the most refined arguments for a purely metaphorical understanding of the tsimtsum (the contraction of G''d before the creation of the world), as opposed to the literal reading of it by the disciples of Chajim Vital and by the sabbatianists.
+In the first half of the 18th century, the Tuscan port city of Livorno was a center of Jewish urban and intellectual life in the Mediterranean and had the largest Sefardi community in Europe, with Amsterdam second. Joseph Ergas (1685-1730), a descendant of a converso family, was an erudite, well known rabbi and kabbalist in Livorno. That's where he wrote his last book, the _Sefer Shomer Emunim_, a comprehensive description of Lurianic Kabbalah in a popular dialogical form. The book was edited by his sons and printed posthumously in 1737 in Amsterdam. The haskamah is signed by a number of other Livorno rabbis. Ergas' book is important for understanding the place of the doctrine of tsimtsum in European intellectual history, because Ergas submits one of the most refined arguments for a purely metaphorical understanding of the tsimtsum (the contraction of G''d before the creation of the world), as opposed to the literal reading of it by the disciples of Chajim Vital and by the sabbatianists.
 
-Of special interest is the engraved baroque title page of the Sefer Shomer Emunim (i.e."Guardian of the Faithful") which above the title of the book in the center shows Moses, _rabbenu hakadosh,_ with the tablets of the Law, indicating pious Torah observance, but surrounded by two baroque _putti,_ rather characteristic for catholic art. The engraving in the center under the title of the book depicts a male scholar teaching a group of men of mixed ages in a public square, showing a baroque church and palace in the background. Although the book was printed in Amsterdam, this allegory hints to Livorno or Italy (there were no such churches and palaces in Amsterdam), with Jews claiming and having their place in the public sphere in the early 18th century. Furthermore, this allegory can be interpreted as Kabbalah going exoteric, by public teaching and by print in a deliciously equipped book.
+Of special interest is the engraved baroque title page of the _Sefer Shomer Emunim_ (i.e."Guardian of the Faithful") which above the title of the book in the center shows Moses, _rabbenu hakadosh,_ with the tablets of the Law, indicating pious Torah observance, but surrounded by two baroque _putti,_ rather characteristic for catholic art. The engraving in the center under the title of the book depicts a male scholar teaching a group of men of mixed ages in a public square, showing a baroque church and palace in the background. Although the book was printed in Amsterdam, this allegory hints to Livorno or Italy (there were no such churches and palaces in Amsterdam), with Jews claiming and having their place in the public sphere in the early 18th century. Furthermore, this allegory can be interpreted as Kabbalah going exoteric, by public teaching and by print in a deliciously equipped book.
 
 ### The Bible, Women and Secularism: Perspectives from London and Philadelphia
 
@@ -42,7 +45,7 @@ Andrea Schatz
 
 What would it mean for Jews to read the Bible in the political and cultural contexts of secularism? Among the first to raise this question were the maskilim and their conservative opponents in the 1780s. The controversy over Mendelssohn's edition of the Pentateuch unfolded against the background of Protestant and Orientalist attempts to define the Bible as an "original" document that could be dissociated from the tangled exegetical web of "tradition" and studied as the core text of a religion that was compatible with reason and secularism.
 
-More than half a century later, the question of how modern Jews should read the Bible was still relevant. It received a new twist, when Grace Aguilar, the first successful Anglo-Jewish woman writer, and Isaac Leeser, renowned rabbi, editor and Bible translator in Philadelphia, addressed it on the pages of Aguilar's The Spirit of Judaism (1842). Aguilar insisted on making the Bible universally accessible: it should be dissociated from the "obscurities" of tradition and disseminated among the entire "Hebrew nation," including, emphatically, women and the poor. Leeser responded to this project with considerable anxiety. He supported Aguilar's inclusive definition of the Hebrew nation, but identified the Christian subtexts of a universalist approach that was predicated on the rejection of "the trammels of tradition": "How else are we to read Scripture, unless it be in accordance with the views of our predecessors? What else forms the distinction between us and Christians?" (100). Perhaps one of Aguilar's answers to these questions can be found in her use of Hebrew letters whenever she discusses the Shma’ Yisra’el: in Jewish contexts, the religious, national and universal meanings of the Bible and its language converge, rendering the text unique and clearly distinct from Christian, secular and cultural Bibles.
+More than half a century later, the question of how modern Jews should read the Bible was still relevant. It received a new twist, when Grace Aguilar, the first successful Anglo-Jewish woman writer, and Isaac Leeser, renowned rabbi, editor and Bible translator in Philadelphia, addressed it on the pages of Aguilar's _The Spirit of Judaism_ (1842). Aguilar insisted on making the Bible universally accessible: it should be dissociated from the "obscurities" of tradition and disseminated among the entire "Hebrew nation," including, emphatically, women and the poor. Leeser responded to this project with considerable anxiety. He supported Aguilar's inclusive definition of the Hebrew nation, but identified the Christian subtexts of a universalist approach that was predicated on the rejection of "the trammels of tradition": "How else are we to read Scripture, unless it be in accordance with the views of our predecessors? What else forms the distinction between us and Christians?" (100). Perhaps one of Aguilar's answers to these questions can be found in her use of Hebrew letters whenever she discusses the Shma’ Yisra’el: in Jewish contexts, the religious, national and universal meanings of the Bible and its language converge, rendering the text unique and clearly distinct from Christian, secular and cultural Bibles.
 
 ### Civil Code and Halakha: The Question of Mixed Marriages between Christians and Jews
 
@@ -54,9 +57,9 @@ Eva Lezzi
 
 This book is an extraordinary and unique document that reveals the ways Prussia tried to prevent Christian-Jewish marriages on the basis of its Civil Code. In 1846 a Jewish doctor from Königsberg, Ferdinand Falkson, and his Protestant bride, Friederike Möller, were wedded in Hull, England, after they had unsuccessfully attempted to marry in Königsberg without one partner's converting. Back in Königsberg the couple was sued by a court, which finally declared their marriage as "nichtig" \[invalid\] and sentenced the couple to pay for the costs of the process. Falkson himself published in 1845 and 1847 a collection of papers of importance to their case under the title Gemischte Ehen zwischen Juden und Christen. Dokumente \[Mixed Marriages between Jews and Christians. Documents\].
 
-The legal aspects of the question whether Christian-Jewish marriage was at all possible were determined by the Allgemeines Landrecht fC \[General Laws for the Prussian States—ALR\] from 1794. The ALR states that a "Christian cannot enter into marriage with such persons who, according to the tenets of their religion, are hindered from subjecting themselves to the Christian laws of marriage" (ALR, II.1, section one, §36).
+The legal aspects of the question whether Christian-Jewish marriage was at all possible were determined by the _Allgemeines Landrecht fC_ \[General Laws for the Prussian States—ALR\] from 1794. The ALR states that a "Christian cannot enter into marriage with such persons who, according to the tenets of their religion, are hindered from subjecting themselves to the Christian laws of marriage" (ALR, II.1, section one, §36).
 
-Falkson's small book shows the different and contradictory arguments about the commensurability of Christian and Jewish marriage laws, ceremonies and contents. While the state attorney did not hesitate to quote antisemitic sources, such as Eisenmenger's Entdecktes Judentum \[Judaism Unmasked\], to prove the incommensurability, the Jewish authorities were divided. In his radical reform position Rabbi Samuel Holdheim saw no obstacle against Christian-Jewish marriages.
+Falkson's small book shows the different and contradictory arguments about the commensurability of Christian and Jewish marriage laws, ceremonies and contents. While the state attorney did not hesitate to quote antisemitic sources, such as Eisenmenger's _Entdecktes Judentum_ \[Judaism Unmasked\], to prove the incommensurability, the Jewish authorities were divided. In his radical reform position Rabbi Samuel Holdheim saw no obstacle against Christian-Jewish marriages.
 
 The conservative Rabbi Jacob Oettinger, on the other hand, declared Christian-Jewish marriages as invalid according to the Bible. At the same time, he tried to prove that marriage according to Judaism fulfils the same bourgeois moral values as according to Christianity. The pages scanned for the exhibition show a part of the expert report that Oettinger was asked to submit to court.
 
@@ -66,15 +69,15 @@ Ari Joskowicz
 
 <img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/joskowicz600.jpg" alt="" width="1800" height="2588">
 
-Lion Wolff, Handel, Schacher und Wucher der Juden im Kalender für Zeit und Ewigkeit von Alban Stolz: ein Wort der Verwahrung und zur Abwehr (Karlsruhe: Macklot, 1874).
+Lion Wolff, _Handel, Schacher und Wucher der Juden im Kalender für Zeit und Ewigkeit von Alban Stolz: ein Wort der Verwahrung und zur Abwehr_ (Karlsruhe: Macklot, 1874).
 
-In many respects, Lion Wolff's small pamphlet can be read as a typical apologetic piece of the nineteenth century. Wolff was a Jewish teacher in a small village in a predominantly Catholic part of Baden (Germany), who reacted to an antisemitic treatise that was highly successful in his environment: Alban Stolz's Kalender für Zeit und Ewigkeit. In this calendar for the Catholic population, Stolz had attacked Jews as enemies of the simple farmer, as treacherous petty merchants, and usurers. Following the example of earlier apologetic pieces against antisemites, Wolff was not merely defensive but sought to write a sharp, witty, and popular rebuttal.
+In many respects, Lion Wolff's small pamphlet can be read as a typical apologetic piece of the nineteenth century. Wolff was a Jewish teacher in a small village in a predominantly Catholic part of Baden (Germany), who reacted to an antisemitic treatise that was highly successful in his environment: Alban Stolz's _Kalender für Zeit und Ewigkeit._ In this calendar for the Catholic population, Stolz had attacked Jews as enemies of the simple farmer, as treacherous petty merchants, and usurers. Following the example of earlier apologetic pieces against antisemites, Wolff was not merely defensive but sought to write a sharp, witty, and popular rebuttal.
 
 What did it mean to write poignant apologetics? It implied that one could draw on a generally intelligible language to discredit one's enemy, and no language was as effective during this period as anti-Catholicism. Starting with conflicts in the 1840s and peaking during the so-called _Kulturkampf_ of the 1870s, anti-Catholicism had become an identifying marker of liberal patriotism in Germany. At the time that Wolff wrote his pamphlet, debates on the compatibility of particular religions with good citizenship had focused not on Jews but on Catholics, and Wolff was skillful at exploiting this fact.
 
 Wolff, for example, countered the claim that Jews were taking advantage of the drinking habits of the peasantry with the following argument: The peasants' tendency to get inebriated with brandy was in truth the result of the Catholic clergy's pernicious activities. The priests preached the dogma of papal infallibility to women, who naturally accepted it. They then went home and demanded of their husbands that they follow them in this belief—something the men refused to do. Irritated by the domestic strife that ensued, these Catholic husbands spent their nights in the pub, drinking to forget.
 
-As in other cases we should not read this anti-Catholicism purely as a strategy. It was rather an attempt to defend the Jews with stereotypes that the author might have well internalized. Nor did Wolff rely only on anti-Catholicism; much of the pamphlet is involved in a more traditional attempt to discredit the various accusations Stolz had made against the Jews. Wolff's success—his pamphlet was published in three editions within several months—was nevertheless difficult to imagine without the references to particular popular themes of the anti-Catholic _Kulturkampf._ Handel, Schacher und Wucher is remarkable because it reminds us how much Jewish apologetics were shaped by the intensive conflicts between liberal secularists and Catholics.
+As in other cases we should not read this anti-Catholicism purely as a strategy. It was rather an attempt to defend the Jews with stereotypes that the author might have well internalized. Nor did Wolff rely only on anti-Catholicism; much of the pamphlet is involved in a more traditional attempt to discredit the various accusations Stolz had made against the Jews. Wolff's success—his pamphlet was published in three editions within several months—was nevertheless difficult to imagine without the references to particular popular themes of the anti-Catholic _Kulturkampf._ _Handel, Schacher und Wucher_ is remarkable because it reminds us how much Jewish apologetics were shaped by the intensive conflicts between liberal secularists and Catholics.
 
 ### The First Hebrew Translation of Spinoza's Ethics
 
@@ -84,19 +87,19 @@ Daniel Schwartz
 
 [<img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/SpinozaItalian6001.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901102801mp_/https://www.library.upenn.edu/collections/online-exhibits/secularism-its-discontents/first-hebrew-translation-spinozas-ethics?item=1)
 
-B. d. Spinoza, Heker ’Elohah ‘im torat ha-’adam \[An Investigation of God with the Science of Man\], translated by S. Rubin (Vienna: G. Brag, 1885).
+B. d. Spinoza, _Heker ’Elohah ‘im torat ha-’adam_ \[An Investigation of God with the Science of Man\], translated by S. Rubin (Vienna: G. Brag, 1885).
 
 The Dutch philosopher of Portuguese Jewish origin Baruch (or Benedictus) Spinoza (1632-1677) has undergone something of a renaissance in the last decades. The current revival is as striking for the variety of fields and genres represented as for its essentially similar bottom line: the idea of the rationalist thinker, pioneering biblical critic, and legendary conflater of God and Nature, as an originator of philosophical modernity, or perhaps we should say modernities, given the diverse and often contradictory intellectual legacies from the seventeenth century onward laid at his doorstep. One such legacy, Jonathan Israel has famously argued, was the so-called "Radical Enlightenment," which was distinguished from the moderate mainstream within the larger Enlightenment movement by its revolutionary esprit, its refusal to accommodate itself to religion, tradition, and the past, and its open commitment to the modern and secular as such. "Spinoza and Spinozism," Israel argues, were the " intellectual backbone of the European Radical Enlightenment everywhere, not only in the Netherlands, Germany, France, Italy, and Scandinavia but also Britain and Ireland."
 
 And, we might add, in Jewish East Central Europe. Excommunicated by the Sephardic Jews of Amsterdam in 1656 for his "horrible heresies" and "monstrous deeds," Spinoza would remain a persona non grata in Judaism for nearly two centuries thereafter. Yet in the 1840s and 1850s, the Haskalah—which had migrated from Berlin to Austrian Galicia and the Russian Empire earlier in the nineteenth century—became increasingly polarized between moderates committed to keeping the Jewish Enlightenment moored in rabbinic law and culture and militants intent on a no-holds-barred critique of tradition. These radical _maskilim_—like the European radical enlighteners of the seventeenth and eighteenth centuries—turned to Spinoza and his ideas for inspiration and guidance. It was in this moment and milieu that the Amsterdam philosopher emerged, in the words of Y.H. Yerushalmi, as "the first great culture-hero of modern, secular Jews."
 
-By far, the most zealous champion of Spinoza in the campaign to reclaim him for Hebrew literature and culture was Salomon Rubin (1823-1910), a Hebraist _maskil_ from Galicia. In 1856, Rubin wrote Moreh nevukhim he-hadash, or The New Guide to the Perplexed, his first of what would be many works over the next fifty years of his life dedicated to Spinoza. This was a two-volume apologia for an audacious venture—a proposal to translate Spinoza's two most notable works, the Ethics (1677) and the Theological-Political Treatise (1677), into Hebrew. Yet the justification for this scheme was in fact already inherent in Rubin's title, which framed Spinoza as the second coming of Maimonides.
+By far, the most zealous champion of Spinoza in the campaign to reclaim him for Hebrew literature and culture was Salomon Rubin (1823-1910), a Hebraist _maskil_ from Galicia. In 1856, Rubin wrote _Moreh nevukhim he-hadash, or The New Guide to the Perplexed_, his first of what would be many works over the next fifty years of his life dedicated to Spinoza. This was a two-volume apologia for an audacious venture—a proposal to translate Spinoza's two most notable works, the _Ethics_ (1677) and the _Theological-Political Treatise_ (1677), into Hebrew. Yet the justification for this scheme was in fact already inherent in Rubin's title, which framed Spinoza as the second coming of Maimonides.
 
-Nearly thirty years later, in 1885, Rubin finally came out with his long awaited translation of the Ethics. (He never finished translating the Theological-Political Treatise, which would have to wait until 1961 for a complete Hebrew rendering.) The Hebrew name he gave his translation, however, was not the literal Hebrew equivalent for the Ethics of Sefer ha-middot (as Jacob Klatzkin would later title his 1924 translation) but rather Heker ’Elohah ‘im torat ha-’adam, or An Investigation of God with the Science of Man. The change was significant. Rubin's Spinoza was no atheist. His system—for all its trailblazing character in philosophy and science and its rejection of religious orthodoxy—was thoroughly "God-intoxicated." Its concept of divinity, moreover, had ample precedent within medieval Jewish philosophical and mystical literature; what Spinoza had done, in essence, was to transpose a hidden history of Jewish pantheism into the clear and distinct idiom of rationalism. All this led Rubin to conclude that "Spinozism was Jewish from beginning to end."
+Nearly thirty years later, in 1885, Rubin finally came out with his long awaited translation of the Ethics. (He never finished translating the _Theological-Political Treatise_, which would have to wait until 1961 for a complete Hebrew rendering.) The Hebrew name he gave his translation, however, was not the literal Hebrew equivalent for the _Ethics of Sefer ha-middot_ (as Jacob Klatzkin would later title his 1924 translation) but rather _Heker ’Elohah ‘im torat ha-’adam_, or An Investigation of God with the Science of Man. The change was significant. Rubin's Spinoza was no atheist. His system—for all its trailblazing character in philosophy and science and its rejection of religious orthodoxy—was thoroughly "God-intoxicated." Its concept of divinity, moreover, had ample precedent within medieval Jewish philosophical and mystical literature; what Spinoza had done, in essence, was to transpose a hidden history of Jewish pantheism into the clear and distinct idiom of rationalism. All this led Rubin to conclude that "Spinozism was Jewish from beginning to end."
 
-Rubin's translation of the Ethics is today reduced to a footnote of Jewish history and Hebrew literature. Though it played an important role in introducing many fin-de-siC(cle Hebrew rebels to Spinoza—including David Ben-Gurion (1886-1973) and Mikhah Yosef Berdichevsky (1865-1921)—it has long since been surpassed by Klatzkin's version, which even with subsequent translations remains the standard-bearer. Yet Rubin's Investigation of Godstill has much to tell us about the resonance of Spinoza in Jewish formations of the secular. The Radical Enlightenment celebrated Spinoza as a nonbeliever, revolutionary, and cosmopolitan. The maskilim in the Jewish version of Radical Enlightenment also heralded the Amsterdam heretic as a symbol of modernity. Yet they appropriated him somewhat differently: as a pantheist and even panentheist rather than atheist, as a revealer of the secrets of the Jewish past rather than a proponent of total rupture from tradition, and as a "Jewish" rather than strictly universal thinker and hero.
+Rubin's translation of the Ethics is today reduced to a footnote of Jewish history and Hebrew literature. Though it played an important role in introducing many fin-de-siC(cle Hebrew rebels to Spinoza—including David Ben-Gurion (1886-1973) and Mikhah Yosef Berdichevsky (1865-1921)—it has long since been surpassed by Klatzkin's version, which even with subsequent translations remains the standard-bearer. Yet Rubin's _Investigation of Godstill_ has much to tell us about the resonance of Spinoza in Jewish formations of the secular. The Radical Enlightenment celebrated Spinoza as a nonbeliever, revolutionary, and cosmopolitan. The _maskilim_ in the Jewish version of Radical Enlightenment also heralded the Amsterdam heretic as a symbol of modernity. Yet they appropriated him somewhat differently: as a pantheist and even panentheist rather than atheist, as a revealer of the secrets of the Jewish past rather than a proponent of total rupture from tradition, and as a "Jewish" rather than strictly universal thinker and hero.
 
-### Milhemet mitsvah (Commanded War). Sighet, 1888
+### _Milhemet mitsvah (Commanded War)_. Sighet, 1888
 
 David Myers
 
@@ -116,7 +119,7 @@ Ilana Pardes
 
 [<img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/StereoscopeTitlePage600_0.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901102801mp_/https://www.library.upenn.edu/collections/online-exhibits/secularism-its-discontents/traveling-holy-land-through-stereoscope?item=2)
 
-Underwood and Underwood's Traveling in the Holy Land through the Stereoscope (New York and London, 1900) is one of the most ingenious series of Holy Land stereographic tour guides.
+Underwood and Underwood's _Traveling in the Holy Land through the Stereoscope_ (New York and London, 1900) is one of the most ingenious series of Holy Land stereographic tour guides.
 
 The three-dimensional effect of the stereoscope promised viewers an authentic tour of the holy sites in their very home. Instead of traveling to the Holy Land, they could now visit the Mount of Olives or the Holy Sepulchre with the stereoscope as their "personal" guide.
 
@@ -140,7 +143,7 @@ Yael Zerubavel
 
 [<img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/zarubavel2888.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901102801mp_/https://www.library.upenn.edu/collections/online-exhibits/secularism-its-discontents/zionist-images-ancient-revivals-secular?item=1)
 
-This segment of a studio image of the clandestine group Hashomer \[The Guard, (above left)\] highlights the duality of secularizing orientations among European Zionist "olim" \[new immigrants\] in Palestine at the beginning of the twentieth century: The transformation of the traditional "exilic Jew" into a modern European followed the ideas of the Jewish Enlightenment, and is represented by Israel Schohat on the right; and the transformation of the European Jew into a native of the Middle East and the Land of Israel is represented by his friend, Menachem Portugali, on the left. Hashomer's hybrid clothes represented the desire to reconnect with the ancient Hebrew identity by borrowing clothes items from the neighboring Arabs and by imitating them.
+This segment of a studio image of the clandestine group _Hashomer_ \[The Guard, (above left)\] highlights the duality of secularizing orientations among European Zionist "olim" \[new immigrants\] in Palestine at the beginning of the twentieth century: The transformation of the traditional "exilic Jew" into a modern European followed the ideas of the Jewish Enlightenment, and is represented by Israel Schohat on the right; and the transformation of the European Jew into a native of the Middle East and the Land of Israel is represented by his friend, Menachem Portugali, on the left. _Hashomer_'s hybrid clothes represented the desire to reconnect with the ancient Hebrew identity by borrowing clothes items from the neighboring Arabs and by imitating them.
 
 Dance performances drawing on biblical images provided another creative venue for displaying the symbolic continuity between the ancient and the modern Hebrew identity (below left). Interpreting the Bible as the foundation of the national canon of Jewish texts, it inspired members of the Zionist Jewish society in Palestine to connect with their national past and to embrace ancient forms as part of the renewal of the Hebrew culture.
 
@@ -156,11 +159,11 @@ Scott Ury
 
 The rapid growth of Warsaw in the second half of the nineteenth century and a series of new government regulations produced an array of cultural and political activities for many of the city's 300,000 Jewish residents in the early twentieth-century. While many of these modernizing projects advocated secular platforms, many of them were also imbued with key aspects of traditional Jewish society, culture and religion.
 
-One of the more prominent figures in the new Jewish cultural sphere was the journalist, folklorist, and political leader Noah Prylucki. In addition to publishing the immensely popular Warsaw Yiddish dailies Der veg and later Der moment, Prylucki was repeatedly drawn to "the people." As part of his interest in "the Jewish folk," Prylucki headed a folklore and ethnographic group in Warsaw. The group's activities led to the publication of the two-volume collection Yiddish Folk Songs, the first of which was dedicated to "Religious and Holiday Songs" (Figure #1, Prylucki's Yidishe folkslider, volume 1).
+One of the more prominent figures in the new Jewish cultural sphere was the journalist, folklorist, and political leader Noah Prylucki. In addition to publishing the immensely popular Warsaw Yiddish dailies _Der veg_ and later _Der moment_, Prylucki was repeatedly drawn to "the people." As part of his interest in "the Jewish folk," Prylucki headed a folklore and ethnographic group in Warsaw. The group's activities led to the publication of the two-volume collection _Yiddish Folk Songs_, the first of which was dedicated to "Religious and Holiday Songs" (Figure #1, Prylucki's _Yidishe folkslider_, volume 1).
 
 This tension between a secularizing agenda and the very folk that these projects were determined to rehabilitate was one of the central themes of the Yiddish play, Der inteligent (The Intellectual) which was written by Peretz Hirschbein and published in Warsaw in 1907. Like other members of the Jewish intelligentsia, Hirschbein enjoyed many aspects of the new Jewish culture—like Yiddish theater—and was simultaneously attracted to parts of traditional Jewish society. Hirschbein would later describe the central theme of Der inteligent as: "The inner tragedy of an intellectual who did not win the trust of the masses, and for whom the psychology of the simple worker was truly foreign" (Fig. #2, Der inteligent).
 
-Yehezkel Kotik was another Jewish resident of Warsaw who found himself drawn to the modern city while yearning for more traditional communities. Kotik, who vividly recalled his experiences in his memoirs Mayne zikhroynes,ran a coffee house in the heart of Warsaw's Jewish neighborhood. Like the Jewish newspaper and the Yiddish theater, Kotik's coffee house provided a new, ostensibly secular space where Jewish urbanites could partake in new cultural activities while still maintaining many traditional modes of socialization, interaction and culture (Figure #3, cover page ofMayne zikhroynes).
+Yehezkel Kotik was another Jewish resident of Warsaw who found himself drawn to the modern city while yearning for more traditional communities. Kotik, who vividly recalled his experiences in his memoirs _Mayne zikhroynes_, ran a coffee house in the heart of Warsaw's Jewish neighborhood. Like the Jewish newspaper and the Yiddish theater, Kotik's coffee house provided a new, ostensibly secular space where Jewish urbanites could partake in new cultural activities while still maintaining many traditional modes of socialization, interaction and culture (Figure #3, cover page of _Mayne zikhroynes_).
 
 Thus, while all three cases—Prilutski's newspaper, Hirschbein's theater and Kotik's café—were distinctly secular institutions that helped form the Jewish public sphere, all three projects were also deeply imbued with the spirit, culture and language of traditional Jewish society.
 
@@ -170,7 +173,7 @@ Galili Shahar
 
 <img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/shahar600.jpg" alt="" width="1800" height="2588">
 
-The image shown here reproduces the title page of the 1933 edition of Gershom Scholem's translation of and commentary on Sefer Ha-Bahir—the oldest book of Jewish Kabbalah in Europe. Scholem's translation, which was submitted as part of his Ph.D. project to the University of Berlin, was first published in 1923. Scholem's translation was not only a milestone in his early career as a Kabbalah researcher, but also marked the beginning of a new field of research in Jewish Studies. However, the translation of Sefer Ha-Bahir into German carries additional implications: it marks the "return of the sacred" and the dialectic of secularism in German-Jewish modernism. Scholem's translation, besides its academic significance, hints also at the paradox of the German-Jewish "dialogue"—namely, the acknowledgment of the ambivalent aspects of Jewish being and creation in German culture. Efforts by Jews to engage in this dialogue were significant and essentially productive and original, but also became associated with self-denial, anti-Semitic rejection and finally with political violence. Scholem himself later argued against these efforts. The date and the place of this later publication of Scholem's translation by Schocken Verlag—Berlin/1933, the same year and place that Hitler came to power—mark the impossibility, the uncanny prospect of the German-Jewish cultural project, the modernist creation of German Jews in the fields of philosophy, art, literature and politics, which carries the signature of progress and horror.
+The image shown here reproduces the title page of the 1933 edition of Gershom Scholem's translation of and commentary on _Sefer Ha-Bahir_—the oldest book of Jewish Kabbalah in Europe. Scholem's translation, which was submitted as part of his Ph.D. project to the University of Berlin, was first published in 1923. Scholem's translation was not only a milestone in his early career as a Kabbalah researcher, but also marked the beginning of a new field of research in Jewish Studies. However, the translation of _Sefer Ha-Bahir_ into German carries additional implications: it marks the "return of the sacred" and the dialectic of secularism in German-Jewish modernism. Scholem's translation, besides its academic significance, hints also at the paradox of the German-Jewish "dialogue"—namely, the acknowledgment of the ambivalent aspects of Jewish being and creation in German culture. Efforts by Jews to engage in this dialogue were significant and essentially productive and original, but also became associated with self-denial, anti-Semitic rejection and finally with political violence. Scholem himself later argued against these efforts. The date and the place of this later publication of Scholem's translation by Schocken Verlag—Berlin/1933, the same year and place that Hitler came to power—mark the impossibility, the uncanny prospect of the German-Jewish cultural project, the modernist creation of German Jews in the fields of philosophy, art, literature and politics, which carries the signature of progress and horror.
 
 ### Emmanuel Levinas, Carnets de captivité, suivis de Ecrits sur la captivité, et Notes philosophiques diverses (Paris: Editions Grasset/IMEC, 2009)
 
@@ -194,9 +197,9 @@ Michal Ben-Horin
 
 <img src="https://web.archive.org/web/20200901102801im_/https://www.library.upenn.edu/sites/default/files/2019-06/benhorin600.jpg" alt="" width="1800" height="2588">
 
-In an essay on Arnold Schoenberg, Theodor W. Adorno called the German Jewish composer 'Musikant,' thus alluding to traditions of Jewish music mainly known in Eastern Europe. The difference between 'Musikant' and 'Musiker' that echoes with Adorno's linguist decision, reveals a fascinating correspondence and a whole set of tensions—and transformations—between the sacred and the secular, the modern and the ancient, invention and tradition, innovation and repetition. This is demonstrated in a work by Marc Chagall, who shaped the image of the ancient musician, King David, according to the model of an Eastern European Musikant. Chagall's work serves as the cover of Anthology of Jewish Music: Sacred and Volk Songs of the East European Jews, edited by N. Vinaver (New York, E. B. Marks 1955) that includes Schoenberg's "Psalm 130 for Mixed Chorus," op. 50B. The cover image reproduced here comes from a copy in the collection of the Library of the Herbert D. Katz Center for Advanced Judaic Studies.
+In an essay on Arnold Schoenberg, Theodor W. Adorno called the German Jewish composer 'Musikant,' thus alluding to traditions of Jewish music mainly known in Eastern Europe. The difference between 'Musikant' and 'Musiker' that echoes with Adorno's linguist decision, reveals a fascinating correspondence and a whole set of tensions—and transformations—between the sacred and the secular, the modern and the ancient, invention and tradition, innovation and repetition. This is demonstrated in a work by Marc Chagall, who shaped the image of the ancient musician, King David, according to the model of an Eastern European Musikant. Chagall's work serves as the cover of _Anthology of Jewish Music: Sacred and Volk Songs of the East European Jews_, edited by N. Vinaver (New York, E. B. Marks 1955) that includes Schoenberg's "Psalm 130 for Mixed Chorus," op. 50B. The cover image reproduced here comes from a copy in the collection of the Library of the Herbert D. Katz Center for Advanced Judaic Studies.
 
-Careful study of Arnold Schoenberg's opera Moses und Aron reveals how modernist techniques of the New Music translated, re-defined, and gave a radical interpretation to concepts and ideas from the realm of Jewish tradition such as prophecy, revelation, the Mosaic Law, and prayer. When we look at how religious figures are transformed into art, and particularly how the question of monotheism and the image prohibition (i.e., the law that prohibits the making of the image of God) is elaborated in innovative musical textures, it becomes evident that Jewish secularism is not merely a process of "overcoming religion," but rather a complex transformation of theological elements and traditions into new and ambiguous forms of aesthetic representation.
+Careful study of Arnold Schoenberg's opera _Moses und Aron_ reveals how modernist techniques of the New Music translated, re-defined, and gave a radical interpretation to concepts and ideas from the realm of Jewish tradition such as prophecy, revelation, the Mosaic Law, and prayer. When we look at how religious figures are transformed into art, and particularly how the question of monotheism and the image prohibition (i.e., the law that prohibits the making of the image of God) is elaborated in innovative musical textures, it becomes evident that Jewish secularism is not merely a process of "overcoming religion," but rather a complex transformation of theological elements and traditions into new and ambiguous forms of aesthetic representation.
 
 Also translated and employed in the realm of secular poetics is the configuration of the violin in modern Jewish and Hebrew literature. The secular adaptations of musical images are embedded in religious traditions and loaded with biblical connotations which generate contradictory categories: lamentation which resonates with a promise of redemption, destruction that reverberates with national revival, exile that echoes with the homeland. Transformed into modernist and contemporary works of literature, they play a role in the poetic rebirth of a Zionist body, the narration of the Arab-Israeli conflict, and the shape of a memory poetics after the holocaust. We see, thus, how the violin becomes a medium of identification and negation, imagination and documentation within which old and new identities are revealed, but also challenged. This transformation of musical figures exposes, however, the dissonances of secularism—namely, the dialectic relationship and tensions, the discontents and limits of secular cultures.
 
@@ -214,112 +217,113 @@ The latter gesture, captured in this photograph of Belleville Rabbi Emmanuel Cho
 
 ## Selected Bibliography
 
-*   **Aronowicz, Annette.** Jews and Christians on time and eternity : Charles Péguy’s portrait of Bernard-Lazare Stanford, CA: Stanford University Press, 1998
+*   **Aronowicz, Annette.** _Jews and Christians on time and eternity : Charles Péguy’s portrait of Bernard-Lazare._ (Stanford, CA: Stanford University Press, 1998)
     
-*   **Asad, Talal.** Genealogies of religion : discipline and reasons of power in Christianity and Islam BaltimoreJohns Hopkins University Press, c1993
+*   **Asad, Talal.** _Genealogies of religion : discipline and reasons of power in Christianity and Islam Baltimore._ (Johns Hopkins University Press, c1993)
     
-*   **idem.** Formations of the secular : Christianity, Islam, modernityStanford, CA: Stanford University Press, 2003
+*   **idem.** _Formations of the secular : Christianity, Islam, modernity._ (Stanford, CA: Stanford University Press, 2003)
     
-*   **Ben-Horin, Michal.** Memory Metonymies’: Music and Photography in Ingeborg Bachmann and Monika Maron German Life and Letters 59.2 (2006), 233-248
+*   **Ben-Horin, Michal.** "Memory Metonymies’: Music and Photography in Ingeborg Bachmann and Monika Maron," in German Life and Letters (59.2 (2006), 233-248).
     
-*   **Blumenberg, Hans.** The legitimacy of the modern age translated by Robert M. Wallace English. Cambridge, Mass. : MIT Press, c1983
+*   **Blumenberg, Hans.** _The legitimacy of the modern age.,_ translated by Robert M. Wallace (English. Cambridge, Mass. : MIT Press, c1983)
     
-*   **Casanova, José.** Public religions in the modern worldChicago : University of Chicago Press, 1994
+*   **Casanova, José.** _Public religions in the modern world._ (Chicago : University of Chicago Press, 1994)
     
-*   **Feldman, Yael S.** No room of their own : gender and nation in Israeli women’s fictionNew York : Columbia University Press, c1999
+*   **Feldman, Yael S.** _No room of their own : gender and nation in Israeli women’s fiction._ (New York : Columbia University Press, c1999)
     
-*   **Freud, Sigmund.** Civilization and its discontents translated by David McLintock ; with an introduction by Leo Bersani English. London : Penguin, 2002
+*   **Freud, Sigmund.** _Civilization and its discontents.,_ translated by David McLintock ; with an introduction by Leo Bersani (English. London : Penguin, 2002)
     
-*   **Funkenstein, Amos.** Theology and the scientific imagination from the Middle Ages to the seventeenth centuryPrinceton, N.J. : Princeton University Press, c1986
+*   **Funkenstein, Amos.** _Theology and the scientific imagination from the Middle Ages to the seventeenth century._ (Princeton, N.J. : Princeton University Press, c1986)
     
-*   **Joskowicz, Alexander.** Liberal Judaism and Confessional Politics of Difference in the German Kulturkampf Leo Baeck Institute Yearbook 50 (January 2005), 177 - 197
+*   **Joskowicz, Alexander.** "Liberal Judaism and Confessional Politics of Difference in the German Kulturkampf," in Leo Baeck Institute Yearbook (50 (January 2005), 177 - 197).
     
-*   **Katz, Ethan.** Jews and Muslims in the shadow of Marianne: Conflicting identites and Republican culture in France (1914--1975)Ph.D. diss., The University of Wisconsin – Madison (2009)
+*   **Katz, Ethan.** _Jews and Muslims in the shadow of Marianne: Conflicting identites and Republican culture in France (1914--1975)._ (Ph.D. diss., The University of Wisconsin – Madison (2009))
     
-*   **Lezzi, Eva.** Zerstörte Kindheit : literarische Autobiographien zur ShoahKöln : Böhlau, 2001
+*   **Lezzi, Eva.** _Zerstörte Kindheit : literarische Autobiographien zur Shoah._ (Köln : Böhlau, 2001)
     
-*   **Lilla, Mark.** The stillborn God : religion, politics, and the modern WestNew York : Knopf, 2007
+*   **Lilla, Mark.** _The stillborn God : religion, politics, and the modern West._ (New York : Knopf, 2007)
     
-*   **Lowith, Karl.** Meaning in history : the theological implications of the philosophy of historyChicago, IL : University of Chicago Press, 1949
+*   **Lowith, Karl.** _Meaning in history : the theological implications of the philosophy of history._ (Chicago, IL : University of Chicago Press, 1949)
     
-*   **MacIntyre, Alasdair C.; Ricoer, Paul.** The religious significance of atheismNew York, Columbia University Press, 1969
+*   **MacIntyre, Alasdair C.; Ricoer, Paul.** _The religious significance of atheism._ (New York, Columbia University Press, 1969)
     
-*   **idem.** After virtue : a study in moral theory. 3rd ed. Notre Dame, IN. : University of Notre Dame Press, 2007
+*   **idem..** _After virtue : a study in moral theory. 3rd ed._ (Notre Dame, IN. : University of Notre Dame Press, 2007)
     
-*   **Manekin, Rachel.** Tsemiḥatah ṿe-gibushah shel ha-ortodoḳsyah ha-Yehudit be-Galitsyah : ḥevrat "Maḥaziḳe ha-dat"1867-1883 \[Israel : ḥ. mo. l., 2000?\]
+*   **Manekin, Rachel.** _Tsemiḥatah ṿe-gibushah shel ha-ortodoḳsyah ha-Yehudit be-Galitsyah : ḥevrat "Maḥaziḳe ha-dat"._ (1867-1883 \[Israel : ḥ. mo. l., 2000?\])
     
-*   **Myers, David N.** Resisting history : historicism and its discontents in German-Jewish thoughtPrinceton, N.J. : Princeton University Press, c2003
+*   **Myers, David N.** R_esisting history : historicism and its discontents in German-Jewish thought._ (Princeton, N.J. : Princeton University Press, c2003)
     
-*   **Pardes, Ilana.** Melville’s BiblesBerkeley : University of California Press, c2008
+*   **Pardes, Ilana.** _Melville’s Bibles._ (Berkeley : University of California Press, c2008)
     
-*   **Raz-Krakotzkin, Amnon.** The censor, the editor, and the text : the Catholic Church and the shaping of the Jewish canon in the sixteenth century translated by Jackie Feldman. Tsenzor, ha-‘orekh ṿeha-ṭeḳsṭ Philadelphia : University of Pennsylvania Press, c. 2007
+*   **Raz-Krakotzkin, Amnon.** _The censor, the editor, and the text : the Catholic Church and the shaping of the Jewish canon in the sixteenth century.,_ translated by Jackie Feldman. Tsenzor, ha-‘orekh ṿeha-ṭeḳsṭ (Philadelphia : University of Pennsylvania Press, c. 2007)
     
-*   **Rojanski, Rachel.** Zehuyot nifgashot :Poʻale-Tsiyon bi-tsefon Ameriḳah 1905-1931. Other Title: Conflicting identitiesḲiryat Śedeh-Boḳer : Mekhon Ben-Guryon, 2004
+*   **Rojanski, Rachel.** _Zehuyot nifgashot :Poʻale-Tsiyon bi-tsefon Ameriḳah 1905-1931. Other Title: Conflicting identities._ (Ḳiryat Śedeh-Boḳer : Mekhon Ben-Guryon, 2004)
     
-*   **Schatz, Andrea.** Sprache in der Zerstreuung : die Säkularisierung des Hebräischen im 18Jahrhundert. Göttingen : Vandenhoeck & Ruprecht, c2009
+*   **Schatz, Andrea.** _Sprache in der Zerstreuung : die Säkularisierung des Hebräischen im 18._ (Jahrhundert. Göttingen : Vandenhoeck & Ruprecht, c2009)
     
-*   **Schmitt, Carl.** Political theology : four chapters on the concept of sovereignty translated by George Schwab Cambridge, Mass. : MIT Press, c1985.
+*   **Schmitt, Carl.** _Political theology : four chapters on the concept of sovereignty.,_ translated by George Schwab (Cambridge, Mass. : MIT Press, c1985.)
     
-*   **idem.** The concept of the politicaltranslation, introduction, and notes by George Schwab ; with "The Age of Neutralizations and Depoliticizations" (1929) translated by Matthias Konzen and John P. McCormick ; with Leo Straus’s notes on Schmitt’s essay, translated by J. Harvey Lomax Expanded ed.. Chicago : University of Chicago Press, 2007
+*   **idem.** _The concept of the political.,_ translation, introduction, and notes by George Schwab ; with "The Age of Neutralizations and Depoliticizations" (1929) translated by Matthias Konzen and John P. McCormick ; with Leo Straus’s notes on Schmitt’s essay, translated by J. Harvey Lomax (Expanded ed.. Chicago : University of Chicago Press, 2007)
     
-*   **idem.** Political theology II : the myth of the closure of any political theology translated and introduced by Michael Hoelzl and Graham Ward Cambridge ; Malden, MA : Polity, c2008
+*   **idem.** _Political theology II : the myth of the closure of any political theology.,_ translated and introduced by Michael Hoelzl and Graham Ward (Cambridge ; Malden, MA : Polity, c2008)
     
-*   **Schulte, Christoph.** Die jüdische Aufklärung : Philosophie, Religion, Geschichte MünchenC.H. Beck, c2002
+*   **Schulte, Christoph.** _Die jüdische Aufklärung : Philosophie, Religion, Geschichte München._ (C.H. Beck, c2002)
     
-*   **Schwartz, Daniel.** The Spinoza image in Jewish culture, 1656—[1956.Ph](http://1956.Ph).D. diss., Columbia University, 2007
+*   **Schwartz, Daniel.** _The Spinoza image in Jewish culture, 1656—1956_._._ (Ph.D. diss., Columbia University, 2007)
     
-*   **Scott, David; Hirschkind, Charles, eds.** Powers of the secular modern : Talal Asad and his interlocutorsStanford, CA: Stanford University Press, 2006
+*   **Scott, David; Hirschkind, Charles, eds.** _Powers of the secular modern : Talal Asad and his interlocutors._ (Stanford, CA: Stanford University Press, 2006)
     
-*   **Shahar, Galili.** heatrum judaicum : Denkspiele im deutsch-jüdischen Diskurs der ModerneBielefeld : Aisthesis, 2007
+*   **Shahar, Galili.** _heatrum judaicum : Denkspiele im deutsch-jüdischen Diskurs der Moderne._ (Bielefeld : Aisthesis, 2007)
     
-*   **Talmon, J. L. (Jacob Leib).** Political Messianism : the romantic phaseBoulder : Westview Press, 1985
+*   **Talmon, J. L. (Jacob Leib).** _Political Messianism : the romantic phase._ (Boulder : Westview Press, 1985)
     
-*   **Taylor, Charles.** Sources of the self : the making of the modern identityCambridge, Mass. : Harvard University Press, 1989
+*   **Taylor, Charles.** _Sources of the self : the making of the modern identity._ (Cambridge, Mass. : Harvard University Press, 1989)
     
-*   **idem.** A secular ageCambridge, Mass. : Belknap Press of Harvard University Press, 2007
+*   **idem.** _A secular age._ (Cambridge, Mass. : Belknap Press of Harvard University Press, 2007)
     
-*   **Ury, Scott.** "On the gallows" : the "politics of assimilation" in turn-of-the-century Warsaw Polin 20 (2008), 339-353
+*   **Ury, Scott.** _"On the gallows" : the "politics of assimilation" in turn-of-the-century Warsaw._ (Polin 20 (2008), 339-353)
     
-*   **Warner, Michael; VanAntwerpen, Jonathan; Calhoun, Craig, eds.** Varieties of secularism in a secular ageCambridge, Mass. : Harvard University Press, c. 2010
+*   **Warner, Michael; VanAntwerpen, Jonathan; Calhoun, Craig, eds.** _Varieties of secularism in a secular age._ (Cambridge, Mass. : Harvard University Press, c. 2010)
     
-*   **Weber, Max.** The Protestant ethic and the spirit of capitalism Translated by Talcott Parsons, with a foreword by R.H. Tawney New York, Scribner \[1958\]
+*   **Weber, Max.** _The Protestant ethic and the spirit of capitalism.,_ Translated by Talcott Parsons, with a foreword by R.H. Tawney (New York, Scribner \[1958\])
     
-*   **idem.** The Protestant ethic and the spirit of capitalism translated by Talcott Parsons ; with an introduction by Anthony Giddens London ; New York : Routledge, \[2001\]
+*   **idem.** _The Protestant ethic and the spirit of capitalism.,_ translated by Talcott Parsons ; with an introduction by Anthony Giddens (London ; New York : Routledge, \[2001\])
     
-*   **idem.** The Protestant ethic and the spirit of capitalism the Talcott Parsons translation interpretations; edited by Richard Swedberg 1st ed.. New York : W.W. Norton & Co., c2009
+*   **idem.** _The Protestant ethic and the spirit of capitalism.,_ the Talcott Parsons translation interpretations; edited by Richard Swedberg (1st ed.. New York : W.W. Norton & Co., c2009)
     
-*   **Zerubavel, Yael.** Recovered roots : collective memory and the making of Israeli national traditionChicago : University of Chicago Press, 1995
+*   **Zerubavel, Yael.** _Recovered roots : collective memory and the making of Israeli national tradition._ (Chicago : University of Chicago Press, 1995)
     
 
 ## Contributors
 
-Annette Aronowicz - Franklin and Marshall College / Martin Gruss Fellowship, Rose & Henry Zifkin Teaching Fellowship
-
-Michal Ben-Horin - University of Florida / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
-
-Jonathan Gribetz - Columbia University / Maurice Amado Foundation Fellowship
-
-Ari Joskowicz - Vanderbilt University / Albert J. Wood Fellowship
-
-Ethan Katz - University of Cincinnati / Ivan & Nina Ross Family Fellowship
-
-Eva Lezzi - University of Potsdam / Primo Levi Fellowship
-
-David Myers - University of California, Los Angeles / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Ilana Pardes - Hebrew University / Golub Family Fellowship
-
-Andrea Schatz - King's College London / Ella Darivoff Fellowship
-
-Christoph Schulte - University of Potsdam / Ruth Meltzer Fellowship
-
-Daniel Schwartz - George Washington University / Louis & Bessie Stein Fellowship
-
-Galili Shahar - University of Florida / Ruth Meltzer Fellowship
-
-Scott Ury - Tel-Aviv University / Nancy S. & Laurence E. Glick Teaching Fellowship, Weiner Family Fellowship
-
-Yael Zerubavel - Rutgers University / Dalck & Rose Feith Family Fellowship
+*   Annette Aronowicz - Franklin and Marshall College / Martin Gruss Fellowship, Rose & Henry Zifkin Teaching Fellowship
+    
+*   Michal Ben-Horin - University of Florida / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Jonathan Gribetz - Columbia University / Maurice Amado Foundation Fellowship
+    
+*   Ari Joskowicz - Vanderbilt University / Albert J. Wood Fellowship
+    
+*   Ethan Katz - University of Cincinnati / Ivan & Nina Ross Family Fellowship
+    
+*   Eva Lezzi - University of Potsdam / Primo Levi Fellowship
+    
+*   David Myers - University of California, Los Angeles / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Ilana Pardes - Hebrew University / Golub Family Fellowship
+    
+*   Andrea Schatz - King's College London / Ella Darivoff Fellowship
+    
+*   Christoph Schulte - University of Potsdam / Ruth Meltzer Fellowship
+    
+*   Daniel Schwartz - George Washington University / Louis & Bessie Stein Fellowship
+    
+*   Galili Shahar - University of Florida / Ruth Meltzer Fellowship
+    
+*   Scott Ury - Tel-Aviv University / Nancy S. & Laurence E. Glick Teaching Fellowship, Weiner Family Fellowship
+    
+*   Yael Zerubavel - Rutgers University / Dalck & Rose Feith Family Fellowship
+    
 
 **Special Thanks**
 
