@@ -396,45 +396,46 @@ This text is perhaps the most rhetorically powerful statement of the repudiation
 
 ## Contributors
 
-Piet van Boxel - Leo Baeck College, King's College/CAJS 2000
-
-Stephen Burnett (Sefer ha-Diḳduḳ... | Catechesis... | Synagoga Iudaica... | Opuscula hebraea...) - University of Nebraska/CAJS 2000
-
-Allison Coudert - Arizona State University/CAJS 2000
-
-Yaakov Deutsch - Hebrew University/CAJS 2000
-
-Harvey Goldberg - Hebrew University/CAJS 2000
-
-Chanita Goodblatt - Ben Gurion University/CAJS 2000
-
-Chaim (Harvey) Hames - Ben Gurion University/CAJS 2000
-
-Michael Heyd - Hebrew University/CAJS 2000
-
-Seth Jerchower (Aldi Pii Manutii... | Psalterium... | Sefer ʻAḳedat... | Thesaurus linguae...) - University of Pennsylvania
-
-Jonathan Karp - State University of New York, Binghamton/CAJS 2000
-
-Fabrizio Lelli - Theological Faculty of Central Italy/CAJS 2000
-
-Ora Limor (Pugio Fidei... | Nisahon...) - Open University/CAJS 2000
-
-Nils Roemer - University of Southampton, England/CAJS 2000
-
-Jason Rosenblatt - Georgetown University /CAJS 2000
-
-Adam Shear - University of Pennsylvania/CAJS 2000
-
-Jeffrey S. Shoulson - University of Miami/CAJS 2000
-
-Guy Stroumsa - Hebrew University/CAJS 2000
-
-Adam Sutcliffe - University of Illinois, Urbana/CAJS 2000
-
-Joanna Weinberg - Leo Baeck College, Oxford University/CAJS 2000
-
-Israel Yuval - Hebrew University/CAJS 2000
+*   Piet van Boxel - Leo Baeck College, King's College/CAJS 2000
+    
+*   Stephen Burnett (Sefer ha-Diḳduḳ... | Catechesis... | Synagoga Iudaica... | Opuscula hebraea...) - University of Nebraska/CAJS 2000
+    
+*   Allison Coudert - Arizona State University/CAJS 2000
+    
+*   Yaakov Deutsch - Hebrew University/CAJS 2000
+    
+*   Harvey Goldberg - Hebrew University/CAJS 2000
+    
+*   Chanita Goodblatt - Ben Gurion University/CAJS 2000
+    
+*   Chaim (Harvey) Hames - Ben Gurion University/CAJS 2000
+    
+*   Michael Heyd - Hebrew University/CAJS 2000
+    
+*   Seth Jerchower (Aldi Pii Manutii... | Psalterium... | Sefer ʻAḳedat... | Thesaurus linguae...) - University of Pennsylvania
+    
+*   Jonathan Karp - State University of New York, Binghamton/CAJS 2000
+    
+*   Fabrizio Lelli - Theological Faculty of Central Italy/CAJS 2000
+    
+*   Ora Limor (Pugio Fidei... | Nisahon...) - Open University/CAJS 2000
+    
+*   Nils Roemer - University of Southampton, England/CAJS 2000
+    
+*   Jason Rosenblatt - Georgetown University /CAJS 2000
+    
+*   Adam Shear - University of Pennsylvania/CAJS 2000
+    
+*   Jeffrey S. Shoulson - University of Miami/CAJS 2000
+    
+*   Guy Stroumsa - Hebrew University/CAJS 2000
+    
+*   Adam Sutcliffe - University of Illinois, Urbana/CAJS 2000
+    
+*   Joanna Weinberg - Leo Baeck College, Oxford University/CAJS 2000
+    
+*   Israel Yuval - Hebrew University/CAJS 2000
+    
 
 **Special Thanks**
 
