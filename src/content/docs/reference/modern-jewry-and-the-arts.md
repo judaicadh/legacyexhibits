@@ -7,8 +7,7 @@ hero:
   title: Modern Jewry and the Arts
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2000-2001 Fellows at the University of Pennsylvania
-  image:
-    alt: Modern Jewry and the Arts
+  
 slug: modern-jewry-and-the-arts
 tableOfContents:
   minHeadingLevel: 2

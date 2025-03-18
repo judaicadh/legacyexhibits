@@ -12,8 +12,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2016-2017 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/ExpandingJewishPoliticalThought/expandingsplash.jpg
+    file: "../../../../src/assets/ExpandingJewishPoliticalThought/expandingsplash.jpg"
 slug: expanding-jewish-political-thought
 tableOfContents:
   minHeadingLevel: 2

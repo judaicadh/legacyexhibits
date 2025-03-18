@@ -14,8 +14,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2018-2019 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/JewsinModernIslamicContexts/nizri-collage.jpg
+    file: "../../../../src/assets/JewsinModernIslamicContexts/nizri-collage.jpg"
 slug: jews-in-modern-islamic-contexts
 tableOfContents:
   minHeadingLevel: 2

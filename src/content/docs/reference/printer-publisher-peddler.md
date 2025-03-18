@@ -8,7 +8,8 @@ date: "2008"
 hero:
   title: Printer, Publisher, Peddler
   tagline: The Business of the Jewish Book
-  image:
+  image: 
+    file: "../../../../src/assets/printerpub/ppp-asc.png"
     alt: Printer, Publisher, Peddler
 slug: printer-publisher-peddler
 tableOfContents:

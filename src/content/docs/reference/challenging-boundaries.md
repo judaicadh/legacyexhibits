@@ -9,8 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2003-2004 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/ChallengingBoundaries/astrolabe.png
+    file: "../../../../src/assets/ConstructingBordersCrossing Boundaries/globe.png"
 slug: challenging-boundaries
 tableOfContents:
   minHeadingLevel: 2
@@ -93,7 +92,7 @@ Writing in twelfth century France, at a time when variant manuscripts of the Bab
 
 Harvey Goldberg
 
-<img src="https://web.archive.org/web/20200901172755im_/https://www.library.upenn.edu/sites/default/files/2019-08/Goldberg.jpg" alt="" width="1800" height="2588">
+[<img src="https://web.archive.org/web/20200901172755im_/https://www.library.upenn.edu/sites/default/files/2019-08/Goldberg.jpg" alt="" width="1800" height="2588">]
 
 Mordecai Ha-Cohen (second from left) was born in Tripoli, Libya, in 1856 and died in Benghazi in the late 1920s. His grandfather, originally from Genoa, settled in Tripoli, while his father, a merchant, died in a shipwreck and the family lost all its wealth. Growing up with limited means, Ha-Cohen became an autodidact, persistently seeking Jewish and general knowledge. Influenced by the Hebrew _haskala_, he authored a book on the history, institutions, and customs of the Jews of his native land, calling the book _Highid Mordekhai_ (Jerusalem, Ben-Zvi Institute, 1978). In 1906 he served as a guide to Russian-born Nahum Slouschz, a Sorbonne-trained orientalist sent on a mission to Tripoli by the Alliance Israilite Universelle. Ha-Cohen guided Slouschz as they visited small Jewish communities in the Tripolitanian hinterland, including mountain areas where Berber-speaking groups lived. _Highid Mordekhai_ contains rich descriptions of these communities, which in many ways are more valuable than the ethnography provided by Slouschz in his publications. This ethnographic material appears in English as _The Book of Mordechai_ (London, Darf, 1993, ed. Harvey E. Goldberg). Later in life, Ha-Cohen moved to Benghazi where he became a member of the rabbinic court. In the picture, the secretary of the court is to his left and two other judges are to his right.
 

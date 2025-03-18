@@ -10,8 +10,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2013-2014 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/ConstructingBordersCrossing Boundaries/globe.png
+    file: "../../../../src/assets/ConstructingBordersCrossing Boundaries/globe.png"
 slug: constructing-borders-crossing-boundaries
 tableOfContents:
   minHeadingLevel: 2
