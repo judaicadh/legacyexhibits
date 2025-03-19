@@ -8,8 +8,7 @@ date: "2008"
 hero:
   title: Printer, Publisher, Peddler
   tagline: The Business of the Jewish Book
-  image: 
-    file: "../../../../src/assets/printerpub/ppp-asc.png"
+  image:
     alt: Printer, Publisher, Peddler
 slug: printer-publisher-peddler
 tableOfContents:
@@ -113,8 +112,8 @@ fig. 2: Among the beacons of Jewish enlightenment in late 18th century Germany, 
 
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-09/ap93s8_body0001.jpg" alt="fig. 1" width="1800" height="2588">
 
-fig. 1: While the first _haskalah_ publications were printed in Hebrew characters, one of the distinctive features of nineteenth-century enlightened Jewish publishing was the employment of vernacular languages and alphabets. In Germany, the editors of _Sulamit_, David Fraenkel and Joseph Wolf, introduced German-language periodical publishing, printed in Gothic characters “for the advancement of Culture and Humanism among the Jewish Nation (“… zur Beförderung, der Kultur und Humanität unter den Israeliten.").  
-  
+fig. 1: While the first _haskalah_ publications were printed in Hebrew characters, one of the distinctive features of nineteenth-century enlightened Jewish publishing was the employment of vernacular languages and alphabets. In Germany, the editors of _Sulamit_, David Fraenkel and Joseph Wolf, introduced German-language periodical publishing, printed in Gothic characters “for the advancement of Culture and Humanism among the Jewish Nation (“… zur Beförderung, der Kultur und Humanität unter den Israeliten.").
+
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-09/bikure-anton-shmid-comp.jpg" alt="fig 2." width="1800" height="2588">fig. 2: By the 1820s, a new center of enlightened Jewish publishing was emerging in Vienna , the capital of the Austro-Hungarian empire, which included areas of Northern Italy and its Adriatic port cities, such as Trieste. Evidence of the hybrid and profitable nature of Jewish religious publishing during this time is the fact that Vienna’s most important printer-publisher of Jewish religious works, including prayer books, and the periodical _Bikure ha-itim_ (“The First Fruits of the Times”), was a Christian named Anton von Schmid.
 
 **C. Victorian Jewish Publishing in the Atlantic World**
@@ -141,9 +140,7 @@ fig. 5: Featured in this famously illustrated (non-Jewish) monthly are depictio
 
 ### Peddler
 
-<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/Bibliopola479.jpg" alt="fig. 1" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/PJ5129_A2_Z75_1993.jpg" alt="fig. 2" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/Bibliopola479.jpg" alt="fig. 1" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/PJ5129_A2_Z75_1993.jpg" alt="fig. 2" width="1800" height="2588">
 
 The emergence of such a large market created new kinds of business for the Judaica book trade as a whole. Marketing books, through advertising, advanced subscriptions, through the mail, by cart, and on foot by peddlers and door-to-door salesmen, increased the circulation of books and periodicals. Rare books became sought after luxury goods and signs of refinement, in addition to sources of knowledge and information. Auction houses served as one of the means by which precious items, and entire libraries, would change hands. Book dealers became experts in their own right, not only of the market for such books and the prices people were willing to pay, but of the books themselves.
 
@@ -163,12 +160,12 @@ fig. 2: This extremely scarce “Catalogo” of Jewish religious and Spanish lan
 
 <img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/ay891a46_1762_body0001.jpg" alt="fig. 1" width="1800" height="2588">
 
-fig. 1: Almanacs were a popular and necessary guide for merchants traveling between different countries. This particular one, published in Turin by the “Oriental Press” is mainly intended for the use of Jewish traders moving back and forth between the Ottoman empire and Catholic Italy. The entire Jewish calendar cycle is provided along with Muslim holidays and the dates of the “fiere principali” or principal market fairs in Christian Europe and especially in Italy.  
-  
-<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/encyc-comp.jpg" alt="fig. 2" width="1800" height="2588">fig. 2: American booksellers famously employed “book dummies,” or “canvass books” to attract advance subscriptions to proposed publications. Colorful sample pages meant to appeal to the potential reader/subscriber would highlight the contents, using multiple fonts, boldface, strategic capitalization, and color illustrations. The _Jewish Encyclopedia_, the first ever made in the English-language, was “prepared by more than Six Hundred Scholars and Specialists from All Parts of the World.” Funk and Wagnalls Company, which took on the $750,000 cost to produce this twelve volume edition, emphasizes its “150,000 subjects,” “2,500 illustrations, Many of them full-page plates in color.”  
-  
-<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/joachimsthal-comp.jpg" alt="fig. 3" width="1800" height="2588">fig. 3: This catalog, produced by the Joachimsthal auction house, documents the extraordinary two-week sale of the Lehren/De Lima banking families’ Hebraica collections of 4,288 books. The preparation of such a catalog is known to have taken more than a year. This copy features handwritten notes on interleaved sheets of paper recording the hammer-prices (i.e., when the auctioneer’s hammer ends the bidding) and the names of the successful bidders.  
-  
+fig. 1: Almanacs were a popular and necessary guide for merchants traveling between different countries. This particular one, published in Turin by the “Oriental Press” is mainly intended for the use of Jewish traders moving back and forth between the Ottoman empire and Catholic Italy. The entire Jewish calendar cycle is provided along with Muslim holidays and the dates of the “fiere principali” or principal market fairs in Christian Europe and especially in Italy.
+
+<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/encyc-comp.jpg" alt="fig. 2" width="1800" height="2588">fig. 2: American booksellers famously employed “book dummies,” or “canvass books” to attract advance subscriptions to proposed publications. Colorful sample pages meant to appeal to the potential reader/subscriber would highlight the contents, using multiple fonts, boldface, strategic capitalization, and color illustrations. The _Jewish Encyclopedia_, the first ever made in the English-language, was “prepared by more than Six Hundred Scholars and Specialists from All Parts of the World.” Funk and Wagnalls Company, which took on the $750,000 cost to produce this twelve volume edition, emphasizes its “150,000 subjects,” “2,500 illustrations, Many of them full-page plates in color.”
+
+<img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/joachimsthal-comp.jpg" alt="fig. 3" width="1800" height="2588">fig. 3: This catalog, produced by the Joachimsthal auction house, documents the extraordinary two-week sale of the Lehren/De Lima banking families’ Hebraica collections of 4,288 books. The preparation of such a catalog is known to have taken more than a year. This copy features handwritten notes on interleaved sheets of paper recording the hammer-prices (i.e., when the auctioneer’s hammer ends the bidding) and the names of the successful bidders.
+
 <img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/sefer-shaar-ha-rahamim-comp.jpg" alt="fig. 4" width="1800" height="2588">fig. 4: This remarkable prayer book, printed and distributed by the Belforte Press of Livorno Italy , contains the ownership stamp of the Musleah family of Calcutta. The Belforte press was the major supplier of prayer books to the Jewish communities of North Africa , the Levant and India.
 
 **Bookseller Catalogs**
@@ -217,20 +214,20 @@ During the nineteenth century, the claim that Jews lacked aesthetic sensibilitie
 
 <img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/haggadah-abraham-ben-jacob-comp.jpg" alt="fig. 1" width="1800" height="2588">
 
-fig. 1: This edition of the Passover Haggadah, the rabbinic narration of the ancient Israelite Exodus from slavery in Egypt to freedom in the promised Land of Israel , was printed in Amsterdam in 1695. It is the first Hebrew book illustrated by copper engraving and is also regarded as the first Hebrew book to contain a printed Hebrew map. The illustrator, Abraham bar Jacob, was a convert to Judaism from Christianity, a relatively rare occurrence in 17th century Germany.  
-  
+fig. 1: This edition of the Passover Haggadah, the rabbinic narration of the ancient Israelite Exodus from slavery in Egypt to freedom in the promised Land of Israel , was printed in Amsterdam in 1695. It is the first Hebrew book illustrated by copper engraving and is also regarded as the first Hebrew book to contain a printed Hebrew map. The illustrator, Abraham bar Jacob, was a convert to Judaism from Christianity, a relatively rare occurrence in 17th century Germany.
+
 <img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/ceromonies-comp.jpg" alt="fig. 2" width="1800" height="2588">fig. 2: Among early eighteenth-century engravers and book illustrators, Bernard Picart stands out as perhaps the most illustrious. His depictions of scenes of Jewish ritual life in Amsterdam were meant to introduce non-Jewish readers to the world of Judaism and its seemingly bizarre practices, such as circumsicion. Picart’s work forms part of a larger phenomenon of what some scholars regard as an early form of ethnographic literature produced by Christians in the context of the discovery of non-Christian peoples in the New World and living amongst them.
 
-<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/sefer-ha-minhagim-comp.jpg" alt="fig. 3" width="1800" height="2588">  
-  
+<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/sefer-ha-minhagim-comp.jpg" alt="fig. 3" width="1800" height="2588">
+
 fig. 3: Depicted here by woodcut illustration made by Jews are ritual scenes accompanied by the appropriate benedictions in Hebrew and Spanish for such occasions as Sabbath candle-lighting, the sighting of a new moon, the baking of unleavened bread for Passover and the blowing of the ram’s horn to welcome the Jewish New Year.
 
-<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/silver-binding-comp.jpg" alt="fig. 4" width="1800" height="2588">  
-  
-fig. 4: This daily prayer book is encased in a beautiful silver binding contemporary with the publication of the book in Venice in 1793. Depicted on both the front and rear sides of the binding is the coat-of-arms of a prominent Italian Jewish family named Morpurgo. The image is a whale swallowing a man, clearly alluding to the Biblical story of Jonah. While the binding was beautifully crafted, the printing was not. On the title page of this edition the Hebrew word "hapalah" ( הפלה - abortion) is printed instead of the appropriate word "tefilah" ( תפילה - prayer).  
-  
-<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/milgroym-rimon-comp.jpg" alt="fig. 5" width="1800" height="2588">fig. 5: The fabulously illustrated bilingualYiddish-Hebrew periodical is recognized as the first journal of Jewish art. Its art editor, Rachel Wischnitzer, a pioneer in the field of modern Jewish art history, highlights through the vehicle of its covers the way that traditional Jewish motifs could be employed to reinvent medieval Jewish manuscript traditions as a modern magazine of arts and letters.  
-  
+<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/silver-binding-comp.jpg" alt="fig. 4" width="1800" height="2588">
+
+fig. 4: This daily prayer book is encased in a beautiful silver binding contemporary with the publication of the book in Venice in 1793. Depicted on both the front and rear sides of the binding is the coat-of-arms of a prominent Italian Jewish family named Morpurgo. The image is a whale swallowing a man, clearly alluding to the Biblical story of Jonah. While the binding was beautifully crafted, the printing was not. On the title page of this edition the Hebrew word "hapalah" ( הפלה - abortion) is printed instead of the appropriate word "tefilah" ( תפילה - prayer).
+
+<img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/milgroym-rimon-comp.jpg" alt="fig. 5" width="1800" height="2588">fig. 5: The fabulously illustrated bilingualYiddish-Hebrew periodical is recognized as the first journal of Jewish art. Its art editor, Rachel Wischnitzer, a pioneer in the field of modern Jewish art history, highlights through the vehicle of its covers the way that traditional Jewish motifs could be employed to reinvent medieval Jewish manuscript traditions as a modern magazine of arts and letters.
+
 <img src="https://web.archive.org/web/20200901160553im_/https://www.library.upenn.edu/sites/default/files/2019-09/rothschild-comp.jpg" alt="fig. 6" width="1800" height="2588">fig. 6: One of the most lavishly illuminated and lavishly decorated examples of renaissance Jewish manuscript production, this facsimile edition reproduces in precise detail every aspect of the original, including the scribal method of ruling known as “pricking”, the uneven cut of the pages, stains and holes found on the original parchment, and the texture of the gold leaf.
 
 ### Survivor
@@ -247,10 +244,10 @@ Jewish books in our possession today have survived centuries of mass confiscatio
 
 <img src="https://web.archive.org/web/20200901160612im_/https://www.library.upenn.edu/sites/default/files/2019-09/josephus-comp_0.jpg" alt="fig. 1" width="1800" height="2588">
 
-fig. 1: The ownership markings on this edition of _The Jewish Wars_ by Josephus Flavius document the book’s fate from the 16th century, through the Holocaust, to the present day: "Ex libris Joannis Christophori Freij Zellensis Auronianz"; Library stamp from the “Nazi Reichsinstitut für Geschichte des n\[?\]lands Bibliothek”; bookplate of the Jewish Cultural Reconstruction; bookplate of the Dropsie College for Hebrew and Cognate Learning; ownership stamp of the Annenberg Research Institute.  
-  
-<img src="https://web.archive.org/web/20200901160612im_/https://www.library.upenn.edu/sites/default/files/2019-09/Sefer-Yedvabneh-comp_1.jpg" alt="fig. 2" width="1800" height="2588">fig. 2: In the aftermath of the Holocaust, survivors compiled historical documents, photographs, letters, and reminiscences about their destroyed Jewish communities to serve as commemorative memorial or “Yizkor” books. This Yizkor Book remembers Jewish life in the town of Yedwabne before the war. The town gained notoriety recently when an historian, Jan Gross, argued that its Jewish population had been murdered by their own Polish neighbors, and not by the Nazis.  
-  
+fig. 1: The ownership markings on this edition of _The Jewish Wars_ by Josephus Flavius document the book’s fate from the 16th century, through the Holocaust, to the present day: "Ex libris Joannis Christophori Freij Zellensis Auronianz"; Library stamp from the “Nazi Reichsinstitut für Geschichte des n\[?\]lands Bibliothek”; bookplate of the Jewish Cultural Reconstruction; bookplate of the Dropsie College for Hebrew and Cognate Learning; ownership stamp of the Annenberg Research Institute.
+
+<img src="https://web.archive.org/web/20200901160612im_/https://www.library.upenn.edu/sites/default/files/2019-09/Sefer-Yedvabneh-comp_1.jpg" alt="fig. 2" width="1800" height="2588">fig. 2: In the aftermath of the Holocaust, survivors compiled historical documents, photographs, letters, and reminiscences about their destroyed Jewish communities to serve as commemorative memorial or “Yizkor” books. This Yizkor Book remembers Jewish life in the town of Yedwabne before the war. The town gained notoriety recently when an historian, Jan Gross, argued that its Jewish population had been murdered by their own Polish neighbors, and not by the Nazis.
+
 <img src="https://web.archive.org/web/20200901160612im_/https://www.library.upenn.edu/sites/default/files/2019-09/Talmud-Bavli-comp_1.jpg" alt="fig.3" width="1800" height="2588">fig. 3: The tractate “Blessings” from the “SURVIVOR TALMUD”, published in 1948 in Munich-Heidelberg located in the American Zone in post-war Germany by the American Rabbinical Assembly, with the assistance of American Armed Forces, and dedicated to the U.S. Army. There were 700 sets printed and distributed world-wide.
 
 ## Selected Bibliography
