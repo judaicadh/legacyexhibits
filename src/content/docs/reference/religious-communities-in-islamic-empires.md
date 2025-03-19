@@ -181,9 +181,7 @@ Although Joseph Ibn Nahmias comes from a well-known family, little is known abou
 
 Sarah Stroumsa
 
-<img src="https://web.archive.org/web/20200901155304im_/https://www.library.upenn.edu/sites/default/files/2019-07/Stroumsa.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901155304im_/https://www.library.upenn.edu/sites/default/files/2019-07/Stroumsa2.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901155304im_/https://www.library.upenn.edu/sites/default/files/2019-07/Stroumsa.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901155304im_/https://www.library.upenn.edu/sites/default/files/2019-07/Stroumsa2.jpg" alt="" width="1800" height="2588">
 
 "The Great Eagle", an honorific often attached to the name of Moses Maimonides, underlines his regal position in the Jewish community. At the same time, the image of the wide-spread wings does justice to the breadth of his intellectual horizons. The circumstances of his life—exile, travels, and a forced conversion to Islam—gave Maimonides opportunities to encounter a particularly variegated list of political systems, cultural trends and systems of thoughts. His extraordinary personality and his insatiable intellectual curiosity drove him to make full use of these opportunities, integrating the various influences into his literary output.
 
@@ -261,37 +259,40 @@ One key source for the study is Algeria's Responsa literature from the 16th-18th
 
 • **Levi ben Gershom.** _The logic of Gersonides: a translation of Sefer ha-Heqqesh ha-yashar (The Book of the correct syllogism) of Rabbi Levi ben Gershom._ (Dordrecht; Boston: Kluwer Academic Publishers, 1992).
 
-## ContributorsYaron Ben-Naeh - Hebrew University/CAJS 2007
+## Contributors
 
-Haggai Ben-Shammai - Hebrew University/CAJS 2007
-
-Sagit Butbul - Hebrew University/CAJS 2007
-
-Yossi David - Hebrew University/CAJS 2007
-
-Jonathan Decter - Brandeis University/CAJS 2007
-
-Jessica Goldberg - University of Pennsylvania/CAJS 2007
-
-Miriam Goldstein - Hebrew University/CAJS 2007
-
-Daniel Lasker - Ben-Gurion University/CAJS 2007
-
-Milka Levy-Rubin - Hebrew University/CAJS 2007
-
-Aharon Maman - Hebrew University/CAJS 2007
-
-Charles Manekin - University of Maryland/CAJS 2007
-
-Vera Moreen - CAJS 2007
-
-Robert Morrison - Whitman College/CAJS 2007
-
-Sarah Stroumsa - Hebrew University/CAJS 2007
-
-Daniel Tsadik - Tel Aviv University/CAJS 2007
-
-Yaron Tsur - Tel Aviv University/CAJS 2007
+*   Yaron Ben-Naeh - Hebrew University/CAJS 2007
+    
+*   Haggai Ben-Shammai - Hebrew University/CAJS 2007
+    
+*   Sagit Butbul - Hebrew University/CAJS 2007
+    
+*   Yossi David - Hebrew University/CAJS 2007
+    
+*   Jonathan Decter - Brandeis University/CAJS 2007
+    
+*   Jessica Goldberg - University of Pennsylvania/CAJS 2007
+    
+*   Miriam Goldstein - Hebrew University/CAJS 2007
+    
+*   Daniel Lasker - Ben-Gurion University/CAJS 2007
+    
+*   Milka Levy-Rubin - Hebrew University/CAJS 2007
+    
+*   Aharon Maman - Hebrew University/CAJS 2007
+    
+*   Charles Manekin - University of Maryland/CAJS 2007
+    
+*   Vera Moreen - CAJS 2007
+    
+*   Robert Morrison - Whitman College/CAJS 2007
+    
+*   Sarah Stroumsa - Hebrew University/CAJS 2007
+    
+*   Daniel Tsadik - Tel Aviv University/CAJS 2007
+    
+*   Yaron Tsur - Tel Aviv University/CAJS 2007
+    
 
 **Special Thanks**
 
