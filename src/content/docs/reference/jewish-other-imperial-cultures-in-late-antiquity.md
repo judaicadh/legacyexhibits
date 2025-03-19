@@ -9,7 +9,8 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2007-2006 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/JewishOtherImperialCulturesinLateAntiquity/imperial-ascender.png"
+    file:
+      - ../../../../src/assets/madaba-splash2.png
     alt: Jewish & Other Imperial Cultures in Late Antiquity
 slug: jewish-other-imperial-cultures-in-late-antiquity
 tableOfContents:
@@ -67,9 +68,7 @@ At the same time, the text attributes its traditions to much earlier amoraic rab
 
 Hannah Cotton
 
-<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/cotton.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/cotton-transcriptiont.gif" alt="Click for transcription and translation" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/cotton.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/cotton-transcriptiont.gif" alt="Click for transcription and translation" width="1800" height="2588">
 
 Exhibited at The Israel Museum, Jerusalem, on long term loan from Michael and Judy Steinhardt, New York. Photo: The Israel Museum, Jerusalem/Peter Lanyi. Courtesy of and with thanks to the Israel Museum.
 
@@ -83,9 +82,7 @@ The story, an outstanding example of divine intervention in human destiny, was i
 
 Paula Fredriksen
 
-<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/fredriksen-obverse.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/fredriksen-reverse.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/fredriksen-obverse.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901102040im_/https://www.library.upenn.edu/sites/default/files/2019-07/fredriksen-reverse.jpg" alt="" width="1800" height="2588">
 
 The image on this coin, held at the Center for Advanced Judaic Studies Library at Penn, resonates with so many issues in the tangled history of Jewish/Gentile relations in Mediterranean antiquity. It commemorates the defeat of the Jews - thus the destruction of Jerusalem and of the Temple in 70 C.E. - while at the same time it broadcasts the divine favor shown to the victors, Titus and his father, Vespasian. Vespasian had emerged the winner from the imperial sweepstakes that had paralyzed the Empire in 69 C.E., "the year of the four emperors." Nero's sudden death had abruptly ended the Judeo-Claudian line, and power was up for grabs. (This dynastic collapse itself had encouraged Judea's revolt.) The Roman victory went a long way toward shoring up the fledgling Flavian dynasty's prestige and auctoritas. Vespasian wanted the news of his victory circulated - literally - as widely as possible.
 
@@ -179,7 +176,7 @@ Prayer has ceased in the house of prayer // how shall we offer prayers if God re
 
 We have sinned - Almighty, forgive us, our Creator!
 
-### Between "Judaism" and "Christianity" in Late Antique Syria  
+### Between "Judaism" and "Christianity" in Late Antique Syria
 
 Annette Yoshiko Reed
 
@@ -219,110 +216,111 @@ In contrast to the strict interpretation of the Second Commandment in the Hellen
 
 ## Selected Bibliography
 
-*   **Adler, William.** Time immemorial : archaic history and its sources in Christian chronography from Julius Africanus to George SyncellusWashington, D.C. : Dumbarton Oaks Research Library and Collection, 1989
+*   **Adler, William.** _Time immemorial : archaic history and its sources in Christian chronography from Julius Africanus to George Syncellus._ (Washington, D.C. : Dumbarton Oaks Research Library and Collection, 1989)
     
-*   **Africanus, Sextus Julius.** Chronographiae : the extant fragmentsSeries: Die griechischen christlichen Schriftsteller der ersten Jahrhunderte Edited by Martin Wallraff, with Umberto Roberto, and, for the oriental sources, Karl Pinggéra; translated by William Adler n.F., Bd. 15. Berlin (New York : W. de Gruyter, 2007)
+*   **Africanus, Sextus Julius.** _Chronographiae : the extant fragmentsSeries: Die griechischen christlichen Schriftsteller der ersten Jahrhunderte,_ Edited by Martin Wallraff, with Umberto Roberto, and, for the oriental sources, Karl Pinggéra; translated by William Adler (n.F., Bd. 15. Berlin (New York : W. de Gruyter, 2007))
     
-*   **Bar, Doron.** Le-ḳadesh erets : ha-meḳomot ha-ḳedoshim ha-Yehudiyim bi-medinat Yiśra elYerushalayim: Yad Yitsḥaḳ Ben Tsevi ; \[Beersheba\] : Mekhon Ben-Guryon le-ḥeḳer Yiśra el ṿeha-Tisyonut, Universiṭat Ben-Guryon ba-Negev, \[2007\]
+*   **Bar, Doron.** _Le-ḳadesh erets : ha-meḳomot ha-ḳedoshim ha-Yehudiyim bi-medinat Yiśra el._ (Yerushalayim: Yad Yitsḥaḳ Ben Tsevi ; \[Beersheba\] : Mekhon Ben-Guryon le-ḥeḳer Yiśra el ṿeha-Tisyonut, Universiṭat Ben-Guryon ba-Negev, \[2007\])
     
-*   **Becker, Adam and Annette Yoshiko Reed, eds.** The ways that never parted : Jews and Christians in late antiquity and the early Middle Ages2nd ed.; 1st Fortress Press ed. (Minneapolis : Fortress Press, 2007)
+*   **Becker, Adam and Annette Yoshiko Reed, eds.** _The ways that never parted : Jews and Christians in late antiquity and the early Middle Ages._ (2nd ed.; 1st Fortress Press ed. (Minneapolis : Fortress Press, 2007))
     
-*   **Berkowitz, Beth A.** Execution and invention: death penalty discourse in early Rabbinic and Christian culturesNew York : Oxford University Press, 2006
+*   **Berkowitz, Beth A.** _Execution and invention: death penalty discourse in early Rabbinic and Christian cultures._ (New York : Oxford University Press, 2006)
     
-*   **Boustan, Ra'anan.** From martyr to mystic : rabbinic martyrology and the making of merkavah mysticismTubingen : Mohr Siebeck, 2005
+*   **Boustan, Ra'anan.** _From martyr to mystic : rabbinic martyrology and the making of merkavah mysticism._ (Tubingen : Mohr Siebeck, 2005)
     
-*   **Cotton, Hannah M. (Jerusalem) and Michael Wvrrle (Munich).** Seleukos IV to Heliodoros. A New Dossier of Royal Correspondence from Israel Zeitschrift f|r Papyrologie und Epigraphik vol. 159 (2007), pp. 191-205
+*   **Cotton, Hannah M. (Jerusalem) and Michael Wvrrle (Munich).** "Seleukos IV to Heliodoros. A New Dossier of Royal Correspondence from Israel," in _Zeitschrift f|r Papyrologie und Epigraphik_ (vol. 159 (2007), pp. 191-205)
     
-*   **Dohrmann, Natalie B.** Law and narrative in the Mekilta De-Rabbi Ishmael : the problem of midrashic coherence Thesis (Ph.D.) - University of Chicago Divinity School, August 1999
+*   **Dohrmann, Natalie B.** "Law and narrative in the Mekilta De-Rabbi Ishmael : the problem of midrashic coherence," (Thesis (Ph.D.) - University of Chicago Divinity School, August 1999)
     
-*   **Elman, Ya'akov, Ephrayim Bezalel Halivni, Zvi Steinfeld.** Netịot le-Daṿid : sefer ha-yovel le-David Ha-Livni/ Jubilee volume for David Weiss HalivniJerusalem: Orhot, 2004
+*   **Elman, Ya'akov, Ephrayim Bezalel Halivni, Zvi Steinfeld.** _Netịot le-Daṿid : sefer ha-yovel le-David Ha-Livni/ Jubilee volume for David Weiss Halivni._ (Jerusalem: Orhot, 2004)
     
-*   **Finkelstein, Louis.** Sifra, or, Torat Kohanim : according to Codex Assemani Levip. 370 for the passage in Sifra Aharei Mot 9 discussed in the caption Facsimile ed. New York : Jewish Theological Seminary of America, 1956
+*   **Finkelstein, Louis.** _Sifra, or, Torat Kohanim : according to Codex Assemani Levi._ (p. 370 for the passage in Sifra Aharei Mot 9 discussed in the caption)_._ (Facsimile ed. New York : Jewish Theological Seminary of America, 1956)
     
-*   **Fredriksen, Paula.** From Jesus to Christ : the origins of the New Testament images of Christ2nd ed. New Haven, Conn. : Yale University Press, 2000
+*   **Fredriksen, Paula.** _From Jesus to Christ : the origins of the New Testament images of Christ._ (2nd ed. New Haven, Conn. : Yale University Press, 2000)
     
-*   **Fredriksen, Paula and Oded Irsai.** Christian anti-Judaism: polemics and policies The Cambridge History of Judaism Edited by Steven T. Katz Vol. IV: The Late Roman-Rabbinic Period pp. 977-1034 Cambridge; Cambridge University Press, 2004
+*   **Fredriksen, Paula and Oded Irsai.** "Christian anti-Judaism: polemics and policies," in _The Cambridge History of Judaism,_ Edited by Steven T. Katz (Vol. IV: The Late Roman-Rabbinic Period pp. 977-1034)_._ (Cambridge; Cambridge University Press, 2004)
     
-*   **Grossman, Maxine L.** Reading for history in the Damascus document : a methodological studyLeiden ; Boston : Brill, 2002
+*   **Grossman, Maxine L.** _Reading for history in the Damascus document : a methodological study._ (Leiden ; Boston : Brill, 2002)
     
-*   **Harari, Yuval.** What is a magical text? Methodological reflections aimed at redefining early Jewish magic Officina magica: Essays on the Practice of Magic in Antiquity Edited by Shaul Shaked pp. 91-124 Leiden: Brill, 2005
+*   **Harari, Yuval.** "What is a magical text? Methodological reflections aimed at redefining early Jewish magic," in _Officina magica: Essays on the Practice of Magic in Antiquity,_ Edited by Shaul Shaked (pp. 91-124)_._ (Leiden: Brill, 2005)
     
-*   **Eusebius, of Caesarea, Bishop of Caesarea.** Die Chronik des Hieronymus = Hieronymi ChroniconVorbemerkung von Ursula Treu. Series: Die Griechischen christlichen Schriftsteller der ersten Jahrhunderte Eusebius edited by Rudolf Helm Berlin : Akademie-Verlag, 1984
+*   **Eusebius, of Caesarea, Bishop of Caesarea.** _Die Chronik des Hieronymus = Hieronymi ChroniconVorbemerkung von Ursula Treu. Series: Die Griechischen christlichen Schriftsteller der ersten Jahrhunderte Eusebius,_ edited by Rudolf Helm (Berlin : Akademie-Verlag, 1984)
     
-*   **Irsai, Oded.** Ephraim E. Urbach and the study of Judeo-Christian dialogue in late Antiquity : some preliminary observations How Should Rabbinic Literature Be Read in the Modern World? Edited by Matthew Kraus pp. 167-197 Piscataway, NJ: Gorgias Press, 2006
+*   **Irsai, Oded.** "Ephraim E. Urbach and the study of Judeo-Christian dialogue in late Antiquity : some preliminary observations," in _How Should Rabbinic Literature Be Read in the Modern World?,_ Edited by Matthew Kraus (pp. 167-197)_._ (Piscataway, NJ: Gorgias Press, 2006)
     
-*   **Kalmin, Richard and Seth Schwartz, eds.** Jewish culture and society under the Christian Roman EmpireLeuven : Peeters, 2003
+*   **Kalmin, Richard and Seth Schwartz, eds.** _Jewish culture and society under the Christian Roman Empire._ (Leuven : Peeters, 2003)
     
-*   **Lapin, Hayim.** Economy, geography, and provincial history in later Roman PalestineTexts and studies in ancient Judaism = Texte und Studien zum antiken Judentum 85 Tubingen : Mohr Siebeck, 2001
+*   **Lapin, Hayim.** _Economy, geography, and provincial history in later Roman PalestineTexts and studies in ancient Judaism 0= Texte und Studien zum antiken Judentum_ (85)_._ (Tubingen : Mohr Siebeck, 2001
     
-*   **Levine, Lee I.** The ancient synagogue : the first thousand years2nd ed. New Haven : Yale University Press, 2005
+*   **Levine, Lee I.** _The ancient synagogue : the first thousand years._ (2nd ed). (New Haven : Yale University Press, 2005)
     
-*   **Levinson, Joshua.** ha-Sipur she-lo supar : omanut ha-sipur ha-Miḳraʾi ha-murḥav be-midreshe Ḥazal \[Twice told tale : a poetics of the exegetical narrative in rabbinic Midrash\]Yerushalayim : Hotsaʾat Sefarim ʻa. sh. Y.L. Magnes, ha-Universiṭah ha-ʻIvrit, 765 2005
+*   **Levinson, Joshua.** _ha-Sipur she-lo supar : omanut ha-sipur ha-Miḳraʾi ha-murḥav be-midreshe Ḥazal \[Twice told tale : a poetics of the exegetical narrative in rabbinic Midrash\]._ (Yerushalayim : Hotsaʾat Sefarim ʻa. sh. Y.L. Magnes, ha-Universiṭah ha-ʻIvrit, 765 2005)
     
-*   **Münz-Manor, Ophir.** All about Sarah : questions of gender in Yannai's poems on Sarah's (and Abraham's) barrenness Prooftexts vol. 226, no. 3 2006 pp. 344-374
+*   **Münz-Manor, Ophir.** "All about Sarah : questions of gender in Yannai's poems on Sarah's (and Abraham's) barrenness," (Prooftexts vol. 226, no. 3). (2006 pp. 344-374)
     
-*   **Morgenstern, Mathew.** On Some Non-Standard Spellings in the Aramaic Magic Bowls and their Linguistic Significance Journal of Semitic Studies vol. 52 (2007), pp. 245-277
+*   **Morgenstern, Mathew.** "On Some Non-Standard Spellings in the Aramaic Magic Bowls and their Linguistic Significance," in _Journal of Semitic Studies_ (vol. 52 (2007), pp. 245-277)
     
-*   **Najman, Hindy.** Seconding Sinai : the development of Mosaic discourse in Second Temple JudaismLeiden ; Boston : Brill, 2003
+*   **Najman, Hindy.** _Seconding Sinai : the development of Mosaic discourse in Second Temple Judaism._ (Leiden ; Boston : Brill, 2003)
     
-*   **Reed, Annette Yoshiko.** Fallen angels and the history of Judaism and Christianity : the reception of Enochic literatureNew York : Cambridge University Press, 2005
+*   **Reed, Annette Yoshiko.** _Fallen angels and the history of Judaism and Christianity : the reception of Enochic literature._ (New York : Cambridge University Press, 2005)
     
-*   **Schwartz, Seth.** "A Greek Inscription in the Library of the Annenberg Research Institute \[Center for Advanced Judaic Studies\] Jewish Quarterly Review n.s., vol. 80, nos. 1-2 (July - October, 1989), pp. 87-91
+*   **Schwartz, Seth.** "A Greek Inscription in the Library of the Annenberg Research Institute \[Center for Advanced Judaic Studies\]," in _Jewish Quarterly Review_ (n.s., vol. 80, nos. 1-2 (July - October, 1989), pp. 87-91)
     
-*   **Schwartz, Seth.** Imperialism and Jewish society, 200 B.C.E. to 640 C.E.Princeton, N.J. : Princeton University Press, 2001
+*   **Schwartz, Seth.** _Imperialism and Jewish society, 200 B.C.E. to 640 C.E.._ (Princeton, N.J. : Princeton University Press, 2001)
     
-*   **Sivan, Hagith.** Palestine in late antiquityOxford ; New York : Oxford University Press, 2008
+*   **Sivan, Hagith.** _Palestine in late antiquity._ (Oxford ; New York : Oxford University Press, 2008)
     
-*   **Sukenik, Eleazar.** The Ancient synagogue of Beth Alpha : an account of the excavations conducted on behalf of the Heberw University, JerusalemJerusalem: The University Press ; London: Oxford University Press, 1932
+*   **Sukenik, Eleazar.** _The Ancient synagogue of Beth Alpha : an account of the excavations conducted on behalf of the Heberw University, Jerusalem._ (Jerusalem: The University Press ; London: Oxford University Press, 1932)
     
-*   **Sussman, J.** The Inscription in the Synagogue at Rehob Ancient Synagogues Revealed Edited by Lee I. Levine Jerusalem: Israel Exploration Society, 1981, pp. 146-151
+*   **Sussman, J.** "The Inscription in the Synagogue at Rehob," in _Ancient Synagogues Revealed,_ Edited by Lee I. Levine (Jerusalem: Israel Exploration Society, 1981, pp. 146-151)
     
-*   **Talgam, Rina and Ze'ev Weiss.** The mosaics of the house of Dionysos at SepphorisExcavated by E.M. Meyers, E. Netzer and C.L. Meyers Jerusalem : Institute of Archaeology, Hebrew University of Jerusalem, 2003
+*   **Talgam, Rina and Ze'ev Weiss.** _The mosaics of the house of Dionysos at Sepphoris.,_ Excavated by E.M. Meyers, E. Netzer and C.L. Meyers (Jerusalem : Institute of Archaeology, Hebrew University of Jerusalem, 2003)
     
-*   **Vanderkam, James C.. and William Adler, eds.** The Jewish apocalyptic heritage in early ChristianityMinneapolis, MN : Fortress Press, 1995
+*   **Vanderkam, James C.. and William Adler, eds.** _The Jewish apocalyptic heritage in early Christianity._ (Minneapolis, MN : Fortress Press, 1995)
     
-*   **Vito, Fanny.** The Synagogue at Rehob Ancient Synagogues Revealed Edited by Lee Levine Jerusalem: Israel Exploration Society, 1981, pp. 90-94
+*   **Vito, Fanny.** "The Synagogue at Rehob," in _Ancient Synagogues Revealed,_ Edited by Lee Levine (Jerusalem: Israel Exploration Society, 1981, pp. 90-94)
     
-*   **Vito, Fanny.** Updates on the Research on the Inscriptions and Decorations on Plaster Fragments from the Remains of the Synagogue from Rehov Israel Antiquities Authority Websitem, [www.antiquities.org.il](http://www.antiquities.org.il) accessed May 16, 2008
+*   **Vito, Fanny.** "Updates on the Research on the Inscriptions and Decorations on Plaster Fragments from the Remains of the Synagogue from Rehov," in _Israel Antiquities Authority Websitem,_ [_www.antiquities.org.il_](http://www.antiquities.org.il) (accessed May 16, 2008)
     
 
 ## Contributors
 
-William Adler - North Carolina State University / Charles W. & Sally Rothfeld Fellowship
-
-Doron Bar - Hebrew University / Weiner Family Fellowship
-
-Beth Berkowitz - Jewish Theological Seminary / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
-
-Ra'anan Boustan - University of California / Maurice Amado Foundation Fellowship
-
-Hannah Cotton - Hebrew University / Albert J. Wood Fellowship
-
-Paula Fredriksen (Captiva Ivdaea | Saint Stephen) - Boston University / Selma Ruben Fellowship
-
-Maxine Grossman - University of Maryland/Adjunct CAJS Fellow
-
-Yuval Harari - Ben Gurion University / Nancy S. & Laurence E. Glick Teaching Fellowship, Primo Levi Fellowship
-
-Marc Hirshman - Hebrew University / Erika A. Strauss Teaching Fellowship, Ivan & Nina Ross Family Fellowship
-
-Oded Irshai - Hebrew University / Golub Family Fellowship, Rose & Henry Zifkin Teaching Fellowship
-
-Hayim Lapin - University of Maryland / Primo Levi Fellowship
-
-Lee Levine - Hebrew University / Ella Darivoff Fellowship
-
-Joshua Levinson - Hebrew University / Rebell Family Term Fellowship
-
-Ophir Münz-Manor - Brown University / David & Penina Zoller Term Fellowship
-
-Annette Yoshiko Reed - University of Pennsylvania / Dalck & Rose Feith Family Fellowship
-
-Seth Schwartz - Jewish Theological Seminary / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Hagith Sivan - University of Kansas / Martin Gruss Fellowship
-
-Rina Talgam - Hebrew University / Louis & Bessie Stein Fellowship
+*   William Adler - North Carolina State University / Charles W. & Sally Rothfeld Fellowship
+    
+*   Doron Bar - Hebrew University / Weiner Family Fellowship
+    
+*   Beth Berkowitz - Jewish Theological Seminary / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Ra'anan Boustan - University of California / Maurice Amado Foundation Fellowship
+    
+*   Hannah Cotton - Hebrew University / Albert J. Wood Fellowship
+    
+*   Paula Fredriksen (Captiva Ivdaea | Saint Stephen) - Boston University / Selma Ruben Fellowship
+    
+*   Maxine Grossman - University of Maryland/Adjunct CAJS Fellow
+    
+*   Yuval Harari - Ben Gurion University / Nancy S. & Laurence E. Glick Teaching Fellowship, Primo Levi Fellowship
+    
+*   Marc Hirshman - Hebrew University / Erika A. Strauss Teaching Fellowship, Ivan & Nina Ross Family Fellowship
+    
+*   Oded Irshai - Hebrew University / Golub Family Fellowship, Rose & Henry Zifkin Teaching Fellowship
+    
+*   Hayim Lapin - University of Maryland / Primo Levi Fellowship
+    
+*   Lee Levine - Hebrew University / Ella Darivoff Fellowship
+    
+*   Joshua Levinson - Hebrew University / Rebell Family Term Fellowship
+    
+*   Ophir Münz-Manor - Brown University / David & Penina Zoller Term Fellowship
+    
+*   Annette Yoshiko Reed - University of Pennsylvania / Dalck & Rose Feith Family Fellowship
+    
+*   Seth Schwartz - Jewish Theological Seminary / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Hagith Sivan - University of Kansas / Martin Gruss Fellowship
+    
+*   Rina Talgam - Hebrew University / Louis & Bessie Stein Fellowship
+    
 
 **Special Thanks**
 
