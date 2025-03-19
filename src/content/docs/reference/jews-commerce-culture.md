@@ -8,6 +8,9 @@ hero:
   title: Jews, Commerce, & Culture
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2008-2009 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/JewsCommerceCulture/degas.jpg
 slug: jews-commerce-culture
 tableOfContents:
   minHeadingLevel: 2
@@ -296,102 +299,105 @@ The diamond sector in particular offered jobs that were compatible with the vari
 
 ## Selected Bibliography
 
-*   **Aust, Cornelia.** Narrative jüdischer Wirtschaftsgeschichte in Osteuropa \[Narratives of Jewish Economic History in Eastern Europe\] Zwischen Graetz und Dubnow. Jüdische Historiographie in Ostmitteleuropa im 19. und 20. Jahrhundert Editor François Guesnet Leipzig: Leipziger Akademische Verlagsanstalt, 2009
+*   **Aust, Cornelia.** "Narrative jüdischer Wirtschaftsgeschichte in Osteuropa \[Narratives of Jewish Economic History in Eastern Europe\]," in _Zwischen Graetz und Dubnow_. _Jüdische Historiographie in Ostmitteleuropa im 19. und 20. Jahrhundert,_ Editor François Guesnet (Leipzig: Leipziger Akademische Verlagsanstalt, 2009)
     
-*   **Cooperman, Bernard Dov.** Trade and settlement: the establishment and early development of the Jewish communities in Leghorn and Pisa (1591-1626) Thesis (Ph.D.): Harvard University, 1976
+*   **Cooperman, Bernard Dov.** "Trade and settlement: the establishment and early development of the Jewish communities in Leghorn and Pisa (1591-1626)," (Thesis (Ph.D.): Harvard University, 1976)
     
 *   **Daelen, Veerle Vanden.** Laten we hun lied verder zingen: de heropbouw van de joodse gemeenschap in Antwerpen na de Tweede Wereldoorlog (1944-1960)Amsterdam: Aksant, 2008
     
-*   **Dekel-Chen, Jonathan L.** Farming the red land: Jewish agricultural colonization and local Soviet power, 1924-1941New Haven: Yale University Press, c2005
+*   **Dekel-Chen, Jonathan L.** _Farming the red land: Jewish agricultural colonization and local Soviet power, 1924-1941._ (New Haven: Yale University Press, c2005)
     
-*   **Dynner, Glenn.** Men of silk: the Hasidic conquest of Polish Jewish societyOxford; New York: Oxford University Press, 2006
+*   **Dynner, Glenn.** _Men of silk: the Hasidic conquest of Polish Jewish society._ (Oxford; New York: Oxford University Press, 2006)
     
-*   **Galinsky, Yehuda Dov.** Jewish charitable bequests and the hekdesh trust in thirteenth-century Spain Journal of Interdisciplinary History 35,3 (2004) 423-440
+*   **Galinsky, Yehuda Dov.** "Jewish charitable bequests and the hekdesh trust in thirteenth-century Spain," in _Journal of Interdisciplinary History_ (35,3 (2004) 423-440)
     
-*   **Gluck, Mary.** Popular Bohemia: modernism and urban culture in nineteenth-century ParisCambridge: Harvard University Press, 2005
+*   **Gluck, Mary.** _Popular Bohemia: modernism and urban culture in nineteenth-century Paris._ (Cambridge: Harvard University Press, 2005)
     
-*   **Greenblatt, Rachel L.** Jüdisches Gedächtnis und lokale Geschichte : eine Liturgie der Erinnerung aus dem Prag der Frühen Neuzeit Die Frankfurter Judengasse (2006), 277-288, 351-354
+*   **Greenblatt, Rachel L.** "Jüdisches Gedächtnis und lokale Geschichte : eine Liturgie der Erinnerung aus dem Prag der Frühen Neuzeit," in _Die Frankfurter Judengasse_ ((2006), 277-288, 351-354)
     
-*   **Elliott Horowitz, Moises Orfali, Ariel Toaff, Simon Schwarzfuchs (author/editors).** The Mediterranean and the Jews2 volumes: I. Banking, finance and international trade (16th-18th centuries); II. Society, culture, and economy in early modern times Ramat-Gan: Bar-Ilan University Press, \[1989- \]
+*   **Elliott Horowitz, Moises Orfali, Ariel Toaff, Simon Schwarzfuchs (author/editors).** _The Mediterranean and the Jews2 volumes: I. Banking, finance and international trade (16th-18th centuries); II. Society, culture, and economy in early modern times_ (Ramat-Gan: Bar-Ilan University Press, \[1989- \])
     
-*   **Karlinsky, Nahum and Avi Bar’eli (Author/Editors).** Kalkalah ve-ḥevrah bi-yeme ha-Mandaṭ: 1918-1948 \[Economy and Society during the British Mandate over Palestine, 1918-1948\]ha-yishuv u-Medinat Yiśra’el: Hotsa’at ha-sefarim shel Universiṭat Ben Guryon ba-Negev; Yerushalayim: ha-Ḳeren ‘[a.sh](http://a.sh). Ḳurṭ Grunṿald le-hisṭoryah kalkalit shel Yehudim, 763, 2003
+*   **Karlinsky, Nahum and Avi Bar’eli (Author/Editors).** _Kalkalah ve-ḥevrah bi-yeme ha-Mandaṭ: 1918-1948 \[Economy and Society during the British Mandate over Palestine, 1918-1948\]._ (ha-yishuv u-Medinat Yiśra’el: Hotsa’at ha-sefarim shel Universiṭat Ben Guryon ba-Negev; Yerushalayim: ha-Ḳeren ‘[a.sh](http://a.sh). Ḳurṭ Grunṿald le-hisṭoryah kalkalit shel Yehudim, 763, 2003)
     
-*   **Karp, Jonathan.** The politics of Jewish commerce: economic thought and emancipation in Europe, 1638-1848Cambridge; New York: Cambridge University Press, 2008
+*   **Karp, Jonathan.** _The politics of Jewish commerce: economic thought and emancipation in Europe, 1638-1848._ (Cambridge; New York: Cambridge University Press, 2008)
     
-*   **Kobrin, Rebecca A.** Conflicting diasporas, shifting centers: migration and identity in a transnational Polish Jewish community, 1878-1952Philadelphia: University of Pennsylvania Press, 2002
+*   **Kobrin, Rebecca A.** _Conflicting diasporas, shifting centers: migration and identity in a transnational Polish Jewish community, 1878-1952._ (Philadelphia: University of Pennsylvania Press, 2002)
     
-*   **Lederhendler, Eli.** The road to modern Jewish politics: political tradition and political reconstruction in the Jewish community of tsarist RussiaNew York: Oxford University Press, 1989
+*   **Lederhendler, Eli.** _The road to modern Jewish politics: political tradition and political reconstruction in the Jewish community of tsarist Russia._ (New York: Oxford University Press, 1989)
     
-*   **Mendelsohn, Adam.** Tongue Ties: The Emergence of the Anglophone Diaspora in the Mid-Nineteenth Century American Jewish History vol. 93, no. 2 (2007), 177-209
+*   **Mendelsohn, Adam.** "Tongue Ties: The Emergence of the Anglophone Diaspora in the Mid-Nineteenth Century," in _American Jewish History_ (vol. 93, no. 2 (2007), 177-209)
     
-*   **Muller, Jerry Z.** The mind and the market: capitalism in modern European thought1st ed. New York: Alfred A. Knopf: Distributed by Random House, 2002
+*   **Muller, Jerry Z.** _The mind and the market: capitalism in modern European thought._ (1st ed. New York: Alfred A. Knopf: Distributed by Random House, 2002)
     
-*   **Oliel-Grausz, Evelyne.** Le paradigme du cédrat : réseaux et communautés séfarades d'Occident au XVIIIe siècle Revue des études juives Paris- Louvain: Editions Peeters, 2010
+*   **Oliel-Grausz, Evelyne.** "Le paradigme du cédrat : réseaux et communautés séfarades d'Occident au XVIIIe siècle," in _Revue des études juives_ (Paris- Louvain: Editions Peeters, 2010)
     
-*   **Penslar, Derek Jonathan.** Shylock's children: economics and Jewish identity in modern EuropeBerkeley : University of California Press, c2001
+*   **Penslar, Derek Jonathan.** _Shylock's children: economics and Jewish identity in modern Europe._ (Berkeley : University of California Press, c2001)
     
-*   **Reuveni, Gideon.** Reading Germany: literature and consumer culture in Germany before 1933translated by Ruth Morris New York: Berghahn Books, 2006
+*   **Reuveni, Gideon.** _Reading Germany: literature and consumer culture in Germany before 1933.,_ translated by Ruth Morris (New York: Berghahn Books, 2006)
     
-*   **Roitman, Jessica.** Us and Them: Inter-cultural Trade and the Sephardim, 1595-1640Leiden: Brill, 2010
+*   **Roitman, Jessica.** _Us and Them: Inter-cultural Trade and the Sephardim, 1595-1640._ (Leiden: Brill, 2010)
     
-*   **Rozin, Orit.** Ḥovat ha-ahavah ha-ḳashah: yaḥid ṿe-ḳoleḳṭiv be-Yiśra’el bi-shenot ha-ḥamishimTel Aviv: ‘Am ‘Oved: ha-Makhon le-ḥeḳer ha-Tsiyonut ṿe-Yiśra’el ‘a”sh. Ḥayim Ṿaitsman, 2008
+*   **Rozin, Orit.** _Ḥovat ha-ahavah ha-ḳashah: yaḥid ṿe-ḳoleḳṭiv be-Yiśra’el bi-shenot ha-ḥamishim._ (Tel Aviv: ‘Am ‘Oved: ha-Makhon le-ḥeḳer ha-Tsiyonut ṿe-Yiśra’el ‘a”sh. Ḥayim Ṿaitsman, 2008)
     
-*   **Safley, Thomas Max.** Children of the laboring poor: expectation and experience among the orphans of early modern AugsburgLeiden; Boston: Brill, 2005
+*   **Safley, Thomas Max.** _Children of the laboring poor: expectation and experience among the orphans of early modern Augsburg._ (Leiden; Boston: Brill, 2005)
     
-*   **Shatzmiller, Joseph.** Shylock reconsidered: Jews, moneylending, and medieval societyBerkeley: University of California Press, c1990
+*   **Shatzmiller, Joseph.** _Shylock reconsidered: Jews, moneylending, and medieval society._ (Berkeley: University of California Press, c1990)
     
-*   **Sorkin, David Jan.** The Religious Enlightenment: Protestants, Jews, and Catholics from London to ViennaPrinceton: Princeton University Press, 2008
+*   **Sorkin, David Jan.** _The Religious Enlightenment: Protestants, Jews, and Catholics from London to Vienna._ (Princeton: Princeton University Press, 2008)
     
-*   **Sutcliffe, Adam.** Judaism and EnlightenmentCambridge; New York: Cambridge University Press, 2003
+*   **Sutcliffe, Adam.** _Judaism and Enlightenment._ (Cambridge; New York: Cambridge University Press, 2003)
     
-*   **Teller, Adam.** Kesef, koaḥ, ṿe-hashpa’ah : ha-Yehudim ba-aḥuzot bet Radz’iṿil be-Liṭa ba-me’ah ha-18 \[Money, Power, and Influence: The Jews of the Radzivil Family in Lithuania in the 18th Century\]Yerushalayim: Merkaz Zalman Shazar le-Toldot Yiśra’el, 766 \[2006\]
+*   **Teller, Adam.** _Kesef, koaḥ, ṿe-hashpa’ah : ha-Yehudim ba-aḥuzot bet Radz’iṿil be-Liṭa ba-me’ah ha-18 \[Money, Power, and Influence: The Jews of the Radzivil Family in Lithuania in the 18th Century\]._ (Yerushalayim: Merkaz Zalman Shazar le-Toldot Yiśra’el, 766 \[2006\])
     
-*   **Toch, Michael (author/editor).** Wirtschaftsgeschichte der mittelalterlichen Juden: Fragen und EinschätzungenMünchen : Oldenbourg, 2008
+*   **Toch, Michael (author/editor).** _Wirtschaftsgeschichte der mittelalterlichen Juden: Fragen und Einschätzungen._ (München : Oldenbourg, 2008)
     
-*   **Trivellato, Francesca.** The Familiarity of Strangers: The Sephardic Diaspora, Livorno, and Cross-Cultural Trade in the Early Modern PeriodNew Haven and London: Yale University, 2009
+*   **Trivellato, Francesca.** _The Familiarity of Strangers: The Sephardic Diaspora, Livorno, and Cross-Cultural Trade in the Early Modern Period._ (New Haven and London: Yale University, 2009)
     
-*   **Wachtel, Nathan.** La foi du souvenir: labyrinthes marranes\[Paris?\]: Éd. du Seuil, 2001
+*   **Wachtel, Nathan.** _La foi du souvenir: labyrinthes marranes._ (\[Paris?\]: Éd. du Seuil, 2001)
     
-*   **Wilke, Carsten.** Histoire des juifs portugaisParis: Chandeigne, 2007
+*   **Wilke, Carsten.** _Histoire des juifs portugais._ (Paris: Chandeigne, 2007)
     
-*   **Wodziński, Marcin.** Haskalah and Hasidism in the Kingdom of Poland: a history of conflicttranslated by Sarah Cozens; assistant translator, Agnieszka Mirowska Oxford; Portland: Littman Library of Jewish Civilization, 2005
+*   **Wodziński, Marcin.** _Haskalah and Hasidism in the Kingdom of Poland: a history of conflict.,_ translated by Sarah Cozens; assistant translator, Agnieszka Mirowska (Oxford; Portland: Littman Library of Jewish Civilization, 2005)
     
-*   **Zweig, Ronald W.** The gold train: the destruction of the Jews and the looting of HungaryLondon; New York: Allen Lane, 2002
+*   **Zweig, Ronald W.** _The gold train: the destruction of the Jews and the looting of Hungary._ (London; New York: Allen Lane, 2002)
     
 
-## ContributorsCornelia Aust - University of Pennsylvania / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+## Contributors
 
-Bernard Cooperman - University of Maryland / Primo Levi Fellowship
-
-Veerle Vanden Daelen - University of Antwerp
-
-Jonathan Dekel-Chen - Hebrew University / Dalck & Rose Feith Family Fellowship, Nancy S. & Laurence E. Glick Teaching Fellowship
-
-Judah Galinsky - Bar Ilan University / Ruth Meltzer Fellowship
-
-Rebecca Kobrin - Columbia University / Albert J. Wood Fellowship
-
-Adam Mendelsohn - Brandeis University / Louis & Bessie Stein Fellowship
-
-Evelyne Oliel-Grausz - University of Paris I, Sorbonne / Primo Levi Fellowship
-
-Derek Penslar - University of Toronto / Weiner Family Fellowship
-
-Gideon Reuveni - University of Melbourne / Charles W. & Sally Rothfeld Fellowship
-
-Jessica Roitman - Leiden University / Selma Ruben Fellowship
-
-Joseph Shatzmiller - Duke University / Rebell Family Term Fellowship
-
-Adam Sutcliffe - King's College London / Primo Levi Fellowship
-
-Adam Teller - University of Haifa / Rose & Henry Zifkin Teaching Fellowship, Ruth Meltzer Fellowship
-
-Michael Toch - Hebrew University / Ellie and Herbert D. Katz Distinguished Fellowship
-
-Carsten Wilke - Steinheim Institute of German Jewish History / Maurice Amado Foundation Fellowship
-
-Marcin Wodzinski - University of Wroclaw / Ella Darivoff Fellowship
+*   Cornelia Aust - University of Pennsylvania / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Bernard Cooperman - University of Maryland / Primo Levi Fellowship
+    
+*   Veerle Vanden Daelen - University of Antwerp
+    
+*   Jonathan Dekel-Chen - Hebrew University / Dalck & Rose Feith Family Fellowship, Nancy S. & Laurence E. Glick Teaching Fellowship
+    
+*   Judah Galinsky - Bar Ilan University / Ruth Meltzer Fellowship
+    
+*   Rebecca Kobrin - Columbia University / Albert J. Wood Fellowship
+    
+*   Adam Mendelsohn - Brandeis University / Louis & Bessie Stein Fellowship
+    
+*   Evelyne Oliel-Grausz - University of Paris I, Sorbonne / Primo Levi Fellowship
+    
+*   Derek Penslar - University of Toronto / Weiner Family Fellowship
+    
+*   Gideon Reuveni - University of Melbourne / Charles W. & Sally Rothfeld Fellowship
+    
+*   Jessica Roitman - Leiden University / Selma Ruben Fellowship
+    
+*   Joseph Shatzmiller - Duke University / Rebell Family Term Fellowship
+    
+*   Adam Sutcliffe - King's College London / Primo Levi Fellowship
+    
+*   Adam Teller - University of Haifa / Rose & Henry Zifkin Teaching Fellowship, Ruth Meltzer Fellowship
+    
+*   Michael Toch - Hebrew University / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+*   Carsten Wilke - Steinheim Institute of German Jewish History / Maurice Amado Foundation Fellowship
+    
+*   Marcin Wodzinski - University of Wroclaw / Ella Darivoff Fellowship
+    
 
 **Special Thanks**
 
