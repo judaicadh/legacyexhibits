@@ -9,7 +9,8 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2003-2004 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/ConstructingBordersCrossing Boundaries/globe.png"
+    file:
+      - ../../../../src/assets/ChallengingBoundaries/astrolabe.png
 slug: challenging-boundaries
 tableOfContents:
   minHeadingLevel: 2
@@ -92,7 +93,7 @@ Writing in twelfth century France, at a time when variant manuscripts of the Bab
 
 Harvey Goldberg
 
-[<img src="https://web.archive.org/web/20200901172755im_/https://www.library.upenn.edu/sites/default/files/2019-08/Goldberg.jpg" alt="" width="1800" height="2588">]
+\[<img src="https://web.archive.org/web/20200901172755im_/https://www.library.upenn.edu/sites/default/files/2019-08/Goldberg.jpg" alt="" width="1800" height="2588">\]
 
 Mordecai Ha-Cohen (second from left) was born in Tripoli, Libya, in 1856 and died in Benghazi in the late 1920s. His grandfather, originally from Genoa, settled in Tripoli, while his father, a merchant, died in a shipwreck and the family lost all its wealth. Growing up with limited means, Ha-Cohen became an autodidact, persistently seeking Jewish and general knowledge. Influenced by the Hebrew _haskala_, he authored a book on the history, institutions, and customs of the Jews of his native land, calling the book _Highid Mordekhai_ (Jerusalem, Ben-Zvi Institute, 1978). In 1906 he served as a guide to Russian-born Nahum Slouschz, a Sorbonne-trained orientalist sent on a mission to Tripoli by the Alliance Israilite Universelle. Ha-Cohen guided Slouschz as they visited small Jewish communities in the Tripolitanian hinterland, including mountain areas where Berber-speaking groups lived. _Highid Mordekhai_ contains rich descriptions of these communities, which in many ways are more valuable than the ethnography provided by Slouschz in his publications. This ethnographic material appears in English as _The Book of Mordechai_ (London, Darf, 1993, ed. Harvey E. Goldberg). Later in life, Ha-Cohen moved to Benghazi where he became a member of the rabbinic court. In the picture, the secretary of the court is to his left and two other judges are to his right.
 
@@ -234,75 +235,75 @@ Chava Weissler
 
 ## Selected Bibliography
 
-*   **Abramowicz, Hirsz.** Profiles of a lost world: memoirs of East European Jewish life before World War IITranslated by Eva Zeitlin Dobkin; edited by Dina Abramowicz and Jeffrey Shandler; with introductions by David E. Fishman and Dina Abramowicz Detroit: Wayne State University Press, 1999
+*   **Abramowicz, Hirsz.** _Profiles of a lost world: memoirs of East European Jewish life before World War II._, Translated by Eva Zeitlin Dobkin; edited by Dina Abramowicz and Jeffrey Shandler; with introductions by David E. Fishman and Dina Abramowicz (Detroit: Wayne State University Press, 1999)
     
-*   **Asad, Talal.** Formations of the secular: Christianity, Islam, modernityStanford, Calif.: Stanford University Press, 2003
+*   **Asad, Talal.** _Formations of the secular: Christianity, Islam, modernity_. (Stanford, Calif.: Stanford University Press, 2003)
     
-*   **Bar-Yitshak, Hayah.** Jewish Poland--legends of origin: ethnopoetics and legendary chroniclesDetroit, Mich.: Wayne State University Press, 2001
+*   **Bar-Yitshak, Hayah.** _Jewish Poland--legends of origin: ethnopoetics and legendary chronicles_. (Detroit, Mich.: Wayne State University Press, 2001)
     
-*   **Ben-Ami, Issachar.** Saint veneration among the Jews in MoroccoDetroit, MI: Wayne State University Press, 1998
+*   **Ben-Ami, Issachar.** _Saint veneration among the Jews in Morocco_. (Detroit, MI: Wayne State University Press, 1998)
     
-*   **Ben-Amos, Dan & Mintz, Jerome R.** Shivhe ha-Besht. In praise of the Baal Shem Tov: the earliest collection of legends about the founder of HasidismBen-Amos, Dan & Mintz, Jerome R., editors and translators Northvale, N.J.: Jason Aronson, 1993
+*   **Ben-Amos, Dan & Mintz, Jerome R.** _Shivhe ha-Besht. In praise of the Baal Shem Tov: the earliest collection of legends about the founder of Hasidism.,_ Ben-Amos, Dan & Mintz, Jerome R., editors and translators (Northvale, N.J.: Jason Aronson, 1993)
     
-*   **Ben-Sasson, Menahem.** Tsemihat ha-kehilah ha-Yehudit be-artsot ha-Islam: Kairavan, 800-1057Yerushalayim: Hotsa'at sefarim a.sh. Y.L. Magnes, ha-Universitah ha-Ivrit, 1996
+*   **Ben-Sasson, Menahem.** _Tsemihat ha-kehilah ha-Yehudit be-artsot ha-Islam: Kairavan, 800-1057_. (Yerushalayim: Hotsa'at sefarim a.sh. Y.L. Magnes, ha-Universitah ha-Ivrit, 1996)
     
-*   **Bilu, Yoram.** Without bounds: the life and death of Rabbi Ya'aqov WazanaDetroit, Mich.: Wayne State University Press, 2000
+*   **Bilu, Yoram.** _Without bounds: the life and death of Rabbi Ya'aqov Wazana_. (Detroit, Mich.: Wayne State University Press, 2000)
     
-*   **Bonfil, Roberto.** Tra due mondi: cultura ebraica e cultura cristiana nel MedioevoNapoli: Liguori, 1996
+*   **Bonfil, Roberto.** _Tra due mondi: cultura ebraica e cultura cristiana nel Medioevo_. (Napoli: Liguori, 1996)
     
-*   **Boyarin, Jonathan and Boyarin, Daniel.** Powers of diaspora: two essays on the relevance of Jewish cultureMinneapolis: University of Minnesota Press, 2002
+*   **Boyarin, Jonathan and Boyarin, Daniel.** _Powers of diaspora: two essays on the relevance of Jewish culture_. (Minneapolis: University of Minnesota Press, 2002)
     
-*   **Chajes, Jeffrey Howard.** Between worlds: dybbuks, exorcists, and early modern JudaismPhiladelphia: University of Pennsylvania Press, 2003
+*   **Chajes, Jeffrey Howard.** _Between worlds: dybbuks, exorcists, and early modern Judaism_. (Philadelphia: University of Pennsylvania Press, 2003)
     
-*   **Dobroszycki, Lucjan and Kirshenblatt-Gimblett, Barbara.** Image before my eyes: a photographic history of Jewish life in Poland, 1864-1939New York: Schocken Books, 1977
+*   **Dobroszycki, Lucjan and Kirshenblatt-Gimblett, Barbara.** I_mage before my eyes: a photographic history of Jewish life in Poland, 1864-1939_. (New York: Schocken Books, 1977)
     
-*   **Eilberg-Schwartz, Howard.** People of the body: Jews and Judaism from an embodied perspectiveEilberg-Schwartz, Howard editor Albany, N.Y.: State University of New York Press, 1992
+*   **Eilberg-Schwartz, Howard.** _People of the body: Jews and Judaism from an embodied perspective.,_ Eilberg-Schwartz, Howard editor (Albany, N.Y.: State University of New York Press, 1992)
     
-*   **El-Or, Tamar.** Next year I will know more: literacy and identity among young Orthodox women in IsraelTranslated from Hebrew by Haim Watzman Detroit: Wayne State University Press, 2002
+*   **El-Or, Tamar.** _Next year I will know more: literacy and identity among young Orthodox women in Israel.,_ Translated from Hebrew by Haim Watzman (Detroit: Wayne State University Press, 2002)
     
-*   **Fishman, Talya.** Shaking the pillars of exile: 'Voice of a fool,' an early modern Jewish critique of rabbinic cultureStanford, Calif.: Stanford University Press, 1997
+*   **Fishman, Talya.** _Shaking the pillars of exile: 'Voice of a fool,' an early modern Jewish critique of rabbinic culture_. (Stanford, Calif.: Stanford University Press, 1997)
     
-*   **Goldberg, Harvey E.** Jewish passages: cycles of Jewish lifeBerkeley: University of California Press, 2003
+*   **Goldberg, Harvey E.** _Jewish passages: cycles of Jewish life_. (Berkeley: University of California Press, 2003)
     
-*   **Goldberg, Sylvie Anne.** La Clepsydre II: temps de Jerusalem, temps de BabyloneParis: Alban Michel, 2004
+*   **Goldberg, Sylvie Anne.** _La Clepsydre II: temps de Jerusalem, temps de Babylone_. (Paris: Alban Michel, 2004)
     
-*   **Goldish, Matt.** Spirit possession in Judaism : cases and contexts from the Middle Ages to the presentEditor Matt Goldish, foreword by Erika Bourguignon and an introduction by Joseph Dan Detroit: Wayne State University Press, 2003
+*   **Goldish, Matt.** _Spirit possession in Judaism : cases and contexts from the Middle Ages to the present_., Editor Matt Goldish, foreword by Erika Bourguignon and an introduction by Joseph Dan (Detroit: Wayne State University Press, 2003)
     
-*   **Hasan-Rokem, Galit.** Tales of the neighborhood : Jewish narrative dialogues in late antiquityBerkeley: University of California Press, 2003
+*   **Hasan-Rokem, Galit.** _Tales of the neighborhood : Jewish narrative dialogues in late antiquity_. (Berkeley: University of California Press, 2003)
     
-*   **Kanarfogel, Ephraim.** Peering through the lattices : mystical, magical, and pietistic dimensions in the Tosafist periodDetroit: Wayne State University Press, 2000
+*   **Kanarfogel, Ephraim.** _Peering through the lattices : mystical, magical, and pietistic dimensions in the Tosafist period_. (Detroit: Wayne State University Press, 2000)
     
-*   **Katriel, Tamar.** Performing the past: a study of Israeli settlement museumsMahwah, N.J.: Lawrence Erlbaum, 1997
+*   **Katriel, Tamar.** _Performing the past: a study of Israeli settlement museums_. (Mahwah, N.J.: Lawrence Erlbaum, 1997)
     
-*   **Kirshenblatt-Gimblett, Barbara.** Destination culture: tourism, museums, and heritageBerkeley : University of California Press, 1998
+*   **Kirshenblatt-Gimblett, Barbara.** _Destination culture: tourism, museums, and heritage_. (Berkeley : University of California Press, 1998)
     
-*   **Kugelmass, Jack.** Key texts in American Jewish CultureEdited by Jack Kugelmass New Brunswick, N.J. : Rutgers University Press, 2003
+*   **Kugelmass, Jack.** _Key texts in American Jewish Culture.,_ Edited by Jack Kugelmass (New Brunswick, N.J. : Rutgers University Press, 2003)
     
 *   **Limor, Ora.** Christian sacred space and the Jew\[Wiesbaden\]: Harrassowitz, \[1996\]
     
-*   **\[Noy, Dov\]. Shternheim, Nokhem.** Hobn mir a nigndl = Hineh lanu nigun yesh : shire ha-"trubador" ha-Yehudi Nahum ShternhaimYerushalayim: ha-Merkaz le-heker ha-musikah ha-Yehudit, ha-Universitah ha-\`Ivrit bi-Yerushalayim, 760, 2000
+*   **\[Noy, Dov\]. Shternheim, Nokhem.** _Hobn mir a nigndl = Hineh lanu nigun yesh : shire ha-"trubador" ha-Yehudi Nahum Shternhaim_. (Yerushalayim: ha-Merkaz le-heker ha-musikah ha-Yehudit, ha-Universitah ha-\`Ivrit bi-Yerushalayim, 760, 2000)
     
-*   **Patai, Raphael.** Arab folktales from Palestine and IsraelIntroduction, translation, and annotation by Raphael Patai Detroit: Wayne State University Press, 1998
+*   **Patai, Raphael.** _Arab folktales from Palestine and Israel.,_ Introduction, translation, and annotation by Raphael Patai (Detroit: Wayne State University Press, 1998)
     
-*   **Prell, Riv-Ellen.** Fighting to become Americans: Jews, gender, and the anxiety of assimilationBoston, Mass: Beacon Press, 1999
+*   **Prell, Riv-Ellen.** _Fighting to become Americans: Jews, gender, and the anxiety of assimilation_. (Boston, Mass: Beacon Press, 1999)
     
-*   **Reiner, Elchanan.** \`Aliyah va-\`aliyah le-regel le-Erets Yi4sra'el \[Pilgrims and pilgrimage to Eretz Yisrael\]: 1099-1517Thesis (Ph. D.)--ha-Universitah ha-\`Ivrit bi-Yerushalayim, Jerusalem, 1988
+*   **Reiner, Elchanan.** _\`Aliyah va-\`aliyah le-regel le-Erets Yi4sra'el \[Pilgrims and pilgrimage to Eretz Yisrael\]: 1099-1517_. (Thesis (Ph. D.)--ha-Universitah ha-\`Ivrit bi-Yerushalayim, Jerusalem, 1988)
     
-*   **Rustow, Marina.** Scripture and schism: Samaritan and Karaite treasures from the library of the Jewish Theological Seminary; Catalog of an exhibition: Dec. 14, 2000-April 5, 2001New York: The Library of the Jewish Theological Seminary of America, 2000
+*   **Rustow, Marina.** S_cripture and schism: Samaritan and Karaite treasures from the library of the Jewish Theological Seminary; Catalog of an exhibition: Dec. 14, 2000-April 5, 2001_. (New York: The Library of the Jewish Theological Seminary of America, 2000)
     
-*   **Sabar, Shalom.** Ketubbah: the art of the Jewish marriage contractJerusalem: The Israel Museum ; New York, NY: Rizzoli International Publications, 2000
+*   **Sabar, Shalom.** _Ketubbah: the art of the Jewish marriage contract_. (Jerusalem: The Israel Museum ; New York, NY: Rizzoli International Publications, 2000)
     
-*   **Shmeruk, Chone.** The Esterke story in Yiddish and Polish literature: a case study in the mutual relations of two cultural traditionsJerusalem: Zalman Shazar Center, 1985
+*   **Shmeruk, Chone.** _The Esterke story in Yiddish and Polish literature: a case study in the mutual relations of two cultural traditions_. (Jerusalem: Zalman Shazar Center, 1985)
     
-*   **Swartz, Michael D.** Scholastic magic: ritual and revelation in early Jewish mysticismPrinceton, NJ: Princeton University Press, 1996
+*   **Swartz, Michael D.** _Scholastic magic: ritual and revelation in early Jewish mysticism_. (Princeton, NJ: Princeton University Press, 1996)
     
-*   **Valensi, Lucette and Wachtel, Nathan.** Jewish memoriestranslated from the French by Barbara Harshav Berkeley: University of California Press, 1991
+*   **Valensi, Lucette and Wachtel, Nathan.** _Jewish memories.,_ translated from the French by Barbara Harshav (Berkeley: University of California Press, 1991)
     
-*   **Wachtel, Nathan.** La foi du souvenir: labyrinthes marranes\[Paris?\]: Id. du Seuil, 2001
+*   **Wachtel, Nathan.** _La foi du souvenir: labyrinthes marranes_. (\[Paris?\]: Id. du Seuil, 2001)
     
-*   **Weissler, Chava.** Voices of the matriarchs: listening to the prayers of early modern Jewish womenBoston: Beacon Press, 1998
+*   **Weissler, Chava.** _Voices of the matriarchs: listening to the prayers of early modern Jewish women_. (Boston: Beacon Press, 1998)
     
-*   **Zenner, Walter P.** A global community: the Jews from Aleppo, SyriaDetroit: Wayne State University Press, 2000
+*   **Zenner, Walter P.** _A global community: the Jews from Aleppo, Syria_. (Detroit: Wayne State University Press, 2000)
     
 
 ## Contributors
