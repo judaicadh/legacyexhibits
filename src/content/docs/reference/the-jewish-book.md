@@ -386,43 +386,44 @@ Moreover, American rabbis in their sermons and responsa, commentaries and polemi
 
 ## Contributors
 
-Michela Andreatta - Harvard University/CAJS 2006
-
-Jean Baumgarten - Ecole des Hautes Études en Sciences Sociales/CAJS 2006
-
-Malachi Beit-Arie - Hebrew University/CAJS 2006
-
-Shlomo Berger - University of Amsterdam/CAJS 2006
-
-Menahem Blondheim - Hebrew University/CAJS 2006
-
-Piet van Boxel - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
-
-Marc Bregman - University of North Carolina at Greensboro/CAJS 2006
-
-Francesca Bregoli - University of Pennsylvania/CAJS 2006
-
-Naomi Feuchtwanger-Sarig - University of Pennsylvania/CAJS 2006
-
-Federica Francesconi - University of Haifa/CAJS 2006
-
-Joel Hecker - Reconstructionist Rabbinical College/CAJS 2006
-
-Seth Jerchower - University of Pennsylvania Library
-
-Vera Moreen - University of Pennsylvania/CAJS 2006
-
-Nurit Pasternak - Hebrew University/CAJS 2006
-
-Moshe Rosman - Bar-Ilan University/CAJS 2006
-
-Adam Shear - University of Pittsburgh/CAJS 2006
-
-David Stern - University of Pennsylvania/CAJS 2006
-
-Chava Turniansky - Hebrew University/CAJS 2006
-
-Joanna Weinberg - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+*   Michela Andreatta - Harvard University/CAJS 2006
+    
+*   Jean Baumgarten - Ecole des Hautes Études en Sciences Sociales/CAJS 2006
+    
+*   Malachi Beit-Arie - Hebrew University/CAJS 2006
+    
+*   Shlomo Berger - University of Amsterdam/CAJS 2006
+    
+*   Menahem Blondheim - Hebrew University/CAJS 2006
+    
+*   Piet van Boxel - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+    
+*   Marc Bregman - University of North Carolina at Greensboro/CAJS 2006
+    
+*   Francesca Bregoli - University of Pennsylvania/CAJS 2006
+    
+*   Naomi Feuchtwanger-Sarig - University of Pennsylvania/CAJS 2006
+    
+*   Federica Francesconi - University of Haifa/CAJS 2006
+    
+*   Joel Hecker - Reconstructionist Rabbinical College/CAJS 2006
+    
+*   Seth Jerchower - University of Pennsylvania Library
+    
+*   Vera Moreen - University of Pennsylvania/CAJS 2006
+    
+*   Nurit Pasternak - Hebrew University/CAJS 2006
+    
+*   Moshe Rosman - Bar-Ilan University/CAJS 2006
+    
+*   Adam Shear - University of Pittsburgh/CAJS 2006
+    
+*   David Stern - University of Pennsylvania/CAJS 2006
+    
+*   Chava Turniansky - Hebrew University/CAJS 2006
+    
+*   Joanna Weinberg - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+    
 
 **Special Thanks**
 
