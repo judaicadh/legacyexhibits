@@ -8,6 +8,9 @@ hero:
   title: Religious Communities in Islamic Empires
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2006-2007 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/ReligiousCommunitiesinIslamicEmpires/med1a.jpg
 slug: religious-communities-in-islamic-empires
 tableOfContents:
   minHeadingLevel: 2
