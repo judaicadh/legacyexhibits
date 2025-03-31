@@ -39,7 +39,7 @@ content:
               - name: "file"
                 label: "Image Source"
                 type: "image"
-                list: true
+                list: false
                 options:
                   upload_dir: "src/assets"  # Your image directory
                   extensions: [jpg, jpeg, png, svg]

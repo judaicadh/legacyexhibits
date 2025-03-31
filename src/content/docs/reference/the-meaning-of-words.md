@@ -19,8 +19,7 @@ hero:
     Dictionaries"
   tagline: test
   image:
-    file:
-      - ../../../../src/assets/TheMeaningofWords/babel.jpg
+    file:  ../../../../src/assets/TheMeaningofWords/babel.jpg
 slug: the-meaning-of-words
 tableOfContents:
   minHeadingLevel: 2

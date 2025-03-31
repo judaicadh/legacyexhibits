@@ -9,8 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2003-2004 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/ChallengingBoundaries/astrolabe.png
+    file: ../../../../src/assets/ChallengingBoundaries/astrolabe.png
 slug: challenging-boundaries
 tableOfContents:
   minHeadingLevel: 2

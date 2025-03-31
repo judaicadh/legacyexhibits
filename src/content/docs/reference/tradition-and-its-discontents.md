@@ -10,8 +10,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2002-2003 Fellows at the University of Pennsylvania
   image:
-    file:
-      - ../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
+    file:  ../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
     alt: Tradition and Its Discontents
 slug: tradition-and-its-discontents
 tableOfContents:
