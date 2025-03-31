@@ -10,7 +10,8 @@ export default defineConfig({
 
 		starlight({
 			customCss: [
-				'./src/styles/tailwind.css'
+				'./src/styles/tailwind.css',
+				'@fontsource-variable/lora',
 			],
 			plugins: [
 				starlightImageZoom({
