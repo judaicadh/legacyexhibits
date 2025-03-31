@@ -1,15 +1,18 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import tailwind from '@astrojs/tailwind';
+import '@fontsource-variable/lora';
 import starlightImageZoom from 'starlight-image-zoom';
-
 export default defineConfig({
 	site: 'https://judaicadh.github.io',
 	base: '/legacyexhibits',
 	integrations: [
 
 		starlight({
-			customCss: ['./src/styles/tailwind.css', '@fontsource-variable/lora' ],
+			customCss: [
+				'./src/styles/tailwind.css',
+				'@fontsource-variable/lora',
+			],
 			plugins: [
 				starlightImageZoom({
 					showCaptions: true,
