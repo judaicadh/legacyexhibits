@@ -9,8 +9,7 @@ export default defineConfig({
 	integrations: [
 
 		starlight({
-			customCss: ['./src/styles/tailwind.css',
-				'@fontsource-variable/playfair-display', '@fontsource-variable/Lora'],
+			customCss: ['./src/styles/tailwind.css', '@fontsource-variable/lora' ],
 			plugins: [
 				starlightImageZoom({
 					showCaptions: true,
