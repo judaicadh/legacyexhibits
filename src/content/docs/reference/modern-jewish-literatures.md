@@ -8,6 +8,9 @@ hero:
   title: "Modern Jewish Literatures: Language, Identity, Writing"
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2004-2005 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/ModernJewishLiteratures/mod-j-lit-splash.png
 slug: modern-jewish-literatures
 tableOfContents:
   minHeadingLevel: 2
@@ -36,9 +39,7 @@ The interplay between Jewish and non-Jewish languages forms a crucial dimension 
 
 Liliane Weissberg
 
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Weissberg170.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Weissberg1.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Weissberg170.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Weissberg1.jpg" alt="" width="1800" height="2588">
 
 Rebecca Salomon was born 1783, the daughter of one of the most prominent Jewish bankers and businessmen in Berlin. She married the son of David Friedlaender, one of the leaders of the Jewish community in Berlin, but divorced him after a brief marriage, and began to write and publish popular novels under a pen name, Regina Frohberg. She later took this name as her legal one.
 
@@ -56,9 +57,7 @@ Nineteenth-century historical novels―such as Walter Scott's _Ivanhoe_ (1818), 
 
 Nadia Valman
 
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Valman.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Valman1.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Valman.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-07/Valman1.jpg" alt="" width="1800" height="2588">
 
 _The Vale of Cedars; or, The Martyr_, by the Anglo-Jewish novelist and poet Grace Aguilar and published posthumously in 1850, was the first popular English novel on a Jewish historical theme. Written when the author was still in her late teens, the novel displays Aguilar's astute manipulation of the genre of historical romance to serve the cause of Anglo-Jewish religious pride and political emancipation.
 
@@ -94,9 +93,7 @@ But it was Zangwill's play that made the melting pot the central term in the dis
 
 Scott Lerner
 
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Lerner.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Lerner2.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Lerner.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Lerner2.jpg" alt="" width="1800" height="2588">
 
 Yosef Yerushalmi tells the story of his discovery, in the Sigmund Freud Archives in Washington DC, of the family Bible that Freud's father Jakob first inscribed, in Hebrew, on the occasion of Sigmund Freud's circumcision. Thirty-five years later, the elder Freud had the volume re-bound in leather, and he added a dedication to his son, by hand and in Hebrew, composed as a _melitzah_―a traditional genre in Hebrew letters consisting of an arrangement of textual bits drawn from the Bible and other Jewish sources. Yerushalmi appears to believe―though he does not insist―that this dedication offers strong evidence of the Freud's ability to read and understand Hebrew, Freud's statements to the contrary notwithstanding. Yerushalmi calls Freud's writing of _Moses and Monotheism_ an act of "'deferred obedience'" to a paternal "'mandate.'" The _melitzah_ written by Jakob Freud in 1896 directed Sigmund to return to the book and to reengage his Jewish origins. At a distance of thirty-eight years, the son obeyed the father by radically rewriting the history that constitutes and preserves the Jews as a people. How, we might wonder, would his father, the author of the _melitzah_, have received _Moses and Monotheism_ in fulfillment of his mandate? Yerushalmi thinks that Jakob Freud "would not have been displeased." One thing seems clear, however. If _Moses and Monotheism_ may be understood as a satisfactory fulfillment of a mandate to return to Jewish history and origins, then obedience, in this context, does not preclude subversion.
 
@@ -163,7 +160,6 @@ ESTER HAMALKA
 
 Arnold J. Band
 
-  
 [<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Band.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901170608mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewish-literatures/khad-gadye-le-el?item=0)
 
 [<img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Band0.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901170608mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewish-literatures/khad-gadye-le-el?item=1)
@@ -300,7 +296,7 @@ Deborah A. Starr
 
 <img src="https://web.archive.org/web/20200901170608im_/https://www.library.upenn.edu/sites/default/files/2019-08/Starr.jpg" alt="" width="1800" height="2588">
 
-The cover of _Azzah, hafidat nifirtiti_ \[Azzah, Nefertiti's Granddaughter\], by Maurice Shammas (Abu Farid), published in Shefar 'Am, Israel, 2003. Born to a Karaite family in Cairo in 1930, Maurice Shammas was raised in _harat al-yahud_, the old Jewish quarter, and educated in Egyptian schools. Prior to his departure from Egypt in 1951, Shammas had worked as a journalist, and was involved in Egyptian theater. In Israel, Shammas has made a career working for the Arabic language section of the Israeli Radio and Television Broadcasting authority. He has also published three volumes of written work in Arabic, including the book depicted here as well a collection of short stories _Al-_ s_haykh shabtay wa-hikayat min harat al-yahud_ \[ Sheik Shabbtai and Stories from _Harat al-Yahud_\] (1979), and a slim volume of poetry _Sab'a sanabil hazila_\[ Seven Lean Sheaves\] (1989). Shammas's work stands out in the field of Egyptian Jewish nostalgia literature by providing a unique perspective on the richness of Arabic cultural integration in Egypt and by offering views of oft-forgotten spaces of the city, particularly _harat al-yahud_.
+The cover of _Azzah, hafidat nifirtiti_ \[Azzah, Nefertiti's Granddaughter\], by Maurice Shammas (Abu Farid), published in Shefar 'Am, Israel, 2003. Born to a Karaite family in Cairo in 1930, Maurice Shammas was raised in _harat al-yahud_, the old Jewish quarter, and educated in Egyptian schools. Prior to his departure from Egypt in 1951, Shammas had worked as a journalist, and was involved in Egyptian theater. In Israel, Shammas has made a career working for the Arabic language section of the Israeli Radio and Television Broadcasting authority. He has also published three volumes of written work in Arabic, including the book depicted here as well a collection of short stories _Al-_ s\_haykh shabtay wa-hikayat min harat al-yahud\_ \[ Sheik Shabbtai and Stories from _Harat al-Yahud_\] (1979), and a slim volume of poetry _Sab'a sanabil hazila_\[ Seven Lean Sheaves\] (1989). Shammas's work stands out in the field of Egyptian Jewish nostalgia literature by providing a unique perspective on the richness of Arabic cultural integration in Egypt and by offering views of oft-forgotten spaces of the city, particularly _harat al-yahud_.
 
 ### Contemporary Jewish Writing in Britain and Ireland
 
@@ -338,69 +334,69 @@ Thus the discourse of a Jewish oppositional culture, cribbed wittingly and unwit
 
 ## Selected Bibliography
 
-*   **Arendt, Hannah.** _Rahel Varnhagen: The Life of a Jewess_Edited by Liliane Weissberg; Translated by Richard and Clara Winston Baltimore: Johns Hopkins University Press, 1997
+*   **Arendt, Hannah.** _Rahel Varnhagen: The Life of a Jewess.,_ Edited by Liliane Weissberg; Translated by Richard and Clara Winston (Baltimore: Johns Hopkins University Press, 1997)
     
-*   **Band, Arnold J.** _Studies in Modern Jewish Literature_Philadelphia: The Jewish Publication Society, 2003
+*   **Band, Arnold J.** _Studies in Modern Jewish Literature_. (Philadelphia: The Jewish Publication Society, 2003)
     
-*   **Ben-Amos, Dan and Liliane Weissberg, eds.** _Cultural Memory and the Construction of Identity_Detroit: Wayne State University Press, 1999
+*   **Ben-Amos, Dan and Liliane Weissberg, eds.** _Cultural Memory and the Construction of Identity_. (Detroit: Wayne State University Press, 1999)
     
-*   **Biale, David, Michael Galchinsky, and Susan Heschel, eds.** _Insider/Outsider: American Jews and Multiculturalism_Berkeley: University of California Press, 1998
+*   **Biale, David, Michael Galchinsky, and Susan Heschel, eds.** _Insider/Outsider: American Jews and Multiculturalism_. (Berkeley: University of California Press, 1998)
     
-*   **Chametzky, Jules .. \[et al.\], compiler and editors.** _Jewish American Literature: A Norton Anthology_New York: Norton, 2001
+*   **Chametzky, Jules .. \[et al.\], compiler and editors.** _Jewish American Literature: A Norton Anthology_. (New York: Norton, 2001)
     
-*   **Cheyette, Bryan, ed.** _Contemporary Jewish Writing in Britain and Ireland: An Anthology_Lincoln: University of Nebraska Press, 1998
+*   **Cheyette, Bryan, ed.** _Contemporary Jewish Writing in Britain and Ireland: An Anthology_. (Lincoln: University of Nebraska Press, 1998)
     
-*   **Cheyette, Bryan and Nadia Valman, eds.** _The Image of the Jew in European Liberal Culture, 1789-1914_London; Portland, Or.: Vallentine Mitchell, 2004
+*   **Cheyette, Bryan and Nadia Valman, eds.** _The Image of the Jew in European Liberal Culture, 1789-1914_. (London; Portland, Or.: Vallentine Mitchell, 2004)
     
-*   **Ezrahi, Sidra DeKoven.** _Booking Passage: Exile and Homecoming in the Modern Jewish Imagination_Berkeley: University of California Press, 2000
+*   **Ezrahi, Sidra DeKoven.** _Booking Passage: Exile and Homecoming in the Modern Jewish Imagination_. (Berkeley: University of California Press, 2000)
     
-*   **Gertz, Nurith.** _Myths in Israeli Culture: Captives of a Dream_London; Portland, Or.: Vallentine Mitchell, 2000
+*   **Gertz, Nurith.** _Myths in Israeli Culture: Captives of a Dream_. (London; Portland, Or.: Vallentine Mitchell, 2000)
     
-*   **Gold, Nili Sharf.** _Lo ka-berosh: gilgule imaz'im ve-tavniyot be-shirat Yehudah \`Amihai_Yerushalayim; Tel Aviv: Shoken, 754 (1994)
+*   **Gold, Nili Sharf.** _Lo ka-berosh: gilgule imaz'im ve-tavniyot be-shirat Yehudah \`Amihai_. (Yerushalayim; Tel Aviv: Shoken, 754 (1994))
     
-*   **Hellerstein, Kathryn, translator and editor.** _Paper Bridges: Selected Poems of Kadya Molodowsky_Detroit: Wayne State University Press, 1999
+*   **Hellerstein, Kathryn, translator and editor.** _Paper Bridges: Selected Poems of Kadya Molodowsky_. (Detroit: Wayne State University Press, 1999)
     
-*   **Kramer, Michael P. and Hana Wirth-Nesher, eds.** _The Cambridge Companion to Jewish American Literature_Cambridge, U.K.; New York: Cambridge University Press, 2003
+*   **Kramer, Michael P. and Hana Wirth-Nesher, eds.** _The Cambridge Companion to Jewish American Literature_. (Cambridge, U.K.; New York: Cambridge University Press, 2003)
     
-*   **Kushner, Tony and Nadia Valman, eds.** _Philosemitism, Antisemitism and 'the Jews': Perspectives from the Middle Ages to the Twentieth Century_Aldershot, U.K.; Burlington, VT: Ashgate, 2004
+*   **Kushner, Tony and Nadia Valman, eds.** _Philosemitism, Antisemitism and 'the Jews': Perspectives from the Middle Ages to the Twentieth Century_. (Aldershot, U.K.; Burlington, VT: Ashgate, 2004)
     
-*   **Mintz, Alan L.** _Translating Israel: Contemporary Hebrew Literature and its Reception in America_Syracuse, NY: Syracuse University Press, 2001
+*   **Mintz, Alan L.** _Translating Israel: Contemporary Hebrew Literature and its Reception in America_. (Syracuse, NY: Syracuse University Press, 2001)
     
-*   **Mintz, Alan L., ed.** _Reading Hebrew Literature: Critical Discussions of Six Modern Texts_Hanover, NH: University Press of New England; Brandeis University Press, 2003
+*   **Mintz, Alan L., ed.** _Reading Hebrew Literature: Critical Discussions of Six Modern Texts_. (Hanover, NH: University Press of New England; Brandeis University Press, 2003)
     
-*   **Miron, Dan.** _The Image of the Shtetl and Other Studies of Modern Jewish Literary Imagination_Syracuse, NY: Syracuse University Press, 2000
+*   **Miron, Dan.** _The Image of the Shtetl and Other Studies of Modern Jewish Literary Imagination_. (Syracuse, NY: Syracuse University Press, 2000)
     
-*   **Nevo, Gidi.** _Ad kan_Tel Aviv: ha-kibuts ha-me'uhad, 1996
+*   **Nevo, Gidi.** _Ad kan_. (Tel Aviv: ha-kibuts ha-me'uhad, 1996)
     
-*   **Norich, Anita.** _The Homeless Imagination in the Fiction of Israel Joshua Singer_Bloomington: Indiana University Press, 1991
+*   **Norich, Anita.** _The Homeless Imagination in the Fiction of Israel Joshua Singer_. (Bloomington: Indiana University Press, 1991)
     
-*   **Rosen, Alan C.** _Dislocating the End: Climax, Closure and the Invention of Genre_New York: Peter Lang, 2001
+*   **Rosen, Alan C.** _Dislocating the End: Climax, Closure and the Invention of Genre_. (New York: Peter Lang, 2001)
     
-*   **Rosen, Alan C.** _Sounds of Defiance: The Holocaust, Multilingualism, and the Problem of English_Lincoln: University of Nebraska Press, 2005
+*   **Rosen, Alan C.** _Sounds of Defiance: The Holocaust, Multilingualism, and the Problem of English_. (Lincoln: University of Nebraska Press, 2005)
     
-*   **Rosen, Alan C., ed.** _Celebrating Elie Wiesel: Stories, Essays, Reflections_Notre Dame, Ind.: University of Notre Dame Press, 1998
+*   **Rosen, Alan C., ed.** _Celebrating Elie Wiesel: Stories, Essays, Reflections_. (Notre Dame, Ind.: University of Notre Dame Press, 1998)
     
-*   **Roskies, David G.** _Against the Apocalypse: Responses to Catastrophe in Modern Jewish Culture_Syracuse, NY: Syracuse University Press, 1999
+*   **Roskies, David G.** _Against the Apocalypse: Responses to Catastrophe in Modern Jewish Culture_. (Syracuse, NY: Syracuse University Press, 1999)
     
-*   **Roth, Laurence.** _Inspecting Jews: American Jewish Detective Stories_New Brunswick, NJ: Rutgers University Press, 2004
+*   **Roth, Laurence.** _Inspecting Jews: American Jewish Detective Stories_. (New Brunswick, NJ: Rutgers University Press, 2004)
     
-*   **Samuels, Maurice.** _The Spectacular Past: Popular History and the Novel in Nineteenth-Century France_Ithaca, NY: Cornell University Press, 2004
+*   **Samuels, Maurice.** _The Spectacular Past: Popular History and the Novel in Nineteenth-Century France_. (Ithaca, NY: Cornell University Press, 2004)
     
-*   **Shapira, Anita.** _Berl: The Biography of a Socialist Zionist, Berl Katznelson, 1887-1944_Translated by Haya Galai Cambridge, UK; New York: Cambridge University Press, 1984
+*   **Shapira, Anita.** _Berl: The Biography of a Socialist Zionist, Berl Katznelson, 1887-1944.,_ Translated by Haya Galai (Cambridge, UK; New York: Cambridge University Press, 1984)
     
-*   **Shapira, Anita.** _Yehudim hadashim, Yehudim yeshanim_Tel Aviv: hotsa'at `Am` oved, 757 (1997)
+*   **Shapira, Anita.** _Yehudim hadashim, Yehudim yeshanim_. (Tel Aviv: hotsa'at 'Am 'oved, 757 (1997))
     
-*   **Shapira, Anita, ed.** _Israeli Identity in Transition_Westport, Conn.: Praeger, 2004
+*   **Shapira, Anita, ed.** _Israeli Identity in Transition_. (Westport, Conn.: Praeger, 2004)
     
-*   **Sokoloff, Naomi B., Anne Lapidus, and Anita Norich, eds.** _Gender and Text in Modern Hebrew and Yiddish Literature_New York: Jewish Theological Seminary of America; Cambridge, Mass.: Distributed by Harvard University Press, 1992
+*   **Sokoloff, Naomi B., Anne Lapidus, and Anita Norich, eds.** _Gender and Text in Modern Hebrew and Yiddish Literature_. (New York: Jewish Theological Seminary of America; Cambridge, Mass.: Distributed by Harvard University Press, 1992)
     
-*   **Sollors, Werner.** _Beyond Ethnicity: Consent and Descent in American Culture_New York: Oxford University Press, 1986
+*   **Sollors, Werner.** _Beyond Ethnicity: Consent and Descent in American Culture_. (New York: Oxford University Press, 1986)
     
-*   **Wirth-Nesher, Hana, ed.** _What Is Jewish Literature?_Philadelphia: Jewish Publication Society, 1994
+*   **Wirth-Nesher, Hana, ed.** _What Is Jewish Literature?_. (Philadelphia: Jewish Publication Society, 1994)
     
-*   **Wisse, Ruth R.** _The Modern Jewish Canon: A Journey Through Language and Culture_New York: Free Press, 2000
+*   **Wisse, Ruth R.** _The Modern Jewish Canon: A Journey Through Language and Culture_. (New York: Free Press, 2000)
     
-*   **Yudkin, Leon and Bryan Cheyette, eds.** _Modern Hebrew Literature in English Translation: Papers, Selected Syllabi, and Bibliographies_New York: M. Wiener Pub., 1987
+*   **Yudkin, Leon and Bryan Cheyette, eds.** _Modern Hebrew Literature in English Translation: Papers, Selected Syllabi, and Bibliographies_. (New York: M. Wiener Pub., 1987)  
     
 
 ## Contributors

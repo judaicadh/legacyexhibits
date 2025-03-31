@@ -8,6 +8,9 @@ hero:
   title: The Jewish Book Material Texts and Comparative Contexts
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2005-2006 Fellows at the University of Pennsylvania
+  image:
+    file:
+      - ../../../../src/assets/TheJewishBook/jewish-book-home.jpg
 slug: the-jewish-book
 tableOfContents:
   minHeadingLevel: 2
@@ -84,7 +87,7 @@ The anonymous artist of the _Haggadah_ clearly distinguished between two types
 
 Portraying part of the ritual preceding the meal, the artist appended two marginal images to this page. The man at the top seems to be preparing, stirring or forking the bitter herbs for the _maror,_ to be eaten while reciting the appropriate benediction. In the lower margin, the illustration depicts the ensuing ritual in the progression of the _Seder_. Following the eating of the _maror_, one is instructed to take a combination of condiments, in fulfillment of _Korekh_. In keeping with the tradition laid down by Hillel in the first century of the Common Era, some greens (“_Leituga”_, or lettuce) and a bit of the third _mazzah_ are eaten together. The bird-headed man is shown raising both foodstuffs, about to join them and eat them together for the _Korekh_.
 
-The unique form of the _mazzah_ reflects the custom – rarely adhered to – of marking the three “precept _mazzot_” which are obligatory for the fulfillment of the rituals of the _Seder_. Accordingly, when depicting the moment in which the first _mazzah_ is taken, the cake shown by the artist has one protuberance, while the second and third _mazzot_are marked respectively with two or three lobes.
+The unique form of the _mazzah_ reflects the custom – rarely adhered to – of marking the three “precept _mazzot_” which are obligatory for the fulfillment of the rituals of the _Seder_. Accordingly, when depicting the moment in which the first _mazzah_ is taken, the cake shown by the artist has one protuberance, while the second and third \_mazzot\_are marked respectively with two or three lobes.
 
 First referred to in writing as “marks” or “signs” in the twelfth century, the lobed _mazzot_ are visually manifested for the first time in the “Bird’s Head Haggadah”.
 
@@ -108,7 +111,7 @@ Federica Francesconi
 
 [<img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Francesconi2.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901155723mp_/https://www.library.upenn.edu/collections/online-exhibits/jewish-book/jewish-humanist-library-italy?item=1)
 
-The banker Moisè Modena (1539-1630) owned a library, which in 1599 consisted of 100 titles of Latin and Italian books and 145 titles of Hebrew books. He was neither a rabbi nor a famous scholar or physician, but a wealthy and –probably– a cultured man. The two sons, the famous kabbalist Aharon Berechiah (1576-1639) and Salomone (1583-?) respectively of 24 and 17 years old, the former was already rabbi and the second not yet. In his library we can see perhaps some lines of the classical background of an acculturated Jew who lived at the turn of the 16th century to 17th century: from the commentaries of Rashi to _Sefer Ha-Kuzari_and _Me'or ʻenayim_, from Francesco Petrarca to Marsilio Ficino. What seems particularly interesting about the library of Moisè Modena is the possibility to distinguish a certain concrete connection between Jewish culture, the Medieval and Renaissance basic texts, and the general Italian culture of his time. In the library of Moisè Modena we can find in fact the classical works _Masoret ha-masoret_ of ’Elie ha-Levi Ashkenazi, _Diqduqe_ of Rashi, _Sefer ha-shorashim_ of David Qimhi (Venice, 1542) and the rethoric treatise _Nofet Sufim_ of Judah Messer Leone. Furthermore, we can see Jewish classic medieval works like _Sefer ha-Kuzari_ of Judah ha-Levi, an the the late medieval book like _Or ‘ammin_ of Obadia Sforno (Bologna, 1537), the _Or ha-Shem_ of Hasday Crescas and a group of more Humanistic oriented books such as _Minkhat kenaot_ of Yehiel Nissim da Pisa and the _Me'or ʻenayim_ of Azaria de Rossi.
+The banker Moisè Modena (1539-1630) owned a library, which in 1599 consisted of 100 titles of Latin and Italian books and 145 titles of Hebrew books. He was neither a rabbi nor a famous scholar or physician, but a wealthy and –probably– a cultured man. The two sons, the famous kabbalist Aharon Berechiah (1576-1639) and Salomone (1583-?) respectively of 24 and 17 years old, the former was already rabbi and the second not yet. In his library we can see perhaps some lines of the classical background of an acculturated Jew who lived at the turn of the 16th century to 17th century: from the commentaries of Rashi to \_Sefer Ha-Kuzari\_and _Me'or ʻenayim_, from Francesco Petrarca to Marsilio Ficino. What seems particularly interesting about the library of Moisè Modena is the possibility to distinguish a certain concrete connection between Jewish culture, the Medieval and Renaissance basic texts, and the general Italian culture of his time. In the library of Moisè Modena we can find in fact the classical works _Masoret ha-masoret_ of ’Elie ha-Levi Ashkenazi, _Diqduqe_ of Rashi, _Sefer ha-shorashim_ of David Qimhi (Venice, 1542) and the rethoric treatise _Nofet Sufim_ of Judah Messer Leone. Furthermore, we can see Jewish classic medieval works like _Sefer ha-Kuzari_ of Judah ha-Levi, an the the late medieval book like _Or ‘ammin_ of Obadia Sforno (Bologna, 1537), the _Or ha-Shem_ of Hasday Crescas and a group of more Humanistic oriented books such as _Minkhat kenaot_ of Yehiel Nissim da Pisa and the _Me'or ʻenayim_ of Azaria de Rossi.
 
 Moisè Modena' library shows two different cultural trends in the libraries of the Modenese Jewish intelligentsia: books on Italian rhetoric and the so-called line of “humaniores litterae”. In fact he owned _Il presente libro insegna la vera arte delo excellente scrivere_ of Giovanni Antonio Tagliente (Venice, 1524), the _Applicamento de i precetti della inuentione, dispositione, et elocutione, che propriamente serue allo scrittore di epistole latine, et volgari_ of Oratio Toscanella, and specifically regarding the rethoric and the so-called line of “humaniores litterae” he had bought: Prose of Pietro Bembo (_nelle quali si ragiona della volgar lingua scritte al cardinale de Medici,_ Venice, 1525), _Tabulae totius dialectices aliarum artiuminstrumenti praecepta vtilissima breuiter complectentes, ordine perspicuo digestae a Cornelio Valerio_ (Venice, 1564), the _Dialectica Ioannis_ Antonii Delphini (Venice, 1555), _Quattro lettere di monsig. Gasparo Contarino Cardinale_ (Florence, 1558), Petrarca’s _Trionfi_ with the commentary of Vellutello (Venice, 1550), and the _Tomo primo delle divine lettere di Marsilio Ficino, tradotte in toscano per M. Felice Figliucci_ (Venice, 1546-1548).
 
@@ -126,7 +129,7 @@ In sixteenth-century Italy, philosophical and kabbalistic learning was generally
 
 Bedersi’s _Beḥinat Olam_ \[Examination of the World\], a philosophical meditation on the wonders and the vanities of the world, was written in Spain the late thirteenth or early fourteenth century, and became one of the most popular works of medieval Jewish thought in the early modern period and was reprinted often from the fifteenth through the eighteenth centuries. Here, we see the opening pages of two mid-sixteenth century editions from northern Italy. In 1551/52, one of the first products of the ibn Askara press in Ferrara was a quarto edition of the work, with the text of _Beḥinat Olam_ printed with _nikud_ (vowel points). Along with the text, we also find new introductions and commentaries by Moses ibn Habib and Joseph Frances. This edition was presumably aimed at a scholarly audience looking for quarto editions and good commentaries. At the same time, the presence of _nikud_ in the text alongside the learned commentaries suggests an availability of the work to a less learned audience. Four years later, the press of Jacob ben Naftali ha-Kohen in Mantua issued an edition with a vocalized text as well as a reprint of the short, anonymous commentary included in the 1484 Soncino edition. This edition, in octavo and with a shorter commentary, appears to have been intended as a popular work._Beḥinat Olam_ could be presented to audiences as a poetic appreciation of God’s world or as the vehicle for discussion of serious philosophical issues.
 
-Printers and publishers also offered another kind of flexibility in an era in which texts were printed and transported unbound, and then bound by the purchaser. In 1546, the press of Cornelio Adelkind in Venice printed three medieval Hebrew texts that exist on the border of learned philosophy and popular ethics: _Beḥinat Olam_ ; _Mivḥar ha-Peninim_, a collection of aphorisms, anecdotes, and parables from rabbis and philosophers--attributed to Bedersi (although actually the work of Solomon ibn Gabirol); and Qalonymos ben Qalonymos’ _Even Boḥan_, a moral critique of Jewish life in early fourteenth century Provence, Italy, and northern Spain. Each work had its own title page complete with the identification of the printer and the year; and each work began in a new quire (that is no sheet printed contained pages from more than one of the texts), but the three texts were paginated consecutively: folio pages 1-43 constituted _Mivhar ha-Peninim_; 44-56 constituted _Beḥinat Olam,_ and 57-88 were _Even Boḥan_. Here, we see the title page of the _Even Boḥan_ edition, with the folio page number clearly indicated. A short trip up Interstate 95 would reveal a copy of the _Beḥinat Olam_ edition at the Jewish Theological Seminary, and separately bound copies of the _Mivḥar ha-Peninim_ and the _Beḥinat Olam_ editions at Yale University. At Harvard University, one can find a “complete” copy with all three texts bound together. Farther away, at the Jewish National and University Library in Jerusalem, one can find two “complete” copies; one copy with _Mivḥar ha-Peninim_ and _Even Boḥan_together (“missing” the middle section!); and one copy with _Mivḥar ha-Peninim_ alone. That is, one printing project in 1546 yields seven different potential “books” with five of the seven combinations attested in a survey of just five library collections.
+Printers and publishers also offered another kind of flexibility in an era in which texts were printed and transported unbound, and then bound by the purchaser. In 1546, the press of Cornelio Adelkind in Venice printed three medieval Hebrew texts that exist on the border of learned philosophy and popular ethics: _Beḥinat Olam_ ; _Mivḥar ha-Peninim_, a collection of aphorisms, anecdotes, and parables from rabbis and philosophers--attributed to Bedersi (although actually the work of Solomon ibn Gabirol); and Qalonymos ben Qalonymos’ _Even Boḥan_, a moral critique of Jewish life in early fourteenth century Provence, Italy, and northern Spain. Each work had its own title page complete with the identification of the printer and the year; and each work began in a new quire (that is no sheet printed contained pages from more than one of the texts), but the three texts were paginated consecutively: folio pages 1-43 constituted _Mivhar ha-Peninim_; 44-56 constituted _Beḥinat Olam,_ and 57-88 were _Even Boḥan_. Here, we see the title page of the _Even Boḥan_ edition, with the folio page number clearly indicated. A short trip up Interstate 95 would reveal a copy of the _Beḥinat Olam_ edition at the Jewish Theological Seminary, and separately bound copies of the _Mivḥar ha-Peninim_ and the _Beḥinat Olam_ editions at Yale University. At Harvard University, one can find a “complete” copy with all three texts bound together. Farther away, at the Jewish National and University Library in Jerusalem, one can find two “complete” copies; one copy with _Mivḥar ha-Peninim_ and \_Even Boḥan\_together (“missing” the middle section!); and one copy with _Mivḥar ha-Peninim_ alone. That is, one printing project in 1546 yields seven different potential “books” with five of the seven combinations attested in a survey of just five library collections.
 
 ### The Fourth Rabbinic Bible, Printed in Venice 1568 by Giovanni di Gara
 
@@ -146,13 +149,11 @@ Joanna Weinberg
 
 This is the title-page of the second edition of the Midrash Shemuel (Venice, 1588) which was written by Samuel di Uceda, the Safed preacher and disciple of Isaac Luria (the Ari).This copy of the work belonged to Isaac Casaubon, the great Huguenot scholar (1559-1614).It is now housed in the British Library as are the majority of his extensive Hebraic and Judaic library. All the books in Casaubon’s possession not only displayed the owner’s signature, but also vividly manifested his order of reading and of taking notes.
 
-### _Ayyelet ha-shaḥar_ \- The Morning Star
+### _Ayyelet ha-shaḥar_ - The Morning Star
 
 Michela Andreatta
 
-<img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Andreatta.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Andreatta2.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Andreatta.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Andreatta2.jpg" alt="" width="1800" height="2588">
 
 _Ayyelet ha-shaḥar_ is the breviary for the dawn vigil of the _Shomerim la-boker_ society of Italian rite of Mantua. As for other groups of this kind, its members used to gather daily, about a hour before dawn, to recite prayers and penitential hymns (_seliḥot_). The ceremony was aimed at hastening the restoration of the Jerusalem Temple and the messianic redemption, along the teachings of Palestinian _kabbalah_. As stated in the title page, the breviary was compiled by the Mantuan rabbi Mordecai Reuben Jarè - who was among the promoters of the founding of the society itself - and follows the _seder_ observed by its members. Besides a bulk of _piyyuṭim_ by poets of the classic period and medieval Spain, _Ayyelet ha-shaḥar_ also includes about forty compositions by modern authors, an element which greatly distinguishes it from traditional collections of _seliḥot_. Most of the authors who had their compositions included were directly connected with the Mantuan community and the society of watchers, like the rabbis Samuel Raphael Marli (d. 1617) and Hananiah Eliakim Rieti (d. 1623). Particularly, the _piyyuṭim_ by Rieti are drawn on his vast collection of liturgical poetry, _Minḥatḥananyah_ (_Hananiah’s Offering_), still extant in manuscript, and at the time a favourite reading among the devotional circles of Mantua. Some introductory and final notes by the people who took part in the work of compilation and printing accompany the texts, illustrating in the detail the nature of the collection and the aims of its promoters. A few occasional poems in praise of the prayer book and the confraternity contribute to the strong local imprint and flavour characterizing the compilation. For the reception, circulation and the influence it exerted on the following collections compiled and printed for the _Shomerim la-boker,Ayyelet ha-shaḥar_ is one of the most significant among the books commissioned for these societies. The breviary was finally reprinted in 1724, at the Mantuan press of Raphael Hayyim Italia, with the addition of the _piyyuṭim_ by Benjamin Ha-Kohen Vitale of Reggio (1651-1730) from the collection _‘Et ha-zamir_ (The season of the song), printed in Venice in 1707.
 
@@ -194,7 +195,7 @@ Nonetheless, the idea of a classified bibliography can be said to be imported fr
 
 There is evidence from the Cairo Genizah and from Jewish medieval manuscripts that notions of classification were used within Jewish cultural contexts, but these appear sporadically, with little indication of direct transmission other than that already indicated by Avot 1:1 ("Moses received the Torah from Sinai,and passed it on to Joshua; and Joshua to the elders, and the elders to the prophets; and the prophets passed it on to men of the Great Assembly..." implying Bible and Talmud as dual systems of Torah "she-bi-khtav" and "she-be-\`al peh", each with their own respective hierarchies of commentary and super-commentary). Theories of knowledge received much more attention and were published, but it was still not until Bass that a synthesis of areas of knowledge and bibliographic organization were systematically synthesized, and the bulk of Jewish literature therein arranged by title.
 
-In this sense, the _Sifte yeshenim_ seems to spontaneously emerge. To be sure, Bass acknowledges the authors whose works he consulted. The closing section, entitled _Sha‘ar ha-ḥitsoni_, is a lengthy listing of the works consulted by Bass, nearly all of them the fruit of Christian Hebraism (Bass succinctly credits Hottinger and his _Promtuarium_ \[fol. 107a\], "And here he records a great many books, placed in order according to subject." Although Gessner is nowhere cited, Bass calls his class headings "sha\`arim" (gates, portals). Some 35 year later, the _Sifte yeshenim_ would serve as the foundation for the massive four volume_Bibliotheca hebraea_(Hamburg, 1715-1733) of Johann Christoph Wolf (1683-1739).
+In this sense, the _Sifte yeshenim_ seems to spontaneously emerge. To be sure, Bass acknowledges the authors whose works he consulted. The closing section, entitled _Sha‘ar ha-ḥitsoni_, is a lengthy listing of the works consulted by Bass, nearly all of them the fruit of Christian Hebraism (Bass succinctly credits Hottinger and his _Promtuarium_ \[fol. 107a\], "And here he records a great many books, placed in order according to subject." Although Gessner is nowhere cited, Bass calls his class headings "sha\`arim" (gates, portals). Some 35 year later, the _Sifte yeshenim_ would serve as the foundation for the massive four volume\_Bibliotheca hebraea\_(Hamburg, 1715-1733) of Johann Christoph Wolf (1683-1739).
 
 What prompted this sudden appearance? From the advent of Hebrew printing in the late 1460s up to the 1670s, technological, economic, and demographic changes had contributed to utterly change the culture of Jewish letters, of how books were produced and distributed. The printing press had made vast numbers of titles and copies available. With political upheavals and ecclesiastic censorship, older collections and their contents were brought back to light, often being redistributed into new collections. It can be argued that Jewish bibliophilia began during the 16th century, as both personal and communal collections developed. Bass arrived in Amsterdam to marvel at what can be said to be the first true Jewish Library, the Ets Haim Livraria Montezinos, founded in 1616. In a Borges-meets-Canetti kind of way: every library needs its catalogue, and every printer/monger, his inventory.
 
@@ -240,10 +241,10 @@ Moshe Rosman
 
 <img src="https://web.archive.org/web/20200901155723im_/https://www.library.upenn.edu/sites/default/files/2019-07/Rosman.jpg" alt="" width="1800" height="2588">
 
-Generally regarded as the first Hasidic book, _Toldot Ya'akov Yosef_ illustrates some of the features that typified Hasidic books. Common for these books, its genre was homiletics (_drash_), based on both the weekly Torah portion and the 613 commandments. While the origin of these _drashot_ was probably oral lessons given in Yiddish by Rabbi Ya'akov Yosef of Polonne, one of the chief disciple-associates of Israel Ba'al Shem Tov (Besht), the founder of Hasidism, the book (like most early Hasidic books) was written in Hebrew. Rabbi Ya'akov Yosef is credited as author, however a printer's note at the end of the book makes it clear that the book was compiled from various notes he had written. This and the problematic state of the text (the lack of proper introduction, material that appears to be out of order, repetitions, etc.) indicate that Rabbi Ya'akov Yosef, who was approaching his death at the time of publication, did not submit a publishable text to the printer. Rather it appears that his notes were edited by one or more of the publishers (_mevi'im le-veit ha-defus_): his son Avraham Shimshon of Rashkov, his son-in-law, Avraham Dov of Chmelnik, Shimon Ashkenazi and Shelomo Lutzker. In this way the editor or editors were actually coauthors of the text. This is usual with Hasidic books, where the named author rarely wrote a finished manuscript. Most of the time the published book appeared after the putative author's death and represented his miscellaneous writings or oral teachings as recorded or later recalled by his associates. This raw material was then edited into a book after his death, its message shaped by the editors.  
-  
-In the case of R. Ya'akov Yosef's books (there were four in all) the publisher-editors apparently wanted to emphasize to potential readers that reading these books would enable them to learn not only the teachings of R. Ya'akov Yosef, but also of the Besht himself. In a long note on the verso of the title page they stressed the relationship between the Besht and R. Ya'akov Yosef. In the book itself they typographically highlighted all of the sayings that R. Ya'akov Yosef cited as his having heard directly from the Besht or in the holy man's name, and at the end of the book they appended an additional series of Besht sayings that they found among R. Yaakov Yosef's papers.  
-  
+Generally regarded as the first Hasidic book, _Toldot Ya'akov Yosef_ illustrates some of the features that typified Hasidic books. Common for these books, its genre was homiletics (_drash_), based on both the weekly Torah portion and the 613 commandments. While the origin of these _drashot_ was probably oral lessons given in Yiddish by Rabbi Ya'akov Yosef of Polonne, one of the chief disciple-associates of Israel Ba'al Shem Tov (Besht), the founder of Hasidism, the book (like most early Hasidic books) was written in Hebrew. Rabbi Ya'akov Yosef is credited as author, however a printer's note at the end of the book makes it clear that the book was compiled from various notes he had written. This and the problematic state of the text (the lack of proper introduction, material that appears to be out of order, repetitions, etc.) indicate that Rabbi Ya'akov Yosef, who was approaching his death at the time of publication, did not submit a publishable text to the printer. Rather it appears that his notes were edited by one or more of the publishers (_mevi'im le-veit ha-defus_): his son Avraham Shimshon of Rashkov, his son-in-law, Avraham Dov of Chmelnik, Shimon Ashkenazi and Shelomo Lutzker. In this way the editor or editors were actually coauthors of the text. This is usual with Hasidic books, where the named author rarely wrote a finished manuscript. Most of the time the published book appeared after the putative author's death and represented his miscellaneous writings or oral teachings as recorded or later recalled by his associates. This raw material was then edited into a book after his death, its message shaped by the editors.
+
+In the case of R. Ya'akov Yosef's books (there were four in all) the publisher-editors apparently wanted to emphasize to potential readers that reading these books would enable them to learn not only the teachings of R. Ya'akov Yosef, but also of the Besht himself. In a long note on the verso of the title page they stressed the relationship between the Besht and R. Ya'akov Yosef. In the book itself they typographically highlighted all of the sayings that R. Ya'akov Yosef cited as his having heard directly from the Besht or in the holy man's name, and at the end of the book they appended an additional series of Besht sayings that they found among R. Yaakov Yosef's papers.
+
 Pictured here is the first page of the text proper, after the introductory material or paratexts. Note how the traditions originating from the Besht begin with bold letters, five in all.
 
 ### American Rabbinic Imprints, 1881-1939: The Paratext as Social History
@@ -264,164 +265,165 @@ Moreover, American rabbis in their sermons and responsa, commentaries and polemi
 
 ## Selected Bibliography
 
-*   **Amnon Raz-Krokotzkin.** _Tsenzurah ke-gorem me’atsev: ha-tsenzurah ha-Katolit veha-sifrut ha-\`Ivrit ba-me\`ah ha-16_Yerushalayim : ha-Universitah ha-‘Ivrit, 1989
+*   **Amnon Raz-Krokotzkin.** _Tsenzurah ke-gorem me’atsev: ha-tsenzurah ha-Katolit veha-sifrut ha-\`Ivrit ba-me\`ah ha-16._ (Yerushalayim : ha-Universitah ha-‘Ivrit, 1989)
     
-*   **Avrin, Leila.** _Scribes, Script and Books: The Book Arts from Antiquity to the Renaissance_Chicago: American Library Association; London: The British Library, 1991 Esp. pp. 101-139, “The Hebrew Book”
+*   **Avrin, Leila.** _Scribes, Script and Books: The Book Arts from Antiquity to the Renaissance_. (Chicago: American Library Association; London: The British Library, 1991). (Esp. pp. 101-139, “The Hebrew Book”)
     
-*   **Bar Ilan, Meir.** Scribes and Books in the Late Second Commonwealth and Rabbinic Period Mikra: Text, Translation, Reading and Interpretation of the Hebrew Bible in Ancient Judaism and Early Christianity pp. 21-38 Philadelphia: Fortress Press; Assen/Maastricht: Van Gorcum, 1988
+*   **Bar Ilan, Meir.** "Scribes and Books in the Late Second Commonwealth and Rabbinic Period," in _Mikra: Text, Translation, Reading and Interpretation of the Hebrew Bible in Ancient Judaism and Early Christianity_, pp. 21-38 (Philadelphia: Fortress Press; Assen/Maastricht: Van Gorcum, 1988)
     
-*   **Baumgarten, Jean.** _Introduction to Old Yiddish Literature_Edited and translated by Jerold C. Frakes Oxford; New York: Oxford University Press, 2005
+*   **Baumgarten, Jean.** _Introduction to Old Yiddish Literature.,_ Edited and translated by Jerold C. Frakes (Oxford; New York: Oxford University Press, 2005)
     
-*   **Beit-Arie, Malachi.** _Hebrew Codicology: Tentative Typology of Technical Practices Employed in Hebrew Dated Medieval Manuscripts_Jerusalem: Israel Academy of Sciences and Humanities, 1981
+*   **Beit-Arie, Malachi.** _Hebrew Codicology: Tentative Typology of Technical Practices Employed in Hebrew Dated Medieval Manuscripts_. (Jerusalem: Israel Academy of Sciences and Humanities, 1981)
     
-*   **Beit-Arie, Malachi.** _Hebrew Manuscripts of East and West: Towards a Comparative Codicology_The Panizzi Lectures. London: The British Library, 1992
+*   **Beit-Arie, Malachi.** _Hebrew Manuscripts of East and West: Towards a Comparative Codicology_. (The Panizzi Lectures. London: The British Library, 1992)
     
-*   **Beit-Arie, Malachi.** How Hebrew Manuscripts are Made _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts_ pp. 35-46. Edited by Leonard Gold New York: New York Public Library; Oxford: Oxford University Press, 1988
+*   **Beit-Arie, Malachi.** "How Hebrew Manuscripts are Made," in _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts,_ pp. 35-46. Edited by Leonard Gold (New York: New York Public Library; Oxford: Oxford University Press, 1988)
     
 *   **Beit-Arie, Malachi.** _The Makings of the Medieval Hebrew Book: Studies in Palaeography and Codicology_Jerusalem: Magnes Press, Hebrew University, 1993
     
-*   **Beit-Arie, Malachi.** _Unveiled Faces of Medieval Hebrew Books: The Evolution of Manuscript Production--Progression or Regression_Jerusalem: Hebrew University Magnes Press, 2003
+*   **Beit-Arie, Malachi.** _Unveiled Faces of Medieval Hebrew Books: The Evolution of Manuscript Production--Progression or Regression_. (Jerusalem: Hebrew University Magnes Press, 2003)
     
-*   **Beit-Arie, Malachi, Colette Sirat, and Mordechai Glatzer, eds.** _Codices hebraicis litteris exarati quo tempore scripti fuerint exhibentes: Otsar ha-mitshafim ha-‘Ivriyim kitve-yad bi-khetav ‘Ivri mi-Yeme-ha-benayim be-tsiyune ta’arikh_Avec la collaboration de Tamar Leiter Turnhout, Bel.: Brepols; Paris: Institut de recherche et d'histoire des textes, CNRS; Jerusalem: Académie nationale des sciences et des lettres d'Israèl, 1999
+*   **Beit-Arie, Malachi, Colette Sirat, and Mordechai Glatzer, eds.** _Codices hebraicis litteris exarati quo tempore scripti fuerint exhibentes: Otsar ha-mitshafim ha-‘Ivriyim kitve-yad bi-khetav ‘Ivri mi-Yeme-ha-benayim be-tsiyune ta’arikh_., Avec la collaboration de Tamar Leiter (Turnhout, Bel.: Brepols; Paris: Institut de recherche et d'histoire des textes, CNRS; Jerusalem: Académie nationale des sciences et des lettres d'Israèl, 1999)
     
-*   **Beit-Arie, Malachi, Collette Sirat, and Mordechai Glatzer.** _Otsar Kitve-yad ‘Ivriyim mi-Yeme ha-Benayim: be-Tsiyune Ta’arikh ‘ad Shenat_Yerushalayim: ha-Akademyah ha-Le’umit ha-Yisra’elit le-Mada’im, 1972
+*   **Beit-Arie, Malachi, Collette Sirat, and Mordechai Glatzer.** _Otsar Kitve-yad ‘Ivriyim mi-Yeme ha-Benayim: be-Tsiyune Ta’arikh ‘ad Shenat_. (Yerushalayim: ha-Akademyah ha-Le’umit ha-Yisra’elit le-Mada’im, 1972)
     
-*   **Berger, Shlomo.** _Yidish veha-modernizatsyah ha-Yehudit ba-me’ah ha-shemoneh‘esreh_Ramat-Gan: Universitat Bar-Ilan, 766, 2006
+*   **Berger, Shlomo.** _Yidish veha-modernizatsyah ha-Yehudit ba-me’ah ha-shemoneh‘esreh_. (Ramat-Gan: Universitat Bar-Ilan, 766, 2006)
     
-*   **Blondheim, Menahem.** Divine comedy: the Jewish Orthodox sermon in America, 1881-1939 _Multilingual America: Transnationalism, Ethnicity, and the Languages of American Literature_ pp. 191-214. Edited by Werner Sollors New York: New York University Press, 1998
+*   **Blondheim, Menahem.** "Divine comedy: the Jewish Orthodox sermon in America, 1881-1939," in _Multilingual America: Transnationalism, Ethnicity, and the Languages of American Literature,_ pp. 191-214. Edited by Werner Sollors (New York: New York University Press, 1998)
     
-*   **Bregman, Marc.** Midrash Rabbah and the medieval collector mentality _Prooftexts_ Vol. 17, no.1 (1997): 63-76
+*   **Bregman, Marc.** "Midrash Rabbah and the medieval collector mentality," in _Prooftexts_ _Vol. 17, no.1 (1997): 63-76_
     
-*   **Chartier, Roger.** _Forms and Meanings: Texts, Performances, and Audiences from Codex to Computer_Philadelphia: University of Pennsylvania Press, 1995
+*   **Chartier, Roger.** _Forms and Meanings: Texts, Performances, and Audiences from Codex to Computer_. (Philadelphia: University of Pennsylvania Press, 1995)
     
-*   **Chartier, Roger.** _The Order of Books: Readers, Authors, and Libraries in Europe Between the Fourteenth an Eighteenth Centuries_Translated by Lydia G. Cochrane Stanford, CA.: Stanford University Press, 1994
+*   **Chartier, Roger.** _The Order of Books: Readers, Authors, and Libraries in Europe Between the Fourteenth an Eighteenth Centuries.,_ Translated by Lydia G. Cochrane (Stanford, CA.: Stanford University Press, 1994)
     
-*   **Cohen, Evelyn M.** The Decoration of Medieval Hebrew Manuscripts _A Sign and a Witness; 2,000 Years of Hebrew Books and Illuminated Manuscripts_ pp. 47-60. Edited by Leonard Singer Gold New York: New York Public Library and Oxford University Press, 1988
+*   **Cohen, Evelyn M.** "The Decoration of Medieval Hebrew Manuscripts," in _A Sign and a Witness; 2,000 Years of Hebrew Books and Illuminated Manuscripts,_ pp. 47-60. Edited by Leonard Singer Gold (New York: New York Public Library and Oxford University Press, 1988)
     
-*   **Cross, Jr., Frank Moore and David Noel Freedman.** _Early Hebrew Orthography: A Study of the Epigraphic Evidence_New Haven, CT.: American Oriental Society, 1952
+*   **Cross, Jr., Frank Moore and David Noel Freedman.** _Early Hebrew Orthography: A Study of the Epigraphic Evidence_. (New Haven, CT.: American Oriental Society, 1952)
     
-*   **Darnton, Robert.** What is the History of Books? _Daedalus_ Vol. 111, no. 3 (Summer 1982): 65-83
+*   **Darnton, Robert.** "What is the History of Books?," _Daedalus_ _Vol. 111, no. 3_ (Summer 1982): 65-83
     
-*   **Demsky, Aaron and Meir Bar Ilan.** Writing in Ancient Israel and Early Judaism _Mikra_... pp. 1-20
+*   **Demsky, Aaron and Meir Bar Ilan.** "Writing in Ancient Israel and Early Judaism," in _Mikra_..., pp. 1-20
     
-*   **Eisenstein, Elizabeth.** _The Printing Press as an Agent of Change_, 2 vols.Cambridge, UK: Cambridge University Press, 1979
+*   **Eisenstein, Elizabeth.** _The Printing Press as an Agent of Change_, _2 vols.._ (Cambridge, UK: Cambridge University Press, 1979)
     
-*   **Febvre, Lucien and Henri-Jean Martin.** _The Coming of the Book: The Impact of Printing, 1450-1800_Translated from the French by David Gerard London: Verso, 1997
+*   **Febvre, Lucien and Henri-Jean Martin.** _The Coming of the Book: The Impact of Printing, 1450-1800.,_ Translated from the French by David Gerard (London: Verso, 1997)
     
-*   **Finkelstein, David and Alistair McCleery.** _An Introduction to Book History_New York: Routledge, 2005
+*   **Finkelstein, David and Alistair McCleery.** _An Introduction to Book History_. (New York: Routledge, 2005)
     
-*   **Gaskell, Philip.** _A New Introduction to Bibliography_New York and Oxford University Press, 1972
+*   **Gaskell, Philip.** _A New Introduction to Bibliography_. (New York and Oxford University Press, 1972)
     
-*   **Gesenius, Wilhelm.** _Gesenius’ Hebrew Grammar_Edited by E. Kautzsch; Second English Edition by A. E. Cowley Oxford: Oxford University Press, 1985
+*   **Gesenius, Wilhelm.** _Gesenius’ Hebrew Grammar.,_ Edited by E. Kautzsch; Second English Edition by A. E. Cowley (Oxford: Oxford University Press, 1985)
     
-*   **Gold, Leonard, ed.** _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts_New York: New York Public Library; Oxford: Oxford University Press, 1988
+*   **Gold, Leonard, ed.** _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts_. (New York: New York Public Library; Oxford: Oxford University Press, 1988)
     
-*   **Grafton, Anthony, ed.** AHR Forum: 'How Revolutionary was the Print Revolution?' _American Historical Review_ Vol. 107, no. 1 (February 2002): 84-128
+*   **Grafton, Anthony, ed.** "AHR Forum: 'How Revolutionary was the Print Revolution?'," in _American Historical Review_ _Vol. 107, no. 1 (February 2002): 84-128_
     
-*   **Hacker, Joseph.** Introduction _The Alphabet of Ben Sira: Facsimile of the Constantinople 1519 Edition_ Verona: Valmadonna Trust Library, 1997
+*   **Hacker, Joseph.** "Introduction," in _The Alphabet of Ben Sira: Facsimile of the Constantinople 1519 Edition_ (Verona: Valmadonna Trust Library, 1997)
     
-*   **Hecker, Joel.** _Mystical bodies, mystical meals: eating and embodiment in medieval Kabbalah_Detroit: Wayne State University Press, 2005
+*   **Hecker, Joel.** _Mystical bodies, mystical meals: eating and embodiment in medieval Kabbalah_. (Detroit: Wayne State University Press, 2005)
     
-*   **Heller, Marvin J.** _The Sixteenth Century Hebrew Book: An Abridged Thesaurus_, 2 volsLeiden: E.J. Brill, 2004
+*   **Heller, Marvin J.** _The Sixteenth Century Hebrew Book: An Abridged Thesaurus_, 2 vols. (Leiden: E.J. Brill, 2004)
     
-*   **Hunter, Dard.** _Paper Making Through Eighteen Centuries_New York: William Edwin Rudge, 1930
+*   **Hunter, Dard.** _Paper Making Through Eighteen Centuries_. (New York: William Edwin Rudge, 1930)
     
-*   **Johns, Adrian.** _The Nature of the Book: Print and Knowledge in the Making_Chicago and London; University of Chicago Press, 1998
+*   **Johns, Adrian.** _The Nature of the Book: Print and Knowledge in the Making_. (Chicago and London; University of Chicago Press, 1998)
     
-*   **Lieberman, Saul.** Critical Marks. semeia kritika in the Hebrew Bible' and 'The Publication of the Mishnah _Hellenism in Jewish Palestine: Studies in the Literary Transmission, Beliefs and Manners of Palestine in the 1st Century B.C.E.-IV Century C.E_ pp. 38-99 and appendices New York: The Jewish Theological Seminary of America, 5711-1950
+*   **Lieberman, Saul.** "Critical Marks. semeia kritika in the Hebrew Bible' and 'The Publication of the Mishnah," in _Hellenism in Jewish Palestine: Studies in the Literary Transmission, Beliefs and Manners of Palestine in the 1st Century B.C.E.-IV Century C.E_ pp. 38-99 and appendices (New York: The Jewish Theological Seminary of America, 5711-1950)
     
 *   **Manguel, Alberto.** _A History of Reading_New York: Penguin, 1996
     
-*   **Martin, Henri-Jean.** _The History and Power of Writing_Translated from the French by Lydia G. Cochrane Chicago: University of Chicago Press, 1995
+*   **Martin, Henri-Jean.** _The History and Power of Writing.,_ Translated from the French by Lydia G. Cochrane (Chicago: University of Chicago Press, 1995)
     
-*   **Mintz, Sharon Liberman.** A Selected Bibliography of the Hebrew Book _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts_ pp. 177-197 New York: New York Public Library; Oxford: Oxford University Press, 1988
+*   **Mintz, Sharon Liberman.** "A Selected Bibliography of the Hebrew Book," in _A Sign and a Witness: 2,000 Years of Hebrew Books and Illuminated Manuscripts_ pp. 177-197 (New York: New York Public Library; Oxford: Oxford University Press, 1988)
     
-*   **Moreen, Vera.** _In Queen Esther's Garden: An Anthology of Judeo-Persian Literature_Translated and with an introduction and notes by Vera Basch Moreen New Haven: Yale University Press, 2000
+*   **Moreen, Vera.** _In Queen Esther's Garden: An Anthology of Judeo-Persian Literature.,_ Translated and with an introduction and notes by Vera Basch Moreen (New Haven: Yale University Press, 2000)
     
-*   **Pardee, Dennis, S. David Sperling, J. David Whitehead, and Paul E. Dion.** _A Handbook of Ancient Hebrew Letters_Chico, CA: The Society of Biblical Literature, 1982
+*   **Pardee, Dennis, S. David Sperling, J. David Whitehead, and Paul E. Dion.** _A Handbook of Ancient Hebrew Letters_. (Chico, CA: The Society of Biblical Literature, 1982)
     
-*   **Parush, Iris.** _Reading Jewish Women: Marginality and Modernization in Nineteenth-Century Eastern European Jewish Society_Translated from Hebrew by Saadya Sternberg Hanover, NH: Brandeis University Press; published by University Press of New England, 2004
+*   **Parush, Iris.** _Reading Jewish Women: Marginality and Modernization in Nineteenth-Century Eastern European Jewish Society.,_ Translated from Hebrew by Saadya Sternberg (Hanover, NH: Brandeis University Press; published by University Press of New England, 2004)
     
-*   **Pasternak, Nurit.** Hebrew Hand-Written Books as Testimonies to Christian-Jewish Contacts in Quattrocento Florence _L’Interculturalità dell’Ebraismo_ pp. 161-171. Edited by Mauro Perani Ravenna: Longo Editore, 2004
+*   **Pasternak, Nurit.** "Hebrew Hand-Written Books as Testimonies to Christian-Jewish Contacts in Quattrocento Florence," in _L’Interculturalità dell’Ebraismo_ pp. 161-171. Edited by Mauro Perani (Ravenna: Longo Editore, 2004)
     
-*   **Posner, Raphael and Israel Ta-Shema, eds.** _The Hebrew Book: An Historical Survey_Jerusalem: Keter Publishing House, 1975
+*   **Posner, Raphael and Israel Ta-Shema, eds.** _The Hebrew Book: An Historical Survey_. (Jerusalem: Keter Publishing House, 1975)
     
-*   **Pritchard, James B.** _The Ancient Near East: An Anthology of Texts and Pictures_Princeton: Princeton University Press, 1958
+*   **Pritchard, James B.** _The Ancient Near East: An Anthology of Texts and Pictures_. (Princeton: Princeton University Press, 1958)
     
-*   **Reed, R.** _Ancient Skins, Parchments and Leathers_London and New York: Seminar Press, 1972
+*   **Reed, R.** _Ancient Skins, Parchments and Leathers_. (London and New York: Seminar Press, 1972)
     
-*   **Reif, Stefan C.** _A Jewish Archive From Old Cairo: The History of Cambridge University’s Genizah Collection_Richmond, UK: Curzon Press, 2000
+*   **Reif, Stefan C.** _A Jewish Archive From Old Cairo: The History of Cambridge University’s Genizah Collection_. (Richmond, UK: Curzon Press, 2000)
     
-*   **Roberts, Colin H. and T.C. Skeat.** _The Birth of the Codex_London: Published for The British Academy by The Oxford University Press, 1987
+*   **Roberts, Colin H. and T.C. Skeat.** _The Birth of the Codex_. (London: Published for The British Academy by The Oxford University Press, 1987)
     
-*   **Rosman, Murray Jay.** _Founder of Hasidism: A Quest for the historical Ba’al Shem Tov_Berkeley, CA: University of California Press, 1996
+*   **Rosman, Murray Jay.** _Founder of Hasidism: A Quest for the historical Ba’al Shem Tov_. (Berkeley, CA: University of California Press, 1996)
     
 *   **de' Rossi, Azariah.** _The Light of the Eyes_Translated and annotated by Joanna Weinberg New Haven: Yale University Press, 2001
     
-*   **Rota, Anthony.** _Apart from the Text_New Castle, DE: Oak Knoll Press, 1998
+*   **Rota, Anthony.** _Apart from the Text_. (New Castle, DE: Oak Knoll Press, 1998)
     
-*   **Saenz-Badillos, Angel.** _A History of the Hebrew Language_Translated by John Elwolde Cambridge, UK: Cambridge University Press, 1993
+*   **Saenz-Badillos, Angel.** _A History of the Hebrew Language.,_ Translated by John Elwolde (Cambridge, UK: Cambridge University Press, 1993)
     
-*   **Sarna, Nahum M.** _Ancient Libraries and the Ordering of the Biblical Books: A Lecture Presented at the Library of Congress, March 6, 1989_Washington, D.C.: Library of Congress, 1989
+*   **Sarna, Nahum M.** _Ancient Libraries and the Ordering of the Biblical Books: A Lecture Presented at the Library of Congress, March 6, 1989_. (Washington, D.C.: Library of Congress, 1989)
     
-*   **Schmelzer, Menahem.** _Studies in Jewish Bibliography and Medieval Hebrew Poetry: Collected Essays_New York: Jewish Theological Seminary of America, 2006
+*   **Schmelzer, Menahem.** _Studies in Jewish Bibliography and Medieval Hebrew Poetry: Collected Essays_. (New York: Jewish Theological Seminary of America, 2006)
     
-*   **Siegmund, Stefanie B.** _The Medici State and the Ghetto of Florence: the Construction of an Early Modern Jewish Community_Stanford, CA: Stanford University Press, 2006
+*   **Siegmund, Stefanie B.** _The Medici State and the Ghetto of Florence: the Construction of an Early Modern Jewish Community_. (Stanford, CA: Stanford University Press, 2006)
     
-*   **Stallybrass, Peter.** Books and Scrolls: Navigating the Bible _Books and Readers in Early Modern England: Material Studies_ pp. 42-79. Edited Jennifer Andersen and Elizabeth Sauer Philadelphia: University of Pennsylvania Press, 2002
+*   **Stallybrass, Peter.** "Books and Scrolls: Navigating the Bible," in _Books and Readers in Early Modern England: Material Studies_ pp. 42-79. Edited Jennifer Andersen and Elizabeth Sauer (Philadelphia: University of Pennsylvania Press, 2002)
     
-*   **Stern, David, ed.** _The Anthology in Jewish Literature_Oxford; New York: Oxford University Press, 2004
+*   **Stern, David, ed.** _The Anthology in Jewish Literature_. (Oxford; New York: Oxford University Press, 2004)
     
-*   **Turniansky, Chava.** _Glikl: Zikhroynes (Memoires), 1691-1719_Edited and translated from the Yiddish by Chava Turniansky Jerusalem: The Zalman Shazar Center for Jewish History; The Ben-Zion Dinur Center for Research in Jewish History; the Hebrew University of Jerusalem, 2006
+*   **Turniansky, Chava.** _Glikl: Zikhroynes (Memoires), 1691-1719.,_ Edited and translated from the Yiddish by Chava Turniansky (Jerusalem: The Zalman Shazar Center for Jewish History; The Ben-Zion Dinur Center for Research in Jewish History; the Hebrew University of Jerusalem, 2006)
     
-*   **Turniansky, Chava.** _Yiddish in Italia: Yiddish manuscripts and printed books from the 15th to the 17th century_Chava Turniansky, Erika Timm; with the collaboration of Claudia Rosenzweig Milano: Associazione Italiana Amici dell' Universita di Gerusalemme, 2003
+*   **Turniansky, Chava.** _Yiddish in Italia: Yiddish manuscripts and printed books from the 15th to the 17th century.,_ Chava Turniansky, Erika Timm; with the collaboration of Claudia Rosenzweig (Milano: Associazione Italiana Amici dell' Universita di Gerusalemme, 2003)
     
-*   **Weinberg, Joanna.** _Azariah de' Rossi's Observations on the Syriac New Testament: A Critique of the Vulgate by a sixteenth-century Jew_London: Warburg Institute; Turin: Nino Aragno Editore, 2005
+*   **Weinberg, Joanna.** _Azariah de' Rossi's Observations on the Syriac New Testament: A Critique of the Vulgate by a sixteenth-century Jew_. (London: Warburg Institute; Turin: Nino Aragno Editore, 2005)
     
-*   **Yardeni, Ada.** _The Book of Hebrew Script: History, Paleography, Script Styles, Calligraphy and Design_London:The British Library; New Castle, DE: Oak Knoll Press, 2002
+*   **Yardeni, Ada.** _The Book of Hebrew Script: History, Paleography, Script Styles, Calligraphy and Design_. (London:The British Library; New Castle, DE: Oak Knoll Press, 2002)
     
-*   **Yerushalmi, Yosef H.** _Haggadah and History: Panorama in Facsimile of Five Centuries of the Printed Haggadah, from the Collections of Harvard University and the Jewish Theological Seminary of America_, 2nd edPhiladelphia: Jewish Publication Society of America, 2005
+*   **Yerushalmi, Yosef H.** _Haggadah and History: Panorama in Facsimile of Five Centuries of the Printed Haggadah, from the Collections of Harvard University and the Jewish Theological Seminary of America_, _2nd ed_. (Philadelphia: Jewish Publication Society of America, 2005)
     
 
 ## Contributors
 
-Michela Andreatta - Harvard University/CAJS 2006
-
-Jean Baumgarten - Ecole des Hautes Études en Sciences Sociales/CAJS 2006
-
-Malachi Beit-Arie - Hebrew University/CAJS 2006
-
-Shlomo Berger - University of Amsterdam/CAJS 2006
-
-Menahem Blondheim - Hebrew University/CAJS 2006
-
-Piet van Boxel - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
-
-Marc Bregman - University of North Carolina at Greensboro/CAJS 2006
-
-Francesca Bregoli - University of Pennsylvania/CAJS 2006
-
-Naomi Feuchtwanger-Sarig - University of Pennsylvania/CAJS 2006
-
-Federica Francesconi - University of Haifa/CAJS 2006
-
-Joel Hecker - Reconstructionist Rabbinical College/CAJS 2006
-
-Seth Jerchower - University of Pennsylvania Library
-
-Vera Moreen - University of Pennsylvania/CAJS 2006
-
-Nurit Pasternak - Hebrew University/CAJS 2006
-
-Moshe Rosman - Bar-Ilan University/CAJS 2006
-
-Adam Shear - University of Pittsburgh/CAJS 2006
-
-David Stern - University of Pennsylvania/CAJS 2006
-
-Chava Turniansky - Hebrew University/CAJS 2006
-
-Joanna Weinberg - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+*   Michela Andreatta - Harvard University/CAJS 2006
+    
+*   Jean Baumgarten - Ecole des Hautes Études en Sciences Sociales/CAJS 2006
+    
+*   Malachi Beit-Arie - Hebrew University/CAJS 2006
+    
+*   Shlomo Berger - University of Amsterdam/CAJS 2006
+    
+*   Menahem Blondheim - Hebrew University/CAJS 2006
+    
+*   Piet van Boxel - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+    
+*   Marc Bregman - University of North Carolina at Greensboro/CAJS 2006
+    
+*   Francesca Bregoli - University of Pennsylvania/CAJS 2006
+    
+*   Naomi Feuchtwanger-Sarig - University of Pennsylvania/CAJS 2006
+    
+*   Federica Francesconi - University of Haifa/CAJS 2006
+    
+*   Joel Hecker - Reconstructionist Rabbinical College/CAJS 2006
+    
+*   Seth Jerchower - University of Pennsylvania Library
+    
+*   Vera Moreen - University of Pennsylvania/CAJS 2006
+    
+*   Nurit Pasternak - Hebrew University/CAJS 2006
+    
+*   Moshe Rosman - Bar-Ilan University/CAJS 2006
+    
+*   Adam Shear - University of Pittsburgh/CAJS 2006
+    
+*   David Stern - University of Pennsylvania/CAJS 2006
+    
+*   Chava Turniansky - Hebrew University/CAJS 2006
+    
+*   Joanna Weinberg - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
+    
 
 **Special Thanks**
 

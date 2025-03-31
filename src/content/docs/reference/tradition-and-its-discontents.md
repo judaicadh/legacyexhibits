@@ -10,7 +10,8 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2002-2003 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg"
+    file:
+      - ../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
     alt: Tradition and Its Discontents
 slug: tradition-and-its-discontents
 tableOfContents:
@@ -271,11 +272,7 @@ The proclamation in bold type at the end of this essay reads:
 
 The first volume of the Goldene Keyt, constituting no less than 240 pages held true to its aims. Here we may find, inter alia: previously unpublished Yiddish texts of Bialik; a Yiddish translation of a poem by Tshernikhovsky by Aaron Tseitlin; a children's play by Sholem Aleichem published for the first time; an essay by Berl Shtok (later Dov Sadan) on Agnon; a poem by Melekh Ravitsch "With a Diary from the Warsaw Ghetto"; an essay "The Yiddish and the Hebrew Folksong"; a poem "The Ethical Will of Nissim Laniado, by Avrom Sutzkever; translations to Yiddish of poems of Natan Alterman.
 
-<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley1.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley2.jpg" alt="" width="1800" height="2588">
-
-<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley3.jpg" alt="" width="1800" height="2588">
+<img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley1.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley2.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley3.jpg" alt="" width="1800" height="2588">
 
 ![](../../../assets/tradition/moseley2.jpg)
 
@@ -283,141 +280,141 @@ The first volume of the Goldene Keyt, constituting no less than 240 pages held t
 
 ## Selected Bibliography
 
-*   Assaf, Simha Lekorot harabanut be-Ashkenaz, Polania ve-Lita Reshumot 2 (1922): 5-46
+*   **Assaf, Simha. "**Lekorot harabanut be-Ashkenaz, Polania ve-Lita," in _Reshumot 2_ (1922): 5-46
     
-*   An-Ski, S The Dybbuk and Other Writings Edited and with an introduction by David G. Roskies; with translations by Golda Werman New York: Schocken Books, 1992
+*   **An-Ski, S.** _The Dybbuk and Other Writings.,_ Edited and with an introduction by David G. Roskies; with translations by Golda Werman (New York: Schocken Books, 1992)
     
-*   Babel', I. (Isaak) 1920 Diary Edited and with an introduction and notes by Carol J. Avins; translated by H.T. Willetts New Haven: Yale University Press, 1995
+*   **Babel', I. (Isaak).** _1920 Diary.,_ Edited and with an introduction and notes by Carol J. Avins; translated by H.T. Willetts (New Haven: Yale University Press, 1995)
     
-*   Bacon, Gershon C The politics of tradition: Agudat Yisrael in Poland, 1916-1939 Studies of the Center for Research on the History and Culture of Polish Jews, the Hebrew University of Jerusalem Jerusalem: Magnes Press, Hebrew University, 1996
+*   **Bacon, Gershon C.** _The politics of tradition: Agudat Yisrael in Poland, 1916-1939.,_ Studies of the Center for Research on the History and Culture of Polish Jews, the Hebrew University of Jerusalem (Jerusalem: Magnes Press, Hebrew University, 1996)
     
-*   Balaban, Majer Le-toldot ha-tenu\`ah ha-Frankit Tel-Aviv: Dvir, 1934-35
+*   **Balaban, Majer.** _Le-toldot ha-tenu\`ah ha-Frankit_. (Tel-Aviv: Dvir, 1934-35)
     
-*   Balin, Carole B To reveal our hearts: Jewish women writers in Tsarist Russia Monographs of the Hebrew Union College; no. 24 Cincinnati: Hebrew Union College Press; Detroit, MI: Distributed by Wayne State University Press, 2000
+*   **Balin, Carole B.** T_o reveal our hearts: Jewish women writers in Tsarist Russia.,_ Monographs of the Hebrew Union College; no. 24 (Cincinnati: Hebrew Union College Press; Detroit, MI: Distributed by Wayne State University Press, 2000)
     
-*   Bar-Yosef, Hamutal Magaʻim shel deḳadens: Byaliḳ, Berdits'evski, Brener Israel: Hotsaʾat ha-sefarim shel Universitat Ben-Guryon Ba-Negev, c1997
+*   **Bar-Yosef, Hamutal.** _Magaʻim shel deḳadens: Byaliḳ, Berdits'evski, Brener_. (Israel: Hotsaʾat ha-sefarim shel Universitat Ben-Guryon Ba-Negev, c1997)
     
-*   Barnay, Y Shabta'ut: hebetim hevratiyim Yerushalayim: Merkaz Zalman Shazar le-toldot Yi´sra'el, 2000
+*   **Barnay, Y.** _Shabta'ut: hebetim hevratiyim_. (Yerushalayim: Merkaz Zalman Shazar le-toldot Yi´sra'el, 2000)
     
-*   Bartal, Yi´sra'el Me-"umah" li-"le'om": Yehude Mizrah-Eropah, 1772-1881 Israel: Miśrad ha-biṭaḥon, ha-hotsaʾah le-or, 2002
+*   **Bartal, Yi´sra'el.** _Me-"umah" li-"le'om": Yehude Mizrah-Eropah, 1772-1881_. (Israel: Miśrad ha-biṭaḥon, ha-hotsaʾah le-or, 2002)
     
-*   Bartal, Yi´sra'el, ed Focusing on Galicia: Jews, Poles, and Ukrainians, 1772-1918 Edited by Israel Bartal and Antony Polonsky London; Portland, Or.: Littman Library of Jewish Civilization, 1999
+*   **Bartal, Yi´sra'el, ed.** _Focusing on Galicia: Jews, Poles, and Ukrainians, 1772-1918.,_ Edited by Israel Bartal and Antony Polonsky (London; Portland, Or.: Littman Library of Jewish Civilization, 1999)
     
-*   Bartal, Yi´sra'el, ed Ke-minhag Ashkenaz ve-Polin: sefer yovel le-Hana Shmeruk: kovets mehkarim be-tarbut Yehudit (Studies in Jewish culture in honour of Chone Shmeruk) Yerushalayim: Merkaz Zalman Shazar le-Toldot Yi´sra'el, 1993
+*   **Bartal, Yi´sra'el, ed.** _Ke-minhag Ashkenaz ve-Polin: sefer yovel le-Hana Shmeruk: kovets mehkarim be-tarbut Yehudit (Studies in Jewish culture in honour of Chone Shmeruk)_. (Yerushalayim: Merkaz Zalman Shazar le-Toldot Yi´sra'el, 1993)
     
-*   Bartal, Yi´sra'el, ed Kiyum va-shever: Yehude Polin le-dorotehem Yerushalayim: Merkaz Zalman Shazar le-toldot Yi´sra'el, 1997
+*   **Bartal, Yi´sra'el, ed.** _Kiyum va-shever: Yehude Polin le-dorotehem_. (Yerushalayim: Merkaz Zalman Shazar le-toldot Yi´sra'el, 1997)
     
-*   Bartal, Yi´sra'el, ed Le-zikhro shel Hone Shmeruk: devarim she-ne'emeru bi-melot sheloshim le-moto Yerushalayim: Ha-akademyah ha-le'umit ha-Yi´sre'elit le-mada\`im, 758 \[1998\]
+*   **Bartal, Yi´sra'el, ed.** _Le-zikhro shel Hone Shmeruk: devarim she-ne'emeru bi-melot sheloshim le-moto_. (Yerushalayim: Ha-akademyah ha-le'umit ha-Yi´sre'elit le-mada\`im, 758 \[1998\])
     
-*   Bartal, Yi´sra'el, ed Poles, Jews, Socialist: the Failure of an Ideal Edited by Antony Polonsky, Israel Bartal, Gershon Hundert, Magdalena Opalski and Jerzy Tomaszewski London: Littman Library of Jewish Civilization, 1996; London: Littman Library of Jewish Civilization, 1996
+*   **Bartal, Yi´sra'el, ed.** _Poles, Jews, Socialist: the Failure of an Ideal.,_ Edited by Antony Polonsky, Israel Bartal, Gershon Hundert, Magdalena Opalski and Jerzy Tomaszewski (London: Littman Library of Jewish Civilization, 1996; London: Littman Library of Jewish Civilization, 1996)
     
-*   Bartal, Yi´sra'el, ed Tsadiḳim ṿe-anshe maʻaśeh: meḥḳarim ba-Ḥasidut Polin Yerushalayim: Mosad Byaliḳ: ha-Merkaz le-ḥeḳer toldot Yehude Polin ṿe-tarbutam, ha-Universiṭah ha-ʻIvrit bi-Yerushalayim, 1994
+*   **Bartal, Yi´sra'el, ed.** _Tsadiḳim ṿe-anshe maʻaśeh: meḥḳarim ba-Ḥasidut Polin_. (Yerushalayim: Mosad Byaliḳ: ha-Merkaz le-ḥeḳer toldot Yehude Polin ṿe-tarbutam, ha-Universiṭah ha-ʻIvrit bi-Yerushalayim, 1994)
     
-*   Bartal, Yi´sra'el and Magdalena Opalski Poles and Jews: a Failed Brotherhood The Tauber Institute for the Study of European Jewry series; 13 Hanover: University Press of New England, 1992
+*   **Bartal, Yi´sra'el and Magdalena Opalski.** _Poles and Jews: a Failed Brotherhood.,_ The Tauber Institute for the Study of European Jewry series; 13 (Hanover: University Press of New England, 1992)
     
-*   Ben-Amos, Dan ed In praise of the Baal Shem Tov (Shivhe ha-Besht), the earliest collection of legends about the founder of Hasidism Translated and edited by Dan Ben-Amos and Jerome R. Mintz Northvale, N.J.: Jason Aronson, 1993
+*   **Ben-Amos, Dan ed.** _In praise of the Baal Shem Tov (Shivhe ha-Besht), the earliest collection of legends about the founder of Hasidism.,_ Translated and edited by Dan Ben-Amos and Jerome R. Mintz (Northvale, N.J.: Jason Aronson, 1993)
     
-*   Council of Four Lands Pinḳas ṿaʻad arbaʻ aratsot: liḳuṭe taḳanot, ketavim u-reshumot Yerushalayim : Mosad Byaliḳ, 750 \[1990\]
+*   **Council of Four Lands.** _Pinḳas ṿaʻad arbaʻ aratsot: liḳuṭe taḳanot, ketavim u-reshumot_. (Yerushalayim : Mosad Byaliḳ, 750 \[1990\])
     
-*   Deich, G. M and Ben Nathans Arkhivnye dokumenty po istorii evreev v Rossii v XIX-nachale XX vv Moskva: Izd-vo "Blagovest"; Pittsburgh, PA: Distributed exclusively by the Russian Publications Project, Center for Russian and East European Studies, University of Pittsburgh, 1994
+*   **Deich, G. M and Ben Nathans.** _Arkhivnye dokumenty po istorii evreev v Rossii v XIX-nachale XX vv_. (Moskva: Izd-vo "Blagovest"; Pittsburgh, PA: Distributed exclusively by the Russian Publications Project, Center for Russian and East European Studies, University of Pittsburgh, 1994)
     
-*   Engel, David Facing a holocaust: the Polish Government-in-Exile and the Jews, 1943-1945 Chapel Hill: University of North Carolina Press, 1993
+*   **Engel, David.** _Facing a holocaust: the Polish Government-in-Exile and the Jews, 1943-1945_. (Chapel Hill: University of North Carolina Press, 1993)
     
-*   Engel, David The Holocaust: the Third Reich and the Jews Harlow, England; New York : Longman, 2000
+*   **Engel, David.** _The Holocaust: the Third Reich and the Jews_. (Harlow, England; New York : Longman, 2000)
     
-*   Frankel, Jonathan The Damascus Affair: "Ritual Murder," Politics, and the Jews in 1840 Cambridge, UK; New York: Cambridge University Press, 1997
+*   **Frankel, Jonathan.** _The Damascus Affair: "Ritual Murder," Politics, and the Jews in 1840_. (Cambridge, UK; New York: Cambridge University Press, 1997)
     
-*   Frankel, Jonathan Jewish politics and the Russian Revolution of 1905 Spiegel lectures in European Jewish history; 4 Tel-Aviv: Tel Aviv University, 1982
+*   **Frankel, Jonathan.** _Jewish politics and the Russian Revolution of 1905.,_ Spiegel lectures in European Jewish history; 4 (Tel-Aviv: Tel Aviv University, 1982)
     
-*   Frankel, Jonathan Prophecy and Politics: Socialism, Nationalism, and the Russian Jews, 1862-1917 Cambridge, UK; New York: Cambridge University Press, 1981
+*   **Frankel, Jonathan.** _Prophecy and Politics: Socialism, Nationalism, and the Russian Jews, 1862-1917_. (Cambridge, UK; New York: Cambridge University Press, 1981)
     
-*   Frankel, Jonathan, Edith Rogovin Frankel and Baruch Knei-Paz, eds Revolution in Russia : Reassessments of 1917 Cambridge, UK; New York: Cambridge University Press, 1992
+*   **Frankel, Jonathan, Edith Rogovin Frankel and Baruch Knei-Paz, eds.** _Revolution in Russia : Reassessments of 1917_. (Cambridge, UK; New York: Cambridge University Press, 1992)
     
-*   Goldberg, Jacob Jewish Privileges in the Polish Commonwealth: Charters of Rights Granted to Jewish Communities in Poland-Lithuania in the Sixteenth to Eighteenth Centuries : Critical Edition of Original Latin and Polish Documents with English Introductions and Notes Jerusalem: Israel Academy of Sciences and Humanities, 1985
+*   **Goldberg, Jacob.** _Jewish Privileges in the Polish Commonwealth: Charters of Rights Granted to Jewish Communities in Poland-Lithuania in the Sixteenth to Eighteenth Centuries : Critical Edition of Original Latin and Polish Documents with English Introductions and Notes_. (Jerusalem: Israel Academy of Sciences and Humanities, 1985)
     
-*   Gitelman, Zvi Y, Musya Glants and Marshall I. Goldman, eds Jewish life after the USSR Bloomington: Indiana University Press, 2003
+*   **Gitelman, Zvi Y, Musya Glants and Marshall I. Goldman, eds.** _Jewish life after the USSR_. (Bloomington: Indiana University Press, 2003)
     
-*   Guesnet, Francois Polnische Juden im 19. Jahrhundert: Lebensbedingungen, Rechtsnormen und Organisation im Wandel Lebenswelten osteuropäischer Juden; Bd. 3 Köln: Böhlau, 1998
+*   **Guesnet, Francois.** _Polnische Juden im 19. Jahrhundert: Lebensbedingungen, Rechtsnormen und Organisation im Wandel.,_ Lebenswelten osteuropäischer Juden; Bd. 3 (Köln: Böhlau, 1998)
     
-*   Hellerstein, Kathryn, ed Paper Bridges: Selected Poems of Kadya Molodowsky Detroit: Wayne State University Press, 1999
+*   **Hellerstein, Kathryn, ed.** _Paper Bridges: Selected Poems of Kadya Molodowsky_. (Detroit: Wayne State University Press, 1999)
     
-*   Hundert, Gershon David, ed Essential Papers on Hasidism: Origins to Present Essential Papers on Jewish Studies New York: New York University Press, 1991
+*   **Hundert, Gershon David, ed.** _Essential Papers on Hasidism: Origins to Present.,_ Essential Papers on Jewish Studies (New York: New York University Press, 1991)
     
-*   Hundert, Gershon David The Jews in a Polish Private Town: the Case of Opatów in the Eighteenth Century Johns Hopkins Jewish Studies Baltimore: Johns Hopkins University Press, 1992
+*   **Hundert, Gershon David.** _The Jews in a Polish Private Town: the Case of Opatów in the Eighteenth Century_. Johns Hopkins Jewish Studies (Baltimore: Johns Hopkins University Press, 1992)
     
-*   Hundert, Gershon David New Perspectives on the Beginnings of Hasidism Occasional Papers in Jewish History and Thought (Hunter College. Jewish Social Studies Program); no. 17 New York: Hunter College of the City University of New York, 2002
+*   **Hundert, Gershon David.** _New Perspectives on the Beginnings of Hasidism.,_ Occasional Papers in Jewish History and Thought (Hunter College. Jewish Social Studies Program); no. 17 (New York: Hunter College of the City University of New York, 2002)
     
-*   Hundert, Gershon David and Gershon C. Bacon The Jews in Poland and Russia: Bibliographical Essays Bloomington: Indiana University Press, 1984
+*   **Hundert, Gershon David and Gershon C. Bacon.** _The Jews in Poland and Russia: Bibliographical Essays_. (Bloomington: Indiana University Press, 1984)
     
-*   Kassow, Samuel D Students, Professors, and the State in Tsarist Russia Studies on the History of Society and Culture Berkeley: University of California Press, 1989
+*   **Kassow, Samuel D.** _Students, Professors, and the State in Tsarist Russia.,_ Studies on the History of Society and Culture (Berkeley: University of California Press, 1989)
     
-*   Kassow, Samuel D., Edith W. Clowes and James L. West, eds Between Tsar and People : Educated Society and the Quest for Public Identity in Late Imperial Russia Princeton, N.J. : Princeton University Press, 1991
+*   **Kassow, Samuel D., Edith W. Clowes and James L. West, eds.** _Between Tsar and People : Educated Society and the Quest for Public Identity in Late Imperial Russia_. (Princeton, N.J. : Princeton University Press, 1991)
     
-*   Katz, Jacob Tradition and Crisis: Jewish Society at the End of the Middle Ages Translated by Bernard Dov Cooperman Syracuse, NY : Syracuse University Press, 2000
+*   **Katz, Jacob.** _Tradition and Crisis: Jewish Society at the End of the Middle Ages.,_ Translated by Bernard Dov Cooperman (Syracuse, NY : Syracuse University Press, 2000)
     
-*   Kieval, Hillel J Languages of Community: the Jewish Experience in the Czech Lands Berkeley: University of California Press, 2000
+*   **Kieval, Hillel J.** _Languages of Community: the Jewish Experience in the Czech Lands_. (Berkeley: University of California Press, 2000)
     
-*   Klier, John D Imperial Russia’s Jewish Question, 1855-1881 Cambridge, UK: Cambridge University Press, 1996
+*   **Klier, John D.** _Imperial Russia’s Jewish Question, 1855-1881_. (Cambridge, UK: Cambridge University Press, 1996)
     
-*   Klier, John D The Russian Press and the Anti-Jewish Pogroms of 1881 Canadian-American Slavic Studies, XVII, 1(1983):199-221
+*   **Klier, John D. "**The Russian Press and the Anti-Jewish Pogroms of 1881," in _Canadian-American Slavic Studies_, _XVII, 1(1983):199-221_
     
-*   Korn, Rokhl Paper Roses: Selected Poems of Rokhl Korn Translated by Seymour Levitan Toronto: Aya Press, 1985
+*   **Korn, Rokhl.** _Paper Roses: Selected Poems of Rokhl Korn.,_ Translated by Seymour Levitan (Toronto: Aya Press, 1985)
     
-*   Kugelmass, Jack and Jonathan Boyarin, eds From a Ruined Garden: the Memorial Books of Polish Jewry Bloomington: Indiana University Press, 1998
+*   **Kugelmass, Jack and Jonathan Boyarin, eds.** _From a Ruined Garden: the Memorial Books of Polish Jewry_. (Bloomington: Indiana University Press, 1998)
     
-*   Mintz, Alan L Hurban: Responses to Catastrophe in Hebrew Literature Judaic Traditions in Literature, Music, and Art Syracuse, N.Y.: Syracuse University Press, 1996
+*   **Mintz, Alan L.** _Hurban: Responses to Catastrophe in Hebrew Literature.,_ Judaic Traditions in Literature, Music, and Art (Syracuse, N.Y.: Syracuse University Press, 1996)
     
-*   Miron, Dan The Image of the Shtetl and Other Studies of Modern Jewish Literary Imagination Judaic Traditions in Literature, Music, and Art Syracuse, N.Y.: Syracuse University Press, 2000
+*   **Miron, Dan.** _The Image of the Shtetl and Other Studies of Modern Jewish Literary Imagination.,_ Judaic Traditions in Literature, Music, and Art (Syracuse, N.Y.: Syracuse University Press, 2000)
     
-*   Miron, Dan and Ken Frieden, eds Tales of Mendele the Book Peddler: Fishke the Lame and Benjamin the Third New York: Schocken Books, 1996
+*   **Miron, Dan and Ken Frieden, eds.** _Tales of Mendele the Book Peddler: Fishke the Lame and Benjamin the Third_. (New York: Schocken Books, 1996)
     
-*   Miron, Dan A Traveler Disguised; a Study in the Rise of Modern Yiddish Fiction in the Nineteenth Century New York: Schocken Books, 1973
+*   **Miron, Dan.** _A Traveler Disguised; a Study in the Rise of Modern Yiddish Fiction in the Nineteenth Century_. (New York: Schocken Books, 1973)
     
-*   Nathans, Benjamin Beyond the Pale: the Jewish Encounter with Late Imperial Russia Studies on the history of society and culture; 45; The S. Mark Taper Foundation Imprint in Jewish Studies Berkeley: University of California Press, 2002
+*   **Nathans, Benjamin.** _Beyond the Pale: the Jewish Encounter with Late Imperial Russia.,_ Studies on the history of society and culture; 45; The S. Mark Taper Foundation Imprint in Jewish Studies (Berkeley: University of California Press, 2002)
     
-*   Peretz, Isaac Leib The I. L. Peretz Reader Edited by Ruth R. Wisse New Haven: Yale University Press, 2002
+*   **Peretz, Isaac Leib.** _The I. L. Peretz Reader.,_ Edited by Ruth R. Wisse (New Haven: Yale University Press, 2002)
     
-*   Rapoport-Albert, Ada, ed Hasidism Reappraised: Proceedings of the International Conference of the Institute of Jewish Studies in memory of Joseph G. Weiss, University College London, 21-23 June 1988 London; Portland, Or.: Vallentine Mitchell, 1996
+*   **Rapoport-Albert, Ada, ed.** _Hasidism Reappraised: Proceedings of the International Conference of the Institute of Jewish Studies in memory of Joseph G. Weiss, University College London, 21-23 June 1988_. (London; Portland, Or.: Vallentine Mitchell, 1996)
     
-*   Rapoport-Albert, Ada and Steven J. Zipperstein, eds Jewish History : Essays in Honour of Chimen Abramsky London: P. Halban, 1988
+*   **Rapoport-Albert, Ada and Steven J. Zipperstein, eds.** _Jewish History : Essays in Honour of Chimen Abramsky_. (London: P. Halban, 1988)
     
-*   Rosaldo, Michelle Zimbalist Women, Culture and Society: A Theoretical Overview Woman, culture, and society Edited by Michelle Zimbalist Rosaldo and Louise Lamphere Stanford, Calif.: Stanford University Press, 1974
+*   **Rosaldo, Michelle Zimbalist.** _Women, Culture and Society: A Theoretical Overview Woman, culture, and society.,_ Edited by Michelle Zimbalist Rosaldo and Louise Lamphere (Stanford, Calif.: Stanford University Press, 1974)
     
-*   Roskies, David G Against the Apocalypse: Responses to Catastrophe in Modern Jewish Culture Judaic Traditions in Literature, Music, and Art Syracuse, N.Y.: Syracuse University Press, 1999
+*   **Roskies, David G.** _Against the Apocalypse: Responses to Catastrophe in Modern Jewish Culture.,_ Judaic Traditions in Literature, Music, and Art (Syracuse, N.Y.: Syracuse University Press, 1999)
     
-*   Roskies, David G A Bridge of Longing: the Lost Art of Yiddish Storytelling Cambridge, Mass.: Harvard University Press, 1995
+*   **Roskies, David G.** _A Bridge of Longing: the Lost Art of Yiddish Storytelling_. (Cambridge, Mass.: Harvard University Press, 1995)
     
-*   Roskies, David G. and Diane K. Roshkies, eds The Shtetl Book New York: Ktav Pub. House, 1975
+*   **Roskies, David G. and Diane K. Roshkies, eds.** _The Shtetl Book_. (New York: Ktav Pub. House, 1975)
     
-*   Rosman, Moshe Founder of Hasidism: a Quest for the Historical Ba'al Shem Tov Contraversions; 5 Berkeley: University of California Press, 1996
+*   **Rosman, Moshe.** _Founder of Hasidism: a Quest for the Historical Ba'al Shem Tov.,_ Contraversions; 5 (Berkeley: University of California Press, 1996)
     
-*   Rosman, Moshe The Lords' Jews: Magnate-Jewish Relations in the Polish-Lithuanian Commonwealth during the Eighteenth Century Center for Jewish Studies, Harvard Judaic Texts and Studies; 7; Harvard Ukrainian Research Institute, Monograph Series Cambridge, Mass.: Harvard University Press for the Center for Jewish Studies, Harvard University and the Harvard Ukrainian Research Institute, 1990
+*   **Rosman, Moshe.** _The Lords' Jews: Magnate-Jewish Relations in the Polish-Lithuanian Commonwealth during the Eighteenth Century.,_ Center for Jewish Studies, Harvard Judaic Texts and Studies; 7; Harvard Ukrainian Research Institute, Monograph Series (Cambridge, Mass.: Harvard University Press for the Center for Jewish Studies, Harvard University and the Harvard Ukrainian Research Institute, 1990)
     
-*   Safran, Gabriella Rewriting the Jew: Assimilation Narratives in the Russian Empire Contraversions: Jews and Other Differences Stanford, Calif.: Stanford University Press, 2000
+*   **Safran, Gabriella.** _Rewriting the Jew: Assimilation Narratives in the Russian Empire.,_ Contraversions: Jews and Other Differences (Stanford, Calif.: Stanford University Press, 2000)
     
-*   Shandler, Jeffrey, ed Awakening Lives: Autobiographies of Jewish Youth in Poland before the Holocaust New Haven: Yale University Press, 2002
+*   **Shandler, Jeffrey, ed.** _Awakening Lives: Autobiographies of Jewish Youth in Poland before the Holocaust_. (New Haven: Yale University Press, 2002)
     
-*   Shapiro, Robert Moses, ed Holocaust Chronicles: Individualizing the Holocaust through Diaries and Other Contemporaneous Personal Accounts Hoboken, NJ: Ktav, 1999
+*   **Shapiro, Robert Moses, ed.** _Holocaust Chronicles: Individualizing the Holocaust through Diaries and Other Contemporaneous Personal Accounts_. (Hoboken, NJ: Ktav, 1999)
     
-*   Slezkine, Yuri and Sheila Fitzpatrick, eds In the Shadow of Revolution: Life Stories of Russian Women from 1917 to the Second World War Princeton, NJ: Princeton University Press, 2000
+*   **Slezkine, Yuri and Sheila Fitzpatrick, eds.** _In the Shadow of Revolution: Life Stories of Russian Women from 1917 to the Second World War_. (Princeton, NJ: Princeton University Press, 2000)
     
-*   Stanislawski, Michael For Whom do I Toil?: Judah Leib Gordon and the Crisis of Russian Jewry Studies in Jewish History New York: Oxford University Press, 1988
+*   **Stanislawski, Michael.** _For Whom do I Toil?: Judah Leib Gordon and the Crisis of Russian Jewry.,_ Studies in Jewish History (New York: Oxford University Press, 1988)
     
-*   Stanislawski, Michael Tsar Nicholas I and the Jews: the Transformation of Jewish Society in Russia, 1825-1855 Philadelphia: Jewish Publication Society of America, 1983
+*   **Stanislawski, Michael.** _Tsar Nicholas I and the Jews: the Transformation of Jewish Society in Russia, 1825-1855_. (Philadelphia: Jewish Publication Society of America, 1983)
     
-*   Steinlauf, Michael Bondage to the Dead: Poland and the Memory of the Holocaust Syracuse, N.Y.: Syracuse University Press, 1997
+*   **Steinlauf, Michael.** _Bondage to the Dead: Poland and the Memory of the Holocaust_. (Syracuse, N.Y.: Syracuse University Press, 1997)
     
-*   Teller, Adam The Laicization of Early Modern Jewish Society: The Development of the Polish Communal Rabbinate in the 16th Century Schöpferische Momente des europäischen Judentums in der frühen Neuzeit Edited by Michael Graetz Heidelberg: C. Winter, 2000
+*   **Teller, Adam. "**The Laicization of Early Modern Jewish Society: The Development of the Polish Communal Rabbinate in the 16th Century," in _Schöpferische Momente des europäischen Judentums in der frühen Neuzeit,_ Edited by Michael Graetz (Heidelberg: C. Winter, 2000)
     
-*   Teller, Adam, ed Studies in the History of the Jews in Old Poland: in Honor of Jacob Goldberg Scripta Hierosolymitana; v. 38 Jerusalem: Magnes Press, Hebrew University: Center for Research on the History and Culture of Polish Jews, 1998
+*   **Teller, Adam, ed.** _Studies in the History of the Jews in Old Poland: in Honor of Jacob Goldberg.,_ Scripta Hierosolymitana; v. 38 (Jerusalem: Magnes Press, Hebrew University: Center for Research on the History and Culture of Polish Jews, 1998)
     
-*   Tussman, Malka Heifetz With Teeth in the Earth: Selected Poems of Malka Heifetz Tussman Translated by Marcia Falk Detroit: Wayne State University Press, 1992
+*   **Tussman, Malka Heifetz.** _With Teeth in the Earth: Selected Poems of Malka Heifetz Tussman.,_ Translated by Marcia Falk (Detroit: Wayne State University Press, 1992)
     
-*   Zimmerman, Joshua D., ed Contested Memories: Poles and Jews during the Holocaust and its Aftermath New Brunswick, N.J.: Rutgers University Press, 2003
+*   **Zimmerman, Joshua D., ed.** _Contested Memories: Poles and Jews during the Holocaust and its Aftermath_. (New Brunswick, N.J.: Rutgers University Press, 2003)
     
-*   Zipperstein, Steven J Imagining Russian Jewry: Memory, History, Identity Samuel and Althea Stroum lectures in Jewish studies Seattle: University of Washington Press, 1999
+*   **Zipperstein, Steven J.** _Imagining Russian Jewry: Memory, History, Identity_ Samuel and Althea Stroum lectures in Jewish studies (Seattle: University of Washington Press, 1999)
     
-*   Zipperstein, Steven J The Jews of Odessa: a Cultural History, 1794-1881 Stanford, Calif.: Stanford University Press, 1985
+*   **Zipperstein, Steven J.** _The Jews of Odessa: a Cultural History, 1794-1881_. (Stanford, Calif.: Stanford University Press, 1985)
     
 
 ## Contributors
