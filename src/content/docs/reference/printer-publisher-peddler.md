@@ -99,7 +99,7 @@ fig. 2: Mendelssohn’s _Phaedon,_ for which he became known as the “Jewish 
 > 
 > During the late eighteenth and nineteenth-centuries, the publisher-editor came to the fore with the rise of Jewish serial and subscription publishing. Atlantic port Jews began publishing English-language periodicals and books during the 1840s as a means to advance an enlightened, observant form of Judaism, identified in large part with Sephardic rather than Ashkenazic religious culture and history. By the mid-nineteenth century, the number of Jewish editions had grown into the tens and hundreds of thousands. At the same time, the world Jewish population surged for the first time into the millions. The number of documented subscribers just to books published in Hebrew is known to have been well over 350,000. Meanwhile, the potential reading public for Jewish books published in vernacular languages was enlarged by mass literacy, a consequence of public education and other kinds of enlightened reform programs.
 
-**A. The Beginnings of Serialized Jewish Publishing**
+#### **A. The Beginnings of Serialized Jewish Publishing**
 
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-09/lampronti-comp.jpg" alt="fig. 1" width="1800" height="2588">
 
@@ -109,7 +109,7 @@ fig. 1: The physician and scholar Isaac Lampronti, the first “encyclopedist”
 
 fig. 2: Among the beacons of Jewish enlightenment in late 18th century Germany, known today as the “Haskalah,” was _ha-Me’asef_ (“The Gleaner”), the earliest successful periodical published in Hebrew. Its publication was announced April 13, 1783 in a prospectus called Nahal ha-Besór. The editors and publishers, such as Isaac Euchel, Joel Loewe and Aaron Wolfssohn were _maskilim_, the intellectual exponents of the _Haskalah_. _Ha-Me’asef_ began publication in Koenigsberg in 1784 and then relocated to Berlin.
 
-**B. Enlightened Jewish Publishing in the early 19th century**
+#### **B. Enlightened Jewish Publishing in the early 19th century**
 
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-09/ap93s8_body0001.jpg" alt="fig. 1" width="1800" height="2588">
 
@@ -117,7 +117,7 @@ fig. 1: While the first _haskalah_ publications were printed in Hebrew charac
 
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-09/bikure-anton-shmid-comp.jpg" alt="fig 2." width="1800" height="2588">fig. 2: By the 1820s, a new center of enlightened Jewish publishing was emerging in Vienna , the capital of the Austro-Hungarian empire, which included areas of Northern Italy and its Adriatic port cities, such as Trieste. Evidence of the hybrid and profitable nature of Jewish religious publishing during this time is the fact that Vienna’s most important printer-publisher of Jewish religious works, including prayer books, and the periodical _Bikure ha-itim_ (“The First Fruits of the Times”), was a Christian named Anton von Schmid.
 
-**C. Victorian Jewish Publishing in the Atlantic World**
+#### **C. Victorian Jewish Publishing in the Atlantic World**
 
 <img src="https://web.archive.org/web/20200901160506im_/https://www.library.upenn.edu/sites/default/files/2019-08/ds135e5a265_1843_body0001.jpg" alt="fig. 1" width="1800" height="2588">
 
@@ -147,7 +147,7 @@ The emergence of such a large market created new kinds of business for the Judai
 
 Bookseller catalogs, often replete with valuable descriptions explaining significance, condition, rarity, and price helped the novice and the expert alike navigate the specialized world of the Judaica book trade. Some booksellers took pride in producing catalogs with beautiful graphic designs. These sales catalogs did not merely list books for sale, but could be viewed as collector’s items in themselves. They combined scholarly descriptions of Judaica with a new-found aesthetic appreciation for the art as well as for the business of the Jewish book trade.
 
-**Section A.**
+#### **Section A.**
 
 <img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/Abramovitsh-comp.jpg" alt="fig. 1" width="1800" height="2588">
 
@@ -157,7 +157,7 @@ fig. 1: Perhaps no literary figure came to occupy a more familiar place in the i
 
 fig. 2: This extremely scarce “Catalogo” of Jewish religious and Spanish language editions, reprinted in bibliophilic facsimile, is the earliest extant Judaica bookseller’s catalog. Notably, it was printed in Roman rather than Hebrew letters by the printing house of Menasseh ben Israel and is designed to appeal to Iberian Conversos who returned to Judaism. The prices are given in Dutch florins (the name of the currency officially changed to guilders after 1816).
 
-**Section B.**
+#### **Section B.**
 
 <img src="https://web.archive.org/web/20200901160529im_/https://www.library.upenn.edu/sites/default/files/2019-09/ay891a46_1762_body0001.jpg" alt="fig. 1" width="1800" height="2588">
 
@@ -241,7 +241,7 @@ Jewish books in our possession today have survived centuries of mass confiscatio
 
 > “This edition of the Talmud is dedicated to the United States Army. This army played a major role in the rescue of the Jewish people from total annihilation, and after the defeat of Hitler bore the major burden of sustaining the DPs \[displaced persons\] of the Jewish faith. This special edition of the Talmud published in the very land where, but a short time ago, everything Jewish and of Jewish inspiration was anathema, will remain a symbol of the indestructrability of the Torah. The Jewish DPs will never forget the generous impulses and the unprecedented humanitarianism of the American forces to whom they owe so much.”
 
-**Section A**
+#### **Section A**
 
 <img src="https://web.archive.org/web/20200901160612im_/https://www.library.upenn.edu/sites/default/files/2019-09/josephus-comp_0.jpg" alt="fig. 1" width="1800" height="2588">
 
