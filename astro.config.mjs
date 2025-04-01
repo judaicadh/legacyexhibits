@@ -18,14 +18,16 @@ export default defineConfig({
 					showCaptions: true,
 				}),
 			],
-			title: 'Exhibits',
+			title: 'Judaica Exhibitions',
+			description: 'Online exhibitions from the Library at the Herbert D. Katz Center for Advanced Judaic Studies',
 			tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 5 },
+			lastUpdated: true,
 			social: {
 				github: 'https://github.com/judaicadh/legacyexhibits',
 			},
 			sidebar: [
 				{
-					label: 'Exhibits',
+					label: 'Exhibits ',
 					autogenerate: { directory: 'reference' },
 				},
 			],
