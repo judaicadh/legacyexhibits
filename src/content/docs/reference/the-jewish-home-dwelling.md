@@ -230,4 +230,100 @@ In 1919, Sigmund Freud published an essay that focuses on the term _heimlich_, t
 
 ## Selected Bibliography
 
+*   **Alianov-Rautenberg, Viola.** "Migration und Marginalität. Geschlecht als strukturelle Kategorie in der deutsch-jüdischen Einwanderung nach Palästina/Eretz Israel in den 1930er Jahren," in _Internationales Jahrbuch Exilforschung_ (36, 2018).
+    
+*   **Ashkenazi, Ofer.** _Weimar Film and Modern Jewish Identity._ (New York City: Palgrave-McMillan, 2012)
+    
+*   **Aust, Cornelia.** _The Jewish Economic Elite: Making Modern Europe._ (Bloomington, IN: Indiana University Press, 2018)
+    
+*   **Berlin, A.** "Jewish Life Before the Revolt: The Archaeological Evidence," in _Journal for the Study of Judaism_ (36(4): 417-470). (2005)
+    
+*   **Cradic, Melissa S.** "Residential Burial and Social Memory in the Middle Bronze Age Levant," in _Near Eastern Archaeology_ (81, 2018).
+    
+*   **Davidi, Sigal.** _A New Woman in a New Land: Women Architects and the Design of Social Institutions for Women._ (Hebrew; Open University of Israel Press, forthcoming)
+    
+*   **Francesconi, Federica.** _Invisible Enlighteners: Modenese Jewry from Renaissance to Emancipation._ (Philadelphia, PA: University of Pennsylvania Press, forthcoming)
+    
+*   **Frenkel, Miriam.** "The Matter of Things: Material Culture in the Medieval Islamicate," in [_https://www.youtube.com/watch?v=C5F5i5RdszU_](https://www.youtube.com/watch?v=C5F5i5RdszU) (Lecture 1). (Bard Graduate Center. February 5, 2020)
+    
+*   **Friedman-Peleg, Keren.** _ha-\`Am \`al ha-sapah: ha-politikah shel ha-traumah be-Yisrael.,_ Translated into English from Hebrew and published as _PTSD and the Politics of Trauma in Israel: A Nation on the Couch_ (Toronto; Buffalo; London: University of Toronto Press, 2017) (Jerusalem;,Hebrew University Magnes Press, 2014)
+    
+*   **Gardner, Gregg E.** _The Origins of Organized Charity in Rabbinic Judaism._ (Cambridge: Cambridge University Press, 2015)
+    
+*   **Gopalakrishnan, Pratima.** "Domestic Labor and Marital Obligations in the Ancient Jewish Household," (New Haven, CT:  Yale University Ph.D. thesis, 2020)
+    
+*   **Harbon, Claris.** _Squatting and Invasion to Public Houses in Israel: Mizrahi Women Correcting Past Injustices._ (Hebrew Tel Aviv: ha-kibbutz ha-meuhad, forthcoming)
+    
+*   **Kushkova, Anna.** _Peasant Quarrel: A Study of Rural Everyday Life._ (Russian St. Petersburg: European University at St. Petersburg Press, 2016)
+    
+*   **Kuznitz, Cecile.** _YIVO and the Making of Modern Jewish Culture: Scholarship for the Yiddish Nation._ (Cambridge: Cambridge University Press, 2017)
+    
+*   **Lehman, Marjorie.** _Mothers in the Jewish Cultural Imagination.,_ Edited with Jane L. Kanarek and Simon J Bronner (Oxford: Littman Library of Jewish Civilization, 2017)
+    
+*   **Lepicard, Etienne.** "An Alternative to the Cosmic and Mechanic Metaphors for the Human Body? The House Illustration in Ma'aseh Tuviyah (1708)"," in _Medical history_ (52, no. 1 (2008): 93-105;).
+    
+*   **Levak, Alex; Mordohovich, Hava.** _Our Country: Photography. (_Carmel: MOD Publishing House, 2000)
+    
+*   **Meyers, C. L.** "Grinding to a Halt: Gender and the Changing Technology of Flour Production in Roman Galilee," in _Engendering Social Dynamics: The Archaeology of Maintenance Activities_, ed. S. Monton-Subias and M. Sanchez-Romero (Pp. 65-74). (BAR International Series 1862. Oxford: Archaeopress, 2008)
+    
+*   **Riemer, Nathaniel.** _JewBus, Jewish Hindus & Other Jewish Encounters with East Asian Religions.,_ Edited with Rachel Albeck-Gidron and Markus Krah (Potsdam, Germany: University of Potsdam Press, 2018)
+    
+*   **Ruderman, David B.** _Jewish Thought and Scientific Discovery in Early Modern Europe._ (New Haven, CT: Yale University Press, 1995, 229-255)
+    
+*   **Sabar, Shalom.** _Ketubbah: The Art of the Jewish Marriage Contract._ (New York: Rizzoli, 2001)
+    
+*   **Singer, Isidore and Moses Löb Bamberger.** "Luncz, Abraham, Moses," in _Jewish Encyclopedia_ (New York: Funk & Wagnalls Company, 1906, 8:208)
+    
+*   **Snowden, Frank M.** _Epidemics and Society : From the Black Death to the Present._ (New Haven: Yale University Press, 2019, 42)
+    
+*   **Sorrels, Katherine.** _Cosmopolitan Outsiders: Imperial Inclusion, National Exclusion, and the Pan-European Idea._ (New York: Palgrave Macmillan, 2016)
+    
+*   **Teplitsky, Joshua.** _Prince of the Press: How One Collector Built History's Most Enduring and Remarkable Jewish Library._ (New Haven, CT: Yale University Press, 2019)
+    
+*   **Tzaferis, Vassilios.** "Capernaum.," in _New Encyclopedia of Archaeological Excavations in the Holy Land,_ ed. E. Stern, A. Lewinson-Gilboa, and J. Aviram (Volume 1, Pp. 291-296 Jerusalem: Israel Exploration Society & Carta, 1993)
+    
+*   **Weissberg, Liliane.** _Münzen, Hände, Noten, Finger: Berliner Hofjuden und die Erfindung einer deutschen Musikkultur._ (Graz: Clio Verlag, 2018)
+    
+
 ## Contributors
+
+*   Viola Alianov-Rautenberg - Institute for the History of German Jewry / Ruth Meltzer Fellowship
+    
+*   Ofer Ashkenazi - Hebrew University of Jerusalem / Charles W. & Sally Rothfeld Fellowship
+    
+*   Cornelia Aust - Bielefeld University
+    
+*   Melissa S. Cradic - Badè Museum of Biblical Archaeology, Pacific School of Religion / Jody Ellant and Howard Reiter Family Fellowship
+    
+*   Sigal Davidi - Tel Aviv University / Ruth Meltzer Fellowship
+    
+*   Federica Francesconi - University at Albany, SUNY / Primo Levi Fellowship
+    
+*   Miriam Frenkel - Hebrew University of Jerusalem / Ruth Meltzer Fellowship
+    
+*   Keren Friedman-Peleg - The College of Management-Academic Studies / Israel Institute Visiting Faculty
+    
+*   Gregg E. Gardner - University of British Columbia / Jody Ellant and Howard Reiter Family Fellowship
+    
+*   Pratima Gopalakrishnan - Yale University
+    
+*   Claris Harbon - McGill University / Maurice Amado Foundation Fellowship
+    
+*   Anna Kushkova - University of North Carolina / Dalck & Rose Feith Family Fellowship
+    
+*   Cecile E. Kuznitz - Bard College / Ruth Meltzer Fellowship
+    
+*   Marjorie Lehman - Jewish Theological Seminary / Thomas and Elissa Ellant Katz Fellowship
+    
+*   Nathaniel Riemer - University of Potsdam / Louis Apfelbaum and Hortense Braunstein Apfelbaum Fellowship
+    
+*   Shalom Sabar - Hebrew University of Jerusalem / Erika A. Strauss Teaching Fellowship
+    
+*   Katherine Sorrels - University of Cincinnati / Ivan & Nina Ross Family Fellowship
+    
+*   Joshua Teplitsky - Stony Brook University / Ariel and Joshua Weiner Family Fellowship
+    
+*   Liliane Weissberg - Christopher H. Browne Distinguished Professor in the School of Arts & Sciences, and Professor of German and Comparative Literature at the University of Pennsylvania / Ellie and Herbert D. Katz Distinguished Fellowship
+    
+
+Special thanks to all of our contributors. This year's exhibition is especially indebted to Lido Giovacchini who has meticulously reviewed the content and created the pages for this year’s exhibition. Thanks also to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit, to Bruce Nielsen and Josef Gulka at the Library at the Katz Center, Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscripts, and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit.
