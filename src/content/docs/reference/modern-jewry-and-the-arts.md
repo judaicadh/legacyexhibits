@@ -7,7 +7,8 @@ hero:
   title: Modern Jewry and the Arts
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2000-2001 Fellows at the University of Pennsylvania
-  
+  image:
+    file: ../../../../src/assets/ModernJewryArts/img.png
 slug: modern-jewry-and-the-arts
 tableOfContents:
   minHeadingLevel: 2
@@ -44,7 +45,7 @@ Carol Zemel
 
 <img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/zemel.jpg" alt="" width="1800" height="2588">
 
-Ken Aptekar's paintings deal with ethnic and gender stereotypes. This image, _Her Father Dragged Her from Shtetl to Shtetl \[with a sewing machine.\]_(1996), uses Francois Boucher's Portrait of Mme. Pompadour (1756) as its source, and delivers witty and moving insight on the modern Jewish woman. The text portion, etched in glass that covers the painted surface, is long and detailed; reading it carefully demands that the viewer's attention crawl over every detail of painted ribbon, frill and furbelow. Mme Pompadour, and Rococo style of painting have long been considered the essence of _frou-frou_femininity in our culture, but it is a femininity of wealth and aristocracy, of leisure play and frill, of gentle curves and erotic theater. And while it seems so remote from _shtetl_ story of Mierle Pomerance (not Pompadour), schlepping her sewing machine from town to town as she "fashioned clothes for Jews, " the sense of fashion, fate and fantasy draws the two women close. "'A couturihre your grandma could've been,' my mother says, " in the syntax of translated Yiddish. The story ends with the artist's greater sense of possibility-- "I escaped when I became an artist " -but leaves the Jewish woman sewing for the far-off Jewish princess, whose cultural standard is set -still- by the Pompadour.
+Ken Aptekar's paintings deal with ethnic and gender stereotypes. This image, _Her Father Dragged Her from Shtetl to Shtetl \[with a sewing machine.\]_(1996), uses Francois Boucher's Portrait of Mme. Pompadour (1756) as its source, and delivers witty and moving insight on the modern Jewish woman. The text portion, etched in glass that covers the painted surface, is long and detailed; reading it carefully demands that the viewer's attention crawl over every detail of painted ribbon, frill and furbelow. Mme Pompadour, and Rococo style of painting have long been considered the essence of \_frou-frou\_femininity in our culture, but it is a femininity of wealth and aristocracy, of leisure play and frill, of gentle curves and erotic theater. And while it seems so remote from _shtetl_ story of Mierle Pomerance (not Pompadour), schlepping her sewing machine from town to town as she "fashioned clothes for Jews, " the sense of fashion, fate and fantasy draws the two women close. "'A couturihre your grandma could've been,' my mother says, " in the syntax of translated Yiddish. The story ends with the artist's greater sense of possibility-- "I escaped when I became an artist " -but leaves the Jewish woman sewing for the far-off Jewish princess, whose cultural standard is set -still- by the Pompadour.
 
 **Ben Shahn, Mural for the Jersey Homesteads, 1936-37 Roosevelt Public School, Roosevelt, New Jersey**
 
