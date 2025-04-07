@@ -129,55 +129,55 @@ Adele Berlin
 
 ## Selected Bibliography
 
-*   Hay ha-\`olamim = L'immortale. Parte I, La retorica edited and translated by Fabrizio Lelli Quaderni di "Rinascimento," No. 21 Firenze: Leo S. Olschki, 1995
+*   **Allemanno, Johanan ben Isaac.** _Hay ha-\`olamim = L'immortale. Parte I, La retorica.,_ edited and translated by Fabrizio Lelli (Quaderni di "Rinascimento," No. 21). (Firenze: Leo S. Olschki, 1995)
     
-*   Berlin, Adele (translator and editor) Biblical Poetry through Medieval Jewish Eyes Indiana Studies in Biblical Literature, Indiana University Press, 1991
+*   **Berlin, Adele (translator and editor).** _Biblical Poetry through Medieval Jewish Eyes._ (Indiana Studies in Biblical Literature, Indiana University Press, 1991)
     
-*   The Cambridge History of the Bible edited by Peter. R. Ackroyd, G. W. H. Lampe and S. L. Greenslade Cambridge: Cambridge University Press, 1963-70
+*   . _The Cambridge History of the Bibleedited.,_ edited by Peter. R. Ackroyd, G. W. H. Lampe and S. L. Greenslade (Cambridge: Cambridge University Press, 1963-70)
     
-*   Cohen, Norman J The London Manuscript of Midrash Pesiqta Rabbati; a Key Text-Witness Comes to Light Jewish Quarterly Review 73, 3 (1983) Dropsie University, 1983. pp. 209-237
+*   **Cohen, Norman J.** "The London Manuscript of Midrash Pesiqta Rabbati; a Key Text-Witness Comes to Light," in Jewish Quarterly Review (73, 3 (1983)). (Dropsie University, 1983. pp. 209-237)
     
-*   Fishbane, Michael (editor) The Midrashic Imagination: Jewish Exegesis, Thought, and History State University of New York Press, 1993
+*   **Fishbane, Michael (editor).** _The Midrashic Imagination: Jewish Exegesis, Thought, and History._ (State University of New York Press, 1993)
     
-*   Fletcher, Angus John Stewart Allegory, the Theory of a Symbolic Mode Cornell University Press, 1964
+*   **Fletcher, Angus John Stewart.** _Allegory, the Theory of a Symbolic Mode._ (Cornell University Press, 1964)
     
-*   Gelles, Benjamin J Peshat and Derash in the Exegesis of Rashi Leiden: Brill, 1981
+*   **Gelles, Benjamin J.** _Peshat and Derash in the Exegesis of Rashi._ (Leiden: Brill, 1981)
     
-*   Golb , Norman (editor) Judaeo-Arabic Studies: Proceedings of the Founding Conference of the Society for Judaeo-Arabic Studies Studies in Muslim-Jewish Relations Vol. 3. Amsterdam: Harwood Academic Publishers, 1997
+*   **Golb , Norman (editor).** "Judaeo-Arabic Studies: Proceedings of the Founding Conference of the Society for Judaeo-Arabic Studies," in _Studies in Muslim-Jewish Relations_ (Vol. 3. Amsterdam: Harwood Academic Publishers, 1997).
     
-*   Goldin, Judah Studies in Midrash and Related Literature edited by Barry L. Eichler and Jeffrey H. Tigay JPS Scholar of Distinction Series. Philadelphia: Jewish Publication Society, 1988
+*   **Goldin, Judah.** _Studies in Midrash and Related Literature.,_ edited by Barry L. Eichler and Jeffrey H. Tigay (JPS Scholar of Distinction Series. Philadelphia: Jewish Publication Society, 1988)
     
-*   Greenberg, Moshe Parshanut ha-mikra ha-yehudit Jerusalem: Mosad Byalik, 1992
+*   **Greenberg, Moshe.** _Parshanut ha-mikra ha-yehudit._ (Jerusalem: Mosad Byalik, 1992)
     
-*   Halivni, David Midrash, Mishnah, and Gemara: The Jewish Predilection for Justified Law Cambridge: Harvard University Press, 1986
+*   **Halivni, David.** _Midrash, Mishnah, and Gemara: The Jewish Predilection for Justified Law._ (Cambridge: Harvard University Press, 1986)
     
-*   Jacobs, Martin Die Institution des j|dischen Patriarchen: eine quellen-und traditionskritische Studie zur Geschichte des Juden in der Spdtantike Texte und Studien zum antiken Judentum No 52. T|bingen: J.C.B. Mohr, 1995
+*   **Jacobs, Martin.** "Die Institution des j|dischen Patriarchen: eine quellen-und traditionskritische Studie zur Geschichte des Juden in der Spdtantike," in _Texte und Studien zum antiken Judentum_ (No 52. T|bingen: J.C.B. Mohr, 1995).
     
-*   Japhet , Sarah (editor) The Bible in the Light of its Interpreters - Ha-Mikra bi-re'i mefarshav: sefer zikaron le-Sarah Kamin. Sidrat sefarim le-heker ha-Mikra mi-yesodo shel S. Sh. Peri Hebrew University, 1994
+*   **Japhet , Sarah (editor).** _The Bible in the Light of its Interpreters - Ha-Mikra bi-re'i mefarshav: sefer zikaron le-Sarah Kamin. Sidrat sefarim le-heker ha-Mikra mi-yesodo shel S. Sh. Peri._ (Hebrew University, 1994)
     
-*   Jones, Ann Rosalind and Stallybrass, Peter Renaissance Clothing and the Materials of Memory Cambridge Studies in Renaissance Literature and Culture, Cambridge University Press, 2000
+*   **Jones, Ann Rosalind and Stallybrass, Peter.** _Renaissance Clothing and the Materials of Memory._ (Cambridge Studies in Renaissance Literature and Culture, Cambridge University Press, 2000)
     
-*   Kugel , James L. and Greer, Rowan A Early Biblical Interpretation Philadelphia: Westminster Press, 1986
+*   **Kugel , James L. and Greer, Rowan A.** _Early Biblical Interpretation._ (Philadelphia: Westminster Press, 1986)
     
-*   Levenson, Jon D The Hebrew Bible, The Old Testament and Historical Criticism Louisville, Ky.: Westminster/John Knox Press, 1993
+*   **Levenson, Jon D.** _The Hebrew Bible, The Old Testament and Historical Criticism._ (Louisville, Ky.: Westminster/John Knox Press, 1993)
     
-*   Madigan, Daniel A The Qur'an's Self Image: Writing and Authority in Islam's Scripture Princeton: Princeton University Press, 2001
+*   **Madigan, Daniel A.** _The Qur'an's Self Image: Writing and Authority in Islam's Scripture._ (Princeton: Princeton University Press, 2001)
     
-*   Schwartz, Seth Imperialism and Jewish Society, 200 B.C.E to 640 C.E. Princeton: Princeton University Press, 2001
+*   **Schwartz, Seth.** _Imperialism and Jewish Society, 200 B.C.E to 640 C.E.._ (Princeton: Princeton University Press, 2001)
     
-*   Safrai, Shmuel The Literature of the Sages Assen, Netherlands: Van Gorcum; Philadelphia: Fortress Press, 1987
+*   **Safrai, Shmuel.** _The Literature of the Sages._ (Assen, Netherlands: Van Gorcum; Philadelphia: Fortress Press, 1987)
     
-*   Signer , Michael A. and Van Engen, John H. (editors) Jews and Christians in Twelfth-Century Europe Notre Dame Conferences in Medieval Studies, No. 10. University of Notre Dame, 2001
+*   **Signer , Michael A. and Van Engen, John H. (editors).** J_ews and Christians in Twelfth-Century Europe._ (Notre Dame Conferences in Medieval Studies, No. 10. University of Notre Dame, 2001)
     
-*   Smalley, Beryl Study of the Bible in the Middle Ages Notre Dame University Press, 1964
+*   **Smalley, Beryl.** _Study of the Bible in the Middle Ages._ (Notre Dame University Press, 1964)
     
-*   Stern, David Midrash and Theory: Ancient Jewish Exegesis and Contemporary Literary Studies Rethinking Theory. Northwestern University Press, 1996
+*   **Stern, David.** _Midrash and Theory: Ancient Jewish Exegesis and Contemporary Literary Studies._ (Rethinking Theory. Northwestern University Press, 1996)
     
-*   Stern, David Parables in Midrash: Narrative and Exegesis in Rabbinic Literature Cambridge: Harvard University Press, 1991
+*   **Stern, David.** _Parables in Midrash: Narrative and Exegesis in Rabbinic Literature._ (Cambridge: Harvard University Press, 1991)
     
-*   Strack, Hermann Leberecht and Stemberger, G|nter Introduction to the Talmud and Midrash Edinburgh: T&T Clark, 1996
+*   **Strack, Hermann Leberecht and Stemberger, G|nter.** _Introduction to the Talmud and Midrash._ (Edinburgh: T&T Clark, 1996)
     
-*   Visotzky, Burton L Reading the Book: Making the Bible a Timeless Text New York: Anchor Books, 1991
+*   **Visotzky, Burton L.** _Reading the Book: Making the Bible a Timeless Text._ (New York: Anchor Books, 1991)
     
 
 ## Contributors
