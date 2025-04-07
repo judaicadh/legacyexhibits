@@ -181,3 +181,5 @@ Adele Berlin
     
 
 ## Contributors
+
+to **Arthur Kiron** for his assistance in organizing this virtual exhibition
