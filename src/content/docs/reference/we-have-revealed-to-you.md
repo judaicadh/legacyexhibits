@@ -11,7 +11,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2001-2002 Fellows at the University of Pennsylvania
   image:
-    file: ../../../assets/PennLibrariesOnlineExhibits _ PennLibraries/scriptorium.png
+    file: ../../../../src/assets/AndWehaveRevealedtoYou/revealed-asc.jpg
     alt: We have Revealed to You
 slug: we-have-revealed-to-you
 tableOfContents:
@@ -39,14 +39,14 @@ David Stern
 
 Fig. 1
 
-Pictured here are two passages from the Book of Ezekiel (Chapter 20) that highlight one of the major issues that preoccupied the Jews in the beginning of the Babylonian exile (597 BCE onwards). Moreover, the verses demonstrate the phenomenon of inner-biblical interpretation.  
-  
-Inner-biblical exegesis and allusion suggest diverse points of view about the interrelationship between texts written over a vast geographical as well as chronological span. Scholars have identified constitutive assumptions that guided biblical authors in the exertion of inner interpretation. Three of them are considered essential for both allusion and exegesis. First, deliberate literary connections relate a later-alluding text to its earlier-source text. Second, the source text is considered authoritative and valid to the present. Third, among other reasons, the motivation of the alluding text is often to accord the present disastrous reality with the theological traditional concepts and with the historical heritage.  
-  
+Pictured here are two passages from the Book of Ezekiel (Chapter 20) that highlight one of the major issues that preoccupied the Jews in the beginning of the Babylonian exile (597 BCE onwards). Moreover, the verses demonstrate the phenomenon of inner-biblical interpretation.
+
+Inner-biblical exegesis and allusion suggest diverse points of view about the interrelationship between texts written over a vast geographical as well as chronological span. Scholars have identified constitutive assumptions that guided biblical authors in the exertion of inner interpretation. Three of them are considered essential for both allusion and exegesis. First, deliberate literary connections relate a later-alluding text to its earlier-source text. Second, the source text is considered authoritative and valid to the present. Third, among other reasons, the motivation of the alluding text is often to accord the present disastrous reality with the theological traditional concepts and with the historical heritage.
+
 Examining the phenomenon of interpretation, the prophets are usually held responsible for the inner interpretation. However, inner-biblical exegesis is not restricted to the prophets at all. Focusing on one social-historical setting can illuminate the evolvement of inner-biblical interpretation. Debates and disputation-speeches in the Books of Jeremiah and Ezekiel elucidate an exegetical discourse between the prophets and their audiences, quoted as "other voices" in Jerusalem and in Babylon. Coping with kernel questions of existence in face of the destruction and the exiles, the opponents rely on different types of source texts. Nevertheless, they share one of the most constructive aspects of exegesis, namely Correlation, consisting of two contrasting phases: Analogy and Polarity. Based on different lines of argumentation, each of the quotations and their prophetical refutations treat this mode of Correlation differently. Yet the motives of the speakers and the prophets are equally exegetical. Thus, inner-biblical interpretation can be traced down in non-prophetical sources as well. This reveals a multifaceted internal exegesis already within biblical texts of the first half of the sixth century BCE.
 
-Dalit Rom-Shiloni  
-  
+Dalit Rom-Shiloni
+
 Fig. 1: Measuring only 17 cm in height, this was only the third edition of the complete Hebrew Bible, and the first to have been printed in the octavo format. In his colophon (printer's statement) the scion of the great Hebrew printing dynasty writes: _I chose to print this Bible in a small format so that, day and night, it might accompany its reader, who may easily carry this book, to read it wherever walking, wherever lying down, wherever rising up.._
 
 ### King Solomon made him a palanquin of wood from Lebanon . . . (Song of Songs 3:9)
@@ -59,13 +59,12 @@ Fig. 1
 
 Fig. 2
 
-The third chapter of the Song of Songs, verses 9-10, describes the nuptial bed of King Solomon, known as the palanquin (Apirion). Some scholars claim that this song was composed in honor of King Solomon's marriage to the daughter of a foreign king, possibly Pharaoh's daughter. If this assumption is correct then this song embodies the oldest song in the book of the Song of Songs; it forms the Book's nucleus and all the other poems were assembled and composed around it.  
-  
-The Song of Songs Rabbah (an exegetical Midrash, that comprises sayings of sages that lived in the land of Israel, between the first and fourth century CE, although it was redacted at somewhat later period) on these verses introduces a series of five allegorical interpretations on verses 9-10. Each interpretation (Petira) represents a complete and systematic allegorical exegesis for these verses. The palanquin is used as an image to following themes: the Tabernacle, the Ark, the Temple, the Creation of the World and the Throne of Glory.  
- 
+The third chapter of the Song of Songs, verses 9-10, describes the nuptial bed of King Solomon, known as the palanquin (Apirion). Some scholars claim that this song was composed in honor of King Solomon's marriage to the daughter of a foreign king, possibly Pharaoh's daughter. If this assumption is correct then this song embodies the oldest song in the book of the Song of Songs; it forms the Book's nucleus and all the other poems were assembled and composed around it.
 
-Tamar Kadari  
-  
+The Song of Songs Rabbah (an exegetical Midrash, that comprises sayings of sages that lived in the land of Israel, between the first and fourth century CE, although it was redacted at somewhat later period) on these verses introduces a series of five allegorical interpretations on verses 9-10. Each interpretation (Petira) represents a complete and systematic allegorical exegesis for these verses. The palanquin is used as an image to following themes: the Tabernacle, the Ark, the Temple, the Creation of the World and the Throne of Glory.  
+
+Tamar Kadari
+
 Fig. 1 & Fig. 2: _King Solomon made him a palanquin of wood from Lebanon: He made its posts of silver, its back of gold, its seat of purple wood, within, it was decked with love by the maidens of Jerusalem_. -Song of Songs: 3:9-10 (JPS Translation)
 
 ### Syriac Biblical Exegesis
@@ -78,17 +77,16 @@ Fig. 1
 
 Fig. 2
 
-The Syriac language, a dialect of Aramaic, is the liturgical language of the Christians of the East. Beginning in the third century at least Syriac-speaking Christians flourished in Mesopotamia. The various communities lived along the ever-changing borderlands between the Roman and Persian Empires and later between the Byzantine and Arab empires. They thrived and grew amidst the cross-cultural admixture of the late ancient Near East.  
-  
-According to tradition, Edessa and its king were converted to Christianity in the second century by Addai (Thaddeus?) one of the 70 disciples of Luke 10.1 This history is recorded in the Syriac treatise, the Doctrine of Addai. Whether this trajectory is accurate or not, the Bible was soon translated into Syriac at Edessa. The Peshitta of the Old Testament was probably first translated from the Hebrew for the Jewish community, but it eventually became standard for the Christians. The New Testament gospels circulated in several versions, one of which, the Evangelion da-Mehallate, was a homogenization of the four gospels into one.  
-  
-From the fourth-century onward the Christian community produced many homiletic, exegetical and liturgical works. The fourth-century produced the likes of Ephrem Syrus who was known for his lyrical poetry and extensive biblical commentaries as well as community leadership. Ephrem's older contemporary Aphrahat the Persian Sage interpreted biblical passages in unique (among fourth-century Christians) ways. His Persian-Mesopotamian Semitic milieu, minimally influenced by the developing Greco-Roman Christian tradition, afforded Aphrahat the opportunity to innovate in his biblical readings. Yet, much of his homiletic writings reflect similar patterns in the contemporaneous rabbinic writings illuminating the cross-cultural matrices of the late ancient Near East.  
-  
-Syriac writing continued to flourish into the Arab period. Yet as Arabic became the lingua franca of the Syriac Christian community in the Arab lands, Syriac was relegated mostly for liturgical uses. The page of manuscript displayed here is from an 18th century Takhsa damkurayya, a written betrothal agreement. This manuscript is written in the Nestorian hand, one of the three standard Syriac scripts.  
- 
+The Syriac language, a dialect of Aramaic, is the liturgical language of the Christians of the East. Beginning in the third century at least Syriac-speaking Christians flourished in Mesopotamia. The various communities lived along the ever-changing borderlands between the Roman and Persian Empires and later between the Byzantine and Arab empires. They thrived and grew amidst the cross-cultural admixture of the late ancient Near East.
 
-Naomi Koltun-Fromm  
-  
+According to tradition, Edessa and its king were converted to Christianity in the second century by Addai (Thaddeus?) one of the 70 disciples of Luke 10.1 This history is recorded in the Syriac treatise, the Doctrine of Addai. Whether this trajectory is accurate or not, the Bible was soon translated into Syriac at Edessa. The Peshitta of the Old Testament was probably first translated from the Hebrew for the Jewish community, but it eventually became standard for the Christians. The New Testament gospels circulated in several versions, one of which, the Evangelion da-Mehallate, was a homogenization of the four gospels into one.
+
+From the fourth-century onward the Christian community produced many homiletic, exegetical and liturgical works. The fourth-century produced the likes of Ephrem Syrus who was known for his lyrical poetry and extensive biblical commentaries as well as community leadership. Ephrem's older contemporary Aphrahat the Persian Sage interpreted biblical passages in unique (among fourth-century Christians) ways. His Persian-Mesopotamian Semitic milieu, minimally influenced by the developing Greco-Roman Christian tradition, afforded Aphrahat the opportunity to innovate in his biblical readings. Yet, much of his homiletic writings reflect similar patterns in the contemporaneous rabbinic writings illuminating the cross-cultural matrices of the late ancient Near East.
+
+Syriac writing continued to flourish into the Arab period. Yet as Arabic became the lingua franca of the Syriac Christian community in the Arab lands, Syriac was relegated mostly for liturgical uses. The page of manuscript displayed here is from an 18th century Takhsa damkurayya, a written betrothal agreement. This manuscript is written in the Nestorian hand, one of the three standard Syriac scripts.  
+
+Naomi Koltun-Fromm
+
 Fig. 2: Rear cover, showing details of original binding. The boards are wooden, and bound using an elaborate system of knotting the fascicles, allowing the book to open freely without open the spine. Gauze is placed over the spine (at left) for protection. Stitching at center and left effectively repairs splits in the wooden board.
 
 ### The Bible as Read: The Idea of Election in the Ritual of Scriptural Reading
@@ -105,18 +103,16 @@ The blessings recited before and after the scriptural reading defines the readin
 
 "Blessed are you, Lord our God, King of the universe, who has chosen us from all peoples and given us the Torah" (Babylonian Talmud, Berakhot 11b)
 
-Scholars explain that this blessing emphasizes the connection between the election of Israel and giving the Torah. The election of Israel was implemented by giving them the Torah. But why is the idea of election is mentioned here, in the context of reading the Torah in public? What role does this blessing fulfill in this specific liturgical context?  
-  
-It appears that the election of Israel in the Torah blessing is connected to the "democratization" of the public reading in the rabbinic custom. In ancient sources where rituals of Torah reading are found, the reader is always a priest or the political leader. In "Hakhel" gathering, at the festival of Sukkoth after the seventh year (the Shemitah), the king is the one who reads from the Torah (Deuteronomy 31,10-13; Mishnah Sotah 7,8). In the description of the public reading in Nehemiah 8, the reader is Ezra the priest, and in the description of the Torah reading after the service of the high priest at the Day of Atonement, the reader is the high priest himself (Mishnah Yoma 7,1). The same picture rises from Philos' description of the Torah reading on Saturdays (Hypothetica 7.12-13). Compared to that we find a very different picture in the rabbinic literature. According to the rabbinic sources every Jew (in principle) may read the Torah, not only the priest or the leader (Tosefta Megilah 3,11). It appears that the idea of election of Israel that mentioned in the Torah blessing is not an abstract theological idea. It is rather connected to the performance of scriptural reading. In order to justify the active participation of lay people in this worship, which is not trivial at all, the reader mentions in his blessing that God elected the entire people of Israel and gave them his Torah.  
- 
+Scholars explain that this blessing emphasizes the connection between the election of Israel and giving the Torah. The election of Israel was implemented by giving them the Torah. But why is the idea of election is mentioned here, in the context of reading the Torah in public? What role does this blessing fulfill in this specific liturgical context?
 
-Adiel Kadari  
-  
+It appears that the election of Israel in the Torah blessing is connected to the "democratization" of the public reading in the rabbinic custom. In ancient sources where rituals of Torah reading are found, the reader is always a priest or the political leader. In "Hakhel" gathering, at the festival of Sukkoth after the seventh year (the Shemitah), the king is the one who reads from the Torah (Deuteronomy 31,10-13; Mishnah Sotah 7,8). In the description of the public reading in Nehemiah 8, the reader is Ezra the priest, and in the description of the Torah reading after the service of the high priest at the Day of Atonement, the reader is the high priest himself (Mishnah Yoma 7,1). The same picture rises from Philos' description of the Torah reading on Saturdays (Hypothetica 7.12-13). Compared to that we find a very different picture in the rabbinic literature. According to the rabbinic sources every Jew (in principle) may read the Torah, not only the priest or the leader (Tosefta Megilah 3,11). It appears that the idea of election of Israel that mentioned in the Torah blessing is not an abstract theological idea. It is rather connected to the performance of scriptural reading. In order to justify the active participation of lay people in this worship, which is not trivial at all, the reader mentions in his blessing that God elected the entire people of Israel and gave them his Torah.  
+
+Adiel Kadari
+
 Fig. 2: The highlighted lines at bottom show the blessing cited in Babylonian Talmud, Berakhot 11b: "who has chosen us from all peoples and given us the Torah." The highlighted section above contains the respective blessings: "who has not made me a heathen" (goy), and "who has not made me a woman." Both are crossed out; note that the text to the first blessing has been entirely obliterated, due to censorship.
 
 ### Dead Sea Scrolls
 
-###   
 Lamentations at Qumran
 
 <img src="https://web.archive.org/web/20220806225340im_/https://www.library.upenn.edu/sites/default/files/2019-10/sec2.jpg" alt="Fig. 1" width="1800" height="2588">
@@ -167,7 +163,7 @@ Adele Berlin
     
 *   **Safrai, Shmuel.** _The Literature of the Sages._ (Assen, Netherlands: Van Gorcum; Philadelphia: Fortress Press, 1987)
     
-*   **Signer , Michael A. and Van Engen, John H. (editors).** J_ews and Christians in Twelfth-Century Europe._ (Notre Dame Conferences in Medieval Studies, No. 10. University of Notre Dame, 2001)
+*   **Signer , Michael A. and Van Engen, John H. (editors).** J\_ews and Christians in Twelfth-Century Europe.\_ (Notre Dame Conferences in Medieval Studies, No. 10. University of Notre Dame, 2001)
     
 *   **Smalley, Beryl.** _Study of the Bible in the Middle Ages._ (Notre Dame University Press, 1964)
     
