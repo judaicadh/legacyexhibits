@@ -1,5 +1,13 @@
 ---
 title: The Jewish Home Dwelling on the Domestic, the Familial, and the Lived-In
+description: The domestic life of Jews, their homes, houses, and households, was
+  the subject of the 2019-20 Katz Center research theme. This exhibition
+  highlights examples of this most formative and intimate of contexts for Jewish
+  life drawing from texts in the Penn Libraries’ collections and from around the
+  world. These contributions interpret Jewish domestic culture, architecture,
+  clothing, landscape, and material evidence through the lens of archaeological,
+  anthropological, historical, legal, literary, and visual research. The eras
+  covered span 3,000 years from the ancient Near East to modern times.
 date: 2019-2020
 hero:
   title: The Jewish Home Dwelling on the Domestic, the Familial, and the Lived-In
