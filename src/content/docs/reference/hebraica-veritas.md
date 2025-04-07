@@ -11,6 +11,8 @@ hero:
   title: Hebraica Veritas?
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 1999-2001 Fellows at the University of Pennsylvania
+  image:
+    file: ../../../../src/assets/HebraicaVeritas/veritas-splash.jpg
 slug: hebraica-vertias
 tableOfContents:
   minHeadingLevel: 2
@@ -363,7 +365,7 @@ This text is perhaps the most rhetorically powerful statement of the repudiation
     
 *   **Hames, Chaim.** _The Art of Conversion: Christianity and Kabbalah in the Thirteenth Century_. (Leiden: E. J. Brill, 2000)
     
-*   **Horowitz, Elliot.** "A Different Mode of Civility': Lancelot Addison on the Jews of Barbary," in S_tudies in Church History 29, Christianity and Judaism papers read at the 1991 Summer Meeting and the 1992 Winter Meeting of the Ecclesiastical History Society,_ edited by Diana Wood (Cambridge, Published for the Ecclesiastical History Society by Blackwell Publishers, 1992: 309-325)
+*   **Horowitz, Elliot.** "A Different Mode of Civility': Lancelot Addison on the Jews of Barbary," in S\_tudies in Church History 29, Christianity and Judaism papers read at the 1991 Summer Meeting and the 1992 Winter Meeting of the Ecclesiastical History Society,\_ edited by Diana Wood (Cambridge, Published for the Ecclesiastical History Society by Blackwell Publishers, 1992: 309-325)
     
 *   **Katchen, Aaron L.** _Christian Hebraists and Dutch Rabbis: Seventeenth Century Apologetics and the Study of Maimonides' Mishneh Torah_. (Cambridge, MA: Harvard Univ. Press, 1984)
     
