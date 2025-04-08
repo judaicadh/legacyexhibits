@@ -324,6 +324,6 @@ The latter gesture, captured in this photograph of Belleville Rabbi Emmanuel Cho
 *   Yael Zerubavel - Rutgers University / Dalck & Rose Feith Family Fellowship
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to the staff of the Rare Book and Manuscript Library, including David McKnight for permitting the reproduction of materials in the RBML collection, to Dennis Mullen, Chris Lippa, John Pollack and the digitization team at SCETI, to Josef Gulka for scanning materials on site at the Library at the Katz Center. Leslie Vallhonrat deserves special recognition and thanks for her beautiful webdesign, her organizational prowess, her attention to detail, and for her patience and good humor. Thank you Leslie!
+Special thanks to the staff of the Rare Book and Manuscript Library, including David McKnight for permitting the reproduction of materials in the RBML collection, to Dennis Mullen, Chris Lippa, John Pollack and the digitization team at SCETI, to Josef Gulka for scanning materials on site at the Library at the Katz Center. Leslie Vallhonrat deserves special recognition and thanks for her beautiful webdesign, her organizational prowess, her attention to detail, and for her patience and good humor. Thank you Leslie!

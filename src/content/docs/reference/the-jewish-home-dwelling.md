@@ -336,4 +336,6 @@ In 1919, Sigmund Freud published an essay that focuses on the term _heimlich_, t
 *   Liliane Weissberg - Christopher H. Browne Distinguished Professor in the School of Arts & Sciences, and Professor of German and Comparative Literature at the University of Pennsylvania / Ellie and Herbert D. Katz Distinguished Fellowship
     
 
+## **Special thanks**
+
 Special thanks to all of our contributors. This year's exhibition is especially indebted to Lido Giovacchini who has meticulously reviewed the content and created the pages for this year’s exhibition. Thanks also to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit, to Bruce Nielsen and Josef Gulka at the Library at the Katz Center, Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscripts, and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit.

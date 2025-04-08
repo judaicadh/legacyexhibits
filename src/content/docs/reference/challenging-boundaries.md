@@ -344,6 +344,6 @@ Chava Weissler
 *   Michael Swartz - Ohio State University/CAJS 2004
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to Etty Lassman, CAJS Administrative Assistant to the Fellows, and to the Klau Library, Hebrew Union College-Jewish Institute of Religion (Cincinnati, Ohio) for providing scanned images; to Leslie Vallhonrat and Michael Winkler of the Penn Library Web Unit for their indefatigable collaboration in the exhibit's design and mounting; and to Arthur Kiron, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.
+Special thanks to Etty Lassman, CAJS Administrative Assistant to the Fellows, and to the Klau Library, Hebrew Union College-Jewish Institute of Religion (Cincinnati, Ohio) for providing scanned images; to Leslie Vallhonrat and Michael Winkler of the Penn Library Web Unit for their indefatigable collaboration in the exhibit's design and mounting; and to Arthur Kiron, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.

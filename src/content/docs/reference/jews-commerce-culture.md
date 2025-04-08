@@ -398,6 +398,6 @@ The diamond sector in particular offered jobs that were compatible with the vari
 *   Marcin Wodzinski - University of Wroclaw / Ella Darivoff Fellowship
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to the staff of the Rare Book and Manuscript Library, including David McKnight and Nancy Shawcross for permitting the reproduction of materials in the RBML collection, to Dennis Mullen, Chris Lippa, John Pollack, Marissa Hendriks and the digitization team at SCETI, to Josef Gulka for scanning materials on site at the Library at the Katz Center and to Michelle Chesner for her ideas and help in locating images for this exhibition. Our greatest thanks are reserved for Leslie Vallhonrat for her exceptional web-design skills, her organizational prowess, her attention to detail, and for her patience and good humor. Thank you Leslie!
+Special thanks to the staff of the Rare Book and Manuscript Library, including David McKnight and Nancy Shawcross for permitting the reproduction of materials in the RBML collection, to Dennis Mullen, Chris Lippa, John Pollack, Marissa Hendriks and the digitization team at SCETI, to Josef Gulka for scanning materials on site at the Library at the Katz Center and to Michelle Chesner for her ideas and help in locating images for this exhibition. Our greatest thanks are reserved for Leslie Vallhonrat for her exceptional web-design skills, her organizational prowess, her attention to detail, and for her patience and good humor. Thank you Leslie!

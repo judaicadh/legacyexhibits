@@ -357,6 +357,6 @@ In fact, far from functioning outside politics, from the middle of the nineteent
 *   Irene Tucker - University of California, Irvine / Maurice Amado Foundation Fellowship
     
 
-#### **Special thanks**
+## **Special thanks**
 
 Special thanks above all to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit and for meticulously reviewing every detail, to Bruce Nielsen and Josef Gulka at the Library at the Katz Center, as well as to Eri Mizukane and Thomas Hensle at the Kislak Center for Special Collections, Rare Books and Manuscript and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the digitization of images for this exhibition.

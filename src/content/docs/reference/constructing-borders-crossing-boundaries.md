@@ -369,6 +369,6 @@ Around the same time that Mendele published his novel in Eastern Europe, across 
 *   Joanna Weinberg - University of Oxford / Ivan & Nina Ross Family Fellowship
     
 
-**Special Thanks**
+## **Special Thanks**
 
 Special thanks to Leslie Vallhonrat, the Penn Libraries' exceptionally skilled Web Unit manager for designing this web exhibit and for meticulously reviewing every detail; to Ian Bogus and the staff of the Schoenberg Center for Electronic Text and Image, Edwin Deegan and Richard Griscom at the Fisher Fine Arts Library at Penn, Josef Gulka, Eri Mizukane, Bruce Nielsen, John Pollack, and Elton-John Torres for all their time and effort coordinating the digitization of images for this exhibition.

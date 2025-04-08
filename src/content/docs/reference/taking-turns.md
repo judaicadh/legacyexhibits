@@ -323,6 +323,6 @@ Contemporary voices calling for yet another change in the Law of Return, in ligh
 *   Claude Stuczynski (Alonso de Cartagena | Portuguese Conversos) - Bar-Ilan University / Primo Levi Fellowship
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to Leslie Vallhonrat for her expert web design, keen editorial eye, and hard work and to Dr. Bruce Nielsen, Josef Gulka, and Elton-John Torres for their scanning labors, their enthusiasm and their overall support.
+Special thanks to Leslie Vallhonrat for her expert web design, keen editorial eye, and hard work and to Dr. Bruce Nielsen, Josef Gulka, and Elton-John Torres for their scanning labors, their enthusiasm and their overall support.

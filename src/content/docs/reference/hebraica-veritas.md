@@ -439,6 +439,6 @@ This text is perhaps the most rhetorically powerful statement of the repudiation
 *   Israel Yuval - Hebrew University/CAJS 2000
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to **Etty Lassman** for her assistance and expertise in producing the images for this exhibit, and to **Arthur Kiron** for his assistance in its organization.
+Special thanks to **Etty Lassman** for her assistance and expertise in producing the images for this exhibit, and to **Arthur Kiron** for his assistance in its organization.

@@ -424,6 +424,6 @@ Moreover, American rabbis in their sermons and responsa, commentaries and polemi
 *   Joanna Weinberg - University of Oxford, Oxford Centre for Hebrew and Jewish Studies/CAJS 2006
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to **Leslie Vallhonrat** of the Penn Library Web Unit for her collaboration in the exhibit's design and mounting; and to **Arthur Kiron**, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.
+Special thanks to **Leslie Vallhonrat** of the Penn Library Web Unit for her collaboration in the exhibit's design and mounting; and to **Arthur Kiron**, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.

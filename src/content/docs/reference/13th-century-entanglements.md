@@ -334,6 +334,6 @@ As interesting as the anonymous commentary is in itself, the physical codex shed
 *   Rebecca Winer - Villanova University / Maurice Amado Foundation Fellowship
     
 
-#### **Special thanks**
+## **Special thanks**
 
-#### to Leslie Vallhonrat, Manager of the Penn Libraries' Web Unit, for her creativity, expert web design, and hard work, to Amey Hutchins for her expert advice and help with the Lawrence J. Schoenberg Collection of medieval manuscripts, and to Dr. Bruce Nielsen, Josef Gulka, John Pollack, Elton-John Torres, and Chris Lippa for their scanning labors, their enthusiasm and their overall support.
+Special thanks to Leslie Vallhonrat, Manager of the Penn Libraries' Web Unit, for her creativity, expert web design, and hard work, to Amey Hutchins for her expert advice and help with the Lawrence J. Schoenberg Collection of medieval manuscripts, and to Dr. Bruce Nielsen, Josef Gulka, John Pollack, Elton-John Torres, and Chris Lippa for their scanning labors, their enthusiasm and their overall support.

@@ -296,6 +296,6 @@ One key source for the study is Algeria's Responsa literature from the 16th-18th
 *   Yaron Tsur - Tel Aviv University/CAJS 2007
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to David McKnight and his digitization team at SCETI and to Leslie Vallhonrat in the Van Pelt Systems department for their amazing efforts in bringing the exhibit to completion and launching it on the web; and to Arthur Kiron, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.
+Special thanks to David McKnight and his digitization team at SCETI and to Leslie Vallhonrat in the Van Pelt Systems department for their amazing efforts in bringing the exhibit to completion and launching it on the web; and to Arthur Kiron, Penn Library Curator of Judaica Collections for his assistance in organizing this virtual exhibit.

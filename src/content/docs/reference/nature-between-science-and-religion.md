@@ -293,6 +293,6 @@ Sacha Stern - University College London
 
 Heidi Voskuhl - University of Pennsylvania / Jody Ellant and Howard Reiter Family Fellowship
 
-#### **Special thanks**
+## **Special thanks**
 
 Special thanks to all of our contributors, and above all to Leslie Vallhonrat, the Penn Libraries' peerless Web Unit manager for designing this web exhibit and for meticulously reviewing every detail. This web exhibition was made possible by the help of Bruce Nielsen and Josef Gulka at the Library at the Katz Center, as well as by Eri Mizukane at the Kislak Center for Special Collections, Rare Books and Manuscript and Michael Overgard and the staff at the Schoenberg Center for Text and Image (SCETI) for their time and unflagging efforts coordinating the production of digital images for this exhibit. Special thanks as well to Dr. A. Mitchell Fraas at the Kislak Center for sending on short notice high resolution scans of the Ptolemaic map of the world featured in the 2017 exhibition he curated entitled "Expanding Earth: Travel, Encounter, and Exchange" and Dr. Rachel Heuberger, Dr. Ute Luise Simeon, and the staff at the University of Frankfurt Library for their help locating and sending us a color reproduction of the title page of a rare copy of the first Yiddish translation of _Image du Mond (Image of the World)_, held in their collection.

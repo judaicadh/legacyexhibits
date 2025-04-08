@@ -321,6 +321,6 @@ In contrast to the strict interpretation of the Second Commandment in the Hellen
 *   Rina Talgam - Hebrew University / Louis & Bessie Stein Fellowship
     
 
-**Special Thanks**
+## **Special Thanks**
 
-to David McKnight and his digitization team at SCETI and to Josef Gulka at the Center for Advanced Judaic Studies Library for his ideas and help in locating images for this exhibition.
+Special thanks to David McKnight and his digitization team at SCETI and to Josef Gulka at the Center for Advanced Judaic Studies Library for his ideas and help in locating images for this exhibition.
