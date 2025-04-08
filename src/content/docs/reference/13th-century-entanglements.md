@@ -28,13 +28,9 @@ Exhibition cover design adapted from a decorative incipit and illuminated motifs
 
 Elisabeth Hollender
 
+![hollender50r900@2x.jpg](/legacyexhibits/assets/images/13thCentury/hollender50r900%402x.jpg)
+![img_1.png](/legacyexhibits/assets/images/13thCentury/img_1.png)
  
- ![hollender50r900@2x.jpg](/legacyexhibits/assets/images/13thCentury/hollender50r900%402x.jpg)
-
-[](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=1)
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fol%20227.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=2)
-
 Rare ms. 382 in the collection of the Library at the Katz Center for Advanced Judaic Studies is a _mahzor_ (festive prayerbook) for the autumn holidays according to the Western Ashkenazic rite. It was copied during the fourteenth century, probably in the Rhineland area of southern Germany and northern Italy. It contains the liturgical poetry (\_piyyutim\_) recited in the synagogue on both days of _Rosh ha-shanah_, on Yom Kippur, on the first and second day of _Sukkot_, the intermediate Sabbath during _Sukkot_ and on _Shemini Atseret_, but it lacks most of the standard prayers said on these occasions because the precentor would have known these by heart. Today, the volume is incomplete, beginning with _musaf_ (the additional prayers) recited on the first day of _Rosh ha-shanah_ and ending with _musaf_ on _Shemini Atseret._ In its complete form it would have contained more than 280 folio leaves (rather than the extant 252 folios). In addition to at least two quires missing at the beginning and one quire missing at the end, several pages have been cut out of the manuscript. The manuscript was rebound in (early) modern times and apparently after that was damaged, probably by fire.
 
 During the thirteenth and fourteenth centuries, several changes took place in the production of liturgical manuscripts in Ashkenaz that influenced both the selection of texts and the appearance of the texts on the page. Notwithstanding unifying tendencies, many communities retained their local traditions about which piyyutim to say when, as mirrored by the unusual ordering of _yotsrot_ for _Sukkot_ in the Katz Center's _mahzor_. Most textual changes that spread throughout many communities pertain to the omission of _piyyutim_, e.g. many communities decided to abbreviate the recitation of _qedushta'ot,_ the complex compositions adorning the _Amidah_ on Sabbaths and holidays, by skipping parts of the _rehitim,_ the series of highly structured poems in the penultimate position of the _qedushta,_ especially on the high holidays when many _piyyutim_ were recited. The _mahzor_ of the Katz Center displays a selection that is largely in accordance with later habits, although in one case a _piyyut_ that had been omitted by the original scribe was added on the margins by an almost contemporary hand (f. 143r). This note was preserved when the margins were cut at a later time, suggesting that the community using the _mahzor_ continued to recite this _piyyut_. Interestingly, the _mahzor_ does not share another textual change of the late thirteenth, early fourteenth century, namely the omission of the strings of verses inserted into the first three _piyyutim_ of _qedushta'ot,_ although it rarely contains more than three or four verses, even though earlier manuscripts may have up to seven or eight verses in each string.
@@ -60,6 +56,7 @@ Isaac was a careful recorder of his teachers' rulings and religious practices, a
 Ruth Karras
 
 ![morgan.jpg](/legacyexhibits/assets/images/13thCentury/morgan.jpg)
+
 David and Jonathan were the paradigm of male friendship in both the Christian and Jewish Middle Ages. Their bond was understood in both traditions as following in the classical pattern of friendships, especially in a military context, between an older and a younger man, and by the later Middle Ages in both Christian and Jewish culture took on the trappings of chivalry. The story was retold in prose and verse, in Latin and a variety of medieval vernaculars, including Yiddish, and Christian and Jewish biblical commentators used it to make a variety of points, only some of which related to the nature of male friendship.
 
 In a magnificent thirteenth-century book of Bible illustrations mostly contained in Morgan Library MS 638, folio 28 verso, we find this illustration of 1 Samuel 17 and 18. David, as a youth, killed Goliath, and Jonathan, the son of King Saul, was so taken with him that he "loved him as himself" and they made a covenant, after which Jonathan gave David his cloak, weapons and sword-belt.
@@ -89,8 +86,9 @@ Pictured here is the front page of the Lemberg 1892 edition of _Sefer ha-Temunah
 
 Alexander Fidora
 
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/pugio.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/reception-raymond-martis-pugio-fidei?item=0)
- ![fidora900@2x.jpg](/legacyexhibits/assets/images/13thCentury/fidora900%402x.jpg)
+![img_3.png](/legacyexhibits/assets/images/13thCentury/img_3.png)
+
+![fidora900@2x.jpg](/legacyexhibits/assets/images/13thCentury/fidora900%402x.jpg)
 The Catalan Dominican Ramon Martí is generally considered to be the first Christian Hebraist. In his most famous work, the _Pugio Fidei_ or _Dagger of Faith_, written around 1280, he made abundant use of Jewish post-biblical literature in order to prove his claim that the Messiah had already come. Thus, he drew heavily on the Talmud and the Midrashim, which are quoted both in the Hebrew original as well as in Latin translation. The Library of the Katz Center owns the _editio princeps_ of this seminal work, published by Joseph De Voisin in 1651 in Paris.
 
 ### The Pentateuch Commentary of Moses Nahmanides
@@ -99,7 +97,7 @@ Mordechai Z. Cohen
 
  
 ![cohennahmanide001900@2x.jpg](/legacyexhibits/assets/images/13thCentury/cohennahmanide001900%402x.jpg)
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohe2nnahmanide002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/pentateuch-commentary-moses-nahmanides?item=1)
+![img_2.png](/legacyexhibits/assets/images/13thCentury/img_2.png)
 
 Displayed here are two pages from the Pentateuch commentary of Moses Nahmanides (1194-1270), the great Catalan exegete, talmudist, and kabbalist. As reflected in this commentary, Nahmanides stood at an intellectual crossroads of multiple interpretive traditions that he inherited in partial and refracted ways. On the one hand, he was heir to the Geonic-Andalusian school, which migrated into Christian Spain as the _Reconquista_ progressed. Although Nahmanides evidently did not read Arabic, he avidly absorbed a mediated version of Geonic and Andalusian learning in the Hebrew writings of Abraham Ibn Ezra and David Kimhi, as well as the recently composed Hebrew translations - by Judah and Samuel Ibn Tibbon and Judah Alharizi - of works by Saadia, Ibn Janah and Maimonides. At the same time, Nahmanides was influenced by the momentous innovations in talmudic learning in twelfth-century northern France, which was accompanied by a deep respect for Rashi and his Bible commentaries. On the other hand, Nahmanides largely ignores - or perhaps was unaware of - the refined _peshat_ commentaries of Rashi's students, the great _pashtanim_ Joseph Qara and Rashbam.
 
@@ -112,8 +110,7 @@ Although he his one among many Jewish authors over the centuries who have interp
 Rami Reiner
 
 ![reiner001900@2x.jpg](/legacyexhibits/assets/images/13thCentury/reiner001900%402x.jpg)
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/rein2er002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/becoming-tosafot?item=1)
+![img_4.png](/legacyexhibits/assets/images/13thCentury/img_4.png)
 
 The copy of _Tractate Bekhorot_ included in this exhibition is one of the volumes of the first complete edition of the Talmud, printed in the printing house of Daniel Bomberg in Venice between 1520 and 1523. Bomberg's edition had a huge impact on the use and study of the Talmud. The page layout introduced in the Venice printing has been preserved in virtually every subsequent printing of the Talmud, including the famous Vilna edition and the recent Schottenstein edition. This is no accident. The advent of printing changed the way in which citations to the Talmud are given. During the manuscript era, scholars would refer to a specific Talmudic discussion by its name and the name of the chapter in which it appeared. After the printed editions took hold, it became possible to give a much more precise reference to the page within the tractate on which the source appeared. The popularity and wide distribution of the Bomberg edition led its page numbers to become the universal standard.
 
@@ -170,8 +167,7 @@ The texts in this volume include: Solomon ibn Ayyub's translation of Averroes' c
 Katelyn Mesler
 
 ![mesler149@2x.jpg](/legacyexhibits/assets/images/13thCentury/mesler149%402x.jpg)
-![mesler149@2x.jpg](/legacyexhibits/assets/images/13thCentury/mesler149%402x.jpg)
-
+ 
 Among the scientific writings of Late Antiquity and the Middle Ages are treatises known as Lapidaries, short encyclopedic works on the properties of stones and minerals. One type of lapidary, exemplified by Marbode of Rennes's famous Latin work _On Stones_, listed the name of each stone (often alphabetically), followed by details such as their color, where they are found, and any special "virtues" or powers that the stone possesses (such as the loadstone's power of attraction or the bezoar's reputation as an antidote for poison). Another type of lapidary was concerned with the symbolic meaning of the twelve biblical stones of the high priest's breastplate and the heavenly Jerusalem.
 
 _The Techel/Azareus Complex_, pictured here, is a Latin lapidary in which engravings of astrological symbols are said to imbue the stones with powers. The prologue (in red) offers an origin story for the text and the stones it describes: "In the name of the Lord, Amen. This is Cheel's great, precious, and secret little book of the sigils that the children of Israel made in the desert after their departure from Egypt, in accordance with the motion and course of the planets and constellations." Entries for the stones begin with the phrase "If you find..." and then describe in detail the images, based largely on Greco-Roman astrological iconography, that one might find engraved on a stone. The reader is then instructed on the special virtues and magical uses of any stone that meets the description.
