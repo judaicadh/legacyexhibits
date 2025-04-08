@@ -68,10 +68,8 @@ The book was made in France around the middle of the thirteenth century, with th
 ### A Hebrew Christian Calendar
 
 Elisheva Baumgarten
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/baumgartenr900%402x1.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/hebrew-christian-calendar?item=0)
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/baumgartenv900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/hebrew-christian-calendar?item=1)
+![baumgartenr900@2x1.jpg](../../../assets/13thCentury/baumgartenr900%402x1.jpg)
+![baumgartenv900@2x.jpg](../../../assets/13thCentury/baumgartenv900%402x.jpg)
 
 This late thirteenth-century Hebrew volume, known as the Northern French Hebrew Miscellany (Falter Facsimile Editions; British Library 11639), is among the most beautiful extant illuminated Hebrew manuscripts copied by a man noted in the colophon as Benjamin the Scribe. As in many medieval Hebrew liturgical compendia, this collection includes numerous Jewish calendric computations as well as a complex diagram of the signs of the zodiac.
 
@@ -90,16 +88,15 @@ Pictured here is the front page of the Lemberg 1892 edition of _Sefer ha-Temuna
 Alexander Fidora
 
 [<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/pugio.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/reception-raymond-martis-pugio-fidei?item=0)
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fidora900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/reception-raymond-martis-pugio-fidei?item=1)
-
+![fidora900@2x.jpg](../../../assets/13thCentury/fidora900%402x.jpg)
+ 
 The Catalan Dominican Ramon Martí is generally considered to be the first Christian Hebraist. In his most famous work, the _Pugio Fidei_ or _Dagger of Faith_, written around 1280, he made abundant use of Jewish post-biblical literature in order to prove his claim that the Messiah had already come. Thus, he drew heavily on the Talmud and the Midrashim, which are quoted both in the Hebrew original as well as in Latin translation. The Library of the Katz Center owns the _editio princeps_ of this seminal work, published by Joseph De Voisin in 1651 in Paris.
 
 ### The Pentateuch Commentary of Moses Nahmanides
 
 Mordechai Z. Cohen
 
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohennahmanide001900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/pentateuch-commentary-moses-nahmanides?item=0)
+![cohennahmanide001900@2x.jpg](../../../assets/13thCentury/cohennahmanide001900%402x.jpg) 
 
 [<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohe2nnahmanide002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/pentateuch-commentary-moses-nahmanides?item=1)
 
@@ -113,8 +110,7 @@ Although he his one among many Jewish authors over the centuries who have interp
 
 Rami Reiner
 
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/reiner001900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/becoming-tosafot?item=0)
-
+![reiner001900@2x.jpg](../../../assets/13thCentury/reiner001900%402x.jpg)
 [<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/rein2er002900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/becoming-tosafot?item=1)
 
 The copy of _Tractate Bekhorot_ included in this exhibition is one of the volumes of the first complete edition of the Talmud, printed in the printing house of Daniel Bomberg in Venice between 1520 and 1523. Bomberg's edition had a huge impact on the use and study of the Talmud. The page layout introduced in the Venice printing has been preserved in virtually every subsequent printing of the Talmud, including the famous Vilna edition and the recent Schottenstein edition. This is no accident. The advent of printing changed the way in which citations to the Talmud are given. During the manuscript era, scholars would refer to a specific Talmudic discussion by its name and the name of the chapter in which it appeared. After the printed editions took hold, it became possible to give a much more precise reference to the page within the tractate on which the source appeared. The popularity and wide distribution of the Bomberg edition led its page numbers to become the universal standard.
@@ -127,7 +123,7 @@ Finally, the layout of the printed page of the Talmud could be considered a furt
 
 Rebecca Winer and Sol Cohen
 
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/cohenwiner-comp.jpg" alt="" width="1800" height="2588">
+ ![cohenwiner-comp.jpg](../../../assets/13thCentury/cohenwiner-comp.jpg)
 
 During the thirteenth century in the Latin Mediterranean, notaries were required to register all of the documents they drafted for their clients in a protocol that they kept for future reference. Currently in France, the medieval town of Perpignan was under the political control of the rulers of the Crown of Aragon (Aragon, Catalonia, Valencia, the Balearics, Montpellier et al.). The thirteenth-century Crown of Aragon housed many prosperous and intellectually vibrant Jewish communities. The major Jewish urban center of Perpignan produced the highly original thinker Menahem ha-Meiri (who appears in Latin in the protocols of the 1270s on as Vidal Salamó Meir).
 
@@ -139,10 +135,9 @@ The bottom right of this loan displays Mosse de Soal's name in Hebrew: משה �
 
 Rita Copeland
 
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/copeland1629-1r900r%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/revival-ciceronian-rhetoric?item=0)
-
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/copel2and1630-80v900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/revival-ciceronian-rhetoric?item=1)
-
+![copeland1629-1r900r@2x.jpg](../../../assets/13thCentury/copeland1629-1r900r%402x.jpg)
+![copel2and1630-80v900@2x.jpg](../../../assets/13thCentury/copel2and1630-80v900%402x.jpg)
+ 
 During 2012-13, the University of Pennsylvania Rare Book Collection acquired two important medieval manuscripts that show the revival of Ciceronian rhetorical study in the later Middle Ages.
 
 **Ms. Codex 1629 - Commentaria ad Rhetoricam Ciceronis**
@@ -173,7 +168,7 @@ The texts in this volume include: Solomon ibn Ayyub's translation of Averroes' c
 
 Katelyn Mesler
 
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/mesler149%402x.jpg" alt="See facsimile of LJS 449, folio 32v" width="1800" height="2588">
+![mesler149@2x.jpg](../../../assets/13thCentury/mesler149%402x.jpg)
 
 Among the scientific writings of Late Antiquity and the Middle Ages are treatises known as Lapidaries, short encyclopedic works on the properties of stones and minerals. One type of lapidary, exemplified by Marbode of Rennes's famous Latin work _On Stones_, listed the name of each stone (often alphabetically), followed by details such as their color, where they are found, and any special "virtues" or powers that the stone possesses (such as the loadstone's power of attraction or the bezoar's reputation as an antidote for poison). Another type of lapidary was concerned with the symbolic meaning of the twelve biblical stones of the high priest's breastplate and the heavenly Jerusalem.
 
