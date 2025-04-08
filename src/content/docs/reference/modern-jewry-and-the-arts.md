@@ -15,7 +15,7 @@ tableOfContents:
   maxHeadingLevel: 4
 template: doc
 ---
-## Introduction
+# Introduction
 
 This year's exhibition on Modern Jewry and the Arts presents work in a rich diversity of cultural media and genres. Jewish artists have been respected contributors to modern music, film, theater, and visual art, and their activities encompass high art, mass media, and popular culture forms. But what is "Jewish Art?" Any art produced by Jews? Any art with Jewish content? Is there a distinctive Jewish style?
 
@@ -27,11 +27,11 @@ Our exhibit offers a few examples of works that address these issues and our dis
 
 Carol Zemel
 
-## Exhibit
+# Exhibit
 
-### Art
+## Art
 
-#### **Maurycy Gottlieb, Self-Portrait, 1878**
+### **Maurycy Gottlieb, Self-Portrait, 1878**
 
 Ezra Mendelsohn
 
@@ -61,7 +61,7 @@ Dianna Linden
 
 In 1936, Ben Shahn (1898-1969) was selected to create a mural for the Jersey Homesteads, a Jewish workers' utopian community in New Jersey. This was the first mural that Shahn completed under the New Deal, and he painted it in true fresco which he mastered as an apprentice to Diego Rivera. Inspired by Rivera, by Italian Renaissance frescoes, modernist montage and avant-garde film (Shahn was friends with film theorist Jay Leyda), Shahn created a multi-level fresco sub-divided into individual vignettes, and marked by quick thematic and temporal shifts. Divided into three main sections, the untitled fresco represents Jewish immigration to America, the oppressive tenements and sweatshops of New York, and the reforms demanded by labor unions and those provided by the New Deal. Rather than a path specific to Jews, Shahn proposes a direction for the whole working class to follow. Namely, to build cross-union and inter-cultural alliances, to move back to the land, and live by the example of the Jersey Homesteads.
 
-### Music
+## Music
 
 ### "ENTARTETE MUSIK" - Degenerate Music
 
@@ -109,27 +109,85 @@ Mark Kligman
 
 The growth of Jewish music over the past few decades has been staggering. While it is impossible to provide an exact number of recordings, since no distributors or retail outlets service the entire Jewish community, members of the industry estimate that there are currently over 2,000 recordings of Jewish music available and close to 250 records released each year. There are over four hundred artists and groups performing Jewish music today and most listeners and consumers are aware of only a few. The creation of new Jewish music, which ranges greatly in terms of musical styles, is found throughout the Jewish community: religious communities, Orthodox, Conservative, Reform and Renewal; Yiddishists, Yiddish songs and klezmer music; Israeli; and, art music composers and established popular artists. Jewish music has arrived and is a growing industry.
 
-\* \* \* \* \* \* \*
+***
 
 Shlomo Carlebach was an important transitory figure in the world of American Jewish Music. He was born in Germany, his father was a rabbi, and trained in a yeshiva. While serving as a rabbi in New Jersey in the 1950s he began to write music. His songs combine aspects of hassidic music and folk music. Like hassidic music Carlebach songs are in two or three parts with each part repeating. Carlebach songs are "folk" music in that the melodies are accessible and easy to sing. He sang songs in various Jewish and non-Jewish contexts seeking to engage young Jews into their tradition. Music was his vechicle. One of his earliest recordings Shlomo Carlebach at the Village Gate provides an example of his well-known songs based on a verse from psalms, "Eso Einai."
 
-\* \* \* \* \* \* \*
-
+***
 An American born baby boomer generation sought to experience Judaism and adapt their American journey. Avraham Fried is a Lubavitcher Hasid living in the Crown Heights neighborhood of Brooklyn. His music is popular in the community. His songs are in Hebrew, Yiddish and English that are Hassidic in origin or original. One popular song is "Didoh Bei" which is based on a passage from the Talmud Nedarim 41a, "If you have knowledge", the song was written by Yossi Green. "Didoh Bei" is commonly heard at Orthodox weddings. The musical style combines pop music and Middle Eastern rhythms and styles.
 
-\* \* \* \* \* \* \*
+***
 
 Debbie Friedman grew up feeling that liturgy in the synagogue was not accessible. She sought to make liturgy prayerful and participatory. She began writing music for youth services in the 1970s and as a song leader she created participatory services at summer camps. For two and half decades her music has become widely known throughout American Reform and Conservative synagogues. Some of her most popular liturgical melodies are "Oseh Shalom" and "Mi Shebeirach." Her English songs provide new insights to biblical passages such as "Miriam's Song" and "L'chi Lach." The song "L'chi Lach" is an interpretation of the biblical passage Lech Lecha, Abraham's call to go out.
 
-\* \* \* \* \* \* \*
+***
 
 American born musicians who played traditional music started the Klezmer Revival of the 1970s, they sought to discover the music of their heritage. The 78 rpm recordings of the 1920s and 1930s served as models for repertoire and style, the recordings of legendary clarinetist Dave Tarras and Naftule Brandwein. At first the klezmer revivalists reproduced the earlier recordings then they sought to innovate and adapt. Three renditions of "Der Heyser Bulgar" \["The Hot Bulgar"\] trace this line of development: Brandwein's 1920s recording, the Klezmer Conservatory Band with Itzhak Perlman, and by the fusion klezmer band The Klezmatics, who instead of full band instrumentation only use percussion with more ornamentation. The birth of new music among secular Yiddishists is growing, one example is The Well, new Yiddish songs based on poetry with the songs written and sung by Chava Alberstein with the Klezmatics, "Zayt Gezunt" \["Farewell"\]).
 
-### Theater & Film
+## Theater & Film
 
-### Dance
+### "Teater kunst tsu der akeyde"
 
-### Institutions & Display
+Nina Warnke
+
+![img_5.png](../../../assets/ModernJewryArts/img_5.png)
+
+The cartoon "Teater kunst tsu der akeyde " (The Attempt to Sacrifice Theater Art) by Lola (pseudonym of the painter Leon Israel, 1887-1955) was published on 2 September 1910 in the Yiddish satirical magazine Der groyser kundes. It is a trenchant critique of the Yiddish theater managers who after having supported literary plays for years had recently produced a series of very popular sentimental melodramas. To critics invested in creating a literary theater this amounted to an unforgivable betrayal of the ideal of "art."
+
+### "Le-an nelech hashavu'ah?" ("Where shall we go to this week?")
+
+Anat Helman
+
+![img_4.png](../../../assets/ModernJewryArts/img_4.png)
+
+A caricature from a late 1930s periodical reflects the popularity of movie going amongst different sectors in Mandated Tel-Aviv. The couple on the left is dressed as typical elegant bourgeoisies; the next couple can be either Kibbutz members visiting the urban cultural center or a couple of urban workers ("poalim"), expressing their socialist-pioneering ideology through their simple clothing; the policeman represents municipal authority -- although in the early 1930s the autonomous Jewish municipal police force of Tel-Aviv was dispersed and combined into the general British police force; and the tiny boy indicates that in Tel-Aviv, like in many other countries at that time, children were eager movie consumers, worrying parents and educators as to potential corrupting effects.
+
+### Bromley Atlas. Borough of Manhattan
+
+Judith Thissen
+
+![img_3.png](../../../assets/ModernJewryArts/img_3.png)
+
+The growth in popularity of the moving pictures began with the nickelodeon around 1905-1906. These small storefront theaters offered a half hour program of moving pictures and illustrated songs for five cents (hence their name). The shows ran continuously from morning to evening. People went day after day, and from one theater to another. "The moving pictures have totally revolutionized the Jewish district. It is heaven and earth and moving pictures," reported the Forverts (Jewish Daily Forward) in May 1908. The nickelodeon boom provided immigrant Jews and their children with unparalleled access to popular entertainment and profoundly changed their recreational patterns. Their enthusiasm for the cinema is exemplified by the fact that the Lower East Side had the highest density of nickelodeons in New York City.
+
+
+### Marcel Ophuls' Hotel Terminus: The Life and Times of Klaus Barbie
+
+Susan Rubin Suleiman
+![img_1.png](../../../assets/ModernJewryArts/img_1.png)
+![img_2.png](../../../assets/ModernJewryArts/img_2.png)
+Klaus Barbie, the head of the Gestapo in Lyon from November 1942 to August 1944, escaped from Europe to South America after the war and was not returned to France until 1983; he was tried four years later and condemned to life imprisonment for crimes against humanity. The Barbie trial, a watershed in French memories of World War II and the Occupation, raised compelling moral and historical issues not only for France but for Germany and the United States (it came to light, decades after the war, that Barbie had worked for several years for the U.S. Army's Counter Intelligence Corps as an "expert on Communism ").
+
+In his 1988 Academy Award-winning documentary, _Hotel Terminus,_ Marcel Ophuls (famous for his earlier film about France under German occupation, _The Sorrow and the Pity_) explores brilliantly the moral and historical issues raised by the Barbie trial, and extends at the same time the art of documentary film. The image here, a black and white photograph taken around 1970, is the opening image of the film: it shows Barbie and two friends celebrating at a New Year's party in Peru. Barbie is the man in the middle, wearing a party hat, with a drink in one hand and an upraised cane in the other. On his right, with his arm around Barbie's neck, is Johannes Schneider-Merck, a young man at the time, who was defrauded soon afterward of a huge sum by Barbie and his pals in a currency speculation scheme. Schneider-Merck, noticeably older than he appears in the photo, is the first person whose memories of Barbie we hear in the film. By opening his documentary with a still photograph taken decades after Barbie's crimes in Lyon and more than a decade before his trial and the making of this film, Ophuls emphasizes the passage of time and the huge distance that exists between the historical subject of the film (the Nazi criminal Barbie) and those who remember him or try to follow his tracks forty years later. Ophuls' film presents "the life and times of Klaus Barbie" not as a linear story, but as a complicated collage of many people's memories of the man and the times.
+
+(For a detailed commentary on this film, see Susan Rubin Suleiman, "History, Memory, and Moral Judgment in Documentary Film: On Marcel Ophuls' _Hotel Terminus: The Life and Times of Klaus Barbie_," forthcoming in the journal _Critical Inquiry_ in 2001 or 2002).
+
+## Dance
+
+### Joseph Lewitan and the Nazification of Dance in Germany
+
+Marion Kant
+
+Joseph Lewitan was there when German modern dance became the one modern art, which the Nazis welcomed. Unlike literature, art or music, German Modern Dance was not declared "degenerate" but was celebrated as a truly German art form. Lewitan was one of the most important dance critics in Germany of his day, and he provides a way into that fascinating story about dance, nationalism and modernity.
+
+In October 1927 the first issue of "_Der Tanz,_ Monatsschrift für Tanzkultur - "_Dance,_ A monthly Journal for Dance Culture" - Lewitan's magazine - was published, the first serious dance journal in Germany. Lewitan's project began at a time when the dance world was locked in a bitter dispute. The core issue of this fierce confrontation was about 'modernity' and 'anti-modernity', about adequate artistic representation, about 'contemporary-ness' and embodiment of the present time. The battle of the dance types reflected the ideological, political and economical divisions in Germany from the beginning of the 20th century.
+
+Soon after the rise of Nazism Lewitan lost all his positions, which he had held in the dance world. In July 1933, "Der Tanz" announced that it was undergoing fundamental changes and a general reorganisation - Lewitan was replaced as editor and his magazine finally 'aryanised'.
+
+Lewitan had entered Germany from Soviet-Russia in 1920 as a Russian and he left Germany as a 'stateless' Jew sometime between December 1937 and July 1938. He emigrated to Paris, fled from the German Wehrmacht just before they marched down the Champs-Élysées in June 1940 to the South of France and reached Casablanca in May 1942.
+
+In dance history Lewitan has been identified as both: the "destructive Jew" who undermined German values by being part of modernity and the "conservative" Jew who could not accept or grasp modernity in an artistic form. He at the same time became a symbol of modernity as a destructive force and its opposite, a representation of anti-modernity as a destructive force. No attempts in history or theory have been made so far to resolve this terrible contradiction, this death sentence.
+
+## Institutions & Display
+
+### OFITSYELER VEGVAYZER NOYYORKER VELT-OYSSHTELUNG (Yiddish guide to the New York World's Fair, 1939/40)
+
+Barbara Kirshenblatt-Gimblett
+
+![img_7.png](../../../assets/ModernJewryArts/img_7.png)
+
+Zionism was by no means the only basis for the Jewish presence at world's fairs. By the 1930s, however, the Zionist movement had succeeded in becoming the "official" national and international Jewish presence at the fair, nowhere more clearly than in the case of the Jewish Palestine Pavilion at the New York World's Fair, 1939/40. Described in much greater detail in the Yiddish guide to the Fair than in the English guide, the Jewish Palestine Pavilion exploited the slippage between the world itself and the world of the fair to perform de facto statehood. The design of the Palestine Pavilion and its contents was in accord with Meyer W. Weisgal's desires, which he recalled years later as "something authentically Palestinian" to show that "in 1938 Jewish Palestine was a reality; its towns, villages, schools, hospitals and cultural institutions had risen in a land that until our coming had been derelict and waste... I wanted a miniature Palestine in Flushing Meadows." Insisting--with no trace of irony--that the pavilion should steer clear of politics, Weisgal applied himself to the "construction of the Jewish State under the shadow of the Trylon and Perisphere, or, as the Jews were fond of calling it, the Lulav and Esrog."[^1]
+[^1]: Meyer W. Weisgal, _Meyer Weisgal, ... So Far: An Autobiography_ (New York: Random House, 1971), pp. 150, 158, 161
 
 ## Selected Bibliography
 
