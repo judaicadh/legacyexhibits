@@ -11,6 +11,8 @@ hero:
   title: Hebraica Veritas?
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 1999-2001 Fellows at the University of Pennsylvania
+  image:
+    file: ../../../../src/assets/HebraicaVeritas/veritas-splash.jpg
 slug: hebraica-vertias
 tableOfContents:
   minHeadingLevel: 2
@@ -351,47 +353,47 @@ This text is perhaps the most rhetorically powerful statement of the repudiation
 
 ## Selected Bibliography
 
-*   **Burnett, Stephen G.** From Christian Hebraism to Jewish Studies: Johannes Buxtorf (1564-1629) and Hebrew Learning in the Seventeenth-CenturyLeiden: E. J. Brill, 1996
+*   **Burnett, Stephen G.** _From Christian Hebraism to Jewish Studies: Johannes Buxtorf (1564-1629) and Hebrew Learning in the Seventeenth-Century_. (Leiden: E. J. Brill, 1996)
     
-*   Christian Hebrew Printing in the Sixteenth Century: Printers, Humanism, and the Impact of the Reformation Helmantica 51/154 (April 2000): 13-42
+*   . "Christian Hebrew Printing in the Sixteenth Century: Printers, Humanism, and the Impact of the Reformation," in _Helmantica_ (51/154 (April 2000): 13-42).
     
-*   **Coudert, Allison P.** The Impact of the Kabbalah in the Seventeenth Century: The Life and Thought of Francis Mercury van HelmontLeiden: E. J. Brill,1999
+*   **Coudert, Allison P.** _The Impact of the Kabbalah in the Seventeenth Century: The Life and Thought of Francis Mercury van Helmont._ (Leiden: E. J. Brill,1999)
     
-*   **Friedman, Jerome.** The Most Ancient Testimony: Sixteenth-CenturyChristian-Hebraica in the Age of Renaissance NostalgiaAthens, OH : Ohio University Press, 1983
+*   **Friedman, Jerome.** _The Most Ancient Testimony: Sixteenth-CenturyChristian-Hebraica in the Age of Renaissance Nostalgia_. (Athens, OH : Ohio University Press, 1983)
     
-*   **Goldish, Matt.** Judaism in the Theology of Sir Isaac NewtonDordrecht and Boston: Kluwer Academic, 1998
+*   **Goldish, Matt.** _Judaism in the Theology of Sir Isaac Newton_. (Dordrecht and Boston: Kluwer Academic, 1998)
     
-*   **Hames, Chaim.** The Art of Conversion: Christianity and Kabbalah in the Thirteenth CenturyLeiden: E. J. Brill, 2000
+*   **Hames, Chaim.** _The Art of Conversion: Christianity and Kabbalah in the Thirteenth Century_. (Leiden: E. J. Brill, 2000)
     
-*   **Horowitz, Elliot.** A Different Mode of Civility': Lancelot Addison on the Jews of Barbary Studies in Church History 29, Christianity and Judaism papers read at the 1991 Summer Meeting and the 1992 Winter Meeting of the Ecclesiastical History Society edited by Diana Wood Cambridge, Published for the Ecclesiastical History Society by Blackwell Publishers, 1992: 309-325
+*   **Horowitz, Elliot.** "A Different Mode of Civility': Lancelot Addison on the Jews of Barbary," in S\_tudies in Church History 29, Christianity and Judaism papers read at the 1991 Summer Meeting and the 1992 Winter Meeting of the Ecclesiastical History Society,\_ edited by Diana Wood (Cambridge, Published for the Ecclesiastical History Society by Blackwell Publishers, 1992: 309-325)
     
-*   **Katchen, Aaron L.** Christian Hebraists and Dutch Rabbis: Seventeenth Century Apologetics and the Study of Maimonides' Mishneh TorahCambridge, MA: Harvard Univ. Press, 1984
+*   **Katchen, Aaron L.** _Christian Hebraists and Dutch Rabbis: Seventeenth Century Apologetics and the Study of Maimonides' Mishneh Torah_. (Cambridge, MA: Harvard Univ. Press, 1984)
     
-*   **Kessler Mesguich, Sophie.** L'enseignement de l'hebreu et de l'arameen a Paris (1530-1560) d'apres les oeuvres grammaticales des lecteurs royaux Les Origines du College de France (1500-1560) Editor Marc Fumaroli Paris: College de France / Klincksieck, 1998, 357-374
+*   **Kessler Mesguich, Sophie.** "L'enseignement de l'hebreu et de l'arameen a Paris (1530-1560) d'apres les oeuvres grammaticales des lecteurs royaux," in _Les Origines du College de France (1500-1560),_ Editor Marc Fumaroli (Paris: College de France / Klincksieck, 1998, 357-374)
     
-*   **Kunz, Marion L., and Guillaume Postel.** Prophet of the Restitution of All Things. His Life and ThoughtThe Hague: Martinus Nijhoff, 1981
+*   **Kunz, Marion L., and Guillaume Postel.** _Prophet of the Restitution of All Things. His Life and Thought_. (The Hague: Martinus Nijhoff, 1981)
     
-*   **Lloyd Jones, G.** The Discovery of Hebrew in Tudor England: A Third LanguageManchester: Manchester University Press, 1983
+*   **Lloyd Jones, G.** _The Discovery of Hebrew in Tudor England: A Third Language_. (Manchester: Manchester University Press, 1983)
     
-*   **Loewe, Raphael.** Hebraists, Christian Encyclopaedia Judaica Jerusalem / New York, 1971-1972
+*   **Loewe, Raphael.** "Hebraists, Christian," in _Encyclopaedia Judaica_ (Jerusalem / New York, 1971-1972)
     
-*   **Manuel, Frank.** The Broken Staff: Judaism through Christian EyesCambridge: Harvard University Press, 1992
+*   **Manuel, Frank.** _The Broken Staff: Judaism through Christian Eyes_. (Cambridge: Harvard University Press, 1992)
     
-*   **Modena, Leone.** Les Juifs presentes aux chretiens: ceremonies et coutumes qui s'observent aujourd'hui parmi les JuifsEditor and Translator Richard Simon. With new introduction by Jacques Le Brun and Gedaliahu \[Guy\] Stroumsa Paris : Les Belles Lettres, 1998
+*   **Modena, Leone.** _Les Juifs presentes aux chretiens: ceremonies et coutumes qui s'observent aujourd'hui parmi les Juifs.,_ Editor and Translator Richard Simon. With new introduction by Jacques Le Brun and Gedaliahu \[Guy\] Stroumsa (Paris : Les Belles Lettres, 1998)
     
-*   **Popper, William.** The censorship of Hebrew booksIntroduction by Moshe Carmilly-Weinberger New York, Ktav Publishing House, 1969
+*   **Popper, William.** _The censorship of Hebrew books.,_ Introduction by Moshe Carmilly-Weinberger (New York, Ktav Publishing House, 1969)
     
-*   **Roussel, Bernard and Gerald Hobbs.** Strasbourg et y a l'Ecole Rhenane d'Exegese (c. 1525-1540) Bulletin de la Societe de l'Histoire du Protestantisme Francaise 135/1 (1989): 36-53
+*   **Roussel, Bernard and Gerald Hobbs.** "Strasbourg et y a l'Ecole Rhenane d'Exegese (c. 1525-1540)," in _Bulletin de la Societe de l'Histoire du Protestantisme Francaise_ (135/1 (1989): 36-53)
     
-*   **Sonne, Isaiah, 1887-1960.** Expurgation of Hebrew books--the work of Jewish scholars : a contribution to the history of the censorship of Hebrew books in Italy in the sixteenth centuryNew York : New York Public Library, 1943
+*   **Sonne, Isaiah, 1887-1960.** _Expurgation of Hebrew books--the work of Jewish scholars : a contribution to the history of the censorship of Hebrew books in Italy in the sixteenth century_. (New York : New York Public Library, 1943)
     
-*   **Steinschneider, Moritz.** Christliche Hebraisten. Nachrichten uber mehr als 400 Gelehrte, welche uber nach biblisches Hebraisch geschrieben habenHildesheim: Dr. H. A. Gestenberg, 1973
+*   **Steinschneider, Moritz.** _Christliche Hebraisten. Nachrichten uber mehr als 400 Gelehrte, welche uber nach biblisches Hebraisch geschrieben haben_. (Hildesheim: Dr. H. A. Gestenberg, 1973)
     
-*   **Van Rooden, Peter T.** Theology, Biblical Scholarship and Rabbinical Studies in the Seventeenth Century: Constantijn L'Empereur (1591-1648) Professor of Hebrew and Theology at LeidenLeiden: E. J. Brill, 1989
+*   **Van Rooden, Peter T.** _Theology, Biblical Scholarship and Rabbinical Studies in the Seventeenth Century: Constantijn L'Empereur (1591-1648) Professor of Hebrew and Theology at Leiden_. (Leiden: E. J. Brill, 1989)
     
-*   **Wirszubski, Chaim.** Pico della Mirandola's Encounter with Jewish MysticismCambridge, MA: Harvard University Press, 1989
+*   **Wirszubski, Chaim.** _Pico della Mirandola's Encounter with Jewish Mysticism_. (Cambridge, MA: Harvard University Press, 1989)
     
-*   **Zinguer, Ilana, ed.** L'Hebreu au Temps de la RenaissanceLeiden: E. J.Brill, 1992
+*   **Zinguer, Ilana, ed.** _L'Hebreu au Temps de la Renaissance_. (Leiden: E. J.Brill, 1992)
     
 
 ## Contributors
