@@ -6,7 +6,7 @@ hero:
   title: "From Written to Printed Text"
   tagline: "Transmission of Jewish Tradition"
   image:
-    file: ../../../../src/assets/WrittenWord/van-bashuysen.png
+    file: "../../../../src/assets/WrittenWord/van-bashuysen.png"
 slug: writtenword-printedtext
 tableOfContents:
   minHeadingLevel: 2

@@ -28,8 +28,8 @@ Exhibition cover design adapted from a decorative incipit and illuminated motifs
 
 Elisabeth Hollender
 
-[<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/hollender50r900%402x.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=0)
-
+![hollender50r900@2x.jpg](../../../assets/13thCentury/hollender50r900%402x.jpg)
+ 
 [<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fol.%20142.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=1)
 
 [<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/fol%20227.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200901103830mp_/https://www.library.upenn.edu/collections/online-exhibits/13th-century-entanglements/liturgical-poetry-ashkenaz?item=2)
@@ -45,8 +45,7 @@ The aesthetic changes in the visual appearance of liturgical manuscripts in Ashk
 ### Rabbi Isaac ben Moses and his _Sefer Or Zaru'a_
 
 Ephraim Kanarfogel
-
-<img src="https://web.archive.org/web/20200901103830im_/https://www.library.upenn.edu/sites/default/files/2019-06/zaru%27a.jpg" alt="" width="1800" height="2588">
+![zaru'a.jpg](../../../assets/13thCentury/zaru%27a.jpg)
 
 Rabbi Isaac b. Moses (d. c. 1250) appears to have hailed from Bohemia. He studied in both Germany and northern France with a bevy of the leading Tosafist glossators of his day, including Simhah ben Samuel of Speyer, Eliezer b. Joel (Rabiah) _ha-Levi_ of Cologne, Judah b. Isaac Sirleon of Paris, and Samson of Coucy, and he also studied with the founder of the German Pietists, Judah b. Samuel the Pious. The geographic diversity of Isaac's teachers, which renewed a trend that dated from the mid-twelfth century in Ashkenazic lands but had become attenuated for a period of about forty years (c. 1175-1215), gave Isaac access to both the German and north French centers of Tosafist endeavors, and to a rich array of their writings in the fields of talmudic commentary and Jewish law.
 
