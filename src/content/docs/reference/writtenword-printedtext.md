@@ -23,10 +23,10 @@ template: doc
     loading="lazy"
   >
     This browser does not support PDFs. Please 
-    <a href="/assets/written-to-printed.pdf">download the PDF</a> instead.
+    <a href="/public/assets/written-to-printed.pdf">download the PDF</a> instead.
   </iframe>
   <figcaption style="text-align: center; margin-top: 1rem;">
-    <a href="/assets/written-to-printed.pdf" download>
+    <a href="/public/assets/written-to-printed.pdf" download>
       📄 Download "From Written to Printed Text" (PDF)
     </a>
   </figcaption>
