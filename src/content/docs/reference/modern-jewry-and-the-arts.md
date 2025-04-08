@@ -35,30 +35,26 @@ Carol Zemel
 
 Ezra Mendelsohn
 
-<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/mendelsohn.jpg" alt="" width="1800" height="2588">
-
+![img_16.png](/legacyexhibits/assets/images/ModernJewryArts/img_16.png)
+ 
 In this beautiful painting Maurycy Gottlieb presents himself to us in the formal attire favored by Central European intellectuals of his time. But he also seems to be accentuating his "Jewish features " - his rather thick lips, half-closed, melancholy eyes, and large nose. He therefore presents to the world his twin identity as "European, " even "Pole " ( "Maurycy, " or, as he was known in the German-speaking lands, "Moritz ") and as Jew ( "Moshe, " or "Moyshe "). The co-existence within Gottlieb's soul of these two identities provides a key to the understanding of the life and work of this pioneer "Jewish artist. "
 
-**Ken Aptekar, _Her Father Dragged Her from Shtetl to Shtetl \[with a sewing machine\]_**
+### **Ken Aptekar, _Her Father Dragged Her from Shtetl to Shtetl \[with a sewing machine\]_**
 
 Carol Zemel
 
-<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/zemel.jpg" alt="" width="1800" height="2588">
-
+![img_17.png](/legacyexhibits/assets/images/ModernJewryArts/img_17.png)
+ 
 Ken Aptekar's paintings deal with ethnic and gender stereotypes. This image, _Her Father Dragged Her from Shtetl to Shtetl \[with a sewing machine.\]_(1996), uses Francois Boucher's Portrait of Mme. Pompadour (1756) as its source, and delivers witty and moving insight on the modern Jewish woman. The text portion, etched in glass that covers the painted surface, is long and detailed; reading it carefully demands that the viewer's attention crawl over every detail of painted ribbon, frill and furbelow. Mme Pompadour, and Rococo style of painting have long been considered the essence of \_frou-frou\_femininity in our culture, but it is a femininity of wealth and aristocracy, of leisure play and frill, of gentle curves and erotic theater. And while it seems so remote from _shtetl_ story of Mierle Pomerance (not Pompadour), schlepping her sewing machine from town to town as she "fashioned clothes for Jews, " the sense of fashion, fate and fantasy draws the two women close. "'A couturihre your grandma could've been,' my mother says, " in the syntax of translated Yiddish. The story ends with the artist's greater sense of possibility-- "I escaped when I became an artist " -but leaves the Jewish woman sewing for the far-off Jewish princess, whose cultural standard is set -still- by the Pompadour.
 
-**Ben Shahn, Mural for the Jersey Homesteads, 1936-37 Roosevelt Public School, Roosevelt, New Jersey**
+### **Ben Shahn, Mural for the Jersey Homesteads, 1936-37 Roosevelt Public School, Roosevelt, New Jersey**
 
 Dianna Linden
-
-[<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/linden.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192627mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/ben-shahn-mural-jersey-homesteads-1936-37?item=0)
-
-[<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/linden1.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192627mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/ben-shahn-mural-jersey-homesteads-1936-37?item=1)
-
-[<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/linden2.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192627mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/ben-shahn-mural-jersey-homesteads-1936-37?item=2)
-
-[<img src="https://web.archive.org/web/20200125192627im_/https://www.library.upenn.edu/sites/default/files/2019-08/linden3.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192627mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/ben-shahn-mural-jersey-homesteads-1936-37?item=3)
-
+![img_21.png](/legacyexhibits/assets/images/ModernJewryArts/img_21.png)
+![img_19.png](/legacyexhibits/assets/images/ModernJewryArts/img_19.png)
+![img_18.png](/legacyexhibits/assets/images/ModernJewryArts/img_18.png)
+![img_20.png](/legacyexhibits/assets/images/ModernJewryArts/img_20.png)
+ 
 In 1936, Ben Shahn (1898-1969) was selected to create a mural for the Jersey Homesteads, a Jewish workers' utopian community in New Jersey. This was the first mural that Shahn completed under the New Deal, and he painted it in true fresco which he mastered as an apprentice to Diego Rivera. Inspired by Rivera, by Italian Renaissance frescoes, modernist montage and avant-garde film (Shahn was friends with film theorist Jay Leyda), Shahn created a multi-level fresco sub-divided into individual vignettes, and marked by quick thematic and temporal shifts. Divided into three main sections, the untitled fresco represents Jewish immigration to America, the oppressive tenements and sweatshops of New York, and the reforms demanded by labor unions and those provided by the New Deal. Rather than a path specific to Jews, Shahn proposes a direction for the whole working class to follow. Namely, to build cross-union and inter-cultural alliances, to move back to the land, and live by the example of the Jersey Homesteads.
 
 ## Music
@@ -67,8 +63,8 @@ In 1936, Ben Shahn (1898-1969) was selected to create a mural for the Jersey Hom
 
 Marion Kant
 
-<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/kant.jpg" alt="" width="1800" height="2588">
-
+![img_15.png](/legacyexhibits/assets/images/ModernJewryArts/img_15.png)
+ 
 After Hitler seized power in January 1933 the Nazis immediately installed racial laws and expelled political enemies and generally unwanted people from German society. They made a more or less normal life impossible for those, whom they labelled "degenerate", "unhealthy" or "sick". By the end of the 1930s the Nazis had begun to gas helpless inmates of insane asylums, the educationally sub-normal and the physically crippled. 75,000 German citizens died in the so-called "Action T4" and another 400, 000 were forcibly sterilized. The gassing of these innocent and harmless people stopped in 1941 because the Nazi regime needed the experienced gassing teams to set up the death camps at Treblinka, Belzec, Sobibor and Maidanek.
 
 Behind the aggressive Darwinian culling of what the Nazi called the hereditarily unfit lay a deep cultural pessimism. Three generations of prophets of doom like Spengler had foretold _den Untergang des Abendlandes_ or the _Decline of the West_. The preachers of disaster had taught them that Western and in particular German civilisation and culture were in decline and one of the agents of that decline was what the Germans called untranslatably _Das Judentum_ or Jewry. The Jews represented the faceless modern world, the loss of community, and urban development. They became the scapegoats for everything from slums to female emancipation, a deeply threatening aspect of modern life. This cultural anti-Semitism was a new variant of an old paranoia, but it was on a different scale. Judaism was no longer rejected as a religion, with all its awful implications. It was turned into a race. Cultural pessimism and social Darwinism reinforced each other. Jews were parasites, as Hitler was fond of explaining and in nature healthy organisms exterminated parasitic life forms. In the social world, healthy humanity, that is, the Aryan race, had to cull the parasitic Jewish one. The Jews had to be stripped of civil rights, isolated and removed from humanity. Hitler declared that he wanted the Jews eradicated and an entire nation worked towards that goal.
@@ -81,32 +77,28 @@ The Nazis took art and music seriously: deadly seriously. They saw them as power
 
 Jonathan Karp
 
-<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/karp.jpg" alt="" width="1800" height="2588">The _Chassidic Chant_, taken from Paul Robeson's 1958 performance at Carnegie Hall, powerfully expresses Robeson's belief in the unique cultural relationship between blacks and Jews. His rendition here adapts of the version of the _Kaddish_ prayer ascribed to the Hasidic master Levi Isaac of Berditschev (1740-1810), a piece also known as the _Din Toyre mit Got_. Robeson introduces it through a remarkable narrative chain that links the religious music of eastern Europe, the Orthodox church, eastern churches generally, the Coptic and Abyssinian churches, the African religious festival, the African chant, the African American church, and finally the remembered song of his own preacher father (suggesting a highly personal connection indeed). These specific ethnologic and religious associations, though broad, tenuous and vague, remain secondary, however, to a thematic one: that of common suffering and oppression, stubborn defiance of and determined resistance to a succession of oppressors (including the Germans and the English) expressed through faith, protest, and song.
-
+![img_8.png](/legacyexhibits/assets/images/ModernJewryArts/img_8.png)
+ 
 Robeson's concert repertoire was always eclectic, reflecting not just his linguistic virtuosity but also the Left's ideological commitment to internationalism and "the songs of many lands " (he also performed _Chin Chin, the Chinese marching song_, an Eskimo ballad, a Gaelic folksong, the _Volga Boat Song_, and _Loch Lomand_, as well as numerous operatic pieces in different languages and a large number of spirituals). Nevertheless, as early as the 1920s, Robeson professed the belief that the cultural and musical affinities between blacks and Jews are qualitatively unique and transcendent ones.
 
 ### Zahava Ben sings Arabic, Israel, 1995
 
 Amy Horowitz
 
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/amy1.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/zahava-ben-sings-arabic-israel-1995?item=0)
-
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/amy2.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/zahava-ben-sings-arabic-israel-1995?item=1) 
-
+![img_10.png](/legacyexhibits/assets/images/ModernJewryArts/img_10.png)
+![img_9.png](/legacyexhibits/assets/images/ModernJewryArts/img_9.png)
+ 
 In early 1995, Zahava Ben released a CD on her own label, entitled _Zahava Ben sings Arabic_. The silver and gold cover portrays Ben inscribed within the profile of the renowned Egyptian singer, Umm Kulthum. Later, in the fall of 1995, in the aftermath of Prime Minister Rabin's assassination, Moroccan Israeli singer, Zahava Ben released a CD of Umm Kulthum repertoire on the Helicon label. As many Israelis and Palestinians embraced a shared experience of grief over Rabin's death and the unsettling peace prospects, Zahava Ben's CDs and appearances in Nablus and Jericho resonated with musical, political, and commercial overtones.
 
 ### Contemporary Jewish Music in America 1960s-1990s
 
 Mark Kligman
 
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/kligman-carlebach.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/contemporary-jewish-music-america-1960s-1990s?item=0)
-
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/kligman-fried.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/contemporary-jewish-music-america-1960s-1990s?item=1)
-
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/kligman-friedman.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/contemporary-jewish-music-america-1960s-1990s?item=2)
-
-[<img src="https://web.archive.org/web/20200125192807im_/https://www.library.upenn.edu/sites/default/files/2019-08/kligman-klezmatics.jpg" alt="" style="border: 0px; box-sizing: border-box; display: block; max-width: 100%; height: auto;" width="1800" height="2588">](https://web.archive.org/web/20200125192807mp_/https://www.library.upenn.edu/collections/online-exhibits/modern-jewry-and-arts/contemporary-jewish-music-america-1960s-1990s?item=3)
-
+![img_12.png](/legacyexhibits/assets/images/ModernJewryArts/img_12.png)
+![img_11.png](/legacyexhibits/assets/images/ModernJewryArts/img_11.png)
+![img_13.png](/legacyexhibits/assets/images/ModernJewryArts/img_13.png)
+![img_14.png](/legacyexhibits/assets/images/ModernJewryArts/img_14.png)
+ 
 The growth of Jewish music over the past few decades has been staggering. While it is impossible to provide an exact number of recordings, since no distributors or retail outlets service the entire Jewish community, members of the industry estimate that there are currently over 2,000 recordings of Jewish music available and close to 250 records released each year. There are over four hundred artists and groups performing Jewish music today and most listeners and consumers are aware of only a few. The creation of new Jewish music, which ranges greatly in terms of musical styles, is found throughout the Jewish community: religious communities, Orthodox, Conservative, Reform and Renewal; Yiddishists, Yiddish songs and klezmer music; Israeli; and, art music composers and established popular artists. Jewish music has arrived and is a growing industry.
 
 ***
@@ -130,7 +122,7 @@ American born musicians who played traditional music started the Klezmer Revival
 
 Nina Warnke
 
-![img_5.png](../../../assets/ModernJewryArts/img_5.png)
+![img_5.png](/legacyexhibits/assets/images/ModernJewryArts/img_5.png)
 
 The cartoon "Teater kunst tsu der akeyde " (The Attempt to Sacrifice Theater Art) by Lola (pseudonym of the painter Leon Israel, 1887-1955) was published on 2 September 1910 in the Yiddish satirical magazine Der groyser kundes. It is a trenchant critique of the Yiddish theater managers who after having supported literary plays for years had recently produced a series of very popular sentimental melodramas. To critics invested in creating a literary theater this amounted to an unforgivable betrayal of the ideal of "art."
 
@@ -138,7 +130,7 @@ The cartoon "Teater kunst tsu der akeyde " (The Attempt to Sacrifice Theater Art
 
 Anat Helman
 
-![img_4.png](../../../assets/ModernJewryArts/img_4.png)
+![img_4.png](/legacyexhibits/assets/images/ModernJewryArts/img_4.png)
 
 A caricature from a late 1930s periodical reflects the popularity of movie going amongst different sectors in Mandated Tel-Aviv. The couple on the left is dressed as typical elegant bourgeoisies; the next couple can be either Kibbutz members visiting the urban cultural center or a couple of urban workers ("poalim"), expressing their socialist-pioneering ideology through their simple clothing; the policeman represents municipal authority -- although in the early 1930s the autonomous Jewish municipal police force of Tel-Aviv was dispersed and combined into the general British police force; and the tiny boy indicates that in Tel-Aviv, like in many other countries at that time, children were eager movie consumers, worrying parents and educators as to potential corrupting effects.
 
@@ -146,7 +138,7 @@ A caricature from a late 1930s periodical reflects the popularity of movie going
 
 Judith Thissen
 
-![img_3.png](../../../assets/ModernJewryArts/img_3.png)
+![img_3.png](/legacyexhibits/assets/images/ModernJewryArts/img_3.png)
 
 The growth in popularity of the moving pictures began with the nickelodeon around 1905-1906. These small storefront theaters offered a half hour program of moving pictures and illustrated songs for five cents (hence their name). The shows ran continuously from morning to evening. People went day after day, and from one theater to another. "The moving pictures have totally revolutionized the Jewish district. It is heaven and earth and moving pictures," reported the Forverts (Jewish Daily Forward) in May 1908. The nickelodeon boom provided immigrant Jews and their children with unparalleled access to popular entertainment and profoundly changed their recreational patterns. Their enthusiasm for the cinema is exemplified by the fact that the Lower East Side had the highest density of nickelodeons in New York City.
 
@@ -154,8 +146,8 @@ The growth in popularity of the moving pictures began with the nickelodeon aroun
 ### Marcel Ophuls' Hotel Terminus: The Life and Times of Klaus Barbie
 
 Susan Rubin Suleiman
-![img_1.png](../../../assets/ModernJewryArts/img_1.png)
-![img_2.png](../../../assets/ModernJewryArts/img_2.png)
+![img_1.png](/legacyexhibits/assets/images/ModernJewryArts/img_1.png)
+![img_2.png](/legacyexhibits/assets/images/ModernJewryArts/img_2.png)
 Klaus Barbie, the head of the Gestapo in Lyon from November 1942 to August 1944, escaped from Europe to South America after the war and was not returned to France until 1983; he was tried four years later and condemned to life imprisonment for crimes against humanity. The Barbie trial, a watershed in French memories of World War II and the Occupation, raised compelling moral and historical issues not only for France but for Germany and the United States (it came to light, decades after the war, that Barbie had worked for several years for the U.S. Army's Counter Intelligence Corps as an "expert on Communism ").
 
 In his 1988 Academy Award-winning documentary, _Hotel Terminus,_ Marcel Ophuls (famous for his earlier film about France under German occupation, _The Sorrow and the Pity_) explores brilliantly the moral and historical issues raised by the Barbie trial, and extends at the same time the art of documentary film. The image here, a black and white photograph taken around 1970, is the opening image of the film: it shows Barbie and two friends celebrating at a New Year's party in Peru. Barbie is the man in the middle, wearing a party hat, with a drink in one hand and an upraised cane in the other. On his right, with his arm around Barbie's neck, is Johannes Schneider-Merck, a young man at the time, who was defrauded soon afterward of a huge sum by Barbie and his pals in a currency speculation scheme. Schneider-Merck, noticeably older than he appears in the photo, is the first person whose memories of Barbie we hear in the film. By opening his documentary with a still photograph taken decades after Barbie's crimes in Lyon and more than a decade before his trial and the making of this film, Ophuls emphasizes the passage of time and the huge distance that exists between the historical subject of the film (the Nazi criminal Barbie) and those who remember him or try to follow his tracks forty years later. Ophuls' film presents "the life and times of Klaus Barbie" not as a linear story, but as a complicated collage of many people's memories of the man and the times.
@@ -184,7 +176,7 @@ In dance history Lewitan has been identified as both: the "destructive Jew" who 
 
 Barbara Kirshenblatt-Gimblett
 
-![img_7.png](../../../assets/ModernJewryArts/img_7.png)
+![img_7.png](/legacyexhibits/assets/images/ModernJewryArts/img_7.png)
 
 Zionism was by no means the only basis for the Jewish presence at world's fairs. By the 1930s, however, the Zionist movement had succeeded in becoming the "official" national and international Jewish presence at the fair, nowhere more clearly than in the case of the Jewish Palestine Pavilion at the New York World's Fair, 1939/40. Described in much greater detail in the Yiddish guide to the Fair than in the English guide, the Jewish Palestine Pavilion exploited the slippage between the world itself and the world of the fair to perform de facto statehood. The design of the Palestine Pavilion and its contents was in accord with Meyer W. Weisgal's desires, which he recalled years later as "something authentically Palestinian" to show that "in 1938 Jewish Palestine was a reality; its towns, villages, schools, hospitals and cultural institutions had risen in a land that until our coming had been derelict and waste... I wanted a miniature Palestine in Flushing Meadows." Insisting--with no trace of irony--that the pavilion should steer clear of politics, Weisgal applied himself to the "construction of the Jewish State under the shadow of the Trylon and Perisphere, or, as the Jews were fond of calling it, the Lulav and Esrog."[^1]
 [^1]: Meyer W. Weisgal, _Meyer Weisgal, ... So Far: An Autobiography_ (New York: Random House, 1971), pp. 150, 158, 161
