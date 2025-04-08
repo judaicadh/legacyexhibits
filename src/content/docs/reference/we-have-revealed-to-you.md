@@ -351,5 +351,25 @@ Peter Stallybrass
     
 
 ## Contributors
-
-to **Arthur Kiron** for his assistance in organizing this virtual exhibition
+- Haggai Ben-Shammai
+- Adele Berlin
+- Michael Carasik
+- Mordechai Cohen
+- Natalie Dohrmann
+- Jacob Elbaum
+- Josef Gulka
+- Martin Jacobs
+- Sara Japhet
+- Adiel Kadari 
+- Tamar Kadari
+- Deeana Klepper
+- Naomi Koltun-Fromm 
+- Joseph Lowry
+- Dan Sheerin
+- Dalit Rom-Shiloni
+- Michael Signer
+- Peter Stallybrass
+- David Stern
+- 
+## Special thanks
+Special thanks to Arthur Kiron for his assistance in organizing this virtual exhibition
