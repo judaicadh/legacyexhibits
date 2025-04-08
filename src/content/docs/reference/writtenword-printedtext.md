@@ -16,17 +16,17 @@ template: doc
 
 <figure style="margin: 2rem 0;">
   <iframe 
-    src="/assets/written-to-printed.pdf" 
+    src="../../../../public/assets/written-to-printed.pdf" 
     width="100%" 
     height="1200px" 
     style="border: 1px solid #ccc; border-radius: 8px;"
     loading="lazy"
   >
     This browser does not support PDFs. Please 
-    <a href="/public/assets/written-to-printed.pdf">download the PDF</a> instead.
+    <a href="../../../../public/assets/written-to-printed.pdf">download the PDF</a> instead.
   </iframe>
   <figcaption style="text-align: center; margin-top: 1rem;">
-    <a href="/public/assets/written-to-printed.pdf" download>
+    <a href="../../../../public/assets/written-to-printed.pdf" download>
       📄 Download "From Written to Printed Text" (PDF)
     </a>
   </figcaption>
