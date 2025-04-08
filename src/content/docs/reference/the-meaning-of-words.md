@@ -15,9 +15,8 @@ description: "The fall of 2003 marked the 100th anniversary of the publication
   the distinguished tradition of rabbinic learning and lexicography."
 date: "2003"
 hero:
-  title: "The Meaning of Words: Marcus Jastrow and the Making of Rabbinic
-    Dictionaries"
-  tagline: test
+  title: "The Meaning of Words"
+  tagline: "Marcus Jastrow and the Making of Rabbinic Dictionaries"
   image:
     file:  ../../../../src/assets/TheMeaningofWords/babel.jpg
 slug: the-meaning-of-words
