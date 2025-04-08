@@ -11,19 +11,19 @@ const { title, description, image, href } = Astro.props;
 
 <a
         href={href}
-        class="  block bg-white shadow-lg rounded-lg overflow-hidden
-         transition-transform transform hover:scale-105 no-underline"
+        class="block bg-white shadow-lg rounded-lg overflow-hidden transition-transform transform hover:scale-105 no-underline"
 >
     <div class="p-4">
-        <!-- Image & Title on the same line -->
-        <div class="flex items-center gap-4">
-            <!-- Slightly larger square image -->
+        <!-- Responsive flex layout -->
+        <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4">
             <img
                     src={image}
                     alt={title}
-                    class="w-40 h-40  object-cover flex-none"
+                    class="w-full sm:w-32 sm:h-32 h-auto object-cover rounded-md"
             />
-            <h3 class="text-lg font-semibold text-gray-900 hover:underline">{title}</h3>
+            <h3 class="text-lg font-semibold text-gray-900 hover:underline sm:mt-0 mt-2">
+                {title}
+            </h3>
         </div>
 
         <!-- Description below -->
