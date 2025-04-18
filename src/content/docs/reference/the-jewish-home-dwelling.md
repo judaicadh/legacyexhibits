@@ -10,11 +10,10 @@ description: The domestic life of Jews, their homes, houses, and households, was
   covered span 3,000 years from the ancient Near East to modern times.
 date: 2019-2020
 hero:
-  title: The Jewish Home Dwelling on the Domestic, the Familial, and the Lived-In
-  tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
-    Judaic Studies c Fellows at the University of Pennsylvania
+  title: The Jewish Home Dwelling on the Domestic, the Familial, and the Lived-In ('19–'20)
+  tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2019-2020 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/wedding-ring.jpg
+    file: ../../../../src/assets/TheJewishHome/wedding-ring.jpg
 slug: the-jewish-home-dwelling
 template: doc
 ---
