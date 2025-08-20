@@ -5,6 +5,7 @@ import starlightImageZoom from 'starlight-image-zoom';
 import netlify from '@astrojs/netlify';
 
 import tailwindcss from '@tailwindcss/vite';
+import starlightFullViewMode from "starlight-fullview-mode";
 
 export default defineConfig({
   site: 'https://exhibits.judaicadhpenn.org',
@@ -17,16 +18,14 @@ export default defineConfig({
           ],
           plugins: [
               starlightImageZoom({ showCaptions: true }),
+              starlightFullViewMode({}),
           ],
           title: 'Judaica Exhibitions',
-          description: 'Online exhibitions from the Library at the Herbert D. Katz Center for Advanced Judaic Studies',
+          description: 'Online exhibitions from Judaica at Penn Libraries',
           tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
           lastUpdated: true,
           logo: { src: './src/assets/pomegranate.svg' },
 
-          sidebar: [
-              { label: 'Exhibits', autogenerate: { directory: 'reference' } },
-          ],
 
           // ✅ FIX: pagefind must be an object, not an array
           pagefind: {

@@ -13,7 +13,7 @@ hero:
   title: The Jewish Home Dwelling on the Domestic, the Familial, and the Lived-In ('19–'20)
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2019-2020 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/TheJewishHome/wedding-ring.jpg
+    file: ../../../src/assets/TheJewishHome/wedding-ring.jpg
 slug: the-jewish-home-dwelling
 template: doc
 ---

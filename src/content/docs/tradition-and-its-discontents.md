@@ -10,7 +10,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2002-2003 Fellows at the University of Pennsylvania
   image:
-    file:  ../../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
+    file: ../../../src/assets/TraditionandItsDiscontents/tradition-rabbi.jpg
     alt: Tradition and Its Discontents
 slug: tradition-and-its-discontents
 tableOfContents:
@@ -43,7 +43,7 @@ Adam Teller
 
 This is a section from the massive Halakhic compendium, _Yam shel Shlomo_, composed in the 16th century by the leading Polish rabbi, Shlomo Luria (c.1510-1573). In this part, which deals with the laws concerning what to do with those who fail to honor rabbis, Luria gives his opinion of the rabbinate in his day. Though its critical tone may be an expression of his well-known intellectual elitism, it draws an interesting comparison between the status of the rabbi in Jewish society and that of the nobleman in Polish society. In these years, Jewish society in Poland was refashioning the Ashkenazic rabbinate along Polish lines. The role played by the rabbis on behalf of the non-Jewish authorities in the administration of the Jewish communities led to the rabbinate taking on something of the character of the semi-honorific administrative posts like the _Wojewoda_ or the _Starosta_, held by members of the high Polish nobility. This process of deprofessionalizing the rabbinate, whose early stages are here criticized by Luria, would eventually lead to a steep decline in the status of the rabbi in Polish Jewish life at the end of the 18th century.
 
-![](../../../../src/assets/tradition/teller.jpg)![](../../../../src/assets/tradition/teller1.jpg)![](../../../../src/assets/tradition/teller2.jpg)
+![](../../../src/assets/tradition/teller.jpg)![](../../../src/assets/tradition/teller1.jpg)![](../../../src/assets/tradition/teller2.jpg)
 
 ### Who is Obligated to Wear Tzitzit
 
@@ -59,7 +59,7 @@ Comparison of the use of the term _yohara_ in other sixteenth century texts (e
 
 R. Isserles was implying that _tzitzit_ were an important symbol of maleness and must remain so. Living in a society where reality made gender definition somewhat unstable, particularly in the economic sphere, this keeper of culture insisted that symbolic gender boundary markers remain firmly in place.
 
-![](../../../../src/assets/tradition/rosman.jpg)![](../../../../src/assets/tradition/rosman1.jpg)![](../../../../src/assets/tradition/rosman_detail1.jpg)![](../../../../src/assets/tradition/rosman_detail.jpg)
+![](../../../src/assets/tradition/rosman.jpg)![](../../../src/assets/tradition/rosman1.jpg)![](../../../src/assets/tradition/rosman_detail1.jpg)![](../../../src/assets/tradition/rosman_detail.jpg)
 
 ### Jewish political culture between East and West: Isaak Ruelf and the Transformations of intercession (_shtadlanut_) in the 19th century
 
@@ -67,7 +67,7 @@ François Guesnet
 
 Dr. Isaak Ruelf (1830-1902), the rabbi of Memel, a town on the Prussian-Russian border, shown an illustration for the Warsaw based journal _Kneset Israel_ (vol. I, 1886, ill. 1), edited by the pioneer of Hibat Tsion, Shaul Pinhas Rabinovitch (SheFeR), photographed shortly before Ruelf's death for _Die Welt_ in Vienna (ill. 2). Ruelf gained an international reputation as a helper of Russian Jews beginning with his relief actions in the late 1860s. Thereafter, he strove to establish himself as expert on Eastern European Jewry and as a spokesman and intercessor (_shtadlan_) on their behalf. He used the press and public opinion as leverage for this activity, the most important change during the 19th century in the tactics of intercession. Following the anti-jewish violence in 1881/82 in Russia, he conceived of Palestine as the location for a future Jewish state that would be one of the safe havens of Russian Jewry. He thus was one of the precursors of political Zionism. As such, he was honored with one of the first portraits to be published in the (_Kneset Israel_). It is evident that the illustrator tended to 'orientalise' this Prussian rabbi. In contrast, he appears in his photograph dressed very much like a typical (_dajtsh_ (or German). As Ruelf himself took advantage in his writings of stereotypes about Jews and Gentiles in Eastern Europe, he saw himself stereotyped for the needs of early Zionism in Eastern Europe.
 
-![](../../../../src/assets/tradition/guesnet.jpg)![](../../../../src/assets/tradition/guesnet_2.jpg)
+![](../../../src/assets/tradition/guesnet.jpg)![](../../../src/assets/tradition/guesnet_2.jpg)
 
 ### Pale of Settlement and Movement
 
@@ -77,7 +77,7 @@ An internal Russian passport dating from the 1880s, with the imprimatur of tsar 
 
 The vast majority of Russia's Jews were confined by law to the Pale of Settlement, a territory roughly the size of France, at the western periphery of the Russian Empire. State-sponsored restrictions on Jewish residence, a technique common to early modern European countries, persisted in Russia until the revolution of February 1917. By the 1880s, however, a series of laws made it possible for substantial numbers of Jews whom the government regarded as "useful" - veterans of Nicholas I's army, merchants of the first guild, certain kinds of artisans, graduates of institutions of higher education - to live and work outside the Pale on a permanent basis. By the end of the 19th century, more than 300,000 such Jews lived legally outside the Pale.
 
-Whether Shlomo Khaiklein sought temporary residence outside the Pale, or permanent settlement in the Russian interior, he was one of hundreds of thousands of Russian Jews on the move during the second half of the nineteenth century. The stereotype of backwardness and immobility of the shtetl is belied by the reality of massive Jewish migration both within the Pale, typically to urban centers such as Bialystok and Odessa, and beyond it - to Russia proper, to Palestine, and to North America. ![](../../../../src/assets/tradition/nathans.jpg)
+Whether Shlomo Khaiklein sought temporary residence outside the Pale, or permanent settlement in the Russian interior, he was one of hundreds of thousands of Russian Jews on the move during the second half of the nineteenth century. The stereotype of backwardness and immobility of the shtetl is belied by the reality of massive Jewish migration both within the Pale, typically to urban centers such as Bialystok and Odessa, and beyond it - to Russia proper, to Palestine, and to North America. ![](../../../src/assets/tradition/nathans.jpg)
 
 ### "Don't spit in the well you drink from!"
 
@@ -97,7 +97,7 @@ Scene two shows a very different outcome. Masses of Jews are leaving the country
 
 Quite appropriately the drawing is sub-titled "A Tragi-Comedy in Two Pictures." The drawing is especially interesting because there are very few cartoons devoted to the impact of the pogroms (except for the topic of emigration, which was very popular with cartoonists).
 
-![](../../../../src/assets/tradition/klier.jpg)
+![](../../../src/assets/tradition/klier.jpg)
 
 ### Ojczyzna
 
@@ -109,7 +109,7 @@ The newspapers adopted as their symbol an eagle, the emblem of Poland, with a st
 
 Under the title appeared in Hebrew and in Polish the famous verse from Jeremiah _Seek the peace of the city to which I have exiled you. And pray on its behalf to the Lord. For in its peace shall you have peace_ (29:7). Both newspapers are rare and the only place where all the volumes can be found is the University of L'viv in the Ukraine.
 
-![](../../../../src/assets/tradition/manekin.jpg)![](../../../../src/assets/tradition/manekin2.jpg)
+![](../../../src/assets/tradition/manekin.jpg)![](../../../src/assets/tradition/manekin2.jpg)
 
 ### The Ritual Murder Trial in Modern Jewish History: What is New?
 
@@ -132,9 +132,9 @@ MAJOR RITUAL MURDER TRIALS, 1879-1913
 
 The success of the "ritual murder" trials against Jews in modern East Central Europe depended, not on their divergence from modern rationality (and even modern scientific discourses), but by virtue of their intersection with them. The story of the modern "ritual murder" trial, then, is not only one of the lasting power of myth and traditional wisdom but, more crucially, a tale of the momentary alliance of high culture and scientific authority with a certain perception of collective Jewish criminality.
 
-![](../../../../src/assets/tradition/safran.jpg)
+![](../../../src/assets/tradition/safran.jpg)
 
-![](../../../../src/assets/tradition/safran2.jpg)
+![](../../../src/assets/tradition/safran2.jpg)
 
 ### S. An-sky (Shloyme-Zanvl Rapoport 1863-1920
 
@@ -142,9 +142,9 @@ Gabriella Safran
 
 These illustrations appear in a book that has had a complex fate. S. An-sky, born Shloyme-Zanvl Rapoport (1863-1920), was a Russian-Jewish writer, a pioneering ethnographer, and a dedicated revolutionary; he is known best today as the author of the play _The Dybbuk_. He spent much of 1918 preparing an edition of images that he had gathered during the ethnographic expeditions that he led to the Jewish communities of Volhynia and Podolia during the summers of 1912-1914. But as a Socialist Revolutionary who had been part of the Constituent Assembly elected after the February Revolution of 1917, An-sky feared for his safety under the Bolsheviks, the victors of the October Revolution. In the fall of 1918, he fled to Vilna, leaving most of his papers behind. The proofs of the "Album of Jewish Artistic Artifacts" were believed lost until, like many of his other manuscripts, they turned up in the 1990s in formerly Soviet archives. _The Jewish Artistic Heritage Album by Semyon An-sky_, published in Moscow in 2001 in Russian and English, includes all the plates that were found at the Vernadsky National Library of Ukraine, along with two essays based on these and other recently rediscovered archival materials.
 
-These two pictures reveal the man and his work. The photo shows him at 56 or 57, in the last year of his life, ill with diabetes and heart disease but retaining his famed energy for community work and writing. The colored image, one of the plates from the album, is a "lubok" or folk print that was produced in the second half of the nineteenth century in what is today Ukraine. The writing on the picture, in a mix of Yiddish and Hebrew, identifies the scene: "How Rebecca gives the camels drink and Eliezer, the servant of Abraham, kneels and honors God, Blessed be He (Vi Rivke poit di gamolim un Eliezer eved Avrom knit un loybt tsu got borukh ha-shem)." In his own edition, An-sky had intended to publish this image with a discussion of the Yiddish word used for Rebecca's action, "poit," which is obviously of Eastern Slavic origin; the same word is used in Russian to this day to mean "to give to drink." The attention he gives to this linguistic detail illustrates An-sky's sensitivity to the interaction both between languages and between nations or ethnic groups. Even though we associate him with the play he set in an exclusively Jewish world, all of An-sky's texts - including, as recent scholarship and new archival evidence shows, _The Dybbuk_ - emerged from a vision of Jewish folk culture and Jews themselves as existing in a state of constant, dynamic exchange with other peoples and other cultures. ![](../../../../src/assets/tradition/safran.jpg)
+These two pictures reveal the man and his work. The photo shows him at 56 or 57, in the last year of his life, ill with diabetes and heart disease but retaining his famed energy for community work and writing. The colored image, one of the plates from the album, is a "lubok" or folk print that was produced in the second half of the nineteenth century in what is today Ukraine. The writing on the picture, in a mix of Yiddish and Hebrew, identifies the scene: "How Rebecca gives the camels drink and Eliezer, the servant of Abraham, kneels and honors God, Blessed be He (Vi Rivke poit di gamolim un Eliezer eved Avrom knit un loybt tsu got borukh ha-shem)." In his own edition, An-sky had intended to publish this image with a discussion of the Yiddish word used for Rebecca's action, "poit," which is obviously of Eastern Slavic origin; the same word is used in Russian to this day to mean "to give to drink." The attention he gives to this linguistic detail illustrates An-sky's sensitivity to the interaction both between languages and between nations or ethnic groups. Even though we associate him with the play he set in an exclusively Jewish world, all of An-sky's texts - including, as recent scholarship and new archival evidence shows, _The Dybbuk_ - emerged from a vision of Jewish folk culture and Jews themselves as existing in a state of constant, dynamic exchange with other peoples and other cultures. ![](../../../src/assets/tradition/safran.jpg)
 
-![](../../../../src/assets/tradition/safran2.jpg)
+![](../../../src/assets/tradition/safran2.jpg)
 
 ### Between Austria and Galicia: Jewish Nationalism and Diversity
 
@@ -154,9 +154,9 @@ In 1907, Austria held its first parliamentary elections based on universal manho
 
 Aside from the actual content of the speeches, the rallies themselves served as a critical agent in forging a common sense of national community among Galician Jews. Rallies attracted Jews from all classes, men and women, young and old, religious and secular. All stood together and often intermixed (by all of those criteria) as they listened to speeches calling for Jewish solidarity and national struggle. [This photograph of a mass rally in Buczacz](/web/20200125182338/https://www.library.upenn.edu/collections/online-exhibits/tradition-and-its-discontents/between-austria-and-galicia-jewish?item=0) for the Jewish nationalist candidate Nathan Birnbaum (standing in front row center), for example, shows men and women of clearly middle-class dress, women with uncovered hair and shaved men with "German"-style hats, standing and sitting together with Jews of an obviously much lower social class, many of whom covered their hair (among the women) or wore long beards. Where else would such Jews stand together? Where else would women with children stand among men, as many do in this picture?
 
-The Jewish National Party succeeded in winning four seats to parliament in 1907, and as promised they constituted the first Jewish nationalist parliamentary faction in Austrian history. The more important result of the election, however, was its contribution towards the transformation of Jewish identity, which by 1914 had become decidedly nationalist among Galician Jews, despite the relatively small size of the Zionist party itself. ![](../../../../src/assets/tradition/shanes.jpg)
+The Jewish National Party succeeded in winning four seats to parliament in 1907, and as promised they constituted the first Jewish nationalist parliamentary faction in Austrian history. The more important result of the election, however, was its contribution towards the transformation of Jewish identity, which by 1914 had become decidedly nationalist among Galician Jews, despite the relatively small size of the Zionist party itself. ![](../../../src/assets/tradition/shanes.jpg)
 
-![](../../../../src/assets/tradition/shanes_d.jpg)
+![](../../../src/assets/tradition/shanes_d.jpg)
 
 ### The Recognition of the Yiddish language in Lithuania during the First World War
 
@@ -170,9 +170,9 @@ The bureaucratic documentation necessary to control the native population was pr
 
 The politics regarding the recognition of the different minorities was in the best case, formal. It lacked any operative meaning. The importance of the minority rights didn't mean in the case presented here protection of the minority cultures; on the contrary, the recognition of the local vernaculars was a tool to disempower the minorities, a mean to achieve German hegemony and dominance over these lands.
 
-But, this formal recognition had its own dynamics. In Jewish political circles the German policy generated meticulous examination of the practical aspects of topics, whether social or economic, considered cardinal to the Jewish minority, when this leadership negotiated with the Lithuanian leadership in the eve of the establishment of Lithuania as an independent State. ![](../../../../src/assets/tradition/silber.jpg)
+But, this formal recognition had its own dynamics. In Jewish political circles the German policy generated meticulous examination of the practical aspects of topics, whether social or economic, considered cardinal to the Jewish minority, when this leadership negotiated with the Lithuanian leadership in the eve of the establishment of Lithuania as an independent State. ![](../../../src/assets/tradition/silber.jpg)
 
-![](../../../../src/assets/tradition/silber2.jpg)
+![](../../../src/assets/tradition/silber2.jpg)
 
 ### El Lissitzky
 
@@ -191,9 +191,9 @@ Historians of modern Jewish culture tend to lay heavy emphasis on the way in whi
 
 **5\. The distributor of the book:** By 1919, all of the Kiever Farlag publications, as well as those of nearly a dozen other Yiddishist publishing houses in Kiev and Odessa, were distributed exclusively by the Central Bookstore of the Ukrainian Kultur Lige (League for Culture). Created in Kiev in 1918 by left-wing but also independent and non-socialist Yiddishists, the Kultur Lige hoped to organize all Yiddishist cultural activity under one umbrella organization, from the hundreds of Yiddishist secular schools which emerged in this period to the most rarified art, music, theatrical, and literary experimentation. In this, it was not alone: it joined and competed directly with a similar Hebraist organization created in Moscow in 1917, the Tarbut (Culture) organization. Tarbut and the Kultur Lige spurred the creation of sister organizations allover Eastern Europe.
 
-![](../../../../src/assets/tradition/moss.jpg)
+![](../../../src/assets/tradition/moss.jpg)
 
-![](../../../../src/assets/tradition/moss1.jpg)
+![](../../../src/assets/tradition/moss1.jpg)
 
 ### Russian Poet - Jewish Muse
 
@@ -201,7 +201,7 @@ Hamutal Bar-Yosef
 
 Presented is a photo from the late 1910's of the Russian writer Leonid Andreev (1871-1919), along with a pencil drawing of L. E. Chirikova, a young Jewish woman with whom Andreev was in love. They are included in the book S. O. S. : Diaries (1914-1919), Letters (1917-1919), Essay and an Interview (1919), Memoirs of His Contemporanies (in Russian), edited by Richard Davies and Ben Hellman (1994). The title echoes Andreev's booklet from 1919, which was written when Andreev was already in exile in Finland, calling for the intervention of the West against the Bolshevik regime.
 
-During the first quarter of the 20th century Andreev's prose writings were widely translated into Yiddish, both in Eastern Europe and in the USA, and his dramas were included in the repertoire of the Yiddish theatre. His criticism of Christian society together with his declared philo-Semitism is among the reasons for his popularity in Yiddish. Andreev, together with M. Gorky and F. Sologub, was active for the civil rights of the Jews from 1914 until his death. Andreev was much less popular in Hebrew than in Yiddish. The difference between the enthusiastic reception of his writings in Yiddish culture, while neglected by the Hebrew, sheds an interesting light on the differences between these two Jews sub-cultures: while Yiddish was becoming an urban bourgeois culture, Hebrew was keeping artistically elite norms. ![](../../../../src/assets/tradition/bar-yosef.jpg)
+During the first quarter of the 20th century Andreev's prose writings were widely translated into Yiddish, both in Eastern Europe and in the USA, and his dramas were included in the repertoire of the Yiddish theatre. His criticism of Christian society together with his declared philo-Semitism is among the reasons for his popularity in Yiddish. Andreev, together with M. Gorky and F. Sologub, was active for the civil rights of the Jews from 1914 until his death. Andreev was much less popular in Hebrew than in Yiddish. The difference between the enthusiastic reception of his writings in Yiddish culture, while neglected by the Hebrew, sheds an interesting light on the differences between these two Jews sub-cultures: while Yiddish was becoming an urban bourgeois culture, Hebrew was keeping artistically elite norms. ![](../../../src/assets/tradition/bar-yosef.jpg)
 
 ### Women Yiddish Poets in Poland: the 1920s
 
@@ -215,7 +215,7 @@ In contrast to the political and/or modernist poetry written by many of their co
 
 Alongside the Korman's collage of title pages, I've provided photographs of four women Yiddish poets: Miriam Ulinover, Roza Yakubovitsh, Kadya Molodowsky, and Rokhl Korn, whose first book of poems, _Dorf_ ("Village"), was published in Vilna in 1928. The photographs of Yakubovitsh, Molodowsky, and Korn are taken from Korman's anthology. The photograph of Ulinover, the only existing photograph of this poet, was taken from her identification papers in the Lodz Ghetto, where she lived from 1939 until her death in Auschwitz in 1944. Yakubovitsh also spent the war years in the Lodz Ghetto and probably also died in Auschwitz. Molodowsky immigrated to the United States in 1935. Korn survived the war in the Soviet Union and came to Canada in 1948.
 
-![](../../../../src/assets/tradition/hellerstein-collage1928.jpg)![](../../../../src/assets/tradition/hellerstein-MIRIAMULINOVER.jpg)![](../../../../src/assets/tradition/hellerstein-ROZA_YAKUBOVITSH.jpg)![](../../../../src/assets/tradition/hellerstein-KADYAMOLODOWSKY.jpg)![](../../../../src/assets/tradition/hellerstein-ROKHLKORN.jpg)
+![](../../../src/assets/tradition/hellerstein-collage1928.jpg)![](../../../src/assets/tradition/hellerstein-MIRIAMULINOVER.jpg)![](../../../src/assets/tradition/hellerstein-ROZA_YAKUBOVITSH.jpg)![](../../../src/assets/tradition/hellerstein-KADYAMOLODOWSKY.jpg)![](../../../src/assets/tradition/hellerstein-ROKHLKORN.jpg)
 
 ### YIVO, oder Yidisher visnshaftlekher institut
 
@@ -235,7 +235,7 @@ To finance the construction of the headquarters, as well as most of its other pr
 
 David Engel
 
-Salo Baron (1895-1989), a seminal figure in Jewish historiography, is generally identified with the United States, where he taught and wrote for more than six decades. However, he grew up in the west Galician town of Tarnow and began his historical studies at the Jagiellonian University in Krakow. At age 17 he began publishing political commentary in the Krakow Hebrew weekly Hamicpe, including a five-part series responding to Polish nationalist leader Roman Dmowski's call for Poles to boycott Jewish businesses. Baron's experiences in Poland and as Polish a refugee in Vienna during and after the First World War shaped much of his later historiographical outlook, including his famous revision of "the lachrymose theory of pre-Revolutionary woe." ![](../../../assets/tradition/engel.jpg)
+Salo Baron (1895-1989), a seminal figure in Jewish historiography, is generally identified with the United States, where he taught and wrote for more than six decades. However, he grew up in the west Galician town of Tarnow and began his historical studies at the Jagiellonian University in Krakow. At age 17 he began publishing political commentary in the Krakow Hebrew weekly Hamicpe, including a five-part series responding to Polish nationalist leader Roman Dmowski's call for Poles to boycott Jewish businesses. Baron's experiences in Poland and as Polish a refugee in Vienna during and after the First World War shaped much of his later historiographical outlook, including his famous revision of "the lachrymose theory of pre-Revolutionary woe." ![](../../../src/assets/tradition/engel.jpg)
 
 <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/engel.jpg" alt="" width="1800" height="2588">
 
@@ -255,7 +255,7 @@ In his diary, the writer deals with moral dilemas, his relationship with his sis
 
 <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/ben-amos.jpg" alt="" width="1800" height="2588">
 
-![](../../../assets/tradition/Ben-Amos.jpg)
+![](../../../src/assets/tradition/Ben-Amos.jpg)
 
 ### Di Goldene Keyt (1949-1995)
 
@@ -273,9 +273,9 @@ The first volume of the Goldene Keyt, constituting no less than 240 pages held t
 
 <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley1.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley2.jpg" alt="" width="1800" height="2588"> <img src="https://web.archive.org/web/20200125182311im_/https://www.library.upenn.edu/sites/default/files/2019-08/moseley3.jpg" alt="" width="1800" height="2588">
 
-![](../../../assets/tradition/moseley2.jpg)
+![](../../../src/assets/tradition/moseley2.jpg)
 
-![](../../../assets/tradition/moseley3.jpg)
+![](../../../src/assets/tradition/moseley3.jpg)
 
 ## Selected Bibliography
 

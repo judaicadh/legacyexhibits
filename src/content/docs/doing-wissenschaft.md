@@ -9,7 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2014-2015 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/DoingWissenschaft/circumferator-splash.jpg"
+    file: "../../../src/assets/DoingWissenschaft/circumferator-splash.jpg"
 slug: doing-wissenschaft
 tableOfContents:
   minHeadingLevel: 2

@@ -11,7 +11,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2001-2002 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/AndWehaveRevealedtoYou/revealed-asc.jpg
+    file: ../../../src/assets/AndWehaveRevealedtoYou/revealed-asc.jpg
     alt: We have Revealed to You
 slug: we-have-revealed-to-you
 tableOfContents:

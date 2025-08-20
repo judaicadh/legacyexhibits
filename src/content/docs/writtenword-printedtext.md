@@ -6,7 +6,7 @@ hero:
   title: "From Written to Printed Text"
   tagline: "Transmission of Jewish Tradition"
   image:
-    file: "../../../../src/assets/WrittenWord/van-bashuysen.png"
+    file: "../../../src/assets/WrittenWord/van-bashuysen.png"
 slug: writtenword-printedtext
 tableOfContents:
   minHeadingLevel: 2
@@ -15,11 +15,11 @@ template: doc
 ---
 
 <iframe
-src="/legacyexhibits/assets/written-to-printed.pdf"
+src="/assets/written-to-printed.pdf"
 width="100%"
 style="min-height: 90vh; height: 1200px; border: 1px solid #ccc; border-radius: 8px;"
 loading="lazy"
 >
 This browser does not support PDFs. Please
-<a href="/legacyexhibits/assets/written-to-printed.pdf">download the PDF</a> instead.
+<a href="/assets/written-to-printed.pdf">download the PDF</a> instead.
 </iframe>

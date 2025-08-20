@@ -9,7 +9,7 @@ hero:
   title: Printer, Publisher, Peddler
   tagline: The Business of the Jewish Book
   image:
-    file: "../../../../src/assets/printerpub/ppp-asc.png"
+    file: "../../../src/assets/printerpub/ppp-asc.png"
     alt: Printer, Publisher, Peddler
 slug: printer-publisher-peddler
 tableOfContents:
@@ -87,7 +87,9 @@ fig. 2: This printer was named Duarte Pinhel by the New Christian family of Port
 
 fig. 1: In the middle of the seventeenth century and approximately one hundred years later, two works appeared, printed by non-Jews in Italian and German respectively, composed by two of the leading rabbinic leaders of their times, Simone Luzzatto and Moses Mendelssohn. Each took up the philosopher Plato’s account of the death of Socrates and his arguments about the existence of an afterlife. This first edition of the Venetian rabbi Luzzatto, though less well-known than Mendelssohn’s work, is no less beautifully produced. It features woodcut initial letters and an engraved head-piece depicting an insect emerging from its shell.
 
-<img src="https://web.archive.org/web/20200901160358im_/https://www.library.upenn.edu/sites/default/files/2019-07/P.jpg" alt="fig. 2" width="1800" height="2588">![](../../../assets/printerpub/P.jpg)
+<img src="https://web.archive.org/web/20200901160358im_/https://www.library.upenn.edu/sites/default/files/2019-07/P.jpg" alt="fig. 2" width="1800" height="2588">
+
+![](../../../src/assets/printerpub/P.jpg)
 
 fig. 2: Mendelssohn’s _Phaedon,_ for which he became known as the “Jewish Socrates,” was sold out within four months of its first printing. It was originally published in German and printed in Gothic letters by a non-Jewish bookseller named Nicolai, with the imprimatur of the ruling authorities. It was frequently reprinted and also translated into several languages, including Danish, Dutch, French, Italian and Russian.
 

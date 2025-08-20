@@ -11,7 +11,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2009-2010 Fellows at the University of Pennsylvania
   image:
-    file:  "../../../../src/assets/SecularismItsDiscontents/shtraymelssplash.jpg"
+    file:  "../../../src/assets/SecularismItsDiscontents/shtraymelssplash.jpg"
 slug: secularism-its-discontents
 tableOfContents:
   minHeadingLevel: 2

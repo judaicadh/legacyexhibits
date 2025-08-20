@@ -8,7 +8,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2010-2011 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/ruth-naomi.jpg"
+    file: "../../../src/assets/ruth-naomi.jpg"
 slug: taking-turns
 tableOfContents:
   minHeadingLevel: 2

@@ -9,7 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2005-2006 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/TheJewishBook/jewish-book-home.jpg
+    file: ../../../src/assets/TheJewishBook/jewish-book-home.jpg
 slug: the-jewish-book
 tableOfContents:
   minHeadingLevel: 2

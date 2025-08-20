@@ -14,7 +14,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2018-2019 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/JewsinModernIslamicContexts/nizri-collage.jpg"
+    file: ../../../src/assets/JewsinModernIslamicContexts/nizri-collage.jpg
 slug: jews-in-modern-islamic-contexts
 tableOfContents:
   minHeadingLevel: 2
@@ -35,11 +35,11 @@ Esra Almas
 
 Laurence Salzmann’s photographs do not simply record the Jewish past. They capture Jewish lives, communities and their everyday rituals, which are infinitely difficult to document. His photographs are not about the spectacular aspects of the metropolis. Nor are they about monuments; they are about the moment, about movement - about life.
 
-![](../../../../src/assets/JewsinModernIslamicContexts/cemetery-1.jpg)
+![](../../assets/JewsinModernIslamicContexts/cemetery-1.jpg)
 
 Cemetery: The present, with the past, runs much deeper, Salzmann’s photographs of Jewish relics seem to say. This closeup of a Jewish tombstone in Ortakoy cemetery where Hebrew letters meet Ottoman ornamentation, with the Bosporus bridge, as the background, is an elegant attestation. One can hear the roar of traffic: hordes of cars crisscrossing Europe and Asia.
 
-![](../../../../src/assets/JewsinModernIslamicContexts/salzman-brothers2.jpg)
+![](../../assets/JewsinModernIslamicContexts/salzman-brothers2.jpg)
 
 MOURNING: _La Meza de Guevo_. In _La Meza de Guevo_, Salzmann takes us to the mourning ceremony for the mother of the acclaimed photographer Izet Keribar. We see two brothers sitting by the table in mourning costumes. We hear the kaddish. We smell the anise that oozes from Raki. We share the pain.
 
@@ -49,7 +49,7 @@ Salzmann, a native Philadelphian, donated his life's work to the Penn Libraries 
 
 Nancy E. Berg
 
-![](../../../../src/assets/JewsinModernIslamicContexts/Berg_%20JudaeoBaghdadi001.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/Berg_%20JudaeoBaghdadi001.jpg)
 
 The only copies—one typescript, one microfilm—of this work are both here in the library at the Katz Center. The study is the first of its kind, predating Haim Blanc’s _Communal Dialects in Baghdad_ (1964), and _Ha-Aravit Ha-Yehudit shel Baghdad_ by Yaakov Mansour (1975-1983; a condensed version was published in English translation in 1991 as The Jewish Baghdadi Dialect). The latest - and quite possibly last  - in this list is Assaf Bar-Moshe's _The Arabic Dialect of the Jews of Baghdad :Phonology, Morphology, and Texts_ (2019).
 
@@ -61,7 +61,7 @@ Schramm’s dissertation is classically philological, covering the phonemics, mo
 
 Dina Danon
 
-![](../../../../src/assets/JewsinModernIslamicContexts/danon.png)
+![](../../../src/assets/JewsinModernIslamicContexts/danon.png)
 
 This _ketubah_, or marriage contract, comes from Rusçuk, a port city on the Danube in the Ottoman Balkans. Dating from 1831, the _ketubah_ was drawn up only a few decades after the Sephardi community of Rusçuk, now Ruse in Bulgaria, was established. The _ketubah_ records the marriage of Aron, son of Moshe Merkado, and Bilia (Behorah), daughter of Haim Daniel de Leon Parisiado. The two arches, which bear both Islamic and Italianate motifs, contain standard _ketubah_ language as well as the specifics of the bride’s dowry. At the bottom left we find an itemized trousseau in Judeo-Spanish detailing the numerous garments, textiles, and household items Bilia was to bring to her new home.
 
@@ -71,11 +71,11 @@ As one of only two known _ketubbot_ from Rusçuk, the source sheds light on the 
 
 Keren Dotan
 
-![](../../../../src/assets/JewsinModernIslamicContexts/dotancover.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/dotancover.jpg)
 
-![](../../../../src/assets/JewsinModernIslamicContexts/dotan-title-a.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/dotan-title-a.jpg)
 
-![](../../../../src/assets/JewsinModernIslamicContexts/dotan-opening-a.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/dotan-opening-a.jpg)
 
 _Zikhron Yerushalayim_ is a play written by rabbi Eliyahu Bekhor Hazan in 1874. Hazan, who was born in Izmir in 1845, was raised and educated in Eretz-Yisrael/Ottoman Palestine, and in the 1870s was sent as a _ShaDaR_ to Algeria, Tunisia, and Tripoli. When he was offered a position in Tripoli, he asked to travel briefly to Jerusalem to make some final arrangements. On his way, he stopped in Livorno, Italy, and printed his first book at the printing house of the famous _mekubal_ Eliyahu Benamozegh. This was his only known work of prose (although he did publish short reports in Hebrew newspapers). Later, in 1888, he became the rabbi of Alexandria, where he served until his death, and published a long line of halakhic texts, the most famous of which is _Ta'alumot Lev_.
 
@@ -85,7 +85,7 @@ Structured as a symposium, _Zikhron Yerushalayim_ brings a polyphony of perspect
 
 Annie Greene
 
-![](../../../../src/assets/JewsinModernIslamicContexts/greene.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/greene.jpg)
 
 Sefer Zivhe Tsedek, authored by Rabbi 'Abdullah Somekh, contains halakhic rulings, commentaries on Shulhan ‘arukh  Yoreh De'ah, and halakhic responsa to queries from Jewish communities in Ottoman Iraq, Qajar Persia, and the Baghdadi diaspora communities in India and China. Rabbi 'Abdullah Somekh (1813-1889) was an Ottoman Baghdadi rabbi, rosh yeshiva (head of the Jewish religious academy), and halakhic scholar whose death and burial caused a municipal scandal in Baghdad. This particular edition of Sefer Zivhe Tsedek was printed posthumously in the Baghdadi printing house of Rabbi Shlomo Bekhor Hutsin in 1898 or 1899. Rabbi Hutsin (1843-1893) opened the third Hebrew language printing house in Baghdad in 1867 and printed books of Torah, science, and history in Hebrew and Judeo-Arabic in his press. His son Yehoshua continued printing books at this press, like Rabbi 'Abdullah Somekh's Zivhe Tsedek.
 
@@ -103,7 +103,7 @@ The manuscript is provisionally called a “Collection of Judeo-Turkish Piyyutim
 
 Sifra Lentin
 
-![](../../../../src/assets/JewsinModernIslamicContexts/lentin-rajpurkar.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/lentin-rajpurkar.jpg)
 
 **fig. 1:**
 
@@ -117,7 +117,7 @@ This Siddur is one of twenty books (not all translations) that he published duri
 
 This Siddur is a second edition. The first edition was published in 1889 during Rajpurkar's lifetime.
 
-![](../../../../src/assets/JewsinModernIslamicContexts/lentin-penkar.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/lentin-penkar.jpg)
 
 **fig. 2:**
 
@@ -129,11 +129,11 @@ The first Hebrew-Marathi Haggadah was published in Bombay as early as 1846 by a 
 
 Sarah Frances Levin
 
-![](../../../../src/assets/JewsinModernIslamicContexts/levin-title.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/levin-title.jpg)
 
-![](../../../../src/assets/JewsinModernIslamicContexts/levin-preface.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/levin-preface.jpg)
 
-![](../../../../src/assets/JewsinModernIslamicContexts/levin-in.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/levin-in.jpg)
 
 Pictured here are the title page, preface, and an interior page of Sefer Bereshit \\\[The Book of Genesis\\\], published by Al-Nasr Press \\\[Eagle Press\\\], Tunis, 1906, and “Arabicized from the Hebrew language into the language of the Barbary.” “Language of the Barbary” (_“Lughat al-Barbari”_) is one of the colloquial terms Tunisian Jewish speakers of Arabic used to distinguish their vernacular from those of other North African and Middle Eastern countries, as well as from Standard Arabic.
 
@@ -145,7 +145,7 @@ Acknowledgment to Noam Sienna and Rachel Schine for their insights that contribu
 
 Yoram Meital
 
-![](../../../../src/assets/JewsinModernIslamicContexts/histoire-juive-eg.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/histoire-juive-eg.jpg)
 
 During the first half of the twentieth century, Jews living in Egypt flourished, growing to as many as 80,000 people who were well-integrated into all aspects of the general society. In this framework, _La Societe d'études historiques juives d'Égypte_ (_Society for the Historical Study of the Jews of Egypt_) was established in 1925.  The Society began publishing a scholarly journal in 1947 entitled _Revue de l'histoire juive en Égypte_ (Review of Jewish History in Egypt). René Cattaui, the leader of the Sephardic Jews of Cairo and president of the Society, played a key role in both of these projects.  In the preface to the journal’s first issue, he opined that the _Revue_ aimed to present a valid historical knowledge of all Jewish movements and groups in Egypt “from their first appearance as the ancient sons of Israel era to the modern times.” The journal sought to cover a range of topics, including political, economic, social, cultural and religious history, and to point out “the strong connection of the Jews to the glorious history of the Nile Valley, which has its roots dating back thousands of years.” The inaugural volume included nine articles written by renowned scholars (including, S. D. Goitein, B. Maisler, M. Schwabe, S. Yeivin, and M. Kamil.) Their studies appeared in English and French, followed by abstracts in Arabic. The first volume was printed on the eve of the momentous events that led to the first war in the Arab-Israeli conflict. It was the first and only issue published. The _Revue_’s demise can be seen as a prelude to the fate of the Jewish community in Egypt in the decades to come.
 
@@ -153,7 +153,7 @@ During the first half of the twentieth century, Jews living in Egypt flourished,
 
 Aviad Moreno
 
-![](../../../../src/assets/JewsinModernIslamicContexts/or-luz2.png)
+![](../../../src/assets/JewsinModernIslamicContexts/or-luz2.png)
 
 Throughout the first half of the 20th century the demographic gap between Jews and non-Jews in the Moroccan city of Tetuan dramatically increased. In 1913 about 4,000 Jews lived among approximately 11,000 Muslims and 3,000 Christian Europeans. By the year 1950, a similar number of Jews lived among 30,000 European and about 47,000 Muslims. The momentous demographic shift transformed moral codes of behaviours, among many other forms of change in Jewish local lifestyle.
 
@@ -163,9 +163,9 @@ An unexpected indication is the demand for non-kosher foods, as appeared inside 
 
 Yigal S. Nizri
 
-![](../../../../src/assets/JewsinModernIslamicContexts/Nizri-cover.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/Nizri-cover.jpg)
 
-![](../../../../src/assets/JewsinModernIslamicContexts/Nizri-page.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/Nizri-page.jpg)
 
 A blend of historiography, hagiography, chronicle, and ethnography, the Hebrew book Ner Ha-ma'arav: _Toledot Yisra’el be-Maroko_ ("Light of the West: A History of Jews in Morocco"), issued by Abraham Moses Luntz at his printing press in Jerusalem in 1911, helped to illuminate new ways of thinking historically about Maghribi (North African) Jewish history. The author, Ya’akov Moshe Toledano (1880-1960) was an Ottoman Palestinian-born Moroccan rabbinic scholar, historian, legislator and public figure.  In the introduction to his book he refers to himself as a "Man of Tiberius”; he also served as Chief Rabbi in cities like Tangier, Cairo, and Tel Aviv, and was actively engaged with European and North American Jewish intellectual movements of his time. 
 
@@ -177,7 +177,7 @@ The uniqueness of this description, in which Toledano uses language as a primary
 
 Edwin Seroussi
 
-![](../../../../src/assets/JewsinModernIslamicContexts/Seroussi2.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/Seroussi2.jpg)
 
 Payytanim, whether authors of religious poems (piyyutim; sing. piyyut) or their performers, maintained throughout the Islamic lands manuscript notebooks with the poetical repertoire they sang at synagogues as well as at community and family celebrations. At times, these manuscripts also included written musical terminology that functioned as an aide-mémoire for the singer. This terminology comprised names of Turkish or Arabic musical modes and occasionally rhythmic cycles as well as first lines of foreign songs whose melody applied to the piyyut following such indication. The word lahan (“tune”) usually preceded these melodic codes, meaning, “sing the following piyyut to the tune of this song.”
 
@@ -199,7 +199,7 @@ In fol. 46a we read “pizmonim she-ba’u mi-haleb” namely “songs that came
 
 Alon Tam
 
-![](../../../../src/assets/JewsinModernIslamicContexts/tam@2x.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/tam@2x.jpg)
 
 These are images of the cover and first page, handwritten in French, of the “Minutes of Cairo Lodge No. 687, B’nei B’rit, Cairo 1911-1912.” The _B’nei B’rit_ is one of the world’s oldest Jewish service organizations, which was established in 1843 in a Jewish coffeehouse in New York City, and its lodges in Egypt were among the first outside the United States. It was modelled after fraternities such as the _Free Masons_, which were popular in the 19th century; women’s lodges of the _B’nei B’rit_ were established in Cairo and Alexandria already in 1939. In Cairo, Lodge 687 was a Sephardi one, established in 1911 after an older lodge, called Magen David, was closed down. An Ashkenazi lodge, called Maimonides, was established in Cairo in 1887. The membership of these Jewish fraternities was made up of the rising commercial and professional middle class in Egypt. They were preoccupied with extensive charity work and community building, as well as with reforming and modernizing the existing Jewish communal organizations, often in opposition to what they saw as a traditional, conservative, and elitist leadership. The _B’nei B’rit_ lodges were also concerned with Jewish cultural revival, advocating for Jewish causes in Egypt and around the world, and contending with the rise of Zionism. The minutes from the meetings of the _B’nei B’rit_ lodges are, therefore, crucial for understanding the social, organizational, and political history of the Jewish community in Egypt in the 20th century.
 
@@ -209,7 +209,7 @@ The minutes of meetings from both lodge 687, and from the Maimonides lodge (for 
 
 Alan Verskin
 
-![](../../../../src/assets/JewsinModernIslamicContexts/HayyimHabshush_0.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/HayyimHabshush_0.jpg)
 
 Hayyim Habshush was a prominent nineteenth-century Jewish scholar from Sanaa, Yemen. He is best known for authoring _A Vision of Yemen_, a book which both chronicles his travels across his country with the French orientalist Joseph Halevy in 1870 and describes the social and political life of the people they encounter, who are mostly Jews but also Muslims. Habshush was a pillar of the Sanaa Jewish community, with an abiding interest in those outside of it. He also maintained an interest in 19th-century European Jewish intellectual debates, and advocated strongly against mysticism and messianic movements among Yemeni Jews. A voracious reader, Habshush would reportedly station himself near the synagogue bookshelf, the better to sneak books to stave off boredom during services. Occasionally, he would even bring Islamic books with him to synagogue to the consternation of the congregation. In this photograph Habshush, dressed in his traveling clothes, poses with a copy of _Ha-Magid_, a European Jewish newspaper.
 
@@ -219,7 +219,7 @@ At left, author’s photograph of original photograph in Habshush family collect
 
 Mark Wagner
 
-![](../../../../src/assets/JewsinModernIslamicContexts/Wagner_0.jpg)
+![](../../../src/assets/JewsinModernIslamicContexts/Wagner_0.jpg)
 
 Nissim Gamlieli was a Jew from a remote area of Yemen’s hinterlands where a lot of Jews lived in small isolated villages.  He became the librarian for Camp Hashid, a refugee camp jointly run by the British government in Aden and the Jewish Agency for the thousands of Jewish refugees who streamed into British Aden from the Yemeni interior in hopes of emigrating to Palestine.  In Israel he worked as a schoolteacher and published rich studies based on documents and interviews of Jews from his region, many of whom live in Ramla.
 

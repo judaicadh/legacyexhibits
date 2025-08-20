@@ -12,7 +12,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 1999-2001 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/HebraicaVeritas/veritas-splash.jpg
+    file: ../../../src/assets/HebraicaVeritas/veritas-splash.jpg
 slug: hebraica-vertias
 tableOfContents:
   minHeadingLevel: 2

@@ -9,7 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2008-2009 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/JewsCommerceCulture/degas.jpg
+    file: ../../../src/assets/JewsCommerceCulture/degas.jpg
 slug: jews-commerce-culture
 tableOfContents:
   minHeadingLevel: 2

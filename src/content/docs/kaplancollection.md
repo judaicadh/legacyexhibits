@@ -11,7 +11,7 @@ hero:
   title: "Constellations of Atlantic Jewish History"
   tagline: "The Arnold and Deanne Kaplan Collection of Early American Judaica"
   image: 
-    file: "../../../../src/assets/kaplan/img.png"
+    file: "../../../src/assets/kaplan/img.png"
 slug: kaplancollection
 tableOfContents:
   minHeadingLevel: 2

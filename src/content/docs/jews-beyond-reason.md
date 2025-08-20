@@ -9,7 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2015–2016 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/JewsbeyondReason/beyond-reason-ascender3.png"
+    file: "../../../src/assets/JewsbeyondReason/beyond-reason-ascender3.png"
 slug: jews-beyond-reason
 tableOfContents:
   minHeadingLevel: 2

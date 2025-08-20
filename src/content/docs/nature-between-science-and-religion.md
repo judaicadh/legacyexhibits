@@ -10,7 +10,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2017-2018 Fellows at the University of Pennsylvania
   image:
-    file: "../../../../src/assets/NaturebetweenScienceandReligion/alchemicalms.gif"
+    file: "../../../src/assets/NaturebetweenScienceandReligion/alchemicalms.gif"
 slug: nature-between-science-and-religion
 tableOfContents:
   minHeadingLevel: 2

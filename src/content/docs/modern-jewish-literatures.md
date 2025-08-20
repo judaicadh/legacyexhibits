@@ -9,7 +9,7 @@ hero:
   tagline: An Online Exhibition from the Herbert D. Katz Center for Advanced
     Judaic Studies 2004-2005 Fellows at the University of Pennsylvania
   image:
-    file: ../../../../src/assets/ModernJewishLiteratures/mod-j-lit-splash.png
+    file: ../../../src/assets/ModernJewishLiteratures/mod-j-lit-splash.png
 slug: modern-jewish-literatures
 tableOfContents:
   minHeadingLevel: 2

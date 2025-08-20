@@ -8,7 +8,7 @@ hero:
   title: "Jews & Journeys: Travel & the Performance of Jewish Identity"
   tagline: "An Online Exhibition from the Herbert D. Katz Center for Advanced Judaic Studies 2011–2012 Fellows at the University of Pennsylvania"
   image:
-    file: "../../../../src/assets/JewsJourneys/jaffa-gate.jpg"
+    file: "../../../src/assets/JewsJourneys/jaffa-gate.jpg"
 tableOfContents:
   minHeadingLevel: 2
   maxHeadingLevel: 3
