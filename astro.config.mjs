@@ -23,7 +23,7 @@ export default defineConfig({
           tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
           lastUpdated: true,
           logo: { src: './src/assets/pomegranate.svg' },
-          social: { github: 'https://github.com/judaicadh/legacyexhibits' },
+
           sidebar: [
               { label: 'Exhibits', autogenerate: { directory: 'reference' } },
           ],
