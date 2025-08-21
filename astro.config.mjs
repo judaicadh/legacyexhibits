@@ -21,9 +21,9 @@ export default defineConfig({
               starlightImageZoom({showCaptions: true}),
               starlightFullViewMode({}),
               starlightDocSearch({
-                  appId: '5JABJKRLAV',
-                  apiKey: 'b8ddb53a3b807b350826f3ad0d1d67ee',
-                  indexName: 'website_pages',
+                  appId: 'UJJJL37FU2',
+                  apiKey: env.ALGOLIA_API_KEY,
+                  indexName: 'netlify_0f6ccc57-e165-481b-87f3-cae3f343dfcd_main_all',
               }),
           ],
           title: 'Judaica Exhibitions',
