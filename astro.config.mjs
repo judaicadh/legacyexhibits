@@ -6,6 +6,7 @@ import netlify from '@astrojs/netlify';
 
 import tailwindcss from '@tailwindcss/vite';
 import starlightFullViewMode from "starlight-fullview-mode";
+import starlightDocSearch from '@astrojs/starlight-docsearch';
 
 export default defineConfig({
   site: 'https://exhibits.judaicadhpenn.org',
@@ -17,33 +18,25 @@ export default defineConfig({
 
           ],
           plugins: [
-              starlightImageZoom({ showCaptions: true }),
+              starlightImageZoom({showCaptions: true}),
               starlightFullViewMode({}),
+              starlightDocSearch({
+                  appId: '5JABJKRLAV',
+                  apiKey: 'b8ddb53a3b807b350826f3ad0d1d67ee',
+                  indexName: 'Judaica DH Penn Website',
+              }),
           ],
           title: 'Judaica Exhibitions',
           description: 'Online exhibitions from Judaica at Penn Libraries',
-          tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 6 },
+          tableOfContents: {minHeadingLevel: 2, maxHeadingLevel: 6},
           lastUpdated: true,
-          logo: { src: './src/assets/pomegranate.svg' },
+          logo: {src: './src/assets/pomegranate.svg'},
 
-
-          // ✅ FIX: pagefind must be an object, not an array
-          pagefind: {
-              // optional global tuning
-              ranking: { pageLength: 0.7, termFrequency: 1.0, termSaturation: 0.9, termSimilarity: 1.0 },
-
-              // pull the main site index into this site’s search
-              mergeIndex: [
-                  {
-                      bundlePath: 'https://judaicadhpenn.org/pagefind/',
-                      baseUrl: 'https://judaicadhpenn.org',
-                      indexWeight: 1.0,
-                      mergeFilter: { site: 'Main' },
-                      language: 'en',
-                  },
-              ],
-          },
       }),
+
+
+
+
 
   ],
 
