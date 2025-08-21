@@ -20,11 +20,7 @@ export default defineConfig({
           plugins: [
               starlightImageZoom({showCaptions: true}),
               starlightFullViewMode({}),
-              starlightDocSearch({
-                  appId: 'UJJJL37FU2',
-                  apiKey: 'e6b5a79cbfce33540f3e3925f17fd3ed',
-                  indexName: 'netlify_0f6ccc57-e165-481b-87f3-cae3f343dfcd_main_all',
-              }),
+           
           ],
           title: 'Judaica Exhibitions',
           description: 'Online exhibitions from Judaica at Penn Libraries',
