@@ -2,7 +2,6 @@
 title: "Jews & Journeys: Travel & the Performance of Jewish Identity"
 description: "The subject of travel and its complex range of practices and representations have provoked intense scholarly interest in recent years."
 date: "2011–2012"
-slug: "/exhibits/jews-journeys/"
 template: doc
 hero:
   title: "Jews & Journeys: Travel & the Performance of Jewish Identity"
