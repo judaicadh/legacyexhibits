@@ -7,7 +7,7 @@ import netlify from '@astrojs/netlify';
 import tailwindcss from '@tailwindcss/vite';
 import starlightFullViewMode from "starlight-fullview-mode";
 
-import starlightScrollToTop from 'starlight-scroll-to-top'
+import starlightScrollToTop from 'starlight-scroll-to-top';
 export default defineConfig({
   site: 'https://exhibits.judaicadhpenn.org',
 
