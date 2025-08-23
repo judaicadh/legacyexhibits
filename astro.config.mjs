@@ -9,6 +9,7 @@ import starlightFullViewMode from "starlight-fullview-mode";
 
 import starlightScrollToTop from 'starlight-scroll-to-top';
 import partytown from '@astrojs/partytown';
+import sitemap from '@astrojs/sitemap';
 export default defineConfig({
   site: 'https://exhibits.judaicadhpenn.org',
 
@@ -78,7 +79,7 @@ export default defineConfig({
   `,
           },
       ],
-  }), ],
+  }), sitemap()],
 
   adapter: netlify(),
 
