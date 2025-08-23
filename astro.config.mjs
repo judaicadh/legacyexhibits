@@ -54,7 +54,7 @@ export default defineConfig({
       description: 'Online exhibitions from Judaica at Penn Libraries',
       tableOfContents: {minHeadingLevel: 2, maxHeadingLevel: 6},
       lastUpdated: true,
-      favicon: './favicon.ico',
+      favicon: "./android-chrome-512x512.png",
       logo: {
           light: "./src/assets/pomegranate.svg",
           dark: "./src/assets/pomegranatedark.svg",
