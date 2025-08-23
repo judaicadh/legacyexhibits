@@ -54,8 +54,11 @@ export default defineConfig({
       description: 'Online exhibitions from Judaica at Penn Libraries',
       tableOfContents: {minHeadingLevel: 2, maxHeadingLevel: 6},
       lastUpdated: true,
-      favicon: './assets/favicon.ico',
-      logo: {src: './src/assets/pomegranate.svg'},
+      favicon: './favicon.ico',
+      logo: {
+          light: "./src/assets/pomegranate.svg",
+          dark: "./src/assets/pomegranatedark.svg",
+      },
       head: [
 
           {
